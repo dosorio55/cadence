@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-independence-015-01-primary",
+    "stageId": "stage-independence-015-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Fijar la base",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases Cmaj7/Am7/Fmaj7/G7/Cmaj7/Am7/G7/C. LH raíz/quinta en offsets 0/2, duración 2, raíz/quinta MIDI 48/55,45/52,41/48,43/50,48/55,45/52,43/50,48/55, velocity 58. Frase RH de una línea melódica parcial, no voicing completo ni arpegio ni acordes simultáneos; cambios por etapa detallados en sus criterios. Resolución final G7: F4 en 26.5, E4 en 28 sobre C, C4 en 30.5.",
+    "loopable": false
+  },
+  {
+    "id": "prog-independence-015-02-primary",
+    "stageId": "stage-independence-015-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Desplazar la segunda nota",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases Cmaj7/Am7/Fmaj7/G7/Cmaj7/Am7/G7/C. LH raíz/quinta en offsets 0/2, duración 2, raíz/quinta MIDI 48/55,45/52,41/48,43/50,48/55,45/52,43/50,48/55, velocity 58. Frase RH de una línea melódica parcial, no voicing completo ni arpegio ni acordes simultáneos; cambios por etapa detallados en sus criterios. Resolución final G7: F4 en 26.5, E4 en 28 sobre C, C4 en 30.5.",
+    "loopable": false
+  },
+  {
+    "id": "prog-independence-015-03-primary",
+    "stageId": "stage-independence-015-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cambiar una llegada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases Cmaj7/Am7/Fmaj7/G7/Cmaj7/Am7/G7/C. LH raíz/quinta en offsets 0/2, duración 2, raíz/quinta MIDI 48/55,45/52,41/48,43/50,48/55,45/52,43/50,48/55, velocity 58. Frase RH de una línea melódica parcial, no voicing completo ni arpegio ni acordes simultáneos; cambios por etapa detallados en sus criterios. Resolución final G7: F4 en 26.5, E4 en 28 sobre C, C4 en 30.5.",
+    "loopable": false
+  },
+  {
+    "id": "prog-independence-015-04-primary",
+    "stageId": "stage-independence-015-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Dejar un hueco arriba",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases Cmaj7/Am7/Fmaj7/G7/Cmaj7/Am7/G7/C. LH raíz/quinta en offsets 0/2, duración 2, raíz/quinta MIDI 48/55,45/52,41/48,43/50,48/55,45/52,43/50,48/55, velocity 58. Frase RH de una línea melódica parcial, no voicing completo ni arpegio ni acordes simultáneos; cambios por etapa detallados en sus criterios. Resolución final G7: F4 en 26.5, E4 en 28 sobre C, C4 en 30.5.",
+    "loopable": false
+  },
+  {
+    "id": "prog-independence-015-05-primary",
+    "stageId": "stage-independence-015-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir otra respiración",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases Cmaj7/Am7/Fmaj7/G7/Cmaj7/Am7/G7/C. LH raíz/quinta en offsets 0/2, duración 2, raíz/quinta MIDI 48/55,45/52,41/48,43/50,48/55,45/52,43/50,48/55, velocity 58. Frase RH de una línea melódica parcial, no voicing completo ni arpegio ni acordes simultáneos; cambios por etapa detallados en sus criterios. Resolución final G7: F4 en 26.5, E4 en 28 sobre C, C4 en 30.5.",
+    "loopable": false
+  }
+]

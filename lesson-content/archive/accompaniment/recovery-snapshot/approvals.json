@@ -1,0 +1,46 @@
+[
+  {
+    "category": "accompaniment",
+    "batch": 1,
+    "verdict": "approved",
+    "review": "curriculum/reports/accompaniment/batch-01-review.md",
+    "reviewSha256": "b0911cdda42dc2dd72f2bd67a11bd5eeb84790c07ef1c13e95bb001ae83abd23",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-accompaniment-001",
+        "lesson-accompaniment-002",
+        "lesson-accompaniment-003"
+      ],
+      "sha256": "cdc5978227507c7c132c1f12822534e092bcb1c532cc5a653a63efa894b6c127",
+      "counts": {
+        "lessons": 3,
+        "stages": 15,
+        "progressions": 15,
+        "chord-events": 60,
+        "note-events": 228
+      }
+    }
+  },
+  {
+    "category": "accompaniment",
+    "batch": 2,
+    "verdict": "approved",
+    "review": "curriculum/reports/accompaniment/batch-02-review.md",
+    "reviewSha256": "8ed9aaa784ca445af2ee3b07db71f8201da23cd9e3dbffcd0b4ace85b15dbf98",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-accompaniment-004",
+        "lesson-accompaniment-005",
+        "lesson-accompaniment-006"
+      ],
+      "sha256": "98e779aa78f26628f64134da0ae99f79c92778b142a432cd59c6ab97c420738a",
+      "counts": {
+        "lessons": 3,
+        "stages": 15,
+        "progressions": 15,
+        "chord-events": 80,
+        "note-events": 326
+      }
+    }
+  }
+]

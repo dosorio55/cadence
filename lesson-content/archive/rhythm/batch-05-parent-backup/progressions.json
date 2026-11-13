@@ -1,0 +1,974 @@
+[
+  {
+    "id": "prog-rhythm-004-01-primary",
+    "stageId": "stage-rhythm-004-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Base: cambios en el uno",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en cuatro compases; entrada armónica según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-004-02-primary",
+    "stageId": "stage-rhythm-004-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Una anticipación conjunta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en cuatro compases; entrada armónica según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-004-03-primary",
+    "stageId": "stage-rhythm-004-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Combina otra llegada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en cuatro compases; entrada armónica según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-004-04-primary",
+    "stageId": "stage-rhythm-004-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Varía la articulación",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en cuatro compases; entrada armónica según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-004-05-primary",
+    "stageId": "stage-rhythm-004-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elige una llegada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en cuatro compases; entrada armónica según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-004-05-alternative-01",
+    "stageId": "stage-rhythm-004-05",
+    "kind": "alternative",
+    "order": 1,
+    "title": "Alternativa: I–vi–IV–V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Misma anticipación conjunta de vi en beat 3.5 con otro recorrido armónico, no transposición.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-001-01-primary",
+    "stageId": "stage-rhythm-001-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Pulso en cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Un pulso que no se cae: ejemplo pop específico de etapa, cuatro compases.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-001-02-primary",
+    "stageId": "stage-rhythm-001-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Pulso compartido",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Un pulso que no se cae: ejemplo pop específico de etapa, cuatro compases.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-001-03-primary",
+    "stageId": "stage-rhythm-001-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Respirar arriba",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Un pulso que no se cae: ejemplo pop específico de etapa, cuatro compases.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-001-04-primary",
+    "stageId": "stage-rhythm-001-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir dónde respirar",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Un pulso que no se cae: ejemplo pop específico de etapa, cuatro compases.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-002-01-primary",
+    "stageId": "stage-rhythm-002-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Oír la rejilla con negras",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Oír la corchea que no tocas: ejemplo pop específico de etapa, cuatro compases.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-002-02-primary",
+    "stageId": "stage-rhythm-002-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Corcheas continuas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Oír la corchea que no tocas: ejemplo pop específico de etapa, cuatro compases.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-002-03-primary",
+    "stageId": "stage-rhythm-002-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Dejar dos huecos",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Oír la corchea que no tocas: ejemplo pop específico de etapa, cuatro compases.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-002-04-primary",
+    "stageId": "stage-rhythm-002-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir silencios",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Oír la corchea que no tocas: ejemplo pop específico de etapa, cuatro compases.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-003-01-primary",
+    "stageId": "stage-rhythm-003-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "C sostenido: acorde en uno",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "C/I continuo durante 16 beats para comparar el acorde en uno de 003-01 con el backbeat de 003-02 sin cambiar armonía ni bajo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-003-02-primary",
+    "stageId": "stage-rhythm-003-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Backbeat en dos y cuatro",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Dar sitio a dos y cuatro: ejemplo pop específico de etapa, cuatro compases.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-003-03-primary",
+    "stageId": "stage-rhythm-003-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Sostener el patrón al cambiar acorde",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Dar sitio a dos y cuatro: ejemplo pop específico de etapa, cuatro compases.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-003-04-primary",
+    "stageId": "stage-rhythm-003-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir un descanso",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Dar sitio a dos y cuatro: ejemplo pop específico de etapa, cuatro compases.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-005-01-primary",
+    "stageId": "stage-rhythm-005-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Corcheas rectas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Pasar de corchea recta a swing: referencia ejecutable específica de la etapa 1, no solución única.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-005-02-primary",
+    "stageId": "stage-rhythm-005-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia ternaria",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Pasar de corchea recta a swing: referencia ejecutable específica de la etapa 2, no solución única.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-005-03-primary",
+    "stageId": "stage-rhythm-005-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Swing con un espacio",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Pasar de corchea recta a swing: referencia ejecutable específica de la etapa 3, no solución única.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-005-04-primary",
+    "stageId": "stage-rhythm-005-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir una pausa",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Pasar de corchea recta a swing: referencia ejecutable específica de la etapa 4, no solución única.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-006-01-primary",
+    "stageId": "stage-rhythm-006-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Vuelta completa de ocho compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Seguir cuando faltan los ataques: referencia ejecutable específica de la etapa 1, no solución única.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-006-02-primary",
+    "stageId": "stage-rhythm-006-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Callar la derecha un compás",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Seguir cuando faltan los ataques: referencia ejecutable específica de la etapa 2, no solución única.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-006-03-primary",
+    "stageId": "stage-rhythm-006-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retirar parte del bajo y volver juntos",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Seguir cuando faltan los ataques: referencia ejecutable específica de la etapa 3, no solución única.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-006-04-primary",
+    "stageId": "stage-rhythm-006-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Decidir dónde dejar aire",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Seguir cuando faltan los ataques: referencia ejecutable específica de la etapa 4, no solución única.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-007-01-primary",
+    "stageId": "stage-rhythm-007-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Corcheas seleccionadas con huecos",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 90,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Base comparativa: se seleccionan cuatro ataques derechos de corchea por compás (offsets 0/0.5 y 2/2.5), con el mismo C7, voicing y bajo que las etapas siguientes.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-007-02-primary",
+    "stageId": "stage-rhythm-007-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Agrupar semicorcheas con huecos",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 90,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Con el mismo número de ataques, las posiciones 0.5 y 2.5 pasan a 0.25 y 2.25; bajo, alturas, duración 0.25 y armonía no cambian.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-007-03-primary",
+    "stageId": "stage-rhythm-007-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Desplazar un ataque",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 90,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Se mueve un único bloque de la derecha 0.25 beat: offset 2.25→2.5 en cada compás. Los otros tres ataques, bajo, voicing y cuatro ataques totales permanecen iguales.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-007-04-primary",
+    "stageId": "stage-rhythm-007-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir otro ataque",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 90,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Se reinicia explícitamente desde A=etapa 02. Frente a esa A, B mueve solo un ataque 0.25→0.5; offsets 0, 2 y 2.25 quedan iguales. No conserva el cambio de 03 ni desplaza ambas parejas.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-008-01-primary",
+    "stageId": "stage-rhythm-008-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "A: backbeat",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "La respuesta breve del bolero: realización específica etapa 1.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-008-02-primary",
+    "stageId": "stage-rhythm-008-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "B: bolero reducido",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "La respuesta breve del bolero: realización específica etapa 2.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-008-03-primary",
+    "stageId": "stage-rhythm-008-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Prolongar la respuesta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "La respuesta breve del bolero: realización específica etapa 3.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-008-04-primary",
+    "stageId": "stage-rhythm-008-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Silencio con célula",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "La respuesta breve del bolero: realización específica etapa 4.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-009-01-primary",
+    "stageId": "stage-rhythm-009-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bloque en cada compás",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en C, cuatro compases; raíces izquierdas estables y una tríada derecha por compás.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-009-02-primary",
+    "stageId": "stage-rhythm-009-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "La derecha entra después",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en C, cuatro compases; raíces izquierdas estables y una tríada derecha por compás.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-009-03-primary",
+    "stageId": "stage-rhythm-009-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Sostener el bloque sobre el pulso",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en C, cuatro compases; raíces izquierdas estables y una tríada derecha por compás.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-009-04-primary",
+    "stageId": "stage-rhythm-009-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elegir otra entrada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en C, cuatro compases; raíces izquierdas estables y una tríada derecha por compás.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-010-01-primary",
+    "stageId": "stage-rhythm-010-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Base de bajo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "ii7–V7–Imaj7–Imaj7; izquierda en blancas, frase RH según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-010-02-primary",
+    "stageId": "stage-rhythm-010-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Entrada a tierra",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "ii7–V7–Imaj7–Imaj7; izquierda en blancas, frase RH según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-010-03-primary",
+    "stageId": "stage-rhythm-010-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Frase ternaria desplazada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "ii7–V7–Imaj7–Imaj7; izquierda en blancas, frase RH según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-010-04-primary",
+    "stageId": "stage-rhythm-010-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir un final de frase",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "ii7–V7–Imaj7–Imaj7; izquierda en blancas, frase RH según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-011-01-primary",
+    "stageId": "stage-rhythm-011-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Pulso continuo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "I–vi–IV–V repetido dos veces; LH fija y RH cambia solo densidad/ubicación de ataques según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-011-02-primary",
+    "stageId": "stage-rhythm-011-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bloques de densidad",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "I–vi–IV–V repetido dos veces; LH fija y RH cambia solo densidad/ubicación de ataques según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-011-03-primary",
+    "stageId": "stage-rhythm-011-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Desplazar el ataque espaciado",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Conserva los pares densos1/2/5/6 de02 con RH0/1/2/3; solo en compases espaciados3/4/7/8 la única entrada pasa de0a2. LH y armonía siguen iguales y compás5 llega en16.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-011-04-primary",
+    "stageId": "stage-rhythm-011-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: invertir los bloques",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "I–vi–IV–V repetido dos veces; LH fija y RH cambia solo densidad/ubicación de ataques según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-012-01-primary",
+    "stageId": "stage-rhythm-012-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Célula original A",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Vamp C7 constante; solo varían los offsets RH A/B definidos por etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-012-02-primary",
+    "stageId": "stage-rhythm-012-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Célula desplazada B",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Vamp C7 constante; solo varían los offsets RH A/B definidos por etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-012-03-primary",
+    "stageId": "stage-rhythm-012-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Alternancia A/B",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Vamp C7 constante; solo varían los offsets RH A/B definidos por etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-012-04-primary",
+    "stageId": "stage-rhythm-012-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía y cierre A",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Vamp C7 constante; solo varían los offsets RH A/B definidos por etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-013-01-primary",
+    "stageId": "stage-rhythm-013-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Clave sola: orientación 2–3",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "son",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Referencia instrumental aislada: C5 en golpes de clave 2–3 durante cuatro pares; no es un arreglo percusivo completo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-013-02-primary",
+    "stageId": "stage-rhythm-013-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Guajeo A sobre bajo simple",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "son",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Guajeo A: ocho compases C/F/G/C ×2, bajo raíz por compás y arpegio monofónico; no se añade clave simultánea.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-013-03-primary",
+    "stageId": "stage-rhythm-013-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Desplazar un ataque débil",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "son",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Como A02, pero el ataque débil de offset 1.5 pasa a 0.5 en todos los compases impares; anclas y lado 3 sin cambio.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-013-04-primary",
+    "stageId": "stage-rhythm-013-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: reiniciar A y variar",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "son",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Reinicio exacto aA02; solo la entrada débil de compás3 se mueve9.5→8.5 con pitchB4yvelocity64. En7 se restauran TODASlas anclas y ataques originales. Elige después un único compás impar para aplicar1.5→.5, manteniendo el ciclo2–3.",
+    "loopable": true
+  }
+]

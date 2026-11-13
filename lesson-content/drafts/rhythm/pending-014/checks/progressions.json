@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-rhythm-014-01-primary",
+    "stageId": "stage-rhythm-014-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Guajeo sin anticipar",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "son",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Mapa C–F–G–C / C–F–G–C, una raíz LH por compás y guajeo monofónico RH intactos. Ocho compases 4/4 a 88 BPM; lado 2 seguido del mismo lado 3.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-014-02-primary",
+    "stageId": "stage-rhythm-014-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Anticipar la primera llegada a F",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "son",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Mapa: C desde 0 por 3.5 negras; F desde 3.5 por 4.5 hasta 8; resto del mapa igual a etapa 1. LH: C48 desde 0 por 3.5 y F41 desde 3.5 por 4.5. RH: elimina E4 (64) en 3.5 y mueve F4 (65) de 4 a 3.5, duración 0.75; no reataques en 4. Ese uno se sostiene, no se ataca, y sigue siendo el lado 3 del ciclo 2–3. Dos manos, sin clave añadida; ocho compases 4/4, 88 BPM.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-014-03-primary",
+    "stageId": "stage-rhythm-014-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Anticipar la segunda llegada a F",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "son",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Reinicia el mapa de etapa 1 y anticipa solo la frontera 20→19.5: C@16 por 3.5; F@19.5 por 4.5 hasta 24. LH C48@16 por 3.5, F41@19.5 por 4.5. Quita RH E4@19.5 y mueve F4@20 a 19.5 por 0.75. La primera F vuelve normal y E4@3.5 se restaura. El uno 20 queda sostenido sin reataque y conserva el lado 3; sin clave. Ocho compases 4/4, 88 BPM.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-014-04-primary",
+    "stageId": "stage-rhythm-014-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Sostener la anticipación larga",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "son",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Mismo mapa armónico y LH de etapa 3. RH F4 anticipado@19.5 dura 1.5 hasta 21; el siguiente ataque RH@21.5 deja 0.5 de hueco, sin solape. E4@3.5 restaurado; el uno 20 se sostiene, no se reataca, y conserva el lado 3. Dos manos, sin clave; ocho compases 4/4, 88 BPM.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-014-05-primary",
+    "stageId": "stage-rhythm-014-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: trasladar la anticipación larga",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "son",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Reinicia desde etapa 1 y traslada la anticipación larga a la primera F: C@0 por 3.5, F@3.5 por 4.5 hasta 8; LH C48@0 por 3.5 y F41@3.5 por 4.5. RH retira E4@3.5 y mueve F4@4 a 3.5 con duración 1.5 hasta 5. Segunda F vuelve normal@20 y E4@19.5 se restaura. El uno 4 se sostiene sin reataque, sigue lado 3; sin clave. Ocho compases 4/4 a 88 BPM.",
+    "loopable": true
+  }
+]

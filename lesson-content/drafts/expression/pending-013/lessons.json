@@ -1,0 +1,21 @@
+[
+  {
+    "id": "lesson-expression-013",
+    "primarySkillId": "skill-expression-space",
+    "orderInCategory": 13,
+    "title": "Quitar un relleno para que algo importe",
+    "difficulty": 4,
+    "goal": "Hacer más clara la llegada de una frase retirando notas previas y conservando un silencio deliberado.",
+    "introMd": "En ocho compases de jazz, bajo y shells izquierdos espaciados sostienen una línea derecha conocida con swing. Compara la versión llena con una reducción antes de la llegada; elige qué quitar sin cambiar la armonía ni confundir el silencio con pérdida de pulso.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-008",
+      "lesson-expression-011",
+      "lesson-melody-013",
+      "lesson-rhythm-010"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

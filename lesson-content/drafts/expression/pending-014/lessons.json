@@ -1,0 +1,21 @@
+[
+  {
+    "id": "lesson-expression-014",
+    "primarySkillId": "skill-expression-tension-release",
+    "orderInCategory": 14,
+    "title": "Una sola cumbre para toda la frase",
+    "difficulty": 4,
+    "goal": "Dirigir ocho compases hacia una tensión principal y hacer audible su resolución sin sumar densidad.",
+    "introMd": "En balada, usa una melodía conocida y base izquierda reducida; conserva las notas entre A y B. Compara tensiones todas iguales con una jerarquía de intensidad y duración; elige la cumbre y el reposo posterior, sin introducir rubato no representado.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-009",
+      "lesson-expression-011",
+      "lesson-expression-012",
+      "lesson-expression-013"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "balada"
+    ]
+  }
+]

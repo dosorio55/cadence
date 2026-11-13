@@ -1,0 +1,110 @@
+[
+  {
+    "id": "prog-rhythm-004-01-primary",
+    "stageId": "stage-rhythm-004-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Base: cambios en el uno",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en cuatro compases; entrada armónica según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-004-02-primary",
+    "stageId": "stage-rhythm-004-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Una anticipación conjunta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en cuatro compases; entrada armónica según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-004-03-primary",
+    "stageId": "stage-rhythm-004-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Combina otra llegada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en cuatro compases; entrada armónica según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-004-04-primary",
+    "stageId": "stage-rhythm-004-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Varía la articulación",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en cuatro compases; entrada armónica según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-004-05-primary",
+    "stageId": "stage-rhythm-004-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elige una llegada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en cuatro compases; entrada armónica según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-004-05-alternative-01",
+    "stageId": "stage-rhythm-004-05",
+    "kind": "alternative",
+    "order": 1,
+    "title": "Alternativa: I–vi–IV–V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Misma anticipación conjunta de vi en beat 3.5 con otro recorrido armónico, no transposición.",
+    "loopable": true
+  }
+]

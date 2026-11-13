@@ -1,0 +1,69 @@
+[
+  {
+    "id": "stage-independence-007-01",
+    "lessonId": "lesson-independence-007",
+    "order": 1,
+    "title": "Práctica parcial LH",
+    "explanationMd": "Cuatro compases en 4/4. Practica solo la izquierda: raíces en offsets 0 y 2, duración 0.5 beats cada una. No hay eventos RH en esta etapa; es práctica parcial de LH, no una ejecución completa.",
+    "task": "Toca únicamente la raíz LH en los beats 0 y 2 de cada compás, 0.5 beats por nota. Cuenta cuatro tiempos; deja claro que esta es práctica parcial de la izquierda.",
+    "changeFromPrevious": "Aísla LH como preparación parcial; RH está ausente deliberadamente.",
+    "successCriteria": [
+      "LH toca solo raíces en offsets 0 y 2 de cada compás, cada una durante 0.5 beats.",
+      "No hay eventos RH; el texto la presenta explícitamente como práctica parcial, no como textura completa."
+    ],
+    "simplifyHint": "Practica esta etapa exactamente como está escrita: solo LH en 0 y 2 por 0.5 beats. No añadas RH."
+  },
+  {
+    "id": "stage-independence-007-02",
+    "lessonId": "lesson-independence-007",
+    "order": 2,
+    "title": "Coordinar ambas manos",
+    "explanationMd": "Cuatro compases en 4/4. Añade shells RH en offsets 1, 1.5 y 3, duración 0.5 beats. La LH conserva exactamente ataques y duración de la etapa 01; coordina dos procesos independientes.",
+    "task": "Toca LH en offsets 0 y 2 (0.5 beats) y añade RH en offsets 1, 1.5 y 3 (0.5 beats por shell), durante los cuatro compases.",
+    "changeFromPrevious": "Incorpora RH y combina las manos; LH es idéntica a la etapa 01.",
+    "successCriteria": [
+      "LH conserva exactamente los ataques 0 y 2 y duración 0.5 de 01.",
+      "RH toca tercera y séptima en 1, 1.5 y 3, con duración 0.5; no se describen sonidos RH ausentes."
+    ]
+  },
+  {
+    "id": "stage-independence-007-03",
+    "lessonId": "lesson-independence-007",
+    "order": 3,
+    "title": "Prolongar el bajo",
+    "explanationMd": "Cuatro compases en 4/4. La LH conserva offsets 0 y 2 y alarga cada nota a 2 beats. La RH mantiene ataques, alturas y duración 0.5 de la etapa 02.",
+    "task": "Toca LH en offsets 0 y 2, ahora sosteniendo cada raíz 2 beats. Mantén RH en 1, 1.5 y 3 con shells de 0.5 beats.",
+    "changeFromPrevious": "Cambia solo la duración LH: 0.5 pasa a 2 beats.",
+    "successCriteria": [
+      "LH conserva offsets 0 y 2 y duración exacta de 2 beats.",
+      "RH conserva exactamente los ataques, shells y duración 0.5 de 02."
+    ]
+  },
+  {
+    "id": "stage-independence-007-04",
+    "lessonId": "lesson-independence-007",
+    "order": 4,
+    "title": "Acortar respuesta",
+    "explanationMd": "Cuatro compases en 4/4. La LH conserva offsets 0 y 2 y duración 2 beats. La RH conserva los ataques y shells de la etapa 03, pero cada shell dura 0.25 beats.",
+    "task": "Mantén LH en offsets 0 y 2 por 2 beats. Toca los mismos shells RH en 1, 1.5 y 3, acortando cada uno a 0.25 beats.",
+    "changeFromPrevious": "Cambia solo la duración RH: 0.5 pasa a 0.25 beats.",
+    "successCriteria": [
+      "LH conserva exactamente ataques y duración 2 de 03.",
+      "RH conserva los ataques y alturas de 03 y cada nota dura 0.25."
+    ]
+  },
+  {
+    "id": "stage-independence-007-05",
+    "lessonId": "lesson-independence-007",
+    "order": 5,
+    "title": "Elegir una omisión",
+    "explanationMd": "Cuatro compases en 4/4. Todo es idéntico a la etapa 04 excepto que RH omite el shell de offset global 5.5, en el segundo compás. Luego elige otra única omisión RH; no cambies la LH ni ningún otro ataque.",
+    "task": "Toca el patrón de la etapa 04. Omite RH en el offset global 5.5 y escoge exactamente una segunda omisión RH; toca todas las demás notas y no alteres la LH.",
+    "changeFromPrevious": "Referencia de omisión RH más una única elección autónoma; resto idéntico a 04.",
+    "successCriteria": [
+      "LH es idéntica a 04.",
+      "Respecto a 04 solo se omite RH global en 5.5 y una única otra nota shell RH elegida; ningún evento restante cambia."
+    ],
+    "extendHint": "Elige exactamente una nota RH adicional que omitir, además de la referencia; mantén intactos la LH y los demás eventos."
+  }
+]

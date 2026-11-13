@@ -1,0 +1,87 @@
+[
+  {
+    "id": "stage-accompaniment-013-01",
+    "lessonId": "lesson-accompaniment-013",
+    "order": 1,
+    "title": "Arpegio continuo",
+    "explanationMd": "Referencia: ocho corcheas por compás en el patrón 0, 1, 2, 1, 0, 1, 2, 1 del voicing. La nota en +1 y +3 forma parte de la voz superior RH; no es una tercera parte.",
+    "task": "Toca los ocho compases sin omitir ataques. LH raíz de duración 4; RH corcheas de .5 y cima en +1/+3.",
+    "changeFromPrevious": "La transformación está descrita frente a la referencia y limita el cambio a las barras y ataques indicados.",
+    "successCriteria": [
+      "Referencia completa: ocho ataques RH por compás y una raíz LH por compás. La línea superior E4–D4–E4–F4–E4–E4–D4–E4 permanece idéntica en los cinco mapas.",
+      "Ocho compases 4/4 a 72 BPM, 32 negras; acordes cubren cada compás sin huecos ni solapamientos.",
+      "LH toca exactamente una raíz por compás, duración 4.0 y velocity 60, idéntica en las cinco etapas.",
+      "Las únicas notas RH son los ataques del arpegio y la línea superior integrada: no hay tercera parte ni RH polifónica; alturas simultáneas máximas difieren como máximo 9 semitonos."
+    ],
+    "simplifyHint": "Cuenta ocho corcheas; primero toca solo la raíz y la línea de cima.",
+    "extendHint": "Mantén la misma línea superior al repetir la referencia."
+  },
+  {
+    "id": "stage-accompaniment-013-02",
+    "lessonId": "lesson-accompaniment-013",
+    "order": 2,
+    "title": "Aire al final",
+    "explanationMd": "Solo se despejan los compases 7 y 8: omite los ataques RH de offsets 2 y 2.5; queda una pausa [2,3) local. La cima sigue entrando en +1 y +3, con duración .5.",
+    "task": "Repite la referencia y deja en silencio RH [2,3) de los compases 7 y 8; no cambies LH ni la llegada de la cima.",
+    "changeFromPrevious": "La transformación está descrita frente a la referencia y limita el cambio a las barras y ataques indicados.",
+    "successCriteria": [
+      "Comparado con 01, únicamente faltan en barras 7/8 las notas RH en 2 y 2.5; LH, armonía y cima siguen iguales.",
+      "Ocho compases 4/4 a 72 BPM, 32 negras; acordes cubren cada compás sin huecos ni solapamientos.",
+      "LH toca exactamente una raíz por compás, duración 4.0 y velocity 60, idéntica en las cinco etapas.",
+      "Las únicas notas RH son los ataques del arpegio y la línea superior integrada: no hay tercera parte ni RH polifónica; alturas simultáneas máximas difieren como máximo 9 semitonos."
+    ],
+    "simplifyHint": "Toca primero las barras 1–6 tal cual y luego aplica solo esos dos silencios.",
+    "extendHint": "Elige otro compás para despejar, sin mover la cima ni alterar el bajo."
+  },
+  {
+    "id": "stage-accompaniment-013-03",
+    "lessonId": "lesson-accompaniment-013",
+    "order": 3,
+    "title": "Más espacio antes de la cima",
+    "explanationMd": "En barras 7/8 se mantienen las omisiones 2 y 2.5; también se omite el ataque 3.5. La cima +3 sigue siendo una nota de RH y aún dura .5.",
+    "task": "Usa el mismo despeje en 7/8 y omite además RH en 3.5; conserva la nota de cima que ataca en +3.",
+    "changeFromPrevious": "La transformación está descrita frente a la referencia y limita el cambio a las barras y ataques indicados.",
+    "successCriteria": [
+      "Frente a 02, solo desaparece la nota RH en 3.5 de barras 7/8; no hay nota añadida y la cima sigue siendo ataque RH.",
+      "Ocho compases 4/4 a 72 BPM, 32 negras; acordes cubren cada compás sin huecos ni solapamientos.",
+      "LH toca exactamente una raíz por compás, duración 4.0 y velocity 60, idéntica en las cinco etapas.",
+      "Las únicas notas RH son los ataques del arpegio y la línea superior integrada: no hay tercera parte ni RH polifónica; alturas simultáneas máximas difieren como máximo 9 semitonos."
+    ],
+    "simplifyHint": "Cuenta el pulso 4 en silencio en RH en los dos últimos compases.",
+    "extendHint": "Prueba trasladar el compás despejado manteniendo las mismas omisiones locales."
+  },
+  {
+    "id": "stage-accompaniment-013-04",
+    "lessonId": "lesson-accompaniment-013",
+    "order": 4,
+    "title": "Sostener la cima",
+    "explanationMd": "En barras 7/8 la cima que ataca en +3 dura 1 negra y llega a la frontera del compás. Se omiten 2, 2.5 y 3.5; no se añade ninguna nota baja ni se reataca la cima.",
+    "task": "Toca el mapa previo; en 7/8 sostén la cima de +3 durante 1.0 negra y mantén las tres omisiones.",
+    "changeFromPrevious": "La transformación está descrita frente a la referencia y limita el cambio a las barras y ataques indicados.",
+    "successCriteria": [
+      "Comparado con 03, solo cambia la duración de la cima +3 en 7/8: .5→1.0. No se añade ataque ni voz; su nota no se vuelve a atacar en la frontera.",
+      "Ocho compases 4/4 a 72 BPM, 32 negras; acordes cubren cada compás sin huecos ni solapamientos.",
+      "LH toca exactamente una raíz por compás, duración 4.0 y velocity 60, idéntica en las cinco etapas.",
+      "Las únicas notas RH son los ataques del arpegio y la línea superior integrada: no hay tercera parte ni RH polifónica; alturas simultáneas máximas difieren como máximo 9 semitonos."
+    ],
+    "simplifyHint": "Aísla los compases 7/8 y cuenta la cima hasta el inicio del siguiente compás.",
+    "extendHint": "Conserva esta duración al construir una versión propia."
+  },
+  {
+    "id": "stage-accompaniment-013-05",
+    "lessonId": "lesson-accompaniment-013",
+    "order": 5,
+    "title": "Autonomía: desplaza el despeje",
+    "explanationMd": "Elección aplicada: el primer compás despejado pasa de 7 a 6. Barra 6 tiene las omisiones 2, 2.5 y 3.5, y cima +3 de duración 1.0; barra 7 recupera la referencia completa; barra 8 conserva 04. Misma LH en las ocho barras.",
+    "task": "Toca la referencia y después usa el mapa elegido: despeja barra 6, recupera barra 7 y conserva en barra 8 el despeje con cima larga.",
+    "changeFromPrevious": "La transformación está descrita frente a la referencia y limita el cambio a las barras y ataques indicados.",
+    "successCriteria": [
+      "Respecto a 04, barra 6 adopta su textura despejada y cima larga; barra 7 recupera la referencia. Barra 8 no cambia. LH mantiene una raíz de 4.0 en cada barra.",
+      "Ocho compases 4/4 a 72 BPM, 32 negras; acordes cubren cada compás sin huecos ni solapamientos.",
+      "LH toca exactamente una raíz por compás, duración 4.0 y velocity 60, idéntica en las cinco etapas.",
+      "Las únicas notas RH son los ataques del arpegio y la línea superior integrada: no hay tercera parte ni RH polifónica; alturas simultáneas máximas difieren como máximo 9 semitonos."
+    ],
+    "simplifyHint": "Practica las barras 6–8 por separado: pausa, retorno completo, llegada larga.",
+    "extendHint": "Elige qué compás despejar antes de la llegada; mantén la cima, una sola raíz LH por barra y no añadas un segundo patrón."
+  }
+]

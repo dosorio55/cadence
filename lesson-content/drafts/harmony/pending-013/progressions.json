@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-harmony-013-01-primary",
+    "stageId": "stage-harmony-013-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia diatónica",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases, 32 negras; una armonía por compás. Voicings deliberadamente reducidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-013-02-primary",
+    "stageId": "stage-harmony-013-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Tonicizar vi",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases, 32 negras; una armonía por compás. Voicings deliberadamente reducidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-013-03-primary",
+    "stageId": "stage-harmony-013-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Dos destinos encadenados",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases, 32 negras; una armonía por compás. Voicings deliberadamente reducidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-013-04-primary",
+    "stageId": "stage-harmony-013-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Conservar solo V/V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases, 32 negras; una armonía por compás. Voicings deliberadamente reducidos.",
+    "loopable": true
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-rhythm-012-01-primary",
+    "stageId": "stage-rhythm-012-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Célula original A",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Vamp C7 constante; solo varían los offsets RH A/B definidos por etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-012-02-primary",
+    "stageId": "stage-rhythm-012-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Célula desplazada B",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Vamp C7 constante; solo varían los offsets RH A/B definidos por etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-012-03-primary",
+    "stageId": "stage-rhythm-012-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Alternancia A/B",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Vamp C7 constante; solo varían los offsets RH A/B definidos por etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-012-04-primary",
+    "stageId": "stage-rhythm-012-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía y cierre A",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Vamp C7 constante; solo varían los offsets RH A/B definidos por etapa.",
+    "loopable": true
+  }
+]

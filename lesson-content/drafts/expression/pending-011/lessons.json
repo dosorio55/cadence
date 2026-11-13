@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-expression-011",
+    "primarySkillId": "skill-expression-dynamics",
+    "orderInCategory": 11,
+    "title": "Contrastar dos frases sin perder el balance",
+    "difficulty": 3,
+    "goal": "Diferenciar dos frases de cuatro compases por nivel y dirección dinámica sin tapar la melodía.",
+    "introMd": "En ocho compases de balada, conserva notas y textura entre una primera frase contenida y una respuesta más amplia. Compara repetición plana y contraste de planos; elige un único punto culminante y devuelve el acompañamiento a segundo plano.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-006",
+      "lesson-expression-008",
+      "lesson-melody-010"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "balada"
+    ]
+  }
+]

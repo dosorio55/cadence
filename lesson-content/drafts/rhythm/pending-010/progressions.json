@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-rhythm-010-01-primary",
+    "stageId": "stage-rhythm-010-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Base de bajo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "ii7–V7–Imaj7–Imaj7; izquierda en blancas, frase RH según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-010-02-primary",
+    "stageId": "stage-rhythm-010-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Entrada a tierra",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "ii7–V7–Imaj7–Imaj7; izquierda en blancas, frase RH según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-010-03-primary",
+    "stageId": "stage-rhythm-010-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Frase ternaria desplazada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "ii7–V7–Imaj7–Imaj7; izquierda en blancas, frase RH según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-010-04-primary",
+    "stageId": "stage-rhythm-010-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Pausa final",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "ii7–V7–Imaj7–Imaj7; izquierda en blancas, frase RH según etapa.",
+    "loopable": true
+  }
+]

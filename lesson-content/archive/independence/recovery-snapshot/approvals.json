@@ -1,0 +1,24 @@
+[
+  {
+    "category": "independence",
+    "batch": 1,
+    "verdict": "approved",
+    "review": "curriculum/reports/independence/batch-01-review.md",
+    "reviewSha256": "1c36480c121fb903381e8f3039953df108b95f0a2bdb99bcb115a1af8bcf3ce6",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-independence-001",
+        "lesson-independence-002",
+        "lesson-independence-003"
+      ],
+      "sha256": "6e0ca990f5b66307085a37fe2673ff8d58aedb54fc6e959c6b37fee25c967002",
+      "counts": {
+        "lessons": 3,
+        "stages": 15,
+        "progressions": 15,
+        "chord-events": 45,
+        "note-events": 278
+      }
+    }
+  }
+]

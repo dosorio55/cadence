@@ -1,0 +1,650 @@
+[
+  {
+    "id": "prog-expression-001-01-primary",
+    "stageId": "stage-expression-001-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ciclo pop de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan armónico I–vi–IV–V; textura de bajo y melodía, sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-001-02-primary",
+    "stageId": "stage-expression-001-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ciclo pop de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan armónico I–vi–IV–V; textura de bajo y melodía, sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-001-03-primary",
+    "stageId": "stage-expression-001-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ciclo pop de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan armónico I–vi–IV–V; textura de bajo y melodía, sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-001-04-primary",
+    "stageId": "stage-expression-001-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ciclo pop de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan armónico I–vi–IV–V; textura de bajo y melodía, sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-002-01-primary",
+    "stageId": "stage-expression-002-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ciclo pop de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan armónico I–vi–IV–V; textura de bajo y melodía, sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-002-02-primary",
+    "stageId": "stage-expression-002-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ciclo pop de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan armónico I–vi–IV–V; textura de bajo y melodía, sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-002-03-primary",
+    "stageId": "stage-expression-002-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ciclo pop de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan armónico I–vi–IV–V; textura de bajo y melodía, sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-002-04-primary",
+    "stageId": "stage-expression-002-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ciclo pop de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan armónico I–vi–IV–V; textura de bajo y melodía, sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-003-01-primary",
+    "stageId": "stage-expression-003-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ciclo pop de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan armónico I–vi–IV–V; textura de bajo y melodía, sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-003-02-primary",
+    "stageId": "stage-expression-003-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ciclo pop de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan armónico I–vi–IV–V; textura de bajo y melodía, sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-003-03-primary",
+    "stageId": "stage-expression-003-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ciclo pop de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan armónico I–vi–IV–V; textura de bajo y melodía, sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-003-04-primary",
+    "stageId": "stage-expression-003-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ciclo pop de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan armónico I–vi–IV–V; textura de bajo y melodía, sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-004-01-primary",
+    "stageId": "stage-expression-004-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "I–vi–V–I con tensión y reposo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 66,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cmaj7–Am7–G7–Cmaj7; bajo izquierdo y voicing derecho con G4 superior fijo, siempre nota del acorde.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-004-02-primary",
+    "stageId": "stage-expression-004-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "I–vi–V–I con tensión y reposo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 66,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cmaj7–Am7–G7–Cmaj7; bajo izquierdo y voicing derecho con G4 superior fijo, siempre nota del acorde.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-004-03-primary",
+    "stageId": "stage-expression-004-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "I–vi–V–I con tensión y reposo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 66,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cmaj7–Am7–G7–Cmaj7; bajo izquierdo y voicing derecho con G4 superior fijo, siempre nota del acorde.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-004-04-primary",
+    "stageId": "stage-expression-004-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "I–vi–V–I con tensión y reposo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 66,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cmaj7–Am7–G7–Cmaj7; bajo izquierdo y voicing derecho con G4 superior fijo, siempre nota del acorde.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-005-01-primary",
+    "stageId": "stage-expression-005-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Introducción de dos compases y frase de seis",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Intro Cmaj7–G7 en beats 0–7; frase de seis compases desde beat 8. Bajo y acordes en la intro, bajo y melodía después.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-005-02-primary",
+    "stageId": "stage-expression-005-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Introducción de dos compases y frase de seis",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Intro Cmaj7–G7 en beats 0–7; frase de seis compases desde beat 8. Bajo y acordes en la intro, bajo y melodía después.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-005-03-primary",
+    "stageId": "stage-expression-005-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Introducción de dos compases y frase de seis",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Intro Cmaj7–G7 en beats 0–7; frase de seis compases desde beat 8. Bajo y acordes en la intro, bajo y melodía después.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-005-04-primary",
+    "stageId": "stage-expression-005-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Introducción de dos compases y frase de seis",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Intro Cmaj7–G7 en beats 0–7; frase de seis compases desde beat 8. Bajo y acordes en la intro, bajo y melodía después.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-006-01-primary",
+    "stageId": "stage-expression-006-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Arco de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cmaj7–Am7–Fmaj7–G7; melodía derecha sobre bajo y tercera izquierdos. Todas las etapas conservan pitches, ataques y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-006-02-primary",
+    "stageId": "stage-expression-006-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Arco de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cmaj7–Am7–Fmaj7–G7; melodía derecha sobre bajo y tercera izquierdos. Todas las etapas conservan pitches, ataques y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-006-03-primary",
+    "stageId": "stage-expression-006-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Arco de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cmaj7–Am7–Fmaj7–G7; melodía derecha sobre bajo y tercera izquierdos. Todas las etapas conservan pitches, ataques y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-006-04-primary",
+    "stageId": "stage-expression-006-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Arco de cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cmaj7–Am7–Fmaj7–G7; melodía derecha sobre bajo y tercera izquierdos. Todas las etapas conservan pitches, ataques y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-007-01-primary",
+    "stageId": "stage-expression-007-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bolero reducido, cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 78,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Célula explícita: LH beats 0/2 y respuestas RH 1/2.5/3; mismas armonías y ataques en todas las etapas.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-007-02-primary",
+    "stageId": "stage-expression-007-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bolero reducido, cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 78,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Célula explícita: LH beats 0/2 y respuestas RH 1/2.5/3; mismas armonías y ataques en todas las etapas.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-007-03-primary",
+    "stageId": "stage-expression-007-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bolero reducido, cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 78,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Célula explícita: LH beats 0/2 y respuestas RH 1/2.5/3; mismas armonías y ataques en todas las etapas.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-007-04-primary",
+    "stageId": "stage-expression-007-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bolero reducido, cuatro compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 78,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Célula explícita: LH beats 0/2 y respuestas RH 1/2.5/3; mismas armonías y ataques en todas las etapas.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-008-01-primary",
+    "stageId": "stage-expression-008-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Respiración derecha sobre base continua",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "LH bajo en beats 0/2 de cada compás; la derecha descansa un compás y vuelve mientras LH sigue.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-008-02-primary",
+    "stageId": "stage-expression-008-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Respiración derecha sobre base continua",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "LH bajo en beats 0/2 de cada compás; la derecha descansa un compás y vuelve mientras LH sigue.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-008-03-primary",
+    "stageId": "stage-expression-008-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Respiración derecha sobre base continua",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "LH bajo en beats 0/2 de cada compás; la derecha descansa un compás y vuelve mientras LH sigue.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-008-04-primary",
+    "stageId": "stage-expression-008-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Respiración derecha sobre base continua",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "LH bajo en beats 0/2 de cada compás; la derecha descansa un compás y vuelve mientras LH sigue.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-009-01-primary",
+    "stageId": "stage-expression-009-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retardo 4–3 sobre G7 antes de Cmaj7",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cmaj7–Am7–G7–Cmaj7; sobre G7, C5 resuelve a B4 antes de Cmaj7. Sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-009-02-primary",
+    "stageId": "stage-expression-009-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retardo 4–3 sobre G7 antes de Cmaj7",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cmaj7–Am7–G7–Cmaj7; sobre G7, C5 resuelve a B4 antes de Cmaj7. Sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-009-03-primary",
+    "stageId": "stage-expression-009-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retardo 4–3 sobre G7 antes de Cmaj7",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cmaj7–Am7–G7–Cmaj7; sobre G7, C5 resuelve a B4 antes de Cmaj7. Sin acordes añadidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-009-04-primary",
+    "stageId": "stage-expression-009-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retardo 4–3 sobre G7 antes de Cmaj7",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cmaj7–Am7–G7–Cmaj7; sobre G7, C5 resuelve a B4 antes de Cmaj7. Sin acordes añadidos.",
+    "loopable": true
+  }
+]

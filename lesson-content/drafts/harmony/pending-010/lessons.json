@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-harmony-010",
+    "primarySkillId": "skill-harmony-substitutions",
+    "orderInCategory": 10,
+    "title": "Oscurecer IV sin mover la melodía",
+    "difficulty": 3,
+    "goal": "Comparar IV–I con iv–I y oír la sexta rebajada descender hacia la quinta de la tónica.",
+    "introMd": "En cuatro compases de do, compara F–C con Fm–C manteniendo do en la voz superior. Bajo y acordes derechos muestran la bemol hacia sol; elige en qué repetición usar el préstamo de menor sin tratarlo como dominante secundaria.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-005",
+      "lesson-harmony-006"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "pop",
+      "balada"
+    ]
+  }
+]

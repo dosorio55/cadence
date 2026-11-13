@@ -1,0 +1,72 @@
+[
+  {
+    "id": "stage-independence-013-01",
+    "lessonId": "lesson-independence-013",
+    "order": 1,
+    "title": "Fijar el vamp",
+    "explanationMd": "LH establece ostinato: C3/G3, offsets 0/0.5/2/2.5, duración 0.25. RH presenta E4 y G4. El vamp C7/I7 queda fijo; el bajo reducido raíz–quinta es una armonía parcial y Bb explicita la séptima menor de C7.",
+    "task": "LH establece ostinato: C3/G3, offsets 0/0.5/2/2.5, duración 0.25. RH presenta E4 y G4. Toca a 88 BPM, cuenta cuatro negras por compás y mantén independientes ambas manos.",
+    "changeFromPrevious": "LH establece ostinato: C3/G3, offsets 0/0.5/2/2.5, duración 0.25. RH presenta E4 y G4.",
+    "successCriteria": [
+      "LH establece ostinato: C3/G3, offsets 0/0.5/2/2.5, duración 0.25. RH presenta E4 y G4. LH conserva sin excepción las 32 notas idénticas, duración 0.25 y velocidad 65."
+    ],
+    "simplifyHint": "Aísla primero LH en 0/0.5/2/2.5; suma RH lentamente sin alterar sus duraciones.",
+    "extendHint": "Cuenta los offsets y duraciones de RH mientras mantienes intactas las 32 notas del ostinato."
+  },
+  {
+    "id": "stage-independence-013-02",
+    "lessonId": "lesson-independence-013",
+    "order": 2,
+    "title": "Repetir la frase",
+    "explanationMd": "Se añade Bb4 en offset 3 de la segunda frase (compases 5–8); la primera frase y LH permanecen iguales. El vamp C7/I7 queda fijo; el bajo reducido raíz–quinta es una armonía parcial y Bb explicita la séptima menor de C7.",
+    "task": "Se añade Bb4 en offset 3 de la segunda frase (compases 5–8); la primera frase y LH permanecen iguales. Toca a 88 BPM, cuenta cuatro negras por compás y mantén independientes ambas manos.",
+    "changeFromPrevious": "Se añade Bb4 en offset 3 de la segunda frase (compases 5–8); la primera frase y LH permanecen iguales.",
+    "successCriteria": [
+      "Se añade Bb4 en offset 3 de la segunda frase (compases 5–8); la primera frase y LH permanecen iguales. LH conserva sin excepción las 32 notas idénticas, duración 0.25 y velocidad 65."
+    ],
+    "simplifyHint": "Aísla primero LH en 0/0.5/2/2.5; suma RH lentamente sin alterar sus duraciones.",
+    "extendHint": "Cuenta los offsets y duraciones de RH mientras mantienes intactas las 32 notas del ostinato."
+  },
+  {
+    "id": "stage-independence-013-03",
+    "lessonId": "lesson-independence-013",
+    "order": 3,
+    "title": "Ampliar la respuesta",
+    "explanationMd": "Solo E4 de compases 5–8 pasa de duración 0.5 a 1.5; demás notas de 02 no cambian. El vamp C7/I7 queda fijo; el bajo reducido raíz–quinta es una armonía parcial y Bb explicita la séptima menor de C7.",
+    "task": "Solo E4 de compases 5–8 pasa de duración 0.5 a 1.5; demás notas de 02 no cambian. Toca a 88 BPM, cuenta cuatro negras por compás y mantén independientes ambas manos.",
+    "changeFromPrevious": "Solo E4 de compases 5–8 pasa de duración 0.5 a 1.5; demás notas de 02 no cambian.",
+    "successCriteria": [
+      "Solo E4 de compases 5–8 pasa de duración 0.5 a 1.5; demás notas de 02 no cambian. LH conserva sin excepción las 32 notas idénticas, duración 0.25 y velocidad 65."
+    ],
+    "simplifyHint": "Aísla primero LH en 0/0.5/2/2.5; suma RH lentamente sin alterar sus duraciones.",
+    "extendHint": "Cuenta los offsets y duraciones de RH mientras mantienes intactas las 32 notas del ostinato."
+  },
+  {
+    "id": "stage-independence-013-04",
+    "lessonId": "lesson-independence-013",
+    "order": 4,
+    "title": "Desplazar la síncopa",
+    "explanationMd": "Solo G4 de compases 5–8 pasa de offset 2 a 1.5 y duración 0.5 a 1; cruza ligado el ataque de beat 2; E4 y Bb4 quedan como en 03. El vamp C7/I7 queda fijo; el bajo reducido raíz–quinta es una armonía parcial y Bb explicita la séptima menor de C7.",
+    "task": "Solo G4 de compases 5–8 pasa de offset 2 a 1.5 y duración 0.5 a 1; cruza ligado el ataque de beat 2; E4 y Bb4 quedan como en 03. Toca a 88 BPM, cuenta cuatro negras por compás y mantén independientes ambas manos.",
+    "changeFromPrevious": "Solo G4 de compases 5–8 pasa de offset 2 a 1.5 y duración 0.5 a 1; cruza ligado el ataque de beat 2; E4 y Bb4 quedan como en 03.",
+    "successCriteria": [
+      "Solo G4 de compases 5–8 pasa de offset 2 a 1.5 y duración 0.5 a 1; cruza ligado el ataque de beat 2; E4 y Bb4 quedan como en 03. LH conserva sin excepción las 32 notas idénticas, duración 0.25 y velocidad 65."
+    ],
+    "simplifyHint": "Aísla primero LH en 0/0.5/2/2.5; suma RH lentamente sin alterar sus duraciones.",
+    "extendHint": "Cuenta los offsets y duraciones de RH mientras mantienes intactas las 32 notas del ostinato."
+  },
+  {
+    "id": "stage-independence-013-05",
+    "lessonId": "lesson-independence-013",
+    "order": 5,
+    "title": "Elegir un silencio",
+    "explanationMd": "Desde 04 se omite Bb4 en global beat 23; se omite además únicamente Bb4 de compás 8 offset 3, para no acumular silencios. El vamp C7/I7 queda fijo; el bajo reducido raíz–quinta es una armonía parcial y Bb explicita la séptima menor de C7.",
+    "task": "Desde 04 se omite Bb4 en global beat 23; se omite además únicamente Bb4 de compás 8 offset 3, para no acumular silencios. Toca a 88 BPM, cuenta cuatro negras por compás y mantén independientes ambas manos.",
+    "changeFromPrevious": "Desde 04 se omite Bb4 en global beat 23; se omite además únicamente Bb4 de compás 8 offset 3, para no acumular silencios.",
+    "successCriteria": [
+      "Desde 04 se omite Bb4 en global beat 23; se omite además únicamente Bb4 de compás 8 offset 3, para no acumular silencios. LH conserva sin excepción las 32 notas idénticas, duración 0.25 y velocidad 65."
+    ],
+    "simplifyHint": "Aísla primero LH en 0/0.5/2/2.5; suma RH lentamente sin alterar sus duraciones.",
+    "extendHint": "Cuenta los offsets y duraciones de RH mientras mantienes intactas las 32 notas del ostinato."
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lesson-harmony-013",
+    "primarySkillId": "skill-harmony-secondary-dominants",
+    "orderInCategory": 13,
+    "title": "Encadenar dos destinos sin perder el centro",
+    "difficulty": 4,
+    "goal": "Oír V/vi–vi y V/V–V dentro de una frase que vuelve a I.",
+    "introMd": "En ocho compases de do, incorpora E7–Am y D7–G antes del regreso C; la realización a dos manos sigue siendo reducida. Compara frase diatónica y tonicizada; elige una sola preparación si dos dominantes cargan demasiado el recorrido.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-008",
+      "lesson-harmony-012"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

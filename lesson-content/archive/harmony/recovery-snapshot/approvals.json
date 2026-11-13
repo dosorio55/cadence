@@ -1,0 +1,46 @@
+[
+  {
+    "category": "harmony",
+    "batch": 1,
+    "verdict": "approved",
+    "review": "curriculum/reports/harmony/batch-01-review.md",
+    "reviewSha256": "1c035278fe909c5fb49a8fb88848941e2830bd30a6be6ff4358bac7fe0a9196f",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-harmony-001",
+        "lesson-harmony-002",
+        "lesson-harmony-003"
+      ],
+      "sha256": "d5d3949f19888790731167e312c89c0fb5c7177c293b887352c50ff9a1506446",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 48,
+        "note-events": 196
+      }
+    }
+  },
+  {
+    "category": "harmony",
+    "batch": 2,
+    "verdict": "approved",
+    "review": "curriculum/reports/harmony/batch-02-review.md",
+    "reviewSha256": "31c797b5cda3aa172911be37046d7349929d5f84cc2fed6e6fb2fa5c9b992d70",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-harmony-004",
+        "lesson-harmony-005",
+        "lesson-harmony-006"
+      ],
+      "sha256": "7550259eecac62befd208b087ce1ad064d6161194792d8a9d008eded9e8733af",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 42,
+        "note-events": 172
+      }
+    }
+  }
+]

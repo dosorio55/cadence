@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-melody-014-01-primary",
+    "stageId": "stage-melody-014-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Objetivos claros",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases Dm7–G7–Cmaj7–Cmaj7. LH: bloques simultáneos de raíz, tercera y séptima al inicio de cada compás, 4 negras, velocity 55; RH monofónica, objetivos velocity 75. Beats en negras desde cero.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-014-02-primary",
+    "stageId": "stage-melody-014-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Una aproximación inferior",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases Dm7–G7–Cmaj7–Cmaj7. LH: bloques simultáneos de raíz, tercera y séptima al inicio de cada compás, 4 negras, velocity 55; RH monofónica, objetivos velocity 75. Beats en negras desde cero.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-014-03-primary",
+    "stageId": "stage-melody-014-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cerco alrededor de E4",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases Dm7–G7–Cmaj7–Cmaj7. LH: bloques simultáneos de raíz, tercera y séptima al inicio de cada compás, 4 negras, velocity 55; RH monofónica, objetivos velocity 75. Beats en negras desde cero.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-014-04-primary",
+    "stageId": "stage-melody-014-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir un único cerco",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases Dm7–G7–Cmaj7–Cmaj7. LH: bloques simultáneos de raíz, tercera y séptima al inicio de cada compás, 4 negras, velocity 55; RH monofónica, objetivos velocity 75. Beats en negras desde cero.",
+    "loopable": true
+  }
+]

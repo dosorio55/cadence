@@ -1,0 +1,72 @@
+[
+  {
+    "id": "stage-independence-014-01",
+    "lessonId": "lesson-independence-014",
+    "order": 1,
+    "title": "Fijar walking y dos respuestas",
+    "explanationMd": "Estudia la línea izquierda a negras y coloca únicamente dos shells RH: G7 en global 4+2/3 (B–F) y Cmaj7 en 28+2/3 (E–B). Cada nota RH dura 1/3 y lleva velocidad 64; las aproximaciones diatónicas conducen por grado conjunto a la raíz siguiente.",
+    "task": "Practica la secuencia completa de ocho compases a 72 BPM. Toca 8 compases a 72 BPM, 32 notas LH de duración 1 y velocidad 65; RH tiene exactamente dos ataques shell y ningún salto LH supera una octava.",
+    "changeFromPrevious": "Establece LH de 32 negras y las dos respuestas RH de dos notas, sin melodía adicional.",
+    "successCriteria": [
+      "Toca 8 compases a 72 BPM, 32 notas LH de duración 1 y velocidad 65; RH tiene exactamente dos ataques shell y ningún salto LH supera una octava."
+    ],
+    "simplifyHint": "Aísla primero un compás con metrónomo; después enlaza los ocho sin cambiar el pulso ni las notas no indicadas.",
+    "extendHint": "Toca manos separadas y vuelve a reunirlas manteniendo exactamente los onsets y duraciones escritos."
+  },
+  {
+    "id": "stage-independence-014-02",
+    "lessonId": "lesson-independence-014",
+    "order": 2,
+    "title": "Añadir dos shells",
+    "explanationMd": "Conserva literalmente el walking de 01. Añade solo dos respuestas RH de dos notas: shell G7 en global 4+2/3 (B–F) y shell Cmaj7 en 28+2/3 (E–B). Cada nota dura 1/3 y lleva velocidad 64.",
+    "task": "Practica la secuencia completa de ocho compases a 72 BPM. Hay cuatro notas RH en total, en los dos onsets indicados, parejas [59,65] y [64,71], duración 1/3; LH coincide exactamente con 01.",
+    "changeFromPrevious": "RH incorpora exactamente dos ataques de shell; LH queda idéntica.",
+    "successCriteria": [
+      "Hay cuatro notas RH en total, en los dos onsets indicados, parejas [59,65] y [64,71], duración 1/3; LH coincide exactamente con 01."
+    ],
+    "simplifyHint": "Aísla primero un compás con metrónomo; después enlaza los ocho sin cambiar el pulso ni las notas no indicadas.",
+    "extendHint": "Toca manos separadas y vuelve a reunirlas manteniendo exactamente los onsets y duraciones escritos."
+  },
+  {
+    "id": "stage-independence-014-03",
+    "lessonId": "lesson-independence-014",
+    "order": 3,
+    "title": "Aproximar con Db",
+    "explanationMd": "La línea permanece fija salvo el beat 7: sustituye G por Db3 (MIDI 49), aproximación cromática superior que resuelve por semitono descendente a C3 en el beat 8. No es C# que sube a D; no se rearmoniza ni cambia RH.",
+    "task": "Practica la secuencia completa de ocho compases a 72 BPM. LH contiene 32 notas; el único cromatismo es MIDI 49 en beat 7 y resuelve a MIDI 48 en beat 8. Los dos shells RH son idénticos a 02.",
+    "changeFromPrevious": "Solo cambia LH beat 7: G2(43) pasa a Db3(49); las demás notas, incluidos acordes y RH, no cambian.",
+    "successCriteria": [
+      "LH contiene 32 notas; el único cromatismo es MIDI 49 en beat 7 y resuelve a MIDI 48 en beat 8. Los dos shells RH son idénticos a 02."
+    ],
+    "simplifyHint": "Aísla primero un compás con metrónomo; después enlaza los ocho sin cambiar el pulso ni las notas no indicadas.",
+    "extendHint": "Toca manos separadas y vuelve a reunirlas manteniendo exactamente los onsets y duraciones escritos."
+  },
+  {
+    "id": "stage-independence-014-04",
+    "lessonId": "lesson-independence-014",
+    "order": 4,
+    "title": "Desplazar la primera respuesta",
+    "explanationMd": "Desde 03, mueve únicamente el shell G7 del beat global 4+2/3 a 5+2/3; conserva [59,65], duración 1/3 y todas las notas LH.",
+    "task": "Practica la secuencia completa de ocho compases a 72 BPM. RH tiene exactamente dos parejas: G7 [59,65] en 5+2/3 y Cmaj7 [64,71] en 28+2/3, cada nota dura 1/3.",
+    "changeFromPrevious": "La respuesta G7 se retrasa una negra; lo demás es 03.",
+    "successCriteria": [
+      "RH tiene exactamente dos parejas: G7 [59,65] en 5+2/3 y Cmaj7 [64,71] en 28+2/3, cada nota dura 1/3."
+    ],
+    "simplifyHint": "Aísla primero un compás con metrónomo; después enlaza los ocho sin cambiar el pulso ni las notas no indicadas.",
+    "extendHint": "Toca manos separadas y vuelve a reunirlas manteniendo exactamente los onsets y duraciones escritos."
+  },
+  {
+    "id": "stage-independence-014-05",
+    "lessonId": "lesson-independence-014",
+    "order": 5,
+    "title": "Elegir respuestas autónomas",
+    "explanationMd": "Desde 04, mueve solo la respuesta G7 a global 24+2/3, donde vuelve G7. La respuesta Cmaj7 se queda en 28+2/3. Elige exactamente esos dos shells compatibles; no añadas tercera respuesta ni melodía derecha.",
+    "task": "Practica la secuencia completa de ocho compases a 72 BPM. RH contiene exactamente dos shells compatibles, G7 en 24+2/3 y Cmaj7 en 28+2/3; LH conserva las 32 notas de 03.",
+    "changeFromPrevious": "La respuesta G7 pasa de 5+2/3 a 24+2/3; LH y shell Cmaj7 quedan como en 04.",
+    "successCriteria": [
+      "RH contiene exactamente dos shells compatibles, G7 en 24+2/3 y Cmaj7 en 28+2/3; LH conserva las 32 notas de 03."
+    ],
+    "simplifyHint": "Aísla primero un compás con metrónomo; después enlaza los ocho sin cambiar el pulso ni las notas no indicadas.",
+    "extendHint": "Toca manos separadas y vuelve a reunirlas manteniendo exactamente los onsets y duraciones escritos."
+  }
+]

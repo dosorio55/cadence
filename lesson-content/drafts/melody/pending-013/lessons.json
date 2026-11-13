@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-melody-013",
+    "primarySkillId": "skill-melody-passing-tones",
+    "orderInCategory": 13,
+    "title": "Ornamentar solo donde la frase lo pide",
+    "difficulty": 4,
+    "goal": "Añadir pasos y bordaduras en puntos elegidos conservando las notas estructurales y los silencios de una frase.",
+    "introMd": "En ocho compases de balada, compara una melodía desnuda y otra con dos conexiones ornamentales sobre el mismo bajo. Elige qué adorno retirar para que el punto culminante siga claro; más notas no equivalen a mejor frase.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-008",
+      "lesson-melody-011",
+      "lesson-melody-012"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "balada"
+    ]
+  }
+]

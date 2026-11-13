@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cat-rhythm",
+    "slug": "rhythm",
+    "name": "Ritmo y groove",
+    "description": "Colocar ataques, silencios y anticipaciones sobre un pulso estable; distinguir subdivisión recta, swing y patrones idiomáticos sin cambiar innecesariamente los voicings.",
+    "order": 1
+  },
+  {
+    "id": "cat-accompaniment",
+    "slug": "accompaniment",
+    "name": "Acompañamiento y voicings",
+    "description": "Distribuir las notas de acordes dados entre registro, inversiones y texturas para sostener una canción sin reharmonizarla.",
+    "order": 2
+  },
+  {
+    "id": "cat-harmony",
+    "slug": "harmony",
+    "name": "Movimiento armónico",
+    "description": "Elegir funciones, duraciones, enlaces y sustituciones de acordes con resoluciones audibles; mantener una realización sencilla para escuchar el cambio armónico.",
+    "order": 3
+  },
+  {
+    "id": "cat-melody",
+    "slug": "melody",
+    "name": "Melodía y fraseo",
+    "description": "Construir líneas cantables con notas objetivo, motivos, pasos y respuestas sobre una armonía conocida, sin confundir improvisación con acumulación de notas.",
+    "order": 4
+  },
+  {
+    "id": "cat-independence",
+    "slug": "independence",
+    "name": "Bajo e independencia",
+    "description": "Mantener una función estable en una mano mientras la otra cambia de ritmo o frase; desarrollar bajos, ostinatos y coordinación sin duplicar ejercicios de colocación rítmica.",
+    "order": 5
+  },
+  {
+    "id": "cat-expression",
+    "slug": "expression",
+    "name": "Interpretación y forma",
+    "description": "Dar dirección y jerarquía a material conocido mediante balance, toque, respiración, tensión y forma; no añadir dificultad armónica para simular expresividad.",
+    "order": 6
+  }
+]

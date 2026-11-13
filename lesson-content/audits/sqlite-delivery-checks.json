@@ -1,0 +1,18 @@
+{
+  "file": "lesson-content/examples/curriculum.sqlite",
+  "sha256": "e7a4d317a4d2e0d7aec38db020e555f9e210bedbc764889c16926405a048b13a",
+  "dumpSha256": "15ee3048c853978b2e302abe9be26e8e597d95599c232d6d1577127918dae8a3",
+  "counts": {
+    "categories": 6,
+    "skills": 30,
+    "lessons": 90,
+    "stages": 400,
+    "progressions": 402,
+    "chord_events": 2091,
+    "note_events": 11016,
+    "lesson_prerequisites": 225
+  },
+  "secondImportIdentical": true,
+  "foreignKeyCheck": "passed",
+  "integrityCheck": "passed"
+}

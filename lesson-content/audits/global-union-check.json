@@ -1,0 +1,13 @@
+{
+  "mode": "global",
+  "counts": {
+    "categories": 6,
+    "skills": 30,
+    "lessons": 90,
+    "stages": 400,
+    "progressions": 402,
+    "chord-events": 2091,
+    "note-events": 11016
+  },
+  "unionVerified": true
+}

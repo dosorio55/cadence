@@ -1,0 +1,66 @@
+[
+  {
+    "category": "rhythm",
+    "batch": 0,
+    "verdict": "approved",
+    "review": "curriculum/reports/pilot-music-review.md",
+    "reviewSha256": "34d380a3c123e332783900493773c3f29855d8fecc9e78e42799a16870713c70",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-rhythm-004"
+      ],
+      "sha256": "b658d7a48e25868ae71e264231cf40fa761ed6a1d94324514922b60c2d0ca92e",
+      "counts": {
+        "lessons": 1,
+        "stages": 5,
+        "progressions": 6,
+        "chord-events": 24,
+        "note-events": 120
+      }
+    }
+  },
+  {
+    "category": "rhythm",
+    "batch": 1,
+    "verdict": "approved",
+    "review": "curriculum/reports/rhythm/batch-01-review.md",
+    "reviewSha256": "067e03f849ab4e73d4e1e6c664172bd54fa8fe8da064e282ed5291d0156997c9",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-rhythm-001",
+        "lesson-rhythm-002",
+        "lesson-rhythm-003"
+      ],
+      "sha256": "f6e537fbc3ff1e8cd70928d645cc106a83b9f36cd364dce87a010aced15f9ec7",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 34,
+        "note-events": 551
+      }
+    }
+  },
+  {
+    "category": "rhythm",
+    "batch": 2,
+    "verdict": "approved",
+    "review": "curriculum/reports/rhythm/batch-02-review.md",
+    "reviewSha256": "cafca4f39c44b263be019d151fb26b5e8f31df1c8592361a0f65856c58773d71",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-rhythm-005",
+        "lesson-rhythm-006",
+        "lesson-rhythm-007"
+      ],
+      "sha256": "fe443ebbd588f0427080ee861a45b03be05024bfd235fa2a020ecd94108cd421",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 52,
+        "note-events": 744
+      }
+    }
+  }
+]

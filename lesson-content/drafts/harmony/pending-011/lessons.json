@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-harmony-011",
+    "primarySkillId": "skill-harmony-cadences",
+    "orderInCategory": 11,
+    "title": "Cerrar o volver con un turnaround",
+    "difficulty": 3,
+    "goal": "Distinguir una cadencia final de un I–vi–ii–V que pide otra vuelta.",
+    "introMd": "En ocho compases de jazz, compara cierre en I con retorno I–vi–ii–V realizado con bajo y shells. Elige si el último tramo detiene o relanza la frase; conserva el mismo material inicial para que se escuche la función del retorno.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-006",
+      "lesson-harmony-007",
+      "lesson-accompaniment-007"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

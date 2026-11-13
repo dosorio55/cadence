@@ -1,0 +1,72 @@
+[
+  {
+    "id": "stage-expression-014-01",
+    "lessonId": "lesson-expression-014",
+    "order": 1,
+    "title": "Pulso y mapa",
+    "explanationMd": "Escucha ocho compases iguales: bloques LH de cuatro beats y nueve entradas RH espaciadas, sin jerarquía dinámica.",
+    "task": "Toca los bloques en cada inicio de compás y las nueve notas RH indicadas; sostén el tempo a 72 BPM.",
+    "changeFromPrevious": "Primera referencia: alturas, ataques y duración establecidos.",
+    "successCriteria": [
+      "La progresión recorre Cmaj7/Am7/Fmaj7/G7/Cmaj7/Am7/G7/Cmaj7 a 72 BPM en 4/4. LH toca los bloques dados durante 4 beats a velocity 55. RH ataca [64@0,67@4,65@8,65@12,64@16,72@20,72@24,71@25,72@28], todas velocity 70 y duraciones [2,2,2,2,2,2,1,3,4]."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado a 72 BPM; conserva exactamente ataques y silencios.",
+    "extendHint": "Comprueba en la rejilla que hay una sola cumbre principal y que la densidad, alturas y tiempos se mantienen según los criterios."
+  },
+  {
+    "id": "stage-expression-014-02",
+    "lessonId": "lesson-expression-014",
+    "order": 2,
+    "title": "Una sola cumbre",
+    "explanationMd": "Las alturas y los ataques permanecen iguales. La dinámica ahora organiza una sola cumbre principal: C5=72@24, sobre G7; se reataca después del silencio de 22 a 24. B4@25 desciende un semitono y resuelve a C5@28.",
+    "task": "Repite sin rubato y aplica en orden las velocities RH 62,64,64,66,66,70,90,72,60. Haz de C5@24 el único pico principal.",
+    "changeFromPrevious": "Respecto a 01 solo cambia la velocity RH; no cambian alturas, ataques ni duraciones. C5@24 es un ataque nuevo tras silencio, no una nota preparada o ligada desde @20.",
+    "successCriteria": [
+      "Hay exactamente una velocity RH máxima 90: C5@24. No hay crescendo añadido ni otra nota; B4@25 sigue a C5@24."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado a 72 BPM; conserva exactamente ataques y silencios.",
+    "extendHint": "Comprueba en la rejilla que hay una sola cumbre principal y que la densidad, alturas y tiempos se mantienen según los criterios."
+  },
+  {
+    "id": "stage-expression-014-03",
+    "lessonId": "lesson-expression-014",
+    "order": 3,
+    "title": "Retener la tensión",
+    "explanationMd": "La cumbre sigue siendo C5@24, pero su duración baja a 1.5 beats. B4 entra exactamente en @25.5 y dura 2.5 hasta @28: la tensión se retiene a través del cambio armónico sin alterar alturas ni dinámica.",
+    "task": "Toca igual que 02 excepto C5@24 por 1.5 beats y B4@25.5 por 2.5; conserva las demás duraciones y velocities.",
+    "changeFromPrevious": "Solo se redistribuye la duración del par C5–B4; el segundo ataque se desplaza de @25 a @25.5.",
+    "successCriteria": [
+      "C5@24 (90) suena hasta 25.5 y B4@25.5 (72) llega hasta 28. No afirmes ligadura desde @20: hay pausa 22–24."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado a 72 BPM; conserva exactamente ataques y silencios.",
+    "extendHint": "Comprueba en la rejilla que hay una sola cumbre principal y que la densidad, alturas y tiempos se mantienen según los criterios."
+  },
+  {
+    "id": "stage-expression-014-04",
+    "lessonId": "lesson-expression-014",
+    "order": 4,
+    "title": "Acompañar con menos peso",
+    "explanationMd": "La línea RH conserva exactamente alturas, onsets, duraciones y velocities de 03. Solo los bloques izquierdos de la segunda frase (compases 5–8, beats 16–28) bajan de velocity 55 a 45.",
+    "task": "Mantén la derecha idéntica a 03. Toca los cuatro primeros bloques LH a 55 y los cuatro últimos a 45.",
+    "changeFromPrevious": "Solo baja la velocity LH en compases 5–8; el material y cada evento RH son idénticos a 03.",
+    "successCriteria": [
+      "RH coincide evento por evento con 03; LH velocity 55 en compases 1–4 y 45 en 5–8."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado a 72 BPM; conserva exactamente ataques y silencios.",
+    "extendHint": "Comprueba en la rejilla que hay una sola cumbre principal y que la densidad, alturas y tiempos se mantienen según los criterios."
+  },
+  {
+    "id": "stage-expression-014-05",
+    "lessonId": "lesson-expression-014",
+    "order": 5,
+    "title": "Elegir otra cumbre",
+    "explanationMd": "Autonomía: elige F4=65@12, séptima de G7, como única cumbre; resuelve a E4=64@16, tercera de Cmaj7. C5@24 permanece presente pero a velocity 76, sin ser otro pico. Ritmo y duraciones de 03 siguen exactos.",
+    "task": "Toca línea y duraciones de 03; aplica velocities RH 62,64,66,90,60,68,76,68,60. Mantén LH igual a 04.",
+    "changeFromPrevious": "Cambia solo el perfil de velocities respecto a 04: cumbre F4@12; pitches, ataques y duraciones de la etapa 03 permanecen exactos.",
+    "successCriteria": [
+      "El único máximo de velocity RH es F4@12=90; C5@24=76. F4@12 resuelve a E4@16. Densidad y tiempos exactos, sin rubato ni notas añadidas."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado a 72 BPM; conserva exactamente ataques y silencios.",
+    "extendHint": "Comprueba en la rejilla que hay una sola cumbre principal y que la densidad, alturas y tiempos se mantienen según los criterios."
+  }
+]

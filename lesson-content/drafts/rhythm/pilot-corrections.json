@@ -1,0 +1,17 @@
+[
+  {
+    "issueIds": ["PILOT-MUSIC-001"],
+    "recordsAffected": ["note-events.json: Dm7 harmony notes at beat 8 in all five primary progressions"],
+    "correction": "Each Dm7 right-hand voicing is now [57, 60, 62, 65], with bass 50; timing, event IDs, and other notes are unchanged."
+  },
+  {
+    "issueIds": ["PILOT-MUSIC-002"],
+    "recordsAffected": ["note-events.json: Fmaj7 harmony notes at beat 8 in prog-rhythm-004-05-alternative-01"],
+    "correction": "Voicing is now [53, 57, 60, 64], with bass 41; timing, event IDs, and other notes are unchanged."
+  },
+  {
+    "issueIds": ["PILOT-MUSIC-003", "PILOT-MUSIC-004", "PILOT-MUSIC-005", "PILOT-MUSIC-006"],
+    "recordsAffected": ["examples/pilot-lesson.md", "stages.json: all five explanationMd; stage-rhythm-004-05 changeFromPrevious"],
+    "correction": "Corrected reach metrics and reproducible interpreter path; explanations now identify each stage's explicit A/B references, and stage 05 documents the return to sustained base with regular V before choosing one anticipation."
+  }
+]

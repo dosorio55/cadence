@@ -1,0 +1,21 @@
+[
+  {
+    "id": "lesson-independence-014",
+    "primarySkillId": "skill-independence-walking",
+    "orderInCategory": 14,
+    "title": "Dirigir el walking y dejar respirar arriba",
+    "difficulty": 4,
+    "goal": "Conservar un walking de ocho compases con aproximaciones elegidas y comping derecho escaso e independiente.",
+    "introMd": "Sobre ii–V–I y retorno de jazz, compara walking diatónico y una aproximación cromática hacia una raíz, manteniendo shells derechos ya fijados. Elige dos respuestas derechas para toda la frase; no se exige tocar melodía además del comping.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-009",
+      "lesson-independence-011",
+      "lesson-harmony-011",
+      "lesson-melody-009"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

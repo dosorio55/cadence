@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-accompaniment-014-01-primary",
+    "stageId": "stage-accompaniment-014-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bloque compacto",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz/balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases: Cmaj7–Am7–Dm7–G7–Cmaj7–Am7–G7–Cmaj7; un acorde por compás, bloque sostenido cuatro negras.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-014-02-primary",
+    "stageId": "stage-accompaniment-014-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Segunda frase en registro alto",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz/balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases: Cmaj7–Am7–Dm7–G7–Cmaj7–Am7–G7–Cmaj7; un acorde por compás, bloque sostenido cuatro negras.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-014-03-primary",
+    "stageId": "stage-accompaniment-014-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Abrir con notas guía",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz/balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases: Cmaj7–Am7–Dm7–G7–Cmaj7–Am7–G7–Cmaj7; un acorde por compás, bloque sostenido cuatro negras.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-014-04-primary",
+    "stageId": "stage-accompaniment-014-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Recuperar en la última llegada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz/balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases: Cmaj7–Am7–Dm7–G7–Cmaj7–Am7–G7–Cmaj7; un acorde por compás, bloque sostenido cuatro negras.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-014-05-primary",
+    "stageId": "stage-accompaniment-014-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: decide dónde volver",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz/balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases: Cmaj7–Am7–Dm7–G7–Cmaj7–Am7–G7–Cmaj7; un acorde por compás, bloque sostenido cuatro negras.",
+    "loopable": true
+  }
+]

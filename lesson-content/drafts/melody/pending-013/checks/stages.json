@@ -1,0 +1,72 @@
+[
+  {
+    "id": "stage-melody-013-01",
+    "lessonId": "lesson-melody-013",
+    "order": 1,
+    "title": "Melodía desnuda",
+    "explanationMd": "Base A: ocho objetivos estructurales en los inicios de compás, cada uno dura dos negras. La mano izquierda toca solo raíces; la armonía está indicada parcialmente por símbolos. Conserva siempre el silencio local [2,4) en cada compás y el B4 de beat 24 a velocity 88 como única cima.",
+    "task": "Toca A01 con las dos manos: una raíz izquierda por compás y solo los ocho objetivos derechos. Deja vacío el tramo local [2,4) de cada compás.",
+    "changeFromPrevious": "Referencia A01: objetivos solos sobre raíces; sin adornos derechos.",
+    "successCriteria": [
+      "Están presentes los ocho objetivos, las ocho raíces y la cima única B4@24/88; no suena ninguna nota derecha en [2,4) local."
+    ],
+    "simplifyHint": "Practica primero las ocho raíces solas y después los objetivos; cuenta cuatro negras por compás y no rellenes el silencio local [2,4).",
+    "extendHint": "Compara A01–A05 en los mismos ocho compases: identifica en cada par qué adorno aparece o se retira; confirma que B4@24/88 y todos los demás anclajes no se mueven."
+  },
+  {
+    "id": "stage-melody-013-02",
+    "lessonId": "lesson-melody-013",
+    "order": 2,
+    "title": "Bordadura en la primera llegada",
+    "explanationMd": "Compara A01 y A02: añade solo una bordadura en el primer E4: E4@0 por 1 negra, F4@1 por media y E4@1.5 por media. Los otros siete objetivos conservan ataque y duración; raíces, armonía y silencios locales no cambian.",
+    "task": "Toca A02 y alterna la comparación con A01: oye E–F–E al principio sin alterar las otras siete llegadas ni la pausa [2,4).",
+    "changeFromPrevious": "Desde A01, una sola bordadura E–F–E antes de la misma primera llegada E4.",
+    "successCriteria": [
+      "Están presentes los ocho objetivos, las ocho raíces y la cima única B4@24/88; no suena ninguna nota derecha en [2,4) local."
+    ],
+    "simplifyHint": "Practica primero las ocho raíces solas y después los objetivos; cuenta cuatro negras por compás y no rellenes el silencio local [2,4).",
+    "extendHint": "Compara A01–A05 en los mismos ocho compases: identifica en cada par qué adorno aparece o se retira; confirma que B4@24/88 y todos los demás anclajes no se mueven."
+  },
+  {
+    "id": "stage-melody-013-03",
+    "lessonId": "lesson-melody-013",
+    "order": 3,
+    "title": "Paso hacia D4",
+    "explanationMd": "Compara A02 y A03: conserva la bordadura inicial y divide solo el objetivo F4@8 en F4 por 1 negra, E4@9 por media y D4@9.5 por media. El D4 anticipa la altura objetivo intacta de @12. No cambian el G7 ni el silencio [10,12).",
+    "task": "Toca A03 y compara con A02: escucha F–E–D dentro de G7 antes del D4 de @12. Mantén libre [10,12) y no desplaces el acorde.",
+    "changeFromPrevious": "Desde A02, una sola subdivisión F–E–D antes del D4 previsto; no altera el acorde.",
+    "successCriteria": [
+      "Están presentes los ocho objetivos, las ocho raíces y la cima única B4@24/88; no suena ninguna nota derecha en [2,4) local."
+    ],
+    "simplifyHint": "Practica primero las ocho raíces solas y después los objetivos; cuenta cuatro negras por compás y no rellenes el silencio local [2,4).",
+    "extendHint": "Compara A01–A05 en los mismos ocho compases: identifica en cada par qué adorno aparece o se retira; confirma que B4@24/88 y todos los demás anclajes no se mueven."
+  },
+  {
+    "id": "stage-melody-013-04",
+    "lessonId": "lesson-melody-013",
+    "order": 4,
+    "title": "Retirar la bordadura",
+    "explanationMd": "Reinicia desde A03 y retira únicamente la bordadura inicial: E4@0 vuelve a durar 2 negras; no hay F4@1 ni E4@1.5. Mantén F–E–D en 8–9–9.5 y todos los anclajes, incluida la cima B4@24/88.",
+    "task": "Reinicia A03, retira E–F–E inicial y toca E4@0–2; deja intacto F–E–D. Comprueba que la cima B4 sigue aislada en dinámica.",
+    "changeFromPrevious": "Desde A03, se elimina únicamente la bordadura inicial; permanece el paso F–E–D.",
+    "successCriteria": [
+      "Están presentes los ocho objetivos, las ocho raíces y la cima única B4@24/88; no suena ninguna nota derecha en [2,4) local."
+    ],
+    "simplifyHint": "Practica primero las ocho raíces solas y después los objetivos; cuenta cuatro negras por compás y no rellenes el silencio local [2,4).",
+    "extendHint": "Compara A01–A05 en los mismos ocho compases: identifica en cada par qué adorno aparece o se retira; confirma que B4@24/88 y todos los demás anclajes no se mueven."
+  },
+  {
+    "id": "stage-melody-013-05",
+    "lessonId": "lesson-melody-013",
+    "order": 5,
+    "title": "Autonomía: retirar el paso",
+    "explanationMd": "Reinicia desde A03 y retira únicamente el paso de F4: F4@8 vuelve a durar 2 negras; no hay E4@9 ni D4@9.5. Conserva la bordadura E–F–E inicial. Elige esta retirada para que B4@24/88 siga siendo la única cima; no agregues notas.",
+    "task": "Reinicia A03, retira E4@9 y D4@9.5, y restaura F4@8–10. Conserva la bordadura inicial y compara cómo queda expuesta la cima.",
+    "changeFromPrevious": "Reinicio A03: se elimina únicamente el paso F–E–D; permanece la bordadura inicial.",
+    "successCriteria": [
+      "Están presentes los ocho objetivos, las ocho raíces y la cima única B4@24/88; no suena ninguna nota derecha en [2,4) local."
+    ],
+    "simplifyHint": "Practica primero las ocho raíces solas y después los objetivos; cuenta cuatro negras por compás y no rellenes el silencio local [2,4).",
+    "extendHint": "Compara A01–A05 en los mismos ocho compases: identifica en cada par qué adorno aparece o se retira; confirma que B4@24/88 y todos los demás anclajes no se mueven."
+  }
+]

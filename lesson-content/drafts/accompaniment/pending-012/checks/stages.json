@@ -1,0 +1,87 @@
+[
+  {
+    "id": "stage-accompaniment-012-01",
+    "lessonId": "lesson-accompaniment-012",
+    "order": 1,
+    "title": "Referencia mayor",
+    "explanationMd": "Referencia mayor: Dm7–G7–Cmaj7–Cmaj7, un compás por acorde.",
+    "task": "Compara las dos notas derechas con las raíces y conserva cada bloque cuatro negras.",
+    "changeFromPrevious": "Usa únicamente las alturas indicadas; no añadas ataques.",
+    "successCriteria": [
+      "Las cuatro duraciones son 4 negras y el ciclo cubre 16 negras.",
+      "Raíz LH y bloque RH atacan juntos en cada inicio de compás y duran cuatro negras.",
+      "72 BPM, 4/4 y 16 negras totales; no hay huecos ni solapamientos.",
+      "La armonía y las voces guía resuelven a Am7; su séptima es G natural."
+    ],
+    "simplifyHint": "Cuenta cuatro pulsos y practica primero solo las raíces.",
+    "extendHint": "Sin cambiar notas, escucha cómo la séptima de G7 resuelve en Cmaj7."
+  },
+  {
+    "id": "stage-accompaniment-012-02",
+    "lessonId": "lesson-accompaniment-012",
+    "order": 2,
+    "title": "Enlace menor completo",
+    "explanationMd": "Bm7b5 presenta B–D–F–A: tercera, quinta disminuida y séptima sobre B2. E7 expone G♯3 y D4; Am7 contiene A3, C4 y G4, haciendo audibles G♯3→A3 y D4→C4.",
+    "task": "Toca Bm7b5–E7–Am7–Am7, con bajo raíz y bloque derecho sostenidos cuatro negras.",
+    "changeFromPrevious": "Cambia a la menor; conserva la quinta disminuida y escucha las guías hacia i7.",
+    "successCriteria": [
+      "Cada acorde dura cuatro negras y Am7 incluye su séptima G natural.",
+      "Raíz LH y bloque RH atacan juntos en cada inicio de compás y duran cuatro negras.",
+      "72 BPM, 4/4 y 16 negras totales; no hay huecos ni solapamientos.",
+      "La armonía y las voces guía resuelven a Am7; su séptima es G natural."
+    ],
+    "simplifyHint": "Practica primero raíces; añade B–D–F–A en la derecha.",
+    "extendHint": "Aísla G♯→A y D→C; no añadas b9 ni #9."
+  },
+  {
+    "id": "stage-accompaniment-012-03",
+    "lessonId": "lesson-accompaniment-012",
+    "order": 3,
+    "title": "Solo iiø invertido",
+    "explanationMd": "Solo cambia iiø a A3–D4–F4; permanecen séptima, tercera y quinta disminuida. Los bloques de E7 y Am7 conservan las guías de resolución.",
+    "task": "Repite los cuatro compases y usa A3–D4–F4 en Bm7b5.",
+    "changeFromPrevious": "La inversión reúne A, D y F; no cambia raíz, función ni resolución.",
+    "successCriteria": [
+      "El bloque iiø incluye A, D y F; E7 conserva G♯ y D, Am7 C y G.",
+      "Raíz LH y bloque RH atacan juntos en cada inicio de compás y duran cuatro negras.",
+      "72 BPM, 4/4 y 16 negras totales; no hay huecos ni solapamientos.",
+      "La armonía y las voces guía resuelven a Am7; su séptima es G natural."
+    ],
+    "simplifyHint": "Toca A–D–F lentamente y nombra séptima, tercera y quinta disminuida.",
+    "extendHint": "Compara esta inversión con B–D–F–A sin alterar los acordes siguientes."
+  },
+  {
+    "id": "stage-accompaniment-012-04",
+    "lessonId": "lesson-accompaniment-012",
+    "order": 4,
+    "title": "Séptima natural de i7",
+    "explanationMd": "En la llegada, G3–A3–C4 realiza la séptima natural, raíz y tercera menor de Am7. E7 mantiene G♯3–D4, de modo que G♯3→A3 y D4→C4 son movimientos reales.",
+    "task": "Conserva el iiø completo y las guías de E7; toca G3–A3–C4 en Am7.",
+    "changeFromPrevious": "Solo cambia el bloque de i7: aparecen raíz, tercera menor y séptima natural.",
+    "successCriteria": [
+      "La llegada Am7 incluye G natural; E7 G♯ y D resuelven a A y C.",
+      "Raíz LH y bloque RH atacan juntos en cada inicio de compás y duran cuatro negras.",
+      "72 BPM, 4/4 y 16 negras totales; no hay huecos ni solapamientos.",
+      "La armonía y las voces guía resuelven a Am7; su séptima es G natural."
+    ],
+    "simplifyHint": "Aísla G♯3→A3 y D4→C4, luego añade la tercera C4 y séptima G4 de la textura completa en la repetición.",
+    "extendHint": "Elige cuál voz de Am7 oyes primero, sin omitir su séptima natural."
+  },
+  {
+    "id": "stage-accompaniment-012-05",
+    "lessonId": "lesson-accompaniment-012",
+    "order": 5,
+    "title": "Autonomía: elige posición de iiø",
+    "explanationMd": "Elige una posición de iiø que conserve tercera D, quinta disminuida F y séptima A, y permita oír las guías G♯→A y D→C. Sin tensiones b9/#9 nuevas.",
+    "task": "Toca la versión de referencia; luego elige una posición de Bm7b5 que cumpla esos criterios y deja intactos E7 y Am7.",
+    "changeFromPrevious": "Autonomía solo en la posición derecha de iiø; conserva la armonía, raíces y guías.",
+    "successCriteria": [
+      "La posición elegida incluye D–F–A, mantiene B en el bajo y resuelve a A menor.",
+      "Raíz LH y bloque RH atacan juntos en cada inicio de compás y duran cuatro negras.",
+      "72 BPM, 4/4 y 16 negras totales; no hay huecos ni solapamientos.",
+      "La armonía y las voces guía resuelven a Am7; su séptima es G natural."
+    ],
+    "simplifyHint": "Escoge primero entre los bloques ya practicados y comprueba D, F y A.",
+    "extendHint": "Propón otra inversión válida sin añadir tensiones alteradas."
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lesson-accompaniment-011",
+    "primarySkillId": "skill-accompaniment-inversions",
+    "orderInCategory": 11,
+    "title": "Volver al inicio sin salto de registro",
+    "difficulty": 3,
+    "goal": "Enlazar el último acorde con el primero de un ciclo conservando una voz superior continua.",
+    "introMd": "En ocho compases de pop, compara un buen enlace interno con un retorno que aún salta; reajusta una inversión anterior para cerrar el recorrido. El bajo mantiene las raíces; diseña un segundo camino cómodo sin cambiar la progresión.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-006",
+      "lesson-accompaniment-008"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "pop"
+    ]
+  }
+]

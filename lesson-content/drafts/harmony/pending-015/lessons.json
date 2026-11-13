@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lesson-harmony-015",
+    "primarySkillId": "skill-harmony-substitutions",
+    "orderInCategory": 15,
+    "title": "Sustituir la dominante con destino claro",
+    "difficulty": 5,
+    "goal": "Resolver una sustitución de tritono hacia I bajo una nota melódica compatible y compararla con V7–I.",
+    "introMd": "En ocho compases de jazz, compara Dm7–G7–Cmaj7 con Dm7–Db7–Cmaj7 manteniendo fa hacia mi arriba. Bajo y dos o tres voces derechas exponen re bemol hacia do y las guías compartidas; elige una sola sustitución, no una reharmonización de todos los compases.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-010",
+      "lesson-harmony-013",
+      "lesson-harmony-014",
+      "lesson-accompaniment-009"
+    ],
+    "targetMinutes": 30,
+    "styleTags": ["jazz"]
+  }
+]

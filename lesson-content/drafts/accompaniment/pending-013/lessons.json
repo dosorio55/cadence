@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lesson-accompaniment-013",
+    "primarySkillId": "skill-accompaniment-arpeggiation",
+    "orderInCategory": 13,
+    "title": "Cambiar la textura sin perder el hilo",
+    "difficulty": 4,
+    "goal": "Pasar de arpegio continuo a arpegio espaciado manteniendo la voz superior y el enlace de acordes.",
+    "introMd": "En ocho compases de balada, usa bajo simple y un arpegio derecho dentro de una octava. Compara una textura uniforme con otra que se despeja al final; decide la reducción sin añadir un segundo patrón de mano izquierda.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-008",
+      "lesson-accompaniment-011"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "balada"
+    ]
+  }
+]

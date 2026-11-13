@@ -1,0 +1,272 @@
+[
+  {
+    "id": "lesson-expression-001",
+    "primarySkillId": "skill-expression-dynamics",
+    "orderInCategory": 1,
+    "title": "Que se escuche la voz principal",
+    "difficulty": 1,
+    "goal": "Hacer sobresalir una melodía derecha sobre un acompañamiento izquierdo suave sin acelerar ni cambiar notas.",
+    "introMd": "En cuatro compases de balada, usa una melodía mínima y bajos con intervalos cómodos. Compara ambas manos al mismo nivel con melodía destacada; elige un balance que deje oír el bajo sin competir con el canto.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-001",
+      "lesson-independence-001"
+    ],
+    "targetMinutes": 15,
+    "styleTags": [
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-expression-002",
+    "primarySkillId": "skill-expression-articulation",
+    "orderInCategory": 2,
+    "title": "Mismo ataque, otro toque",
+    "difficulty": 1,
+    "goal": "Distinguir una frase ligada de otra separada manteniendo iguales sus posiciones de ataque.",
+    "introMd": "En cuatro compases de pop, la izquierda toca bajo espaciado y la derecha una frase de tres notas. Compara duraciones largas y breves sin mover los inicios; elige una articulación coherente, sin confundir staccato con tocar más fuerte.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-001",
+      "lesson-melody-002"
+    ],
+    "targetMinutes": 15,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-expression-003",
+    "primarySkillId": "skill-expression-space",
+    "orderInCategory": 3,
+    "title": "Dejar terminar una frase",
+    "difficulty": 1,
+    "goal": "Sostener un silencio de respuesta sin rellenarlo ni adelantar la siguiente entrada.",
+    "introMd": "En cuatro compases de pop, conserva bajo simple y retira el último relleno derecho de una frase conocida. Compara hueco ocupado y respiración; elige la duración de un silencio y cuenta hasta la reentrada sin cortar el ciclo.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-001",
+      "lesson-melody-005",
+      "lesson-rhythm-006"
+    ],
+    "targetMinutes": 15,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-expression-004",
+    "primarySkillId": "skill-expression-tension-release",
+    "orderInCategory": 4,
+    "title": "Dejar que la dominante pida reposo",
+    "difficulty": 2,
+    "goal": "Hacer oír tensión en V y descanso en I mediante dinámica y duración, sin añadir acordes.",
+    "introMd": "En cuatro compases de balada, usa bajo y acordes derechos con voz superior fija. Compara un nivel plano con ligera dirección hacia V y relajación en I; elige cuánto sostener la llegada sin retrasar el siguiente compás.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-001",
+      "lesson-expression-002",
+      "lesson-harmony-001"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-expression-005",
+    "primarySkillId": "skill-expression-form",
+    "orderInCategory": 5,
+    "title": "Dar una entrada que se entienda",
+    "difficulty": 2,
+    "goal": "Preparar el comienzo de una frase con una introducción de dos compases que indique pulso y acorde de llegada.",
+    "introMd": "En ocho compases de pop, reserva dos para una introducción de bajo y acordes y seis para un motivo reducido. Compara entrada abrupta y preparada; elige una señal clara sin anacrusa fuera del ejemplo ni material nuevo innecesario.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-003",
+      "lesson-expression-004",
+      "lesson-harmony-002"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-expression-006",
+    "primarySkillId": "skill-expression-dynamics",
+    "orderInCategory": 6,
+    "title": "Un arco, no un acento en cada nota",
+    "difficulty": 2,
+    "goal": "Dar a cuatro compases una subida y una bajada dinámica conservando el balance entre manos.",
+    "introMd": "En balada, repite una melodía breve sobre bajo y acordes izquierdos reducidos. Compara acentos aislados con un arco hacia una nota culminante; elige ese punto y vuelve a un nivel cómodo sin acelerar en el crecimiento.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-001",
+      "lesson-expression-004"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-expression-007",
+    "primarySkillId": "skill-expression-articulation",
+    "orderInCategory": 7,
+    "title": "Bajo redondo, acordes breves",
+    "difficulty": 2,
+    "goal": "Mantener un bajo sostenido mientras los acordes derechos se separan con claridad sobre un patrón fijo.",
+    "introMd": "En cuatro compases de bolero con célula conocida, compara duraciones uniformes con bajo redondo y respuestas breves. Conserva todos los ataques; elige un grado de separación que aclare la textura sin volver percusivo y duro cada acorde.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-002",
+      "lesson-independence-007"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "bolero"
+    ]
+  },
+  {
+    "id": "lesson-expression-008",
+    "primarySkillId": "skill-expression-space",
+    "orderInCategory": 8,
+    "title": "Respirar sin apagar la base",
+    "difficulty": 2,
+    "goal": "Dejar un hueco melódico de un compás mientras el acompañamiento reducido conserva la continuidad.",
+    "introMd": "En cuatro compases de balada, una base izquierda sencilla sigue mientras la derecha descansa. Compara silencio total y respiración sobre base; elige el hueco que haga más clara la respuesta, no una pausa para corregir errores.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-003",
+      "lesson-independence-005",
+      "lesson-expression-006"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-expression-009",
+    "primarySkillId": "skill-expression-tension-release",
+    "orderInCategory": 9,
+    "title": "Escuchar el retardo y su descanso",
+    "difficulty": 3,
+    "goal": "Destacar una cuarta suspendida y su resolución a tercera con balance y duración sobre el mismo acorde dominante.",
+    "introMd": "En cuatro compases de jazz lento, usa bajo izquierdo y un acorde derecho cuya voz superior hace 4–3 antes de V–I. Compara suspensión indiferenciada y resolución fraseada; elige cuánto destacar la tensión sin añadir volumen a todas las voces.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-004",
+      "lesson-expression-006",
+      "lesson-accompaniment-007",
+      "lesson-melody-008"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-expression-010",
+    "primarySkillId": "skill-expression-form",
+    "orderInCategory": 10,
+    "title": "Volver o terminar: dos señales distintas",
+    "difficulty": 3,
+    "goal": "Distinguir un retorno que invita a repetir de un cierre en tónica que detiene la frase.",
+    "introMd": "En ocho compases de jazz con bajo y shells, compara el mismo inicio seguido de turnaround o cadencia final. Las armonías ya son conocidas: elige la señal formal y su articulación, sin inventar sustituciones para crear contraste.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-005",
+      "lesson-expression-008",
+      "lesson-harmony-011"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-expression-011",
+    "primarySkillId": "skill-expression-dynamics",
+    "orderInCategory": 11,
+    "title": "Contrastar dos frases sin perder el balance",
+    "difficulty": 3,
+    "goal": "Diferenciar dos frases de cuatro compases por nivel y dirección dinámica sin tapar la melodía.",
+    "introMd": "En ocho compases de balada, conserva notas y textura entre una primera frase contenida y una respuesta más amplia. Compara repetición plana y contraste de planos; elige un único punto culminante y devuelve el acompañamiento a segundo plano.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-006",
+      "lesson-expression-008",
+      "lesson-melody-010"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-expression-012",
+    "primarySkillId": "skill-expression-articulation",
+    "orderInCategory": 12,
+    "title": "Separar el acompañamiento sin picar la frase",
+    "difficulty": 3,
+    "goal": "Hacer convivir acompañamiento izquierdo breve y melodía derecha ligada conservando los ataques del arreglo.",
+    "introMd": "En cuatro compases de pop, usa dos notas izquierdas cómodas por acorde y una melodía derecha conocida, sin pedal obligatorio. Compara articulación uniforme con planos distintos; elige el grado de conexión derecha sin que la izquierda alargue por imitación.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-007",
+      "lesson-expression-011",
+      "lesson-independence-010"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-expression-013",
+    "primarySkillId": "skill-expression-space",
+    "orderInCategory": 13,
+    "title": "Quitar un relleno para que algo importe",
+    "difficulty": 4,
+    "goal": "Hacer más clara la llegada de una frase retirando notas previas y conservando un silencio deliberado.",
+    "introMd": "En ocho compases de jazz, bajo y shells izquierdos espaciados sostienen una línea derecha conocida con swing. Compara la versión llena con una reducción antes de la llegada; elige qué quitar sin cambiar la armonía ni confundir el silencio con pérdida de pulso.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-008",
+      "lesson-expression-011",
+      "lesson-melody-013",
+      "lesson-rhythm-010"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-expression-014",
+    "primarySkillId": "skill-expression-tension-release",
+    "orderInCategory": 14,
+    "title": "Una sola cumbre para toda la frase",
+    "difficulty": 4,
+    "goal": "Dirigir ocho compases hacia una tensión principal y hacer audible su resolución sin sumar densidad.",
+    "introMd": "En balada, usa una melodía conocida y base izquierda reducida; conserva las notas entre A y B. Compara tensiones todas iguales con una jerarquía de intensidad y duración; elige la cumbre y el reposo posterior, sin introducir rubato no representado.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-009",
+      "lesson-expression-011",
+      "lesson-expression-012",
+      "lesson-expression-013"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-expression-015",
+    "primarySkillId": "skill-expression-form",
+    "orderInCategory": 15,
+    "title": "Tocar una miniatura con comienzo y final",
+    "difficulty": 5,
+    "goal": "Interpretar ocho compases con entrada, frase contrastante y cierre inequívoco usando recursos ya dominados.",
+    "introMd": "En balada, reserva un compás para entrada, tres para la idea, tres para respuesta y uno para cierre; bajo sencillo y melodía dejan ambas manos disponibles. Compara versión plana y forma dirigida; elige balance, una respiración y un final, sin intentar usar todos los recursos a la vez.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-010",
+      "lesson-expression-012",
+      "lesson-expression-013",
+      "lesson-expression-014"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "balada"
+    ]
+  }
+]

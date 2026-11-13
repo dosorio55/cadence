@@ -1,0 +1,146 @@
+[
+  {
+    "id": "chord-h010-01-1",
+    "progressionId": "progression-harmony-010-01",
+    "order": 1,
+    "symbol": "F",
+    "function": "IV",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-01-2",
+    "progressionId": "progression-harmony-010-01",
+    "order": 2,
+    "symbol": "C",
+    "function": "I",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-01-3",
+    "progressionId": "progression-harmony-010-01",
+    "order": 3,
+    "symbol": "F",
+    "function": "IV",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-01-4",
+    "progressionId": "progression-harmony-010-01",
+    "order": 4,
+    "symbol": "C",
+    "function": "I",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-02-1",
+    "progressionId": "progression-harmony-010-02",
+    "order": 1,
+    "symbol": "F",
+    "function": "IV",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-02-2",
+    "progressionId": "progression-harmony-010-02",
+    "order": 2,
+    "symbol": "C",
+    "function": "I",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-02-3",
+    "progressionId": "progression-harmony-010-02",
+    "order": 3,
+    "symbol": "Fm",
+    "function": "iv",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-02-4",
+    "progressionId": "progression-harmony-010-02",
+    "order": 4,
+    "symbol": "C",
+    "function": "I",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-03-1",
+    "progressionId": "progression-harmony-010-03",
+    "order": 1,
+    "symbol": "Fm",
+    "function": "iv",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-03-2",
+    "progressionId": "progression-harmony-010-03",
+    "order": 2,
+    "symbol": "C",
+    "function": "I",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-03-3",
+    "progressionId": "progression-harmony-010-03",
+    "order": 3,
+    "symbol": "Fm",
+    "function": "iv",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-03-4",
+    "progressionId": "progression-harmony-010-03",
+    "order": 4,
+    "symbol": "C",
+    "function": "I",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-04-1",
+    "progressionId": "progression-harmony-010-04",
+    "order": 1,
+    "symbol": "Fm",
+    "function": "iv",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-04-2",
+    "progressionId": "progression-harmony-010-04",
+    "order": 2,
+    "symbol": "C",
+    "function": "I",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-04-3",
+    "progressionId": "progression-harmony-010-04",
+    "order": 3,
+    "symbol": "F",
+    "function": "IV",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-h010-04-4",
+    "progressionId": "progression-harmony-010-04",
+    "order": 4,
+    "symbol": "C",
+    "function": "I",
+    "startBeat": 12,
+    "durationBeats": 4
+  }
+]

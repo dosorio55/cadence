@@ -1,0 +1,62 @@
+[
+  {
+    "id": "stage-expression-012-01",
+    "lessonId": "lesson-expression-012",
+    "order": 1,
+    "title": "Articulación pareja",
+    "explanationMd": "Ambas manos separan sus ataques por dos pulsos y cada nota dura 0.5.",
+    "task": "Toca los cuatro compases sin cambiar ataques, alturas ni velocidades; compara únicamente las duraciones indicadas.",
+    "changeFromPrevious": "Ambas manos separan sus ataques por dos pulsos y cada nota dura 0.5.",
+    "successCriteria": [
+      "Los cuatro compases mantienen los mismos ataques, alturas y velocidades.",
+      "Puedo distinguir la articulación independiente de ambas manos sin usar pedal."
+    ],
+    "simplifyHint": "Practica cada mano por separado y cuenta cuatro pulsos por compás.",
+    "extendHint": "Canta una melodía conocida en el mismo registro, sin añadir notas ni una tercera parte."
+  },
+  {
+    "id": "stage-expression-012-02",
+    "lessonId": "lesson-expression-012",
+    "order": 2,
+    "title": "Izquierda breve",
+    "explanationMd": "Solo la izquierda acorta cada nota a 0.25; la derecha mantiene 0.5.",
+    "task": "Toca los cuatro compases sin cambiar ataques, alturas ni velocidades; compara únicamente las duraciones indicadas.",
+    "changeFromPrevious": "Solo cambia la duración de la derecha respecto a la etapa 01; conserva todas las demás notas, ataques, velocidades y duraciones izquierdas.",
+    "successCriteria": [
+      "Los cuatro compases mantienen los mismos ataques, alturas y velocidades.",
+      "Puedo distinguir la articulación independiente de ambas manos sin usar pedal."
+    ],
+    "simplifyHint": "Practica cada mano por separado y cuenta cuatro pulsos por compás.",
+    "extendHint": "Canta una melodía conocida en el mismo registro, sin añadir notas ni una tercera parte."
+  },
+  {
+    "id": "stage-expression-012-03",
+    "lessonId": "lesson-expression-012",
+    "order": 3,
+    "title": "Melodía ligada",
+    "explanationMd": "La derecha sostiene cada nota durante dos pulsos, hasta el ataque siguiente; sin pedal.",
+    "task": "Toca los cuatro compases sin cambiar ataques, alturas ni velocidades; compara únicamente las duraciones indicadas.",
+    "changeFromPrevious": "Solo cambia la duración de la derecha respecto a la etapa 02; conserva todas las demás notas, ataques, velocidades y duraciones izquierdas.",
+    "successCriteria": [
+      "Los cuatro compases mantienen los mismos ataques, alturas y velocidades.",
+      "Puedo distinguir la articulación independiente de ambas manos sin usar pedal."
+    ],
+    "simplifyHint": "Practica cada mano por separado y cuenta cuatro pulsos por compás.",
+    "extendHint": "Canta una melodía conocida en el mismo registro, sin añadir notas ni una tercera parte."
+  },
+  {
+    "id": "stage-expression-012-04",
+    "lessonId": "lesson-expression-012",
+    "order": 4,
+    "title": "Independencia de duración",
+    "explanationMd": "La derecha sostiene 1.75 pulsos y deja 0.25 de separación antes del ataque siguiente; la izquierda conserva 0.25.",
+    "task": "Toca los cuatro compases sin cambiar ataques, alturas ni velocidades; compara únicamente las duraciones indicadas.",
+    "changeFromPrevious": "Solo cambia la duración de la derecha respecto a la etapa 03; conserva todas las demás notas, ataques, velocidades y duraciones izquierdas.",
+    "successCriteria": [
+      "Los cuatro compases mantienen los mismos ataques, alturas y velocidades.",
+      "Puedo distinguir la articulación independiente de ambas manos sin usar pedal."
+    ],
+    "simplifyHint": "Practica cada mano por separado y cuenta cuatro pulsos por compás.",
+    "extendHint": "Canta una melodía conocida en el mismo registro, sin añadir notas ni una tercera parte."
+  }
+]

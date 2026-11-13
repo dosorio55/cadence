@@ -1,0 +1,62 @@
+[
+  {
+    "id": "stage-rhythm-011-01",
+    "lessonId": "lesson-rhythm-011",
+    "order": 1,
+    "title": "Pulso continuo",
+    "explanationMd": "Los ocho compases mantienen cuatro ataques RH por compás en offsets locales 0, 1, 2 y 3. Cada tríada dura 0,25 beats; LH conserva ataques en 0 y 2, duración 2. El ciclo I–vi–IV–V se repite y la llegada del compás 5 empieza exactamente en beat global 16.",
+    "task": "Toca LH en 0 y 2 y la tríada RH en 0, 1, 2 y 3 de cada compás; cuenta cuatro negras constantes.",
+    "changeFromPrevious": "Referencia continua: 4 ataques RH por compás; no cambia el BPM.",
+    "successCriteria": [
+      "Mantengo los ocho compases y los ataques LH en 0 y 2, sin variar el pulso.",
+      "Toco RH en 0/1/2/3 en cada compás, con cada tríada de duración 0,25 y velocidad 60."
+    ],
+    "simplifyHint": "Cuenta cuatro negras por compás y practica primero los ataques LH en 0 y 2.",
+    "extendHint": "Crea un contraste distinto por parejas sin alterar BPM, armonía, alturas, duraciones ni velocidades."
+  },
+  {
+    "id": "stage-rhythm-011-02",
+    "lessonId": "lesson-rhythm-011",
+    "order": 2,
+    "title": "Bloques de densidad",
+    "explanationMd": "Contraste por pares: compases 1/2 y 5/6 son densos (RH 0,1,2,3); 3/4 y 7/8 espaciados (solo RH 0). En espaciados el único ataque sigue en 0. Las duraciones y velocidades no cambian. LH y armonía permanecen iguales; el compás 5 comienza en beat 16.",
+    "task": "Cuenta el mismo pulso en los ocho compases: llena 1–2 y 5–6, deja solo el ataque inicial en 3–4 y 7–8.",
+    "changeFromPrevious": "Solo cambia el número de ataques RH por bloques; BPM, LH, acordes, alturas, duración y velocidades no cambian.",
+    "successCriteria": [
+      "Toco los bloques densos en 1/2/5/6 y solo el ataque 0 en 3/4/7/8.",
+      "Conservo la llegada del compás 5 en beat global 16 y los ataques LH previstos."
+    ],
+    "simplifyHint": "Cuenta cuatro negras por compás y practica primero los ataques LH en 0 y 2.",
+    "extendHint": "Crea un contraste distinto por parejas sin alterar BPM, armonía, alturas, duraciones ni velocidades."
+  },
+  {
+    "id": "stage-rhythm-011-03",
+    "lessonId": "lesson-rhythm-011",
+    "order": 3,
+    "title": "Desplazar el ataque espaciado",
+    "explanationMd": "Los ocho compases quedan espaciados: cada tríada RH tiene un único ataque en offset local 2 en vez de 0. No se desplaza la armonía ni la LH; los ataques siguen dentro de su compás. La llegada del compás 5 permanece en beat global 16.",
+    "task": "Toca la única tríada RH en el tercer tiempo (offset 2) de cada compás; mantén LH en 0 y 2 y cuenta sin mover el ciclo.",
+    "changeFromPrevious": "Respecto a 02, solo se desplaza 0→2 la única entrada RH de los compases espaciados; sin cambiar duración, tempo ni armonía.",
+    "successCriteria": [
+      "Toco una sola tríada RH por compás en offset 2, sin desplazar LH ni fronteras armónicas.",
+      "La duración RH sigue en 0,25 y velocidad 60; la LH conserva 48/45/41/43 en 0 y 2."
+    ],
+    "simplifyHint": "Cuenta cuatro negras por compás y practica primero los ataques LH en 0 y 2.",
+    "extendHint": "Crea un contraste distinto por parejas sin alterar BPM, armonía, alturas, duraciones ni velocidades."
+  },
+  {
+    "id": "stage-rhythm-011-04",
+    "lessonId": "lesson-rhythm-011",
+    "order": 4,
+    "title": "Autonomía: invertir los bloques",
+    "explanationMd": "Invierte el contraste de 02: compases 1/2 y 5/6 espaciados con un ataque RH en 0; 3/4 y 7/8 densos con ataques 0,1,2,3. La LH, armonía y compás 5 en beat 16 siguen intactos.",
+    "task": "Toca espaciados 1–2 y 5–6, densos 3–4 y 7–8; conserva los cuatro tiempos y verifica que compás 5 empieza en 16.",
+    "changeFromPrevious": "Diseña otro contraste por parejas invirtiendo bloques; no alteres tiempo, armonía, registro, articulación ni dinámica.",
+    "successCriteria": [
+      "Invierto los bloques: espaciados en 1/2/5/6 y densos en 3/4/7/8.",
+      "La llegada del compás 5 sigue exactamente en 16 y mantengo BPM, armonía, duración y velocidades."
+    ],
+    "simplifyHint": "Cuenta cuatro negras por compás y practica primero los ataques LH en 0 y 2.",
+    "extendHint": "Crea un contraste distinto por parejas sin alterar BPM, armonía, alturas, duraciones ni velocidades."
+  }
+]

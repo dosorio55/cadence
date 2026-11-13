@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$"
+      },
+      "progressionId": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$"
+      },
+      "order": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "symbol": {
+        "type": "string",
+        "minLength": 1
+      },
+      "function": {
+        "type": "string",
+        "minLength": 1
+      },
+      "startBeat": {
+        "type": "number",
+        "minimum": 0
+      },
+      "durationBeats": {
+        "type": "number",
+        "exclusiveMinimum": 0
+      }
+    },
+    "required": [
+      "id",
+      "progressionId",
+      "order",
+      "symbol",
+      "function",
+      "startBeat",
+      "durationBeats"
+    ],
+    "additionalProperties": false
+  }
+}

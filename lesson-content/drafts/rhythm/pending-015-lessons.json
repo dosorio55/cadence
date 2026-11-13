@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-rhythm-015",
+    "primarySkillId": "skill-rhythm-swing",
+    "orderInCategory": 15,
+    "title": "Contar una frase con swing y aire",
+    "difficulty": 5,
+    "goal": "Construir ocho compases de fraseo con swing, entradas variadas y pausas conservando un pulso reconocible.",
+    "introMd": "Usa ii–V–I y un retorno conocido, bajo en blancas y una línea derecha de pocas notas. Compara una frase uniforme con otra de entradas y silencios elegidos; crea tu versión sin aumentar la densidad ni imponer un swing mecánico a cada nota.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-010",
+      "lesson-rhythm-011",
+      "lesson-rhythm-012"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

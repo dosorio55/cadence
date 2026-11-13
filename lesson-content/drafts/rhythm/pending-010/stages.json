@@ -1,0 +1,58 @@
+[
+  {
+    "id": "stage-rhythm-010-01",
+    "lessonId": "lesson-rhythm-010",
+    "order": 1,
+    "title": "Base de bajo",
+    "explanationMd": "Cuatro compases ii7–V7–Imaj7–Imaj7. Solo izquierda: raíces D2, G2, C3, C3 en offsets 0 y 2 de cada compás, duración 2. Esta textura armónica parcial prepara la frase; no representa acordes completos.",
+    "task": "Toca solo las blancas de la izquierda y cuenta cuatro compases.",
+    "changeFromPrevious": "Base LH sola; la armonía se expresa parcialmente mediante raíces sobre ii7–V7–Imaj7–Imaj7.",
+    "successCriteria": [
+      "Mantengo ocho ataques de bajo, a tiempo, sin añadir la derecha."
+    ],
+    "simplifyHint": "Practica primero la izquierda sola, contando cuatro negras por compás.",
+    "extendHint": "Crea otra pausa sin desplazar las entradas ternarias restantes."
+  },
+  {
+    "id": "stage-rhythm-010-02",
+    "lessonId": "lesson-rhythm-010",
+    "order": 2,
+    "title": "Entrada a tierra",
+    "explanationMd": "Compara con 01: añade dos notas derechas por compás, ambas a tierra (offsets locales 0 y 1). La línea F4 del compás 2 resuelve a E4 como primera nota del compás 3; la pausa entre ambas permite oír la resolución funcional V7→Imaj7, no una repetición F→E dentro de cada acorde.",
+    "task": "Mantén las blancas LH y toca las dos notas RH a tierra en cada compás. Escucha F4→E4 entre V7 e Imaj7.",
+    "changeFromPrevious": "Se añade RH a tierra en offsets locales 0 y 1; misma armonía y bajo.",
+    "successCriteria": [
+      "Toco las dos notas de cada pareja a tierra y escucho la resolución F4→E4 a través de la pausa."
+    ],
+    "simplifyHint": "Practica primero la izquierda sola, contando cuatro negras por compás.",
+    "extendHint": "Crea otra pausa sin desplazar las entradas ternarias restantes."
+  },
+  {
+    "id": "stage-rhythm-010-03",
+    "lessonId": "lesson-rhythm-010",
+    "order": 3,
+    "title": "Frase ternaria desplazada",
+    "explanationMd": "Compara con 02: conserva alturas y duraciones; desplaza todas las entradas RH al último tercio del pulso, offsets locales 2/3 y 1+2/3. No hay corcheas rectas ni offsets 0.5. F4 sobre V7 conduce a E4 al entrar Imaj7 tras la pausa.",
+    "task": "Mantén LH y mueve cada pareja RH al último tercio de sus pulsos; cuenta la subdivisión ternaria sin añadir ataques.",
+    "changeFromPrevious": "Todas las entradas RH pasan a 2/3 y 1+2/3 locales; alturas y duraciones RH idénticas a 02.",
+    "successCriteria": [
+      "Coloco todas las entradas RH en la rejilla ternaria indicada, ninguna a 0.5."
+    ],
+    "simplifyHint": "Practica primero la izquierda sola, contando cuatro negras por compás.",
+    "extendHint": "Crea otra pausa sin desplazar las entradas ternarias restantes."
+  },
+  {
+    "id": "stage-rhythm-010-04",
+    "lessonId": "lesson-rhythm-010",
+    "order": 4,
+    "title": "Pausa final",
+    "explanationMd": "Conserva intacta la frase de 03 salvo que omite G4 en beat global 13+2/3. Queda una pausa final real; las entradas restantes siguen en la subdivisión ternaria.",
+    "task": "Repite 03 y omite únicamente G4 final; conserva el silencio hasta terminar el ciclo.",
+    "changeFromPrevious": "Respecto a 03 solo se omite G4 final en 13+2/3; no cambia ninguna otra nota.",
+    "successCriteria": [
+      "Omito solo G4 final y mantengo intacto el resto de la frase ternaria."
+    ],
+    "simplifyHint": "Practica primero la izquierda sola, contando cuatro negras por compás.",
+    "extendHint": "Crea otra pausa sin desplazar las entradas ternarias restantes."
+  }
+]

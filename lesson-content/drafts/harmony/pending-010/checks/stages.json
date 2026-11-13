@@ -1,0 +1,66 @@
+[
+  {
+    "id": "stage-harmony-010-01",
+    "lessonId": "lesson-harmony-010",
+    "order": 1,
+    "title": "Escuchar el IV mayor",
+    "explanationMd": "Establece F–C–F–C como referencia: fa-la-do conserva do5 arriba y el bajo alterna fa2 y do3.",
+    "task": "Toca cuatro compases completos, sosteniendo cada acorde cuatro negras; escucha el color claro de IV–I en ambas repeticiones.",
+    "changeFromPrevious": "Primera exposición: todos los compases usan F mayor y queda fijada la referencia para comparar el préstamo menor.",
+    "successCriteria": [
+      "Los ataques ocurren en 0, 4, 8 y 12; cada sonido dura cuatro negras.",
+      "La derecha conserva do5 como nota superior en los cuatro compases.",
+      "Se oyen cuatro acordes F, C, F, C, sin anticipar el cambio."
+    ],
+    "simplifyHint": "Toca primero solo el bajo y canta do5; después añade las otras notas derechas sin cambiar el pulso.",
+    "extendHint": "Nombra en voz alta iv o IV y sigue por separado cada voz que se mueve al acorde C."
+  },
+  {
+    "id": "stage-harmony-010-02",
+    "lessonId": "lesson-harmony-010",
+    "order": 2,
+    "title": "Prestar iv en la segunda repetición",
+    "explanationMd": "En el tercer compás, la mayor se rebaja a la bemol y el acorde pasa de F a Fm. Al llegar al cuarto compás, la bemol baja a sol y fa baja a mi; do5 permanece común. Es iv prestado de do menor, no una dominante secundaria.",
+    "task": "Compara la grabación mental F–C–Fm–C con la referencia. Canta la-la y fa-fa en el tercer compás, y sigue sus descensos al cuarto sin mover do5.",
+    "changeFromPrevious": "Solo cambia el tercer compás: Fm (fa-la bemol-do), función iv; los compases primero y tercero forman la repetición oscurecida.",
+    "successCriteria": [
+      "Reconoces la bemol (la4, MIDI 68) y fa4 (MIDI 65) en el tercer compás.",
+      "Al entrar C en el cuarto, esas voces llegan a sol4 (67) y mi4 (64); do5 (72) se sostiene.",
+      "No atribuyes función de dominante a Fm."
+    ],
+    "simplifyHint": "Toca primero solo el bajo y canta do5; después añade las otras notas derechas sin cambiar el pulso.",
+    "extendHint": "Nombra en voz alta iv o IV y sigue por separado cada voz que se mueve al acorde C."
+  },
+  {
+    "id": "stage-harmony-010-03",
+    "lessonId": "lesson-harmony-010",
+    "order": 3,
+    "title": "Extender iv a la primera aparición",
+    "explanationMd": "El primer compás también toma Fm. La forma queda iv–I–iv–I: el gesto de la bemol hacia sol se escucha al pasar a C en los compases dos y cuatro, siempre bajo el do5 común.",
+    "task": "Toca ambos pares iv–I y compara su simetría con la etapa anterior. Mantén idénticos pulso, duración, ataques y volumen para que el cambio sea solo armónico.",
+    "changeFromPrevious": "Respecto de la etapa anterior, únicamente el primer compás cambia de F mayor a F menor; el tercero continúa menor.",
+    "successCriteria": [
+      "Los compases primero y tercero son Fm y los segundo y cuarto C.",
+      "En ambos cambios a C, la bemol baja a sol y fa baja a mi, mientras do5 no se mueve.",
+      "No cambia ningún onset, duración ni velocidad respecto de las otras etapas."
+    ],
+    "simplifyHint": "Toca primero solo el bajo y canta do5; después añade las otras notas derechas sin cambiar el pulso.",
+    "extendHint": "Nombra en voz alta iv o IV y sigue por separado cada voz que se mueve al acorde C."
+  },
+  {
+    "id": "stage-harmony-010-04",
+    "lessonId": "lesson-harmony-010",
+    "order": 4,
+    "title": "Elegir dónde prestar iv",
+    "explanationMd": "Decide qué repetición merece el color menor. La propuesta autónoma conserva iv solo al principio y devuelve el tercer compás a IV mayor: Fm–C–F–C. Así, la primera llegada a C resuelve la-la bemol y fa; la segunda repite el descenso fa-mi, pero ya no la bemol-sol.",
+    "task": "Elige qué repetición oscurecer y toca tu versión. Como decisión final de esta etapa, conserva iv en la primera y devuelve IV en la segunda: Fm–C–F–C. Explica qué cambia en el segundo C cuando la bemol deja de prepararlo.",
+    "changeFromPrevious": "Autonomía: se mantiene Fm del primer compás, pero el tercer compás vuelve a F mayor; queda prestado iv en la primera repetición.",
+    "successCriteria": [
+      "La versión final es Fm–C–F–C: iv–I–IV–I.",
+      "En la primera llegada a C, la bemol4 baja a sol4 y fa4 a mi4; en la segunda, fa4 pasa a mi4 y la permanece en la.",
+      "Do5 permanece cima común y no se alteran ataques, duraciones ni volúmenes."
+    ],
+    "simplifyHint": "Toca primero solo el bajo y canta do5; después añade las otras notas derechas sin cambiar el pulso.",
+    "extendHint": "Nombra en voz alta iv o IV y sigue por separado cada voz que se mueve al acorde C."
+  }
+]

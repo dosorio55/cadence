@@ -1,0 +1,362 @@
+[
+  {
+    "id": "chord-accompaniment-014-01-01",
+    "progressionId": "prog-accompaniment-014-01-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-01-02",
+    "progressionId": "prog-accompaniment-014-01-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-01-03",
+    "progressionId": "prog-accompaniment-014-01-primary",
+    "order": 3,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-01-04",
+    "progressionId": "prog-accompaniment-014-01-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-01-05",
+    "progressionId": "prog-accompaniment-014-01-primary",
+    "order": 5,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 16,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-01-06",
+    "progressionId": "prog-accompaniment-014-01-primary",
+    "order": 6,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 20,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-01-07",
+    "progressionId": "prog-accompaniment-014-01-primary",
+    "order": 7,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 24,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-01-08",
+    "progressionId": "prog-accompaniment-014-01-primary",
+    "order": 8,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 28,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-02-01",
+    "progressionId": "prog-accompaniment-014-02-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-02-02",
+    "progressionId": "prog-accompaniment-014-02-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-02-03",
+    "progressionId": "prog-accompaniment-014-02-primary",
+    "order": 3,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-02-04",
+    "progressionId": "prog-accompaniment-014-02-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-02-05",
+    "progressionId": "prog-accompaniment-014-02-primary",
+    "order": 5,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 16,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-02-06",
+    "progressionId": "prog-accompaniment-014-02-primary",
+    "order": 6,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 20,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-02-07",
+    "progressionId": "prog-accompaniment-014-02-primary",
+    "order": 7,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 24,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-02-08",
+    "progressionId": "prog-accompaniment-014-02-primary",
+    "order": 8,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 28,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-03-01",
+    "progressionId": "prog-accompaniment-014-03-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-03-02",
+    "progressionId": "prog-accompaniment-014-03-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-03-03",
+    "progressionId": "prog-accompaniment-014-03-primary",
+    "order": 3,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-03-04",
+    "progressionId": "prog-accompaniment-014-03-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-03-05",
+    "progressionId": "prog-accompaniment-014-03-primary",
+    "order": 5,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 16,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-03-06",
+    "progressionId": "prog-accompaniment-014-03-primary",
+    "order": 6,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 20,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-03-07",
+    "progressionId": "prog-accompaniment-014-03-primary",
+    "order": 7,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 24,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-03-08",
+    "progressionId": "prog-accompaniment-014-03-primary",
+    "order": 8,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 28,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-04-01",
+    "progressionId": "prog-accompaniment-014-04-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-04-02",
+    "progressionId": "prog-accompaniment-014-04-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-04-03",
+    "progressionId": "prog-accompaniment-014-04-primary",
+    "order": 3,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-04-04",
+    "progressionId": "prog-accompaniment-014-04-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-04-05",
+    "progressionId": "prog-accompaniment-014-04-primary",
+    "order": 5,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 16,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-04-06",
+    "progressionId": "prog-accompaniment-014-04-primary",
+    "order": 6,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 20,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-04-07",
+    "progressionId": "prog-accompaniment-014-04-primary",
+    "order": 7,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 24,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-04-08",
+    "progressionId": "prog-accompaniment-014-04-primary",
+    "order": 8,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 28,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-05-01",
+    "progressionId": "prog-accompaniment-014-05-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-05-02",
+    "progressionId": "prog-accompaniment-014-05-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-05-03",
+    "progressionId": "prog-accompaniment-014-05-primary",
+    "order": 3,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-05-04",
+    "progressionId": "prog-accompaniment-014-05-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-05-05",
+    "progressionId": "prog-accompaniment-014-05-primary",
+    "order": 5,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 16,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-05-06",
+    "progressionId": "prog-accompaniment-014-05-primary",
+    "order": 6,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 20,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-05-07",
+    "progressionId": "prog-accompaniment-014-05-primary",
+    "order": 7,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 24,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-accompaniment-014-05-08",
+    "progressionId": "prog-accompaniment-014-05-primary",
+    "order": 8,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 28,
+    "durationBeats": 4
+  }
+]

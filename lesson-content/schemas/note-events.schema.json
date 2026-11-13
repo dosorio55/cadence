@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$"
+      },
+      "progressionId": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$"
+      },
+      "midi": {
+        "type": "integer",
+        "minimum": 0,
+        "maximum": 127
+      },
+      "startBeat": {
+        "type": "number",
+        "minimum": 0
+      },
+      "durationBeats": {
+        "type": "number",
+        "exclusiveMinimum": 0
+      },
+      "velocity": {
+        "type": "integer",
+        "minimum": 1,
+        "maximum": 127
+      },
+      "role": {
+        "type": "string",
+        "enum": [
+          "bass",
+          "harmony",
+          "melody",
+          "ornament"
+        ]
+      },
+      "hand": {
+        "type": "string",
+        "enum": [
+          "left",
+          "right",
+          "either"
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "progressionId",
+      "midi",
+      "startBeat",
+      "durationBeats",
+      "velocity",
+      "role",
+      "hand"
+    ],
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "stage-melody-009-01",
+    "lessonId": "lesson-melody-009",
+    "order": 1,
+    "title": "Objetivos directos",
+    "explanationMd": "A: F4, B3, E4 y E4 llegan directamente en los ataques de Dm7, G7, Cmaj7 y Cmaj7. La izquierda toca solo las raíces largas; la referencia no pretende ser un voicing completo.",
+    "task": "Toca los cuatro objetivos en su ataque de acorde. Cuenta las negras desde cero: los ataques están en 0, 4, 8 y 12 (beats 1, 5, 9 y 13 si cuentas desde uno).",
+    "changeFromPrevious": "Presentación A: objetivos F4@0, B3@4, E4@8 y E4@12, cada uno de duración 2; bajo D2, G2, C3 y C3, cada raíz durante 4 beats.",
+    "successCriteria": [
+      "Los cuatro objetivos coinciden con el inicio de su acorde",
+      "Cuento beats desde cero y puedo nombrar su equivalente desde uno"
+    ],
+    "simplifyHint": "Toca primero solo las raíces y objetivos; añade la aproximación indicada aislada antes de unirla.",
+    "extendHint": "Elige una sola llegada distinta, anota altura y beat, y verifica que la aproximación resuelva en el objetivo previsto."
+  },
+  {
+    "id": "stage-melody-009-02",
+    "lessonId": "lesson-melody-009",
+    "order": 2,
+    "title": "Paso diatónico hacia B",
+    "explanationMd": "B: A3 entra en 3.5 (el “4 y” contado desde cero; subdivisión débil), medio beat antes de B3@4. A3 es un tono debajo de B3 en do mayor; el objetivo permanece en el mismo sitio.",
+    "task": "Compara B3 directa con A3–B3. Cuenta “3 y 4” dentro del compás: A3 cae en el “y” de cuatro contado desde cero (beat 4& en cuenta desde uno).",
+    "changeFromPrevious": "Frente a 01, añade solo A3 (57)@3.5 durante 0.5 beat; resuelve por tono diatónico a B3@4.",
+    "successCriteria": [
+      "A3 dura medio beat y precede B3 sin desplazarlo",
+      "Reconozco A3–B3 como aproximación diatónica de tono"
+    ],
+    "simplifyHint": "Toca primero solo las raíces y objetivos; añade la aproximación indicada aislada antes de unirla.",
+    "extendHint": "Elige una sola llegada distinta, anota altura y beat, y verifica que la aproximación resuelva en el objetivo previsto."
+  },
+  {
+    "id": "stage-melody-009-03",
+    "lessonId": "lesson-melody-009",
+    "order": 3,
+    "title": "Un semitono cromático real",
+    "explanationMd": "C: cambia únicamente A3 por A#3 (58), en el mismo 3.5 por 0.5. A#3 está a un semitono bajo B3 y resuelve al objetivo en el ataque de G7; no se altera la progresión.",
+    "task": "Alterna B y C: A3–B3 frente a A#3–B3. Comprueba que solo la segunda aproximación está a semitono del objetivo.",
+    "changeFromPrevious": "Frente a 02, sustituye A3 (57) por A#3 (58)@3.5, duración 0.5; B3@4 permanece intacto.",
+    "successCriteria": [
+      "A#3 resuelve por semitono a B3 exactamente en beat 4",
+      "Distingo el tono A–B de la aproximación cromática A#–B"
+    ],
+    "simplifyHint": "Toca primero solo las raíces y objetivos; añade la aproximación indicada aislada antes de unirla.",
+    "extendHint": "Elige una sola llegada distinta, anota altura y beat, y verifica que la aproximación resuelva en el objetivo previsto."
+  },
+  {
+    "id": "stage-melody-009-04",
+    "lessonId": "lesson-melody-009",
+    "order": 4,
+    "title": "Elige una llegada",
+    "explanationMd": "Vuelve a la base directa 01. Como referencia para tu elección, D#4 (63) entra en 7.5 y resuelve por semitono a E4@8, sobre la llegada a Cmaj7. Elige una sola llegada; la referencia usa paso diatónico y no obliga a usar A#3 ni a encadenar aproximaciones.",
+    "task": "Reproduce la base directa y elige una llegada para preparar; prueba D#4@7.5–E4@8 o una llegada propia. La vuelta del loop es opcional.",
+    "changeFromPrevious": "Autonomía: restablece exactamente los objetivos de 01 y añade solo la referencia D#4 (63)@7.5 durante 0.5 beat antes de E4@8; no conserves A#3@3.5 ni hagas una cadena.",
+    "successCriteria": [
+      "La referencia tiene una sola aproximación, D#4→E4",
+      "Puedo elegir otra llegada y resolverla a tiempo; no se exige un loop"
+    ],
+    "simplifyHint": "Toca primero solo las raíces y objetivos; añade la aproximación indicada aislada antes de unirla.",
+    "extendHint": "Elige una sola llegada distinta, anota altura y beat, y verifica que la aproximación resuelva en el objetivo previsto."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-independence-010",
+    "primarySkillId": "skill-independence-melody-over-pattern",
+    "orderInCategory": 10,
+    "title": "Una melodía que cruza el bajo",
+    "difficulty": 3,
+    "goal": "Sostener una nota melódica sobre un cambio de bajo y resolverla sin interrumpir el patrón izquierdo.",
+    "introMd": "En cuatro compases de balada, usa raíz–quinta en blancas y una frase derecha con una ligadura sobre la frontera de compás, no cruce físico de manos. Compara resolución inmediata y retardada compatible; elige una sola ligadura y comprueba que el bajo no espere.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-005",
+      "lesson-independence-007",
+      "lesson-melody-008"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "balada"
+    ]
+  }
+]

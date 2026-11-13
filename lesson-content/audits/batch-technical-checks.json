@@ -1,0 +1,4655 @@
+{
+  "rhythm-01": {
+    "technicalStatus": "passed",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 17,
+      "progressions": 18,
+      "chord-events": 58,
+      "note-events": 671
+    },
+    "metrics": {
+      "progressionsAnalyzed": 18,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 16,
+      "categoriesCovered": [
+        "cat-rhythm"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-rhythm-001-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-001-01-primary.mid",
+          "notes": 28,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "3289853b4343b7401010d9e7bbaff23a6809c14c3334ea14dd3aaf32e4f7e0a5"
+        },
+        {
+          "progressionId": "prog-rhythm-001-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-001-02-primary.mid",
+          "notes": 40,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "ddb33d3622e5792815cc9b95f0b91ef3614e36d79763d7a677726b2a8a43571c"
+        },
+        {
+          "progressionId": "prog-rhythm-001-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-001-03-primary.mid",
+          "notes": 25,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "c2ec4d51b3cc70499846b9ace740f01f6fa503026ef7458493eef36e7aa1098c"
+        },
+        {
+          "progressionId": "prog-rhythm-001-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-001-04-primary.mid",
+          "notes": 25,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "715037134e0b202965b5be67d833e3925267e0d74e07849e94cd11037ee21855"
+        },
+        {
+          "progressionId": "prog-rhythm-002-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-002-01-primary.mid",
+          "notes": 56,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "4aa3bd964f3765bd0fc2557efa771050b1c08abe0b05ed7a962240f9b0f175fa"
+        },
+        {
+          "progressionId": "prog-rhythm-002-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-002-02-primary.mid",
+          "notes": 104,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "fc104df621346134d1dd4b9e3a402fa75cdf04ba052d9bfed48f4f24c599cb8a"
+        },
+        {
+          "progressionId": "prog-rhythm-002-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-002-03-primary.mid",
+          "notes": 80,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "c17e02b5693ca8aeb751c11e6b41a42a919ef316b22f3121a3f0059e0f3f4d4e"
+        },
+        {
+          "progressionId": "prog-rhythm-003-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-003-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "9a0f11aeaf2e2233f82cf9b7f62c9ce487a7aa8a47e3f0df4438cdf23522638a"
+        },
+        {
+          "progressionId": "prog-rhythm-003-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-003-02-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "cd9f0731805f63a46697769f55922f52f3828522ab190ad6f1fca93770f50229"
+        },
+        {
+          "progressionId": "prog-rhythm-003-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-003-03-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "ac61a5d078b458026dc8535cce307f1c99be6960af6f1ad1738285eb62f1ba67"
+        },
+        {
+          "progressionId": "prog-rhythm-004-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-004-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "023d5ce87dbff5a45c81c3841d82c92a5f78e535d42971e22cf47d3c6a6d89c9"
+        },
+        {
+          "progressionId": "prog-rhythm-004-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-004-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "03e12cf73aa376b15c7dea7e15a08fa0c7d962ec0fa66dfdf04fbcbf54d0a064"
+        },
+        {
+          "progressionId": "prog-rhythm-004-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-004-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "892429614ada6842313fec1fe17c390cdc81d5848d6dfd4c7b188e7d65a705bb"
+        },
+        {
+          "progressionId": "prog-rhythm-004-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-004-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "a16da20313baebb5a28435e16cc6b29e80c4865b42985bf5d4d1fc156b4d1163"
+        },
+        {
+          "progressionId": "prog-rhythm-004-05-alternative-01",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-004-05-alternative-01.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "e5ca6e78e4b200f5ffe0200fe75292a96c137e656e3f14e6966b831755b982f2"
+        },
+        {
+          "progressionId": "prog-rhythm-004-05-primary",
+          "file": "lesson-content/audits/rhythm/batch-01-midi/prog-rhythm-004-05-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "4834f89f81840d2517550387f7e1cc4567c49ccd8dc79f6f475fdb23a50e186b"
+        }
+      ]
+    },
+    "developedLessons": [
+      "lesson-rhythm-001",
+      "lesson-rhythm-002",
+      "lesson-rhythm-003",
+      "lesson-rhythm-004"
+    ],
+    "masterStatus": "approved-after-independent-review"
+  },
+  "accompaniment-01": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 15,
+      "progressions": 15,
+      "chord-events": 60,
+      "note-events": 228
+    },
+    "metrics": {
+      "progressionsAnalyzed": 15,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 12,
+      "categoriesCovered": [
+        "cat-accompaniment"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-accompaniment-001-01-primary",
+          "file": "lesson-content/audits/accompaniment/batch-01-midi/prog-accompaniment-001-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "699e171b249c6f371427d0e0221929cfb52c532e240470f03c49086761737d25"
+        },
+        {
+          "progressionId": "prog-accompaniment-001-02-primary",
+          "file": "lesson-content/audits/accompaniment/batch-01-midi/prog-accompaniment-001-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "c46c73f0934c2b87cc7f9a03270e1ea9a12884d8995997b4d69d01c413178316"
+        },
+        {
+          "progressionId": "prog-accompaniment-001-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-01-midi/prog-accompaniment-001-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "65f5cc772e1dafc9904ef0bb1c88252c7ce4a2cffd4a5f93148a4af4d55b9358"
+        },
+        {
+          "progressionId": "prog-accompaniment-001-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-01-midi/prog-accompaniment-001-05-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "65f5cc772e1dafc9904ef0bb1c88252c7ce4a2cffd4a5f93148a4af4d55b9358"
+        },
+        {
+          "progressionId": "prog-accompaniment-002-01-primary",
+          "file": "lesson-content/audits/accompaniment/batch-01-midi/prog-accompaniment-002-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "ce7498b8d145639d1826fce9779f5f3967f0fd5f562947c4ea383701c1ca5a9f"
+        },
+        {
+          "progressionId": "prog-accompaniment-002-02-primary",
+          "file": "lesson-content/audits/accompaniment/batch-01-midi/prog-accompaniment-002-02-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "70d8f4ebf3fe745a68a5e45e61f12108d072106f1330871630a081eee91a572c"
+        },
+        {
+          "progressionId": "prog-accompaniment-002-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-01-midi/prog-accompaniment-002-03-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "e0905664623b96dd9f2d4c3648e8eb9afaba4f35e6b6dc72936103dcc37caa08"
+        },
+        {
+          "progressionId": "prog-accompaniment-002-04-primary",
+          "file": "lesson-content/audits/accompaniment/batch-01-midi/prog-accompaniment-002-04-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "3d959198bccb2e15f3f07e37fbf4513cf0328833fdf34112cac17943dcc285a8"
+        },
+        {
+          "progressionId": "prog-accompaniment-002-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-01-midi/prog-accompaniment-002-05-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "e0905664623b96dd9f2d4c3648e8eb9afaba4f35e6b6dc72936103dcc37caa08"
+        },
+        {
+          "progressionId": "prog-accompaniment-003-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-01-midi/prog-accompaniment-003-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "f869c253fa4382224576a0e0f3dc3ff2e3f5abedd98d115fb72cd00d71a31b34"
+        },
+        {
+          "progressionId": "prog-accompaniment-003-04-primary",
+          "file": "lesson-content/audits/accompaniment/batch-01-midi/prog-accompaniment-003-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "611527e3690b595a2cfbc1141bcbc1ef301b2de67f3b1dd8da111ccef63f5708"
+        },
+        {
+          "progressionId": "prog-accompaniment-003-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-01-midi/prog-accompaniment-003-05-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "b82210c29a0d0b45bbbc6577df3fd609faa49d87ef6d68137b865a0aa331e60d"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-accompaniment-001",
+      "lesson-accompaniment-002",
+      "lesson-accompaniment-003"
+    ]
+  },
+  "melody-01": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 12,
+      "progressions": 12,
+      "chord-events": 48,
+      "note-events": 143
+    },
+    "metrics": {
+      "progressionsAnalyzed": 12,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 12,
+      "categoriesCovered": [
+        "cat-melody"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-melody-001-01-primary",
+          "file": "lesson-content/audits/melody/batch-01-midi/prog-melody-001-01-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e8acdcd58ed4b32eda8be9816050623b3159cf8dd75719a766d2c6020b1cbeed"
+        },
+        {
+          "progressionId": "prog-melody-001-02-primary",
+          "file": "lesson-content/audits/melody/batch-01-midi/prog-melody-001-02-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "eebabbcaff1de02d1583f4e38fef3546fb6828fcd0ee55730c9af462fc72d9cd"
+        },
+        {
+          "progressionId": "prog-melody-001-03-primary",
+          "file": "lesson-content/audits/melody/batch-01-midi/prog-melody-001-03-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "734af1d672fc3dd180130ea2fd504249973584a8ddd0b758d3e2f90d8511d092"
+        },
+        {
+          "progressionId": "prog-melody-001-04-primary",
+          "file": "lesson-content/audits/melody/batch-01-midi/prog-melody-001-04-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "245f3f67769fd46ae13f752a6f33be205fbdeb50dc613e5d5e58d0fb1a67c40b"
+        },
+        {
+          "progressionId": "prog-melody-002-01-primary",
+          "file": "lesson-content/audits/melody/batch-01-midi/prog-melody-002-01-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "59e1ebd3f478e4a9d2c61ad16b397088a721a7b22d087681db541962372d7932"
+        },
+        {
+          "progressionId": "prog-melody-002-02-primary",
+          "file": "lesson-content/audits/melody/batch-01-midi/prog-melody-002-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "bb08d0bfb12d15d6a42450290af0ce4ccb03c0427f5434ec58add481f95f5573"
+        },
+        {
+          "progressionId": "prog-melody-002-03-primary",
+          "file": "lesson-content/audits/melody/batch-01-midi/prog-melody-002-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "3896d5d06bec1814ff070f7d3c1fe3a4b90debb4a1f353b7060870f23f040227"
+        },
+        {
+          "progressionId": "prog-melody-002-04-primary",
+          "file": "lesson-content/audits/melody/batch-01-midi/prog-melody-002-04-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e640f2c6a993872a82b78b294390d8f9c8f6931743cb2248581ae14d00a831f6"
+        },
+        {
+          "progressionId": "prog-melody-003-01-primary",
+          "file": "lesson-content/audits/melody/batch-01-midi/prog-melody-003-01-primary.mid",
+          "notes": 8,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "34908da46c3643241a90e91f71dc14bc126e27a08cfc56bde98b1acababd6f9a"
+        },
+        {
+          "progressionId": "prog-melody-003-02-primary",
+          "file": "lesson-content/audits/melody/batch-01-midi/prog-melody-003-02-primary.mid",
+          "notes": 9,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "286dbb6b36893192d4b0e919ede94b54c652623faceda55b5acd44a35472fbc6"
+        },
+        {
+          "progressionId": "prog-melody-003-03-primary",
+          "file": "lesson-content/audits/melody/batch-01-midi/prog-melody-003-03-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "81b877b7f3ba3f5376708a30c83a8514cfc2f282afd720fade41166c94f3e484"
+        },
+        {
+          "progressionId": "prog-melody-003-04-primary",
+          "file": "lesson-content/audits/melody/batch-01-midi/prog-melody-003-04-primary.mid",
+          "notes": 9,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "83e20ab21575c2021b18b6026c18913664337730d6b975ccd21ee7cf7f14e021"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-melody-001",
+      "lesson-melody-002",
+      "lesson-melody-003"
+    ]
+  },
+  "independence-01": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 15,
+      "progressions": 15,
+      "chord-events": 45,
+      "note-events": 278
+    },
+    "metrics": {
+      "progressionsAnalyzed": 15,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 12,
+      "categoriesCovered": [
+        "cat-independence"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-independence-001-01-primary",
+          "file": "lesson-content/audits/independence/batch-01-midi/prog-independence-001-01-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "139541c2e9faedf40c7894763092f43d13d7333d99e5e77681894a30eb3c38ef"
+        },
+        {
+          "progressionId": "prog-independence-001-02-primary",
+          "file": "lesson-content/audits/independence/batch-01-midi/prog-independence-001-02-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "132ec7bb31d167a9a72733ac52976ac98e64c5000a7a6eceb41ec066973b067b"
+        },
+        {
+          "progressionId": "prog-independence-001-03-primary",
+          "file": "lesson-content/audits/independence/batch-01-midi/prog-independence-001-03-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "8767b5d4dc709aae21ca270df18479c2c0fd42e0fc81d034864dea323abb11ea"
+        },
+        {
+          "progressionId": "prog-independence-001-05-primary",
+          "file": "lesson-content/audits/independence/batch-01-midi/prog-independence-001-05-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "dfe2c3b43858f3acbcb7df8e884ccd2f04f277c3b845af54bf4ea071de554138"
+        },
+        {
+          "progressionId": "prog-independence-002-01-primary",
+          "file": "lesson-content/audits/independence/batch-01-midi/prog-independence-002-01-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "512f71cb99646f5922c67129f90cd5e0ee201412d9fdadb816748270f0eee377"
+        },
+        {
+          "progressionId": "prog-independence-002-02-primary",
+          "file": "lesson-content/audits/independence/batch-01-midi/prog-independence-002-02-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "0f43699a72b9b07cb08c14ac8f19d1039dbf9bb74b125ccabf9054928e52ea5b"
+        },
+        {
+          "progressionId": "prog-independence-002-03-primary",
+          "file": "lesson-content/audits/independence/batch-01-midi/prog-independence-002-03-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "9a2887205399cc089611e0baab800486eef71d0d0435a82f0a410fc7a1a81827"
+        },
+        {
+          "progressionId": "prog-independence-002-04-primary",
+          "file": "lesson-content/audits/independence/batch-01-midi/prog-independence-002-04-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "3f98d9d55ec0872ba77bc81f0263b7a4027a962cb9f2a34842dd1e620956080b"
+        },
+        {
+          "progressionId": "prog-independence-002-05-primary",
+          "file": "lesson-content/audits/independence/batch-01-midi/prog-independence-002-05-primary.mid",
+          "notes": 22,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "2624b89f617b4c57575f6896e04a04281bb89b71ad71775d441637c1636c9632"
+        },
+        {
+          "progressionId": "prog-independence-003-03-primary",
+          "file": "lesson-content/audits/independence/batch-01-midi/prog-independence-003-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e0042b6aca61be17bb6f350ce4989d7f0fd172db5a84dc3a719929d6ff520bd8"
+        },
+        {
+          "progressionId": "prog-independence-003-04-primary",
+          "file": "lesson-content/audits/independence/batch-01-midi/prog-independence-003-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e23576bf190f94b439afbce5ad39c0185b4ce8ac54bce2f46e92455e283d9bb6"
+        },
+        {
+          "progressionId": "prog-independence-003-05-primary",
+          "file": "lesson-content/audits/independence/batch-01-midi/prog-independence-003-05-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a4e743f0c14a30bae1a792dc57da378a781dafd80c58d0825d37d0de596782a8"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-independence-001",
+      "lesson-independence-002",
+      "lesson-independence-003"
+    ]
+  },
+  "expression-01": {
+    "technicalStatus": "passed",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 12,
+      "progressions": 12,
+      "chord-events": 48,
+      "note-events": 234
+    },
+    "metrics": {
+      "progressionsAnalyzed": 12,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 12,
+      "categoriesCovered": [
+        "cat-expression"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-expression-001-01-primary",
+          "file": "lesson-content/audits/expression/batch-01-midi/prog-expression-001-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "7613a30e2c01c996cbdb375d3993c61cd3811d9d8c9b867b4d842bbc1da7c519"
+        },
+        {
+          "progressionId": "prog-expression-001-02-primary",
+          "file": "lesson-content/audits/expression/batch-01-midi/prog-expression-001-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "6debec8df0c9d43792a83b787791b6a823d43e86bfea0c79f18203a9070ca56a"
+        },
+        {
+          "progressionId": "prog-expression-001-03-primary",
+          "file": "lesson-content/audits/expression/batch-01-midi/prog-expression-001-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "4c6590928756e8dedb58dc79ee881e6786bf34eae22368693c8c6e01a01916f1"
+        },
+        {
+          "progressionId": "prog-expression-001-04-primary",
+          "file": "lesson-content/audits/expression/batch-01-midi/prog-expression-001-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "99b27846c2041aac0018489bc661372899a07b8daf9ca8db19fceb547ade38a6"
+        },
+        {
+          "progressionId": "prog-expression-002-01-primary",
+          "file": "lesson-content/audits/expression/batch-01-midi/prog-expression-002-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "6ef02d62b076459745b01ec44eacc7a57f9be7fb0a3c1c936e76ca385efdfa3d"
+        },
+        {
+          "progressionId": "prog-expression-002-02-primary",
+          "file": "lesson-content/audits/expression/batch-01-midi/prog-expression-002-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a3b59ccf9028f0889555ae4e995a927a6d1abdc6d0403b45db4e97b54ae445ab"
+        },
+        {
+          "progressionId": "prog-expression-002-03-primary",
+          "file": "lesson-content/audits/expression/batch-01-midi/prog-expression-002-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "0db8a32e88e2d951b70195bb1d2634080ed5b303c8c6d34efb3c2c3bb6ad2125"
+        },
+        {
+          "progressionId": "prog-expression-002-04-primary",
+          "file": "lesson-content/audits/expression/batch-01-midi/prog-expression-002-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "39ba1df03ecd0cfcd29aa9b9d44177f3d99f94d096a4b156c5749fad263686d5"
+        },
+        {
+          "progressionId": "prog-expression-003-01-primary",
+          "file": "lesson-content/audits/expression/batch-01-midi/prog-expression-003-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "6ef02d62b076459745b01ec44eacc7a57f9be7fb0a3c1c936e76ca385efdfa3d"
+        },
+        {
+          "progressionId": "prog-expression-003-02-primary",
+          "file": "lesson-content/audits/expression/batch-01-midi/prog-expression-003-02-primary.mid",
+          "notes": 19,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "2442e2745c0244abe5c3d84ce56deb4d98d9290c22856bff185270a2da625644"
+        },
+        {
+          "progressionId": "prog-expression-003-03-primary",
+          "file": "lesson-content/audits/expression/batch-01-midi/prog-expression-003-03-primary.mid",
+          "notes": 18,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "29d1d30b7a0dfd29501b559e803c2f330217769cbddff0a49fc28b59d7a5948b"
+        },
+        {
+          "progressionId": "prog-expression-003-04-primary",
+          "file": "lesson-content/audits/expression/batch-01-midi/prog-expression-003-04-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "5bb7f73844c7434cbd1479e28743652e83996a7c1bb068997106bf771e2394a6"
+        }
+      ]
+    },
+    "developedLessons": [
+      "lesson-expression-001",
+      "lesson-expression-002",
+      "lesson-expression-003"
+    ],
+    "masterStatus": "approved-after-independent-review"
+  },
+  "harmony-01": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 12,
+      "progressions": 12,
+      "chord-events": 48,
+      "note-events": 196
+    },
+    "metrics": {
+      "progressionsAnalyzed": 12,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 12,
+      "categoriesCovered": [
+        "cat-harmony"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-harmony-001-01-primary",
+          "file": "lesson-content/audits/harmony/batch-01-midi/prog-harmony-001-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "608fc84cb7ac4e4c769f39b7bfccde99871b47e0974bae9e5ab195ef8664a1de"
+        },
+        {
+          "progressionId": "prog-harmony-001-02-primary",
+          "file": "lesson-content/audits/harmony/batch-01-midi/prog-harmony-001-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "647c0c48f26fd5e6ff019e1715f97e508f2ece5e91e49f3c3a4bfd232723337c"
+        },
+        {
+          "progressionId": "prog-harmony-001-03-primary",
+          "file": "lesson-content/audits/harmony/batch-01-midi/prog-harmony-001-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "92b2f7080107ebfd976193d9f460c86779c5a1f49cef534f60c67df89ee1854e"
+        },
+        {
+          "progressionId": "prog-harmony-001-04-primary",
+          "file": "lesson-content/audits/harmony/batch-01-midi/prog-harmony-001-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "647c0c48f26fd5e6ff019e1715f97e508f2ece5e91e49f3c3a4bfd232723337c"
+        },
+        {
+          "progressionId": "prog-harmony-002-01-primary",
+          "file": "lesson-content/audits/harmony/batch-01-midi/prog-harmony-002-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "647c0c48f26fd5e6ff019e1715f97e508f2ece5e91e49f3c3a4bfd232723337c"
+        },
+        {
+          "progressionId": "prog-harmony-002-02-primary",
+          "file": "lesson-content/audits/harmony/batch-01-midi/prog-harmony-002-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "8e8ae3963e77e348c50d043b864a2dad7b23295bfe63dac5913a844bc5d646f6"
+        },
+        {
+          "progressionId": "prog-harmony-002-03-primary",
+          "file": "lesson-content/audits/harmony/batch-01-midi/prog-harmony-002-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "817a3fbb12b402498d3ce90521fb5fee5d58e4611c6126a60b4c3446736955da"
+        },
+        {
+          "progressionId": "prog-harmony-002-04-primary",
+          "file": "lesson-content/audits/harmony/batch-01-midi/prog-harmony-002-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "737817eeb869515920e6b6c653b7bec809028af1c20113e9235f64f1bfb7a4da"
+        },
+        {
+          "progressionId": "prog-harmony-003-01-primary",
+          "file": "lesson-content/audits/harmony/batch-01-midi/prog-harmony-003-01-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "fdf7e2f27a6ea9dd12133d3b8cabe1841102d79e8f2716ba61695508da8887ad"
+        },
+        {
+          "progressionId": "prog-harmony-003-02-primary",
+          "file": "lesson-content/audits/harmony/batch-01-midi/prog-harmony-003-02-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "74900215709ec52aa49d65e4f13faf9e727ca2fc87a6d8491137fe190fd15408"
+        },
+        {
+          "progressionId": "prog-harmony-003-03-primary",
+          "file": "lesson-content/audits/harmony/batch-01-midi/prog-harmony-003-03-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a20837c8e9b52bdf9db3cb0d86276888dea5c14a7ed3dd9093037ff8c7cfb05c"
+        },
+        {
+          "progressionId": "prog-harmony-003-04-primary",
+          "file": "lesson-content/audits/harmony/batch-01-midi/prog-harmony-003-04-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "fdf7e2f27a6ea9dd12133d3b8cabe1841102d79e8f2716ba61695508da8887ad"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-harmony-001",
+      "lesson-harmony-002",
+      "lesson-harmony-003"
+    ]
+  },
+  "rhythm-02": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 29,
+      "progressions": 30,
+      "chord-events": 110,
+      "note-events": 1415
+    },
+    "metrics": {
+      "progressionsAnalyzed": 30,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 17,
+      "categoriesCovered": [
+        "cat-rhythm"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-rhythm-001-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-001-01-primary.mid",
+          "notes": 28,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "3289853b4343b7401010d9e7bbaff23a6809c14c3334ea14dd3aaf32e4f7e0a5"
+        },
+        {
+          "progressionId": "prog-rhythm-001-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-001-02-primary.mid",
+          "notes": 40,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "ddb33d3622e5792815cc9b95f0b91ef3614e36d79763d7a677726b2a8a43571c"
+        },
+        {
+          "progressionId": "prog-rhythm-001-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-001-03-primary.mid",
+          "notes": 25,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "c2ec4d51b3cc70499846b9ace740f01f6fa503026ef7458493eef36e7aa1098c"
+        },
+        {
+          "progressionId": "prog-rhythm-002-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-002-04-primary.mid",
+          "notes": 80,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "1ea6945d8f8c225f631b525de986e7115d0c7a1dc3b6f59d2af8391f224a4c0e"
+        },
+        {
+          "progressionId": "prog-rhythm-003-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-003-02-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "cd9f0731805f63a46697769f55922f52f3828522ab190ad6f1fca93770f50229"
+        },
+        {
+          "progressionId": "prog-rhythm-003-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-003-03-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "ac61a5d078b458026dc8535cce307f1c99be6960af6f1ad1738285eb62f1ba67"
+        },
+        {
+          "progressionId": "prog-rhythm-003-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-003-04-primary.mid",
+          "notes": 29,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "50bc408d75b61f11efa5990af0a5263e6a331bb4aa5efd8287b1408bc7ee3160"
+        },
+        {
+          "progressionId": "prog-rhythm-004-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-004-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "023d5ce87dbff5a45c81c3841d82c92a5f78e535d42971e22cf47d3c6a6d89c9"
+        },
+        {
+          "progressionId": "prog-rhythm-004-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-004-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "03e12cf73aa376b15c7dea7e15a08fa0c7d962ec0fa66dfdf04fbcbf54d0a064"
+        },
+        {
+          "progressionId": "prog-rhythm-004-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-004-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "892429614ada6842313fec1fe17c390cdc81d5848d6dfd4c7b188e7d65a705bb"
+        },
+        {
+          "progressionId": "prog-rhythm-004-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-004-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "a16da20313baebb5a28435e16cc6b29e80c4865b42985bf5d4d1fc156b4d1163"
+        },
+        {
+          "progressionId": "prog-rhythm-004-05-alternative-01",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-004-05-alternative-01.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "e5ca6e78e4b200f5ffe0200fe75292a96c137e656e3f14e6966b831755b982f2"
+        },
+        {
+          "progressionId": "prog-rhythm-004-05-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-004-05-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "4834f89f81840d2517550387f7e1cc4567c49ccd8dc79f6f475fdb23a50e186b"
+        },
+        {
+          "progressionId": "prog-rhythm-005-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-005-01-primary.mid",
+          "notes": 40,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 600000,
+          "sha256": "e242fcc409fa023bf4248783a668854179dc161c80be92c7b56e96b0aa0aa528"
+        },
+        {
+          "progressionId": "prog-rhythm-005-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-005-04-primary.mid",
+          "notes": 39,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 600000,
+          "sha256": "956198812ebcb982c5d6241d0c4a5c4c26a4676fec798d6dd5a22260f4afd6e7"
+        },
+        {
+          "progressionId": "prog-rhythm-007-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-007-03-primary.mid",
+          "notes": 72,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 666667,
+          "sha256": "f58ec5c27058d165286b41739ac6002457e7cecaed94494435114a952fd08bda"
+        },
+        {
+          "progressionId": "prog-rhythm-007-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-02-midi/prog-rhythm-007-04-primary.mid",
+          "notes": 72,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 666667,
+          "sha256": "d11b6bf114644fe73ce7ee60de734462af7d6586ca8c617d1286f2947cd1ca3c"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-rhythm-005",
+      "lesson-rhythm-006",
+      "lesson-rhythm-007"
+    ]
+  },
+  "expression-02": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 24,
+      "progressions": 24,
+      "chord-events": 112,
+      "note-events": 534
+    },
+    "metrics": {
+      "progressionsAnalyzed": 24,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-expression"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-expression-001-01-primary",
+          "file": "lesson-content/audits/expression/batch-02-midi/prog-expression-001-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "7613a30e2c01c996cbdb375d3993c61cd3811d9d8c9b867b4d842bbc1da7c519"
+        },
+        {
+          "progressionId": "prog-expression-001-02-primary",
+          "file": "lesson-content/audits/expression/batch-02-midi/prog-expression-001-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "6debec8df0c9d43792a83b787791b6a823d43e86bfea0c79f18203a9070ca56a"
+        },
+        {
+          "progressionId": "prog-expression-001-03-primary",
+          "file": "lesson-content/audits/expression/batch-02-midi/prog-expression-001-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "4c6590928756e8dedb58dc79ee881e6786bf34eae22368693c8c6e01a01916f1"
+        },
+        {
+          "progressionId": "prog-expression-001-04-primary",
+          "file": "lesson-content/audits/expression/batch-02-midi/prog-expression-001-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "99b27846c2041aac0018489bc661372899a07b8daf9ca8db19fceb547ade38a6"
+        },
+        {
+          "progressionId": "prog-expression-003-02-primary",
+          "file": "lesson-content/audits/expression/batch-02-midi/prog-expression-003-02-primary.mid",
+          "notes": 19,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "2442e2745c0244abe5c3d84ce56deb4d98d9290c22856bff185270a2da625644"
+        },
+        {
+          "progressionId": "prog-expression-003-03-primary",
+          "file": "lesson-content/audits/expression/batch-02-midi/prog-expression-003-03-primary.mid",
+          "notes": 18,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "29d1d30b7a0dfd29501b559e803c2f330217769cbddff0a49fc28b59d7a5948b"
+        },
+        {
+          "progressionId": "prog-expression-003-04-primary",
+          "file": "lesson-content/audits/expression/batch-02-midi/prog-expression-003-04-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "5bb7f73844c7434cbd1479e28743652e83996a7c1bb068997106bf771e2394a6"
+        },
+        {
+          "progressionId": "prog-expression-004-02-primary",
+          "file": "lesson-content/audits/expression/batch-02-midi/prog-expression-004-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 909091,
+          "sha256": "7bcc74e80a4bc47de28778cea44289ea4f29590a21253fa0a5c8f11dde2c1524"
+        },
+        {
+          "progressionId": "prog-expression-004-03-primary",
+          "file": "lesson-content/audits/expression/batch-02-midi/prog-expression-004-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 909091,
+          "sha256": "971c2c3e4ffd788cd124d3fb52b0c53d33596788d2ead2b299fbb1a2b618f7e0"
+        },
+        {
+          "progressionId": "prog-expression-005-03-primary",
+          "file": "lesson-content/audits/expression/batch-02-midi/prog-expression-005-03-primary.mid",
+          "notes": 42,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "aa0a0029ce4c3d8e6200c7e0fca8b514448d1e573f029db3d548e522101a7977"
+        },
+        {
+          "progressionId": "prog-expression-006-02-primary",
+          "file": "lesson-content/audits/expression/batch-02-midi/prog-expression-006-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 882353,
+          "sha256": "07a45db025bfdd541afbabb16154a3d3dfad9887057c3e1ef6ee7da5920915ef"
+        },
+        {
+          "progressionId": "prog-expression-006-03-primary",
+          "file": "lesson-content/audits/expression/batch-02-midi/prog-expression-006-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 882353,
+          "sha256": "e31646879183d6e20505e7efb493799487efbc2585b542f0b6d536d16404e45e"
+        },
+        {
+          "progressionId": "prog-expression-006-04-primary",
+          "file": "lesson-content/audits/expression/batch-02-midi/prog-expression-006-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 882353,
+          "sha256": "81143b18d3849f8bedf6db9a4811d568a97ee8905c32f9f10bfc498e752a265c"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-expression-004",
+      "lesson-expression-005",
+      "lesson-expression-006"
+    ]
+  },
+  "melody-02": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 25,
+      "progressions": 25,
+      "chord-events": 100,
+      "note-events": 298
+    },
+    "metrics": {
+      "progressionsAnalyzed": 25,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-melody"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-melody-001-01-primary",
+          "file": "lesson-content/audits/melody/batch-02-midi/prog-melody-001-01-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e8acdcd58ed4b32eda8be9816050623b3159cf8dd75719a766d2c6020b1cbeed"
+        },
+        {
+          "progressionId": "prog-melody-001-02-primary",
+          "file": "lesson-content/audits/melody/batch-02-midi/prog-melody-001-02-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "eebabbcaff1de02d1583f4e38fef3546fb6828fcd0ee55730c9af462fc72d9cd"
+        },
+        {
+          "progressionId": "prog-melody-001-03-primary",
+          "file": "lesson-content/audits/melody/batch-02-midi/prog-melody-001-03-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "734af1d672fc3dd180130ea2fd504249973584a8ddd0b758d3e2f90d8511d092"
+        },
+        {
+          "progressionId": "prog-melody-002-02-primary",
+          "file": "lesson-content/audits/melody/batch-02-midi/prog-melody-002-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "bb08d0bfb12d15d6a42450290af0ce4ccb03c0427f5434ec58add481f95f5573"
+        },
+        {
+          "progressionId": "prog-melody-002-04-primary",
+          "file": "lesson-content/audits/melody/batch-02-midi/prog-melody-002-04-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e640f2c6a993872a82b78b294390d8f9c8f6931743cb2248581ae14d00a831f6"
+        },
+        {
+          "progressionId": "prog-melody-003-02-primary",
+          "file": "lesson-content/audits/melody/batch-02-midi/prog-melody-003-02-primary.mid",
+          "notes": 9,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "286dbb6b36893192d4b0e919ede94b54c652623faceda55b5acd44a35472fbc6"
+        },
+        {
+          "progressionId": "prog-melody-003-03-primary",
+          "file": "lesson-content/audits/melody/batch-02-midi/prog-melody-003-03-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "81b877b7f3ba3f5376708a30c83a8514cfc2f282afd720fade41166c94f3e484"
+        },
+        {
+          "progressionId": "prog-melody-004-02-primary",
+          "file": "lesson-content/audits/melody/batch-02-midi/prog-melody-004-02-primary.mid",
+          "notes": 9,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "9c312b34abb2c3dcb2f35a88dbe7b757b57b38dd1ab26486047dbaddf2529bae"
+        },
+        {
+          "progressionId": "prog-melody-004-03-primary",
+          "file": "lesson-content/audits/melody/batch-02-midi/prog-melody-004-03-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "8b0b35512db39b449cdd983a94fa565aecf9f8db1583fe11b84b7610ebaeef27"
+        },
+        {
+          "progressionId": "prog-melody-004-04-primary",
+          "file": "lesson-content/audits/melody/batch-02-midi/prog-melody-004-04-primary.mid",
+          "notes": 11,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "cb5bebe4cd5960121f077987ea33a98c72ab85b5e52d9b5d59ae77e1fef6a7cc"
+        },
+        {
+          "progressionId": "prog-melody-005-03-primary",
+          "file": "lesson-content/audits/melody/batch-02-midi/prog-melody-005-03-primary.mid",
+          "notes": 19,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "c1c457a1d102b54d0c476e24e37bf6e0e26ab8e849e318125c6002ac513b6388"
+        },
+        {
+          "progressionId": "prog-melody-006-04-primary",
+          "file": "lesson-content/audits/melody/batch-02-midi/prog-melody-006-04-primary.mid",
+          "notes": 8,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a7d8a9374ee9e93428fd518e1465ef3b0c826b3c284c4bc8fad37d73ae8e395b"
+        },
+        {
+          "progressionId": "prog-melody-006-05-primary",
+          "file": "lesson-content/audits/melody/batch-02-midi/prog-melody-006-05-primary.mid",
+          "notes": 8,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "b03f669918d32ca19d0d685bfa1d240a39e8419d420b27470d5faa8b5314b4aa"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-melody-004",
+      "lesson-melody-005",
+      "lesson-melody-006"
+    ]
+  },
+  "accompaniment-02": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 30,
+      "progressions": 30,
+      "chord-events": 140,
+      "note-events": 554
+    },
+    "metrics": {
+      "progressionsAnalyzed": 30,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-accompaniment"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-accompaniment-001-01-primary",
+          "file": "lesson-content/audits/accompaniment/batch-02-midi/prog-accompaniment-001-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "699e171b249c6f371427d0e0221929cfb52c532e240470f03c49086761737d25"
+        },
+        {
+          "progressionId": "prog-accompaniment-001-02-primary",
+          "file": "lesson-content/audits/accompaniment/batch-02-midi/prog-accompaniment-001-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "c46c73f0934c2b87cc7f9a03270e1ea9a12884d8995997b4d69d01c413178316"
+        },
+        {
+          "progressionId": "prog-accompaniment-001-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-02-midi/prog-accompaniment-001-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "65f5cc772e1dafc9904ef0bb1c88252c7ce4a2cffd4a5f93148a4af4d55b9358"
+        },
+        {
+          "progressionId": "prog-accompaniment-002-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-02-midi/prog-accompaniment-002-03-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "e0905664623b96dd9f2d4c3648e8eb9afaba4f35e6b6dc72936103dcc37caa08"
+        },
+        {
+          "progressionId": "prog-accompaniment-002-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-02-midi/prog-accompaniment-002-05-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "e0905664623b96dd9f2d4c3648e8eb9afaba4f35e6b6dc72936103dcc37caa08"
+        },
+        {
+          "progressionId": "prog-accompaniment-003-01-primary",
+          "file": "lesson-content/audits/accompaniment/batch-02-midi/prog-accompaniment-003-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "d9db05a6636dda64c1465066f60bc751bc9b4b13d2c96593dbac55a01b6a8599"
+        },
+        {
+          "progressionId": "prog-accompaniment-003-02-primary",
+          "file": "lesson-content/audits/accompaniment/batch-02-midi/prog-accompaniment-003-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "d136a9a6bf6e09aef9fbb1f1efd61a6c21398df6a6b1d046e786064851e5b5a8"
+        },
+        {
+          "progressionId": "prog-accompaniment-003-04-primary",
+          "file": "lesson-content/audits/accompaniment/batch-02-midi/prog-accompaniment-003-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "611527e3690b595a2cfbc1141bcbc1ef301b2de67f3b1dd8da111ccef63f5708"
+        },
+        {
+          "progressionId": "prog-accompaniment-003-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-02-midi/prog-accompaniment-003-05-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "b82210c29a0d0b45bbbc6577df3fd609faa49d87ef6d68137b865a0aa331e60d"
+        },
+        {
+          "progressionId": "prog-accompaniment-004-04-primary",
+          "file": "lesson-content/audits/accompaniment/batch-02-midi/prog-accompaniment-004-04-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "8dd8a1f412c73aa35987e825e3d95774afc791b7fbf1ce8c9f2fb9126d807b65"
+        },
+        {
+          "progressionId": "prog-accompaniment-005-02-primary",
+          "file": "lesson-content/audits/accompaniment/batch-02-midi/prog-accompaniment-005-02-primary.mid",
+          "notes": 28,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "46638f36cc4f52ca07ea094dd866ee3af8889c1bd56fde92c5fda10961f56d2e"
+        },
+        {
+          "progressionId": "prog-accompaniment-006-04-primary",
+          "file": "lesson-content/audits/accompaniment/batch-02-midi/prog-accompaniment-006-04-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "270cb0fe51ee417568548af3ee868907633f41efc429072aba6fcab970ea0e11"
+        },
+        {
+          "progressionId": "prog-accompaniment-006-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-02-midi/prog-accompaniment-006-05-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "d4b3bd75cfb01f41bafc5ed1e7ed8bef2f0e7b7dd4af825fe6e95fad3113097c"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-accompaniment-004",
+      "lesson-accompaniment-005",
+      "lesson-accompaniment-006"
+    ]
+  },
+  "harmony-02": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 24,
+      "progressions": 24,
+      "chord-events": 90,
+      "note-events": 368
+    },
+    "metrics": {
+      "progressionsAnalyzed": 24,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-harmony"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-harmony-001-01-primary",
+          "file": "lesson-content/audits/harmony/batch-02-midi/prog-harmony-001-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "608fc84cb7ac4e4c769f39b7bfccde99871b47e0974bae9e5ab195ef8664a1de"
+        },
+        {
+          "progressionId": "prog-harmony-001-02-primary",
+          "file": "lesson-content/audits/harmony/batch-02-midi/prog-harmony-001-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "647c0c48f26fd5e6ff019e1715f97e508f2ece5e91e49f3c3a4bfd232723337c"
+        },
+        {
+          "progressionId": "prog-harmony-001-03-primary",
+          "file": "lesson-content/audits/harmony/batch-02-midi/prog-harmony-001-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "92b2f7080107ebfd976193d9f460c86779c5a1f49cef534f60c67df89ee1854e"
+        },
+        {
+          "progressionId": "prog-harmony-001-04-primary",
+          "file": "lesson-content/audits/harmony/batch-02-midi/prog-harmony-001-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "647c0c48f26fd5e6ff019e1715f97e508f2ece5e91e49f3c3a4bfd232723337c"
+        },
+        {
+          "progressionId": "prog-harmony-003-02-primary",
+          "file": "lesson-content/audits/harmony/batch-02-midi/prog-harmony-003-02-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "74900215709ec52aa49d65e4f13faf9e727ca2fc87a6d8491137fe190fd15408"
+        },
+        {
+          "progressionId": "prog-harmony-003-03-primary",
+          "file": "lesson-content/audits/harmony/batch-02-midi/prog-harmony-003-03-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a20837c8e9b52bdf9db3cb0d86276888dea5c14a7ed3dd9093037ff8c7cfb05c"
+        },
+        {
+          "progressionId": "prog-harmony-003-04-primary",
+          "file": "lesson-content/audits/harmony/batch-02-midi/prog-harmony-003-04-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "fdf7e2f27a6ea9dd12133d3b8cabe1841102d79e8f2716ba61695508da8887ad"
+        },
+        {
+          "progressionId": "prog-harmony-004-02-primary",
+          "file": "lesson-content/audits/harmony/batch-02-midi/prog-harmony-004-02-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "c74d1ff006072ea79bcf2edf59a39b835d4b87138debfba5b497b850f0bbf8cf"
+        },
+        {
+          "progressionId": "prog-harmony-004-03-primary",
+          "file": "lesson-content/audits/harmony/batch-02-midi/prog-harmony-004-03-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "4d615f460e9d7065b505731e159da037f194e2f3ade986caf1e2de9538112774"
+        },
+        {
+          "progressionId": "prog-harmony-005-03-primary",
+          "file": "lesson-content/audits/harmony/batch-02-midi/prog-harmony-005-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "07f6b997439e4f740d27f261dc592239ebd6b2691effd5933a88e7393989c16c"
+        },
+        {
+          "progressionId": "prog-harmony-006-02-primary",
+          "file": "lesson-content/audits/harmony/batch-02-midi/prog-harmony-006-02-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "167d5f42de8f55198549d001cd09e8fd69b8e43cc1af2f5798339152da4e27b0"
+        },
+        {
+          "progressionId": "prog-harmony-006-03-primary",
+          "file": "lesson-content/audits/harmony/batch-02-midi/prog-harmony-006-03-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "6403a3ae5c0fb2ac167419586e42fe6ae32bb95feaebeee141f1a9477702b60d"
+        },
+        {
+          "progressionId": "prog-harmony-006-04-primary",
+          "file": "lesson-content/audits/harmony/batch-02-midi/prog-harmony-006-04-primary.mid",
+          "notes": 13,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "f55f9e04c752c69e491dcdc0ad4bfed1bd366a6a89783813219622187ab3e6b9"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-harmony-004",
+      "lesson-harmony-005",
+      "lesson-harmony-006"
+    ]
+  },
+  "independence-02": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 30,
+      "progressions": 30,
+      "chord-events": 105,
+      "note-events": 577
+    },
+    "metrics": {
+      "progressionsAnalyzed": 30,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-independence"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-independence-001-01-primary",
+          "file": "lesson-content/audits/independence/batch-02-midi/prog-independence-001-01-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "139541c2e9faedf40c7894763092f43d13d7333d99e5e77681894a30eb3c38ef"
+        },
+        {
+          "progressionId": "prog-independence-001-02-primary",
+          "file": "lesson-content/audits/independence/batch-02-midi/prog-independence-001-02-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "132ec7bb31d167a9a72733ac52976ac98e64c5000a7a6eceb41ec066973b067b"
+        },
+        {
+          "progressionId": "prog-independence-001-03-primary",
+          "file": "lesson-content/audits/independence/batch-02-midi/prog-independence-001-03-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "8767b5d4dc709aae21ca270df18479c2c0fd42e0fc81d034864dea323abb11ea"
+        },
+        {
+          "progressionId": "prog-independence-002-03-primary",
+          "file": "lesson-content/audits/independence/batch-02-midi/prog-independence-002-03-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "9a2887205399cc089611e0baab800486eef71d0d0435a82f0a410fc7a1a81827"
+        },
+        {
+          "progressionId": "prog-independence-002-05-primary",
+          "file": "lesson-content/audits/independence/batch-02-midi/prog-independence-002-05-primary.mid",
+          "notes": 22,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "2624b89f617b4c57575f6896e04a04281bb89b71ad71775d441637c1636c9632"
+        },
+        {
+          "progressionId": "prog-independence-003-01-primary",
+          "file": "lesson-content/audits/independence/batch-02-midi/prog-independence-003-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "ac5e564ce30cfd54dc4415e32d0ff5e05db44cc69d89cb626c58148880cdbed8"
+        },
+        {
+          "progressionId": "prog-independence-003-02-primary",
+          "file": "lesson-content/audits/independence/batch-02-midi/prog-independence-003-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "c87e9844b77ed0bbc7e665a39bb4ba56ec89e101c5fd864bc68e8b95606ba132"
+        },
+        {
+          "progressionId": "prog-independence-003-04-primary",
+          "file": "lesson-content/audits/independence/batch-02-midi/prog-independence-003-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e23576bf190f94b439afbce5ad39c0185b4ce8ac54bce2f46e92455e283d9bb6"
+        },
+        {
+          "progressionId": "prog-independence-003-05-primary",
+          "file": "lesson-content/audits/independence/batch-02-midi/prog-independence-003-05-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a4e743f0c14a30bae1a792dc57da378a781dafd80c58d0825d37d0de596782a8"
+        },
+        {
+          "progressionId": "prog-independence-004-04-primary",
+          "file": "lesson-content/audits/independence/batch-02-midi/prog-independence-004-04-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "161383a7976db4306924354a99dbd20051ffb0cb8a4a0f0aab5b4f660e2bb842"
+        },
+        {
+          "progressionId": "prog-independence-005-02-primary",
+          "file": "lesson-content/audits/independence/batch-02-midi/prog-independence-005-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "611286cf981c29e773cb9b698b37d646c2a5b322c092bd9904b42180ee8f6f50"
+        },
+        {
+          "progressionId": "prog-independence-006-04-primary",
+          "file": "lesson-content/audits/independence/batch-02-midi/prog-independence-006-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "2ff4f0c84d7dc0710a288999365919618dc642d6d42f95c77c63a983b6eb376b"
+        },
+        {
+          "progressionId": "prog-independence-006-05-primary",
+          "file": "lesson-content/audits/independence/batch-02-midi/prog-independence-006-05-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a150ea35e1bc697195e61955f7f6939feb01a1174999fd5faaeb930f72d50666"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-independence-004",
+      "lesson-independence-005",
+      "lesson-independence-006"
+    ]
+  },
+  "melody-03": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 37,
+      "progressions": 37,
+      "chord-events": 148,
+      "note-events": 453
+    },
+    "metrics": {
+      "progressionsAnalyzed": 37,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-melody"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-melody-001-01-primary",
+          "file": "lesson-content/audits/melody/batch-03-midi/prog-melody-001-01-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e8acdcd58ed4b32eda8be9816050623b3159cf8dd75719a766d2c6020b1cbeed"
+        },
+        {
+          "progressionId": "prog-melody-001-03-primary",
+          "file": "lesson-content/audits/melody/batch-03-midi/prog-melody-001-03-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "734af1d672fc3dd180130ea2fd504249973584a8ddd0b758d3e2f90d8511d092"
+        },
+        {
+          "progressionId": "prog-melody-002-01-primary",
+          "file": "lesson-content/audits/melody/batch-03-midi/prog-melody-002-01-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "59e1ebd3f478e4a9d2c61ad16b397088a721a7b22d087681db541962372d7932"
+        },
+        {
+          "progressionId": "prog-melody-002-02-primary",
+          "file": "lesson-content/audits/melody/batch-03-midi/prog-melody-002-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "bb08d0bfb12d15d6a42450290af0ce4ccb03c0427f5434ec58add481f95f5573"
+        },
+        {
+          "progressionId": "prog-melody-002-04-primary",
+          "file": "lesson-content/audits/melody/batch-03-midi/prog-melody-002-04-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e640f2c6a993872a82b78b294390d8f9c8f6931743cb2248581ae14d00a831f6"
+        },
+        {
+          "progressionId": "prog-melody-003-03-primary",
+          "file": "lesson-content/audits/melody/batch-03-midi/prog-melody-003-03-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "81b877b7f3ba3f5376708a30c83a8514cfc2f282afd720fade41166c94f3e484"
+        },
+        {
+          "progressionId": "prog-melody-003-04-primary",
+          "file": "lesson-content/audits/melody/batch-03-midi/prog-melody-003-04-primary.mid",
+          "notes": 9,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "83e20ab21575c2021b18b6026c18913664337730d6b975ccd21ee7cf7f14e021"
+        },
+        {
+          "progressionId": "prog-melody-004-03-primary",
+          "file": "lesson-content/audits/melody/batch-03-midi/prog-melody-004-03-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "8b0b35512db39b449cdd983a94fa565aecf9f8db1583fe11b84b7610ebaeef27"
+        },
+        {
+          "progressionId": "prog-melody-005-04-primary",
+          "file": "lesson-content/audits/melody/batch-03-midi/prog-melody-005-04-primary.mid",
+          "notes": 19,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "9a583bbdfadd955496b40dce2e2685fea8554e057cdc5b072d1cd4d035ccba4d"
+        },
+        {
+          "progressionId": "prog-melody-006-03-primary",
+          "file": "lesson-content/audits/melody/batch-03-midi/prog-melody-006-03-primary.mid",
+          "notes": 8,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "3426a672a14e1b6da111ce5d91db4ec40905bc91ac67c8922ec126d183fe15f0"
+        },
+        {
+          "progressionId": "prog-melody-007-03-primary",
+          "file": "lesson-content/audits/melody/batch-03-midi/prog-melody-007-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a7faeba033a52f3674739b080476707c69f17ba734e4dcf4fa77b4d8305e4482"
+        },
+        {
+          "progressionId": "prog-melody-007-04-primary",
+          "file": "lesson-content/audits/melody/batch-03-midi/prog-melody-007-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "cf3eb08a539667d3f4a2167aedb5adc6b238afd624e47ebe2e0cc0cca8a453da"
+        },
+        {
+          "progressionId": "prog-melody-008-01-primary",
+          "file": "lesson-content/audits/melody/batch-03-midi/prog-melody-008-01-primary.mid",
+          "notes": 8,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "54cdf25984c835d740589df12d69ca4ac7ffa6a626b83d8f8dd90125f9be23fe"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-melody-007",
+      "lesson-melody-008",
+      "lesson-melody-009"
+    ]
+  },
+  "expression-03": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 36,
+      "progressions": 36,
+      "chord-events": 160,
+      "note-events": 863
+    },
+    "metrics": {
+      "progressionsAnalyzed": 36,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-expression"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-expression-001-01-primary",
+          "file": "lesson-content/audits/expression/batch-03-midi/prog-expression-001-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "7613a30e2c01c996cbdb375d3993c61cd3811d9d8c9b867b4d842bbc1da7c519"
+        },
+        {
+          "progressionId": "prog-expression-001-03-primary",
+          "file": "lesson-content/audits/expression/batch-03-midi/prog-expression-001-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "4c6590928756e8dedb58dc79ee881e6786bf34eae22368693c8c6e01a01916f1"
+        },
+        {
+          "progressionId": "prog-expression-002-02-primary",
+          "file": "lesson-content/audits/expression/batch-03-midi/prog-expression-002-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a3b59ccf9028f0889555ae4e995a927a6d1abdc6d0403b45db4e97b54ae445ab"
+        },
+        {
+          "progressionId": "prog-expression-002-04-primary",
+          "file": "lesson-content/audits/expression/batch-03-midi/prog-expression-002-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "39ba1df03ecd0cfcd29aa9b9d44177f3d99f94d096a4b156c5749fad263686d5"
+        },
+        {
+          "progressionId": "prog-expression-003-03-primary",
+          "file": "lesson-content/audits/expression/batch-03-midi/prog-expression-003-03-primary.mid",
+          "notes": 18,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "29d1d30b7a0dfd29501b559e803c2f330217769cbddff0a49fc28b59d7a5948b"
+        },
+        {
+          "progressionId": "prog-expression-003-04-primary",
+          "file": "lesson-content/audits/expression/batch-03-midi/prog-expression-003-04-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "5bb7f73844c7434cbd1479e28743652e83996a7c1bb068997106bf771e2394a6"
+        },
+        {
+          "progressionId": "prog-expression-004-03-primary",
+          "file": "lesson-content/audits/expression/batch-03-midi/prog-expression-004-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 909091,
+          "sha256": "971c2c3e4ffd788cd124d3fb52b0c53d33596788d2ead2b299fbb1a2b618f7e0"
+        },
+        {
+          "progressionId": "prog-expression-005-04-primary",
+          "file": "lesson-content/audits/expression/batch-03-midi/prog-expression-005-04-primary.mid",
+          "notes": 38,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "7e663fb179022b8124d3396bb18de40712c432c97b285232bdd55592bf6f2a30"
+        },
+        {
+          "progressionId": "prog-expression-006-03-primary",
+          "file": "lesson-content/audits/expression/batch-03-midi/prog-expression-006-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 882353,
+          "sha256": "e31646879183d6e20505e7efb493799487efbc2585b542f0b6d536d16404e45e"
+        },
+        {
+          "progressionId": "prog-expression-007-04-primary",
+          "file": "lesson-content/audits/expression/batch-03-midi/prog-expression-007-04-primary.mid",
+          "notes": 44,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 769231,
+          "sha256": "ba13a1bf22960e9096bf0eefec3f3f60234cbdb64a65f62971636e001bd33706"
+        },
+        {
+          "progressionId": "prog-expression-008-01-primary",
+          "file": "lesson-content/audits/expression/batch-03-midi/prog-expression-008-01-primary.mid",
+          "notes": 18,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "af381cae8b0eae97ab708ef9fa9575e8deff25f75f18ae5a476d1d7dcb942cc2"
+        },
+        {
+          "progressionId": "prog-expression-008-02-primary",
+          "file": "lesson-content/audits/expression/batch-03-midi/prog-expression-008-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "44c2945f6d14beb3636457ed6bc2ac9946362cc91a62a041f68b8db3e4c68c9c"
+        },
+        {
+          "progressionId": "prog-expression-009-02-primary",
+          "file": "lesson-content/audits/expression/batch-03-midi/prog-expression-009-02-primary.mid",
+          "notes": 19,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 1000000,
+          "sha256": "7e759aeb4b57d40e5a064b6998e2eb988c32eebadfd24596b1a2b65b52a07740"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-expression-007",
+      "lesson-expression-008",
+      "lesson-expression-009"
+    ]
+  },
+  "independence-03": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 45,
+      "progressions": 45,
+      "chord-events": 150,
+      "note-events": 930
+    },
+    "metrics": {
+      "progressionsAnalyzed": 45,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-independence"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-independence-001-01-primary",
+          "file": "lesson-content/audits/independence/batch-03-midi/prog-independence-001-01-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "139541c2e9faedf40c7894763092f43d13d7333d99e5e77681894a30eb3c38ef"
+        },
+        {
+          "progressionId": "prog-independence-001-03-primary",
+          "file": "lesson-content/audits/independence/batch-03-midi/prog-independence-001-03-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "8767b5d4dc709aae21ca270df18479c2c0fd42e0fc81d034864dea323abb11ea"
+        },
+        {
+          "progressionId": "prog-independence-001-05-primary",
+          "file": "lesson-content/audits/independence/batch-03-midi/prog-independence-001-05-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "dfe2c3b43858f3acbcb7df8e884ccd2f04f277c3b845af54bf4ea071de554138"
+        },
+        {
+          "progressionId": "prog-independence-002-01-primary",
+          "file": "lesson-content/audits/independence/batch-03-midi/prog-independence-002-01-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "512f71cb99646f5922c67129f90cd5e0ee201412d9fdadb816748270f0eee377"
+        },
+        {
+          "progressionId": "prog-independence-004-01-primary",
+          "file": "lesson-content/audits/independence/batch-03-midi/prog-independence-004-01-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e2fba663914cbbc57762c09a7c7c37bc81af6000b5feca806b6348e79682c95a"
+        },
+        {
+          "progressionId": "prog-independence-004-05-primary",
+          "file": "lesson-content/audits/independence/batch-03-midi/prog-independence-004-05-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "b1c756cb0c23f4edf88ef85468b591b8b911bb2753b0cae36fcdb93e4fe3979f"
+        },
+        {
+          "progressionId": "prog-independence-005-02-primary",
+          "file": "lesson-content/audits/independence/batch-03-midi/prog-independence-005-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "611286cf981c29e773cb9b698b37d646c2a5b322c092bd9904b42180ee8f6f50"
+        },
+        {
+          "progressionId": "prog-independence-005-03-primary",
+          "file": "lesson-content/audits/independence/batch-03-midi/prog-independence-005-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "8fc43a9c47508540b629aee8719dee535bb30d5bc5c19fa16c822a4b42ed134b"
+        },
+        {
+          "progressionId": "prog-independence-006-03-primary",
+          "file": "lesson-content/audits/independence/batch-03-midi/prog-independence-006-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "1dcf3ceb81a24b9b09ed23ecf8422ae4e42628d6b78177c4a345777b3f27de9a"
+        },
+        {
+          "progressionId": "prog-independence-006-04-primary",
+          "file": "lesson-content/audits/independence/batch-03-midi/prog-independence-006-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "2ff4f0c84d7dc0710a288999365919618dc642d6d42f95c77c63a983b6eb376b"
+        },
+        {
+          "progressionId": "prog-independence-006-05-primary",
+          "file": "lesson-content/audits/independence/batch-03-midi/prog-independence-006-05-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a150ea35e1bc697195e61955f7f6939feb01a1174999fd5faaeb930f72d50666"
+        },
+        {
+          "progressionId": "prog-independence-008-02-primary",
+          "file": "lesson-content/audits/independence/batch-03-midi/prog-independence-008-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "c8ca3a28bb08cf11748935bc5e85c8e46f23dedb2b09ff229f9a8c131c89acac"
+        },
+        {
+          "progressionId": "prog-independence-008-03-primary",
+          "file": "lesson-content/audits/independence/batch-03-midi/prog-independence-008-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "c3f35167baaf81dc6bd39e6722395c1cce037145264e9decfec0ff0f09ba92b1"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-independence-007",
+      "lesson-independence-008",
+      "lesson-independence-009"
+    ]
+  },
+  "harmony-03": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 36,
+      "progressions": 36,
+      "chord-events": 141,
+      "note-events": 577
+    },
+    "metrics": {
+      "progressionsAnalyzed": 36,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-harmony"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-harmony-001-01-primary",
+          "file": "lesson-content/audits/harmony/batch-03-midi/prog-harmony-001-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "608fc84cb7ac4e4c769f39b7bfccde99871b47e0974bae9e5ab195ef8664a1de"
+        },
+        {
+          "progressionId": "prog-harmony-001-03-primary",
+          "file": "lesson-content/audits/harmony/batch-03-midi/prog-harmony-001-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "92b2f7080107ebfd976193d9f460c86779c5a1f49cef534f60c67df89ee1854e"
+        },
+        {
+          "progressionId": "prog-harmony-002-02-primary",
+          "file": "lesson-content/audits/harmony/batch-03-midi/prog-harmony-002-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "8e8ae3963e77e348c50d043b864a2dad7b23295bfe63dac5913a844bc5d646f6"
+        },
+        {
+          "progressionId": "prog-harmony-002-04-primary",
+          "file": "lesson-content/audits/harmony/batch-03-midi/prog-harmony-002-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "737817eeb869515920e6b6c653b7bec809028af1c20113e9235f64f1bfb7a4da"
+        },
+        {
+          "progressionId": "prog-harmony-003-03-primary",
+          "file": "lesson-content/audits/harmony/batch-03-midi/prog-harmony-003-03-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a20837c8e9b52bdf9db3cb0d86276888dea5c14a7ed3dd9093037ff8c7cfb05c"
+        },
+        {
+          "progressionId": "prog-harmony-003-04-primary",
+          "file": "lesson-content/audits/harmony/batch-03-midi/prog-harmony-003-04-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "fdf7e2f27a6ea9dd12133d3b8cabe1841102d79e8f2716ba61695508da8887ad"
+        },
+        {
+          "progressionId": "prog-harmony-004-03-primary",
+          "file": "lesson-content/audits/harmony/batch-03-midi/prog-harmony-004-03-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "4d615f460e9d7065b505731e159da037f194e2f3ade986caf1e2de9538112774"
+        },
+        {
+          "progressionId": "prog-harmony-005-04-primary",
+          "file": "lesson-content/audits/harmony/batch-03-midi/prog-harmony-005-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "51f5415a6d93f6ab9f49c8d897725167da3161cdda9c9ff0ada18e2814648fc1"
+        },
+        {
+          "progressionId": "prog-harmony-006-03-primary",
+          "file": "lesson-content/audits/harmony/batch-03-midi/prog-harmony-006-03-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "6403a3ae5c0fb2ac167419586e42fe6ae32bb95feaebeee141f1a9477702b60d"
+        },
+        {
+          "progressionId": "prog-harmony-007-04-primary",
+          "file": "lesson-content/audits/harmony/batch-03-midi/prog-harmony-007-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "2ea0d93baea019a913bb7c71823c3f580dc9547238807b85bd1c1d285bf3f7c0"
+        },
+        {
+          "progressionId": "prog-harmony-008-01-primary",
+          "file": "lesson-content/audits/harmony/batch-03-midi/prog-harmony-008-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "43dd98cce5b777551d711b831d5d0f0572216f6303a5d7e30e5b6d8f590026e4"
+        },
+        {
+          "progressionId": "prog-harmony-008-02-primary",
+          "file": "lesson-content/audits/harmony/batch-03-midi/prog-harmony-008-02-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "94a4d0b9fcdfbac65dd83d6adc18803410c1dca5c54d87bdbebff2f8fcc54856"
+        },
+        {
+          "progressionId": "prog-harmony-009-02-primary",
+          "file": "lesson-content/audits/harmony/batch-03-midi/prog-harmony-009-02-primary.mid",
+          "notes": 21,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "ce8a75334dfb6504a84ac3eb4fd8e4fd2d7df7ff78c4d2f915de2d6818e746a1"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-harmony-007",
+      "lesson-harmony-008",
+      "lesson-harmony-009"
+    ]
+  },
+  "accompaniment-03": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 45,
+      "progressions": 45,
+      "chord-events": 200,
+      "note-events": 806
+    },
+    "metrics": {
+      "progressionsAnalyzed": 45,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-accompaniment"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-accompaniment-001-01-primary",
+          "file": "lesson-content/audits/accompaniment/batch-03-midi/prog-accompaniment-001-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "699e171b249c6f371427d0e0221929cfb52c532e240470f03c49086761737d25"
+        },
+        {
+          "progressionId": "prog-accompaniment-001-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-03-midi/prog-accompaniment-001-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "65f5cc772e1dafc9904ef0bb1c88252c7ce4a2cffd4a5f93148a4af4d55b9358"
+        },
+        {
+          "progressionId": "prog-accompaniment-001-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-03-midi/prog-accompaniment-001-05-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "65f5cc772e1dafc9904ef0bb1c88252c7ce4a2cffd4a5f93148a4af4d55b9358"
+        },
+        {
+          "progressionId": "prog-accompaniment-002-01-primary",
+          "file": "lesson-content/audits/accompaniment/batch-03-midi/prog-accompaniment-002-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "ce7498b8d145639d1826fce9779f5f3967f0fd5f562947c4ea383701c1ca5a9f"
+        },
+        {
+          "progressionId": "prog-accompaniment-004-01-primary",
+          "file": "lesson-content/audits/accompaniment/batch-03-midi/prog-accompaniment-004-01-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "75e718f37469691663d2eb2ecaa6fc3e728b99cdf4950d1486771590e721f4e1"
+        },
+        {
+          "progressionId": "prog-accompaniment-004-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-03-midi/prog-accompaniment-004-05-primary.mid",
+          "notes": 14,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "dd7f69fcaa9a1033302eafb83c8ca0e6bff2cf42d41a2e7d43d62342100fb1f7"
+        },
+        {
+          "progressionId": "prog-accompaniment-005-02-primary",
+          "file": "lesson-content/audits/accompaniment/batch-03-midi/prog-accompaniment-005-02-primary.mid",
+          "notes": 28,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "46638f36cc4f52ca07ea094dd866ee3af8889c1bd56fde92c5fda10961f56d2e"
+        },
+        {
+          "progressionId": "prog-accompaniment-005-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-03-midi/prog-accompaniment-005-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "3b05c1684de423a2191a9babbf97c724306323807b0e356ecbf19f8de964aefa"
+        },
+        {
+          "progressionId": "prog-accompaniment-006-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-03-midi/prog-accompaniment-006-03-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "19868fb3f4e7096c047ffb1ee2b9c602d5673d01f75a28e004c05a6f59633298"
+        },
+        {
+          "progressionId": "prog-accompaniment-006-04-primary",
+          "file": "lesson-content/audits/accompaniment/batch-03-midi/prog-accompaniment-006-04-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "270cb0fe51ee417568548af3ee868907633f41efc429072aba6fcab970ea0e11"
+        },
+        {
+          "progressionId": "prog-accompaniment-006-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-03-midi/prog-accompaniment-006-05-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "d4b3bd75cfb01f41bafc5ed1e7ed8bef2f0e7b7dd4af825fe6e95fad3113097c"
+        },
+        {
+          "progressionId": "prog-accompaniment-008-02-primary",
+          "file": "lesson-content/audits/accompaniment/batch-03-midi/prog-accompaniment-008-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "331d6e262a48c09eb0826d383d936dd293546a0e3c44cd2347b0e44173e9b42a"
+        },
+        {
+          "progressionId": "prog-accompaniment-008-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-03-midi/prog-accompaniment-008-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "37a137c67da75485092289b2299ae5c35f9298ecb104bef57321edb917d443ee"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-accompaniment-007",
+      "lesson-accompaniment-008",
+      "lesson-accompaniment-009"
+    ]
+  },
+  "rhythm-03": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 41,
+      "progressions": 42,
+      "chord-events": 158,
+      "note-events": 1711
+    },
+    "metrics": {
+      "progressionsAnalyzed": 42,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 18,
+      "categoriesCovered": [
+        "cat-rhythm"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-rhythm-001-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-001-01-primary.mid",
+          "notes": 28,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "3289853b4343b7401010d9e7bbaff23a6809c14c3334ea14dd3aaf32e4f7e0a5"
+        },
+        {
+          "progressionId": "prog-rhythm-001-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-001-03-primary.mid",
+          "notes": 25,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "c2ec4d51b3cc70499846b9ace740f01f6fa503026ef7458493eef36e7aa1098c"
+        },
+        {
+          "progressionId": "prog-rhythm-002-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-002-01-primary.mid",
+          "notes": 56,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "4aa3bd964f3765bd0fc2557efa771050b1c08abe0b05ed7a962240f9b0f175fa"
+        },
+        {
+          "progressionId": "prog-rhythm-002-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-002-02-primary.mid",
+          "notes": 104,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "fc104df621346134d1dd4b9e3a402fa75cdf04ba052d9bfed48f4f24c599cb8a"
+        },
+        {
+          "progressionId": "prog-rhythm-004-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-004-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "023d5ce87dbff5a45c81c3841d82c92a5f78e535d42971e22cf47d3c6a6d89c9"
+        },
+        {
+          "progressionId": "prog-rhythm-004-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-004-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "03e12cf73aa376b15c7dea7e15a08fa0c7d962ec0fa66dfdf04fbcbf54d0a064"
+        },
+        {
+          "progressionId": "prog-rhythm-004-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-004-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "892429614ada6842313fec1fe17c390cdc81d5848d6dfd4c7b188e7d65a705bb"
+        },
+        {
+          "progressionId": "prog-rhythm-004-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-004-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "a16da20313baebb5a28435e16cc6b29e80c4865b42985bf5d4d1fc156b4d1163"
+        },
+        {
+          "progressionId": "prog-rhythm-004-05-alternative-01",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-004-05-alternative-01.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "e5ca6e78e4b200f5ffe0200fe75292a96c137e656e3f14e6966b831755b982f2"
+        },
+        {
+          "progressionId": "prog-rhythm-004-05-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-004-05-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "4834f89f81840d2517550387f7e1cc4567c49ccd8dc79f6f475fdb23a50e186b"
+        },
+        {
+          "progressionId": "prog-rhythm-005-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-005-02-primary.mid",
+          "notes": 40,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 600000,
+          "sha256": "b6149d329794dbbd0ec9ec48aff9d8daa4e705d6b6d90192c8d14d5007350847"
+        },
+        {
+          "progressionId": "prog-rhythm-005-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-005-04-primary.mid",
+          "notes": 39,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 600000,
+          "sha256": "956198812ebcb982c5d6241d0c4a5c4c26a4676fec798d6dd5a22260f4afd6e7"
+        },
+        {
+          "progressionId": "prog-rhythm-006-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-006-01-primary.mid",
+          "notes": 80,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "65ef0ad3541c3de4311e3622dda9df835ec362397a97ed1206a59cd23ff56199"
+        },
+        {
+          "progressionId": "prog-rhythm-007-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-007-02-primary.mid",
+          "notes": 72,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 666667,
+          "sha256": "9c61a02e3c6662b500f02480dee3031cb844c3593031f0b5f58a47265af5c8a6"
+        },
+        {
+          "progressionId": "prog-rhythm-007-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-007-03-primary.mid",
+          "notes": 72,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 666667,
+          "sha256": "f58ec5c27058d165286b41739ac6002457e7cecaed94494435114a952fd08bda"
+        },
+        {
+          "progressionId": "prog-rhythm-007-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-007-04-primary.mid",
+          "notes": 72,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 666667,
+          "sha256": "d11b6bf114644fe73ce7ee60de734462af7d6586ca8c617d1286f2947cd1ca3c"
+        },
+        {
+          "progressionId": "prog-rhythm-009-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-009-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "f0ae084f0429b9acc481cd77af8eea0456317ad37932f8ef48ed7606d273e064"
+        },
+        {
+          "progressionId": "prog-rhythm-009-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-03-midi/prog-rhythm-009-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "36b25a38d18396abe6320f75dd8b64bb251fe44c3db7675e1df3a734f6e883ba"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-rhythm-008",
+      "lesson-rhythm-009",
+      "lesson-rhythm-010"
+    ]
+  },
+  "melody-04": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 50,
+      "progressions": 50,
+      "chord-events": 252,
+      "note-events": 844
+    },
+    "metrics": {
+      "progressionsAnalyzed": 50,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-melody"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-melody-001-01-primary",
+          "file": "lesson-content/audits/melody/batch-04-midi/prog-melody-001-01-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e8acdcd58ed4b32eda8be9816050623b3159cf8dd75719a766d2c6020b1cbeed"
+        },
+        {
+          "progressionId": "prog-melody-001-03-primary",
+          "file": "lesson-content/audits/melody/batch-04-midi/prog-melody-001-03-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "734af1d672fc3dd180130ea2fd504249973584a8ddd0b758d3e2f90d8511d092"
+        },
+        {
+          "progressionId": "prog-melody-002-01-primary",
+          "file": "lesson-content/audits/melody/batch-04-midi/prog-melody-002-01-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "59e1ebd3f478e4a9d2c61ad16b397088a721a7b22d087681db541962372d7932"
+        },
+        {
+          "progressionId": "prog-melody-002-02-primary",
+          "file": "lesson-content/audits/melody/batch-04-midi/prog-melody-002-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "bb08d0bfb12d15d6a42450290af0ce4ccb03c0427f5434ec58add481f95f5573"
+        },
+        {
+          "progressionId": "prog-melody-004-04-primary",
+          "file": "lesson-content/audits/melody/batch-04-midi/prog-melody-004-04-primary.mid",
+          "notes": 11,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "cb5bebe4cd5960121f077987ea33a98c72ab85b5e52d9b5d59ae77e1fef6a7cc"
+        },
+        {
+          "progressionId": "prog-melody-005-04-primary",
+          "file": "lesson-content/audits/melody/batch-04-midi/prog-melody-005-04-primary.mid",
+          "notes": 19,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "9a583bbdfadd955496b40dce2e2685fea8554e057cdc5b072d1cd4d035ccba4d"
+        },
+        {
+          "progressionId": "prog-melody-006-02-primary",
+          "file": "lesson-content/audits/melody/batch-04-midi/prog-melody-006-02-primary.mid",
+          "notes": 8,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "88995b203dfec2f17766d6d9081eb5816f4ca2c177fa78ffd8e8c678d117c57a"
+        },
+        {
+          "progressionId": "prog-melody-006-03-primary",
+          "file": "lesson-content/audits/melody/batch-04-midi/prog-melody-006-03-primary.mid",
+          "notes": 8,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "3426a672a14e1b6da111ce5d91db4ec40905bc91ac67c8922ec126d183fe15f0"
+        },
+        {
+          "progressionId": "prog-melody-007-03-primary",
+          "file": "lesson-content/audits/melody/batch-04-midi/prog-melody-007-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a7faeba033a52f3674739b080476707c69f17ba734e4dcf4fa77b4d8305e4482"
+        },
+        {
+          "progressionId": "prog-melody-008-01-primary",
+          "file": "lesson-content/audits/melody/batch-04-midi/prog-melody-008-01-primary.mid",
+          "notes": 8,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "54cdf25984c835d740589df12d69ca4ac7ffa6a626b83d8f8dd90125f9be23fe"
+        },
+        {
+          "progressionId": "prog-melody-009-04-primary",
+          "file": "lesson-content/audits/melody/batch-04-midi/prog-melody-009-04-primary.mid",
+          "notes": 9,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "6cad462f50a38d751f744b3b4205be7361c308b95fed64543dd326f77219062b"
+        },
+        {
+          "progressionId": "prog-melody-010-01-primary",
+          "file": "lesson-content/audits/melody/batch-04-midi/prog-melody-010-01-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "ad79d032b891dc7b6f6ded50c3c0396ad5c4eb89179132c4752405f6d00d81fe"
+        },
+        {
+          "progressionId": "prog-melody-011-03-primary",
+          "file": "lesson-content/audits/melody/batch-04-midi/prog-melody-011-03-primary.mid",
+          "notes": 35,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "dabda59ba67793cd1db78bd2a5a1e937d13fdcadc9d5580008910b54520e0fbf"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-melody-010",
+      "lesson-melody-011",
+      "lesson-melody-012"
+    ]
+  },
+  "expression-04": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 50,
+      "progressions": 50,
+      "chord-events": 256,
+      "note-events": 1210
+    },
+    "metrics": {
+      "progressionsAnalyzed": 50,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-expression"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-expression-001-01-primary",
+          "file": "lesson-content/audits/expression/batch-04-midi/prog-expression-001-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "7613a30e2c01c996cbdb375d3993c61cd3811d9d8c9b867b4d842bbc1da7c519"
+        },
+        {
+          "progressionId": "prog-expression-001-03-primary",
+          "file": "lesson-content/audits/expression/batch-04-midi/prog-expression-001-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "4c6590928756e8dedb58dc79ee881e6786bf34eae22368693c8c6e01a01916f1"
+        },
+        {
+          "progressionId": "prog-expression-002-01-primary",
+          "file": "lesson-content/audits/expression/batch-04-midi/prog-expression-002-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "6ef02d62b076459745b01ec44eacc7a57f9be7fb0a3c1c936e76ca385efdfa3d"
+        },
+        {
+          "progressionId": "prog-expression-002-02-primary",
+          "file": "lesson-content/audits/expression/batch-04-midi/prog-expression-002-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a3b59ccf9028f0889555ae4e995a927a6d1abdc6d0403b45db4e97b54ae445ab"
+        },
+        {
+          "progressionId": "prog-expression-004-04-primary",
+          "file": "lesson-content/audits/expression/batch-04-midi/prog-expression-004-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 909091,
+          "sha256": "dc710fe6ea053e73cfda41df45648ea76a93019b2ead7e6d5d070aa158167366"
+        },
+        {
+          "progressionId": "prog-expression-005-04-primary",
+          "file": "lesson-content/audits/expression/batch-04-midi/prog-expression-005-04-primary.mid",
+          "notes": 38,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "7e663fb179022b8124d3396bb18de40712c432c97b285232bdd55592bf6f2a30"
+        },
+        {
+          "progressionId": "prog-expression-006-02-primary",
+          "file": "lesson-content/audits/expression/batch-04-midi/prog-expression-006-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 882353,
+          "sha256": "07a45db025bfdd541afbabb16154a3d3dfad9887057c3e1ef6ee7da5920915ef"
+        },
+        {
+          "progressionId": "prog-expression-006-03-primary",
+          "file": "lesson-content/audits/expression/batch-04-midi/prog-expression-006-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 882353,
+          "sha256": "e31646879183d6e20505e7efb493799487efbc2585b542f0b6d536d16404e45e"
+        },
+        {
+          "progressionId": "prog-expression-007-04-primary",
+          "file": "lesson-content/audits/expression/batch-04-midi/prog-expression-007-04-primary.mid",
+          "notes": 44,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 769231,
+          "sha256": "ba13a1bf22960e9096bf0eefec3f3f60234cbdb64a65f62971636e001bd33706"
+        },
+        {
+          "progressionId": "prog-expression-008-02-primary",
+          "file": "lesson-content/audits/expression/batch-04-midi/prog-expression-008-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "44c2945f6d14beb3636457ed6bc2ac9946362cc91a62a041f68b8db3e4c68c9c"
+        },
+        {
+          "progressionId": "prog-expression-010-01-primary",
+          "file": "lesson-content/audits/expression/batch-04-midi/prog-expression-010-01-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "c62bdb718851a09e22178806bf39bf2ee558a5b20fd9582a3ac5f846869edd92"
+        },
+        {
+          "progressionId": "prog-expression-010-02-primary",
+          "file": "lesson-content/audits/expression/batch-04-midi/prog-expression-010-02-primary.mid",
+          "notes": 25,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "cae2c17cc6ee67dffb0bc0df3b0c073fe7b80ca57776ec5269856a1a99d02b81"
+        },
+        {
+          "progressionId": "prog-expression-011-03-primary",
+          "file": "lesson-content/audits/expression/batch-04-midi/prog-expression-011-03-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "e064969084205dbcbafab7dba94813e816ceb2ec454ca1efced623d0c0717f97"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-expression-010",
+      "lesson-expression-011",
+      "lesson-expression-012"
+    ]
+  },
+  "independence-04": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 59,
+      "progressions": 59,
+      "chord-events": 246,
+      "note-events": 1451
+    },
+    "metrics": {
+      "progressionsAnalyzed": 59,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-independence"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-independence-001-01-primary",
+          "file": "lesson-content/audits/independence/batch-04-midi/prog-independence-001-01-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "139541c2e9faedf40c7894763092f43d13d7333d99e5e77681894a30eb3c38ef"
+        },
+        {
+          "progressionId": "prog-independence-001-03-primary",
+          "file": "lesson-content/audits/independence/batch-04-midi/prog-independence-001-03-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "8767b5d4dc709aae21ca270df18479c2c0fd42e0fc81d034864dea323abb11ea"
+        },
+        {
+          "progressionId": "prog-independence-001-05-primary",
+          "file": "lesson-content/audits/independence/batch-04-midi/prog-independence-001-05-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "dfe2c3b43858f3acbcb7df8e884ccd2f04f277c3b845af54bf4ea071de554138"
+        },
+        {
+          "progressionId": "prog-independence-002-01-primary",
+          "file": "lesson-content/audits/independence/batch-04-midi/prog-independence-002-01-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "512f71cb99646f5922c67129f90cd5e0ee201412d9fdadb816748270f0eee377"
+        },
+        {
+          "progressionId": "prog-independence-004-01-primary",
+          "file": "lesson-content/audits/independence/batch-04-midi/prog-independence-004-01-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e2fba663914cbbc57762c09a7c7c37bc81af6000b5feca806b6348e79682c95a"
+        },
+        {
+          "progressionId": "prog-independence-004-05-primary",
+          "file": "lesson-content/audits/independence/batch-04-midi/prog-independence-004-05-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "b1c756cb0c23f4edf88ef85468b591b8b911bb2753b0cae36fcdb93e4fe3979f"
+        },
+        {
+          "progressionId": "prog-independence-005-02-primary",
+          "file": "lesson-content/audits/independence/batch-04-midi/prog-independence-005-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "611286cf981c29e773cb9b698b37d646c2a5b322c092bd9904b42180ee8f6f50"
+        },
+        {
+          "progressionId": "prog-independence-006-03-primary",
+          "file": "lesson-content/audits/independence/batch-04-midi/prog-independence-006-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "1dcf3ceb81a24b9b09ed23ecf8422ae4e42628d6b78177c4a345777b3f27de9a"
+        },
+        {
+          "progressionId": "prog-independence-006-05-primary",
+          "file": "lesson-content/audits/independence/batch-04-midi/prog-independence-006-05-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a150ea35e1bc697195e61955f7f6939feb01a1174999fd5faaeb930f72d50666"
+        },
+        {
+          "progressionId": "prog-independence-008-02-primary",
+          "file": "lesson-content/audits/independence/batch-04-midi/prog-independence-008-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "c8ca3a28bb08cf11748935bc5e85c8e46f23dedb2b09ff229f9a8c131c89acac"
+        },
+        {
+          "progressionId": "prog-independence-008-03-primary",
+          "file": "lesson-content/audits/independence/batch-04-midi/prog-independence-008-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "c3f35167baaf81dc6bd39e6722395c1cce037145264e9decfec0ff0f09ba92b1"
+        },
+        {
+          "progressionId": "prog-independence-009-04-primary",
+          "file": "lesson-content/audits/independence/batch-04-midi/prog-independence-009-04-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "eb101c776e8daeeb5109409d0a97b35b2f7469ae0da4ba7df91983bfebb6fce8"
+        },
+        {
+          "progressionId": "prog-independence-009-05-primary",
+          "file": "lesson-content/audits/independence/batch-04-midi/prog-independence-009-05-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "c39555c01dc8e4a73ea2621e67aa3e143b9bee5c6b76bbee409ca70b910e81e1"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-independence-010",
+      "lesson-independence-011",
+      "lesson-independence-012"
+    ]
+  },
+  "harmony-04": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 48,
+      "progressions": 48,
+      "chord-events": 221,
+      "note-events": 839
+    },
+    "metrics": {
+      "progressionsAnalyzed": 48,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-harmony"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-harmony-001-01-primary",
+          "file": "lesson-content/audits/harmony/batch-04-midi/prog-harmony-001-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "608fc84cb7ac4e4c769f39b7bfccde99871b47e0974bae9e5ab195ef8664a1de"
+        },
+        {
+          "progressionId": "prog-harmony-001-03-primary",
+          "file": "lesson-content/audits/harmony/batch-04-midi/prog-harmony-001-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "92b2f7080107ebfd976193d9f460c86779c5a1f49cef534f60c67df89ee1854e"
+        },
+        {
+          "progressionId": "prog-harmony-002-01-primary",
+          "file": "lesson-content/audits/harmony/batch-04-midi/prog-harmony-002-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "647c0c48f26fd5e6ff019e1715f97e508f2ece5e91e49f3c3a4bfd232723337c"
+        },
+        {
+          "progressionId": "prog-harmony-002-02-primary",
+          "file": "lesson-content/audits/harmony/batch-04-midi/prog-harmony-002-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "8e8ae3963e77e348c50d043b864a2dad7b23295bfe63dac5913a844bc5d646f6"
+        },
+        {
+          "progressionId": "prog-harmony-004-04-primary",
+          "file": "lesson-content/audits/harmony/batch-04-midi/prog-harmony-004-04-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "c74d1ff006072ea79bcf2edf59a39b835d4b87138debfba5b497b850f0bbf8cf"
+        },
+        {
+          "progressionId": "prog-harmony-005-04-primary",
+          "file": "lesson-content/audits/harmony/batch-04-midi/prog-harmony-005-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "51f5415a6d93f6ab9f49c8d897725167da3161cdda9c9ff0ada18e2814648fc1"
+        },
+        {
+          "progressionId": "prog-harmony-006-02-primary",
+          "file": "lesson-content/audits/harmony/batch-04-midi/prog-harmony-006-02-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "167d5f42de8f55198549d001cd09e8fd69b8e43cc1af2f5798339152da4e27b0"
+        },
+        {
+          "progressionId": "prog-harmony-006-03-primary",
+          "file": "lesson-content/audits/harmony/batch-04-midi/prog-harmony-006-03-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "6403a3ae5c0fb2ac167419586e42fe6ae32bb95feaebeee141f1a9477702b60d"
+        },
+        {
+          "progressionId": "prog-harmony-007-04-primary",
+          "file": "lesson-content/audits/harmony/batch-04-midi/prog-harmony-007-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "2ea0d93baea019a913bb7c71823c3f580dc9547238807b85bd1c1d285bf3f7c0"
+        },
+        {
+          "progressionId": "prog-harmony-008-01-primary",
+          "file": "lesson-content/audits/harmony/batch-04-midi/prog-harmony-008-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "43dd98cce5b777551d711b831d5d0f0572216f6303a5d7e30e5b6d8f590026e4"
+        },
+        {
+          "progressionId": "prog-harmony-008-02-primary",
+          "file": "lesson-content/audits/harmony/batch-04-midi/prog-harmony-008-02-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "94a4d0b9fcdfbac65dd83d6adc18803410c1dca5c54d87bdbebff2f8fcc54856"
+        },
+        {
+          "progressionId": "prog-harmony-011-01-primary",
+          "file": "lesson-content/audits/harmony/batch-04-midi/prog-harmony-011-01-primary.mid",
+          "notes": 25,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "2d4d9cb0ddde11294f5ed16897f84a230f8e4cea92b7d28f9b7e1b472c06c166"
+        },
+        {
+          "progressionId": "prog-harmony-011-02-primary",
+          "file": "lesson-content/audits/harmony/batch-04-midi/prog-harmony-011-02-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "bcf335b5d367c525aa1d8841c85ee8b4665f69f8abfc992c040ef1a6a9ebd466"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-harmony-010",
+      "lesson-harmony-011",
+      "lesson-harmony-012"
+    ]
+  },
+  "accompaniment-04": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 60,
+      "progressions": 60,
+      "chord-events": 280,
+      "note-events": 1206
+    },
+    "metrics": {
+      "progressionsAnalyzed": 60,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-accompaniment"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-accompaniment-001-01-primary",
+          "file": "lesson-content/audits/accompaniment/batch-04-midi/prog-accompaniment-001-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "699e171b249c6f371427d0e0221929cfb52c532e240470f03c49086761737d25"
+        },
+        {
+          "progressionId": "prog-accompaniment-001-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-04-midi/prog-accompaniment-001-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "65f5cc772e1dafc9904ef0bb1c88252c7ce4a2cffd4a5f93148a4af4d55b9358"
+        },
+        {
+          "progressionId": "prog-accompaniment-001-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-04-midi/prog-accompaniment-001-05-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "65f5cc772e1dafc9904ef0bb1c88252c7ce4a2cffd4a5f93148a4af4d55b9358"
+        },
+        {
+          "progressionId": "prog-accompaniment-002-01-primary",
+          "file": "lesson-content/audits/accompaniment/batch-04-midi/prog-accompaniment-002-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "ce7498b8d145639d1826fce9779f5f3967f0fd5f562947c4ea383701c1ca5a9f"
+        },
+        {
+          "progressionId": "prog-accompaniment-004-01-primary",
+          "file": "lesson-content/audits/accompaniment/batch-04-midi/prog-accompaniment-004-01-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "75e718f37469691663d2eb2ecaa6fc3e728b99cdf4950d1486771590e721f4e1"
+        },
+        {
+          "progressionId": "prog-accompaniment-004-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-04-midi/prog-accompaniment-004-05-primary.mid",
+          "notes": 14,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "dd7f69fcaa9a1033302eafb83c8ca0e6bff2cf42d41a2e7d43d62342100fb1f7"
+        },
+        {
+          "progressionId": "prog-accompaniment-005-02-primary",
+          "file": "lesson-content/audits/accompaniment/batch-04-midi/prog-accompaniment-005-02-primary.mid",
+          "notes": 28,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "46638f36cc4f52ca07ea094dd866ee3af8889c1bd56fde92c5fda10961f56d2e"
+        },
+        {
+          "progressionId": "prog-accompaniment-006-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-04-midi/prog-accompaniment-006-03-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "19868fb3f4e7096c047ffb1ee2b9c602d5673d01f75a28e004c05a6f59633298"
+        },
+        {
+          "progressionId": "prog-accompaniment-006-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-04-midi/prog-accompaniment-006-05-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "d4b3bd75cfb01f41bafc5ed1e7ed8bef2f0e7b7dd4af825fe6e95fad3113097c"
+        },
+        {
+          "progressionId": "prog-accompaniment-008-02-primary",
+          "file": "lesson-content/audits/accompaniment/batch-04-midi/prog-accompaniment-008-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "331d6e262a48c09eb0826d383d936dd293546a0e3c44cd2347b0e44173e9b42a"
+        },
+        {
+          "progressionId": "prog-accompaniment-008-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-04-midi/prog-accompaniment-008-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "37a137c67da75485092289b2299ae5c35f9298ecb104bef57321edb917d443ee"
+        },
+        {
+          "progressionId": "prog-accompaniment-009-04-primary",
+          "file": "lesson-content/audits/accompaniment/batch-04-midi/prog-accompaniment-009-04-primary.mid",
+          "notes": 15,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 882353,
+          "sha256": "b1c865731b3ec2fea6f9cf6c4e235f9678aa8043bce1f5823a12cdd6fabdb7a7"
+        },
+        {
+          "progressionId": "prog-accompaniment-009-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-04-midi/prog-accompaniment-009-05-primary.mid",
+          "notes": 14,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 882353,
+          "sha256": "9d240d32f2375f0ad916c7770cd18295ab5c26b4697c4c894475e588e0fd55a6"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-accompaniment-010",
+      "lesson-accompaniment-011",
+      "lesson-accompaniment-012"
+    ]
+  },
+  "rhythm-04": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 53,
+      "progressions": 54,
+      "chord-events": 231,
+      "note-events": 2491
+    },
+    "metrics": {
+      "progressionsAnalyzed": 54,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 18,
+      "categoriesCovered": [
+        "cat-rhythm"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-rhythm-001-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-001-01-primary.mid",
+          "notes": 28,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "3289853b4343b7401010d9e7bbaff23a6809c14c3334ea14dd3aaf32e4f7e0a5"
+        },
+        {
+          "progressionId": "prog-rhythm-001-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-001-03-primary.mid",
+          "notes": 25,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "c2ec4d51b3cc70499846b9ace740f01f6fa503026ef7458493eef36e7aa1098c"
+        },
+        {
+          "progressionId": "prog-rhythm-002-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-002-01-primary.mid",
+          "notes": 56,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "4aa3bd964f3765bd0fc2557efa771050b1c08abe0b05ed7a962240f9b0f175fa"
+        },
+        {
+          "progressionId": "prog-rhythm-002-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-002-02-primary.mid",
+          "notes": 104,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "fc104df621346134d1dd4b9e3a402fa75cdf04ba052d9bfed48f4f24c599cb8a"
+        },
+        {
+          "progressionId": "prog-rhythm-004-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-004-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "023d5ce87dbff5a45c81c3841d82c92a5f78e535d42971e22cf47d3c6a6d89c9"
+        },
+        {
+          "progressionId": "prog-rhythm-004-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-004-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "03e12cf73aa376b15c7dea7e15a08fa0c7d962ec0fa66dfdf04fbcbf54d0a064"
+        },
+        {
+          "progressionId": "prog-rhythm-004-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-004-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "892429614ada6842313fec1fe17c390cdc81d5848d6dfd4c7b188e7d65a705bb"
+        },
+        {
+          "progressionId": "prog-rhythm-004-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-004-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "a16da20313baebb5a28435e16cc6b29e80c4865b42985bf5d4d1fc156b4d1163"
+        },
+        {
+          "progressionId": "prog-rhythm-004-05-alternative-01",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-004-05-alternative-01.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "e5ca6e78e4b200f5ffe0200fe75292a96c137e656e3f14e6966b831755b982f2"
+        },
+        {
+          "progressionId": "prog-rhythm-004-05-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-004-05-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "4834f89f81840d2517550387f7e1cc4567c49ccd8dc79f6f475fdb23a50e186b"
+        },
+        {
+          "progressionId": "prog-rhythm-005-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-005-02-primary.mid",
+          "notes": 40,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 600000,
+          "sha256": "b6149d329794dbbd0ec9ec48aff9d8daa4e705d6b6d90192c8d14d5007350847"
+        },
+        {
+          "progressionId": "prog-rhythm-005-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-005-04-primary.mid",
+          "notes": 39,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 600000,
+          "sha256": "956198812ebcb982c5d6241d0c4a5c4c26a4676fec798d6dd5a22260f4afd6e7"
+        },
+        {
+          "progressionId": "prog-rhythm-006-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-006-01-primary.mid",
+          "notes": 80,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "65ef0ad3541c3de4311e3622dda9df835ec362397a97ed1206a59cd23ff56199"
+        },
+        {
+          "progressionId": "prog-rhythm-007-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-007-02-primary.mid",
+          "notes": 72,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 666667,
+          "sha256": "9c61a02e3c6662b500f02480dee3031cb844c3593031f0b5f58a47265af5c8a6"
+        },
+        {
+          "progressionId": "prog-rhythm-007-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-007-04-primary.mid",
+          "notes": 72,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 666667,
+          "sha256": "d11b6bf114644fe73ce7ee60de734462af7d6586ca8c617d1286f2947cd1ca3c"
+        },
+        {
+          "progressionId": "prog-rhythm-009-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-009-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "f0ae084f0429b9acc481cd77af8eea0456317ad37932f8ef48ed7606d273e064"
+        },
+        {
+          "progressionId": "prog-rhythm-009-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-009-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "36b25a38d18396abe6320f75dd8b64bb251fe44c3db7675e1df3a734f6e883ba"
+        },
+        {
+          "progressionId": "prog-rhythm-011-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-04-midi/prog-rhythm-011-02-primary.mid",
+          "notes": 76,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "7e3a3948f1891fa12dd41460e1ca9ee10f08e4e24626a4dfa4efa8018e86356a"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-rhythm-011",
+      "lesson-rhythm-012",
+      "lesson-rhythm-013"
+    ]
+  },
+  "melody-05": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 64,
+      "progressions": 64,
+      "chord-events": 348,
+      "note-events": 1204
+    },
+    "metrics": {
+      "progressionsAnalyzed": 64,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-melody"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-melody-001-01-primary",
+          "file": "lesson-content/audits/melody/batch-05-midi/prog-melody-001-01-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e8acdcd58ed4b32eda8be9816050623b3159cf8dd75719a766d2c6020b1cbeed"
+        },
+        {
+          "progressionId": "prog-melody-001-03-primary",
+          "file": "lesson-content/audits/melody/batch-05-midi/prog-melody-001-03-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "734af1d672fc3dd180130ea2fd504249973584a8ddd0b758d3e2f90d8511d092"
+        },
+        {
+          "progressionId": "prog-melody-002-01-primary",
+          "file": "lesson-content/audits/melody/batch-05-midi/prog-melody-002-01-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "59e1ebd3f478e4a9d2c61ad16b397088a721a7b22d087681db541962372d7932"
+        },
+        {
+          "progressionId": "prog-melody-003-03-primary",
+          "file": "lesson-content/audits/melody/batch-05-midi/prog-melody-003-03-primary.mid",
+          "notes": 10,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "81b877b7f3ba3f5376708a30c83a8514cfc2f282afd720fade41166c94f3e484"
+        },
+        {
+          "progressionId": "prog-melody-004-04-primary",
+          "file": "lesson-content/audits/melody/batch-05-midi/prog-melody-004-04-primary.mid",
+          "notes": 11,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "cb5bebe4cd5960121f077987ea33a98c72ab85b5e52d9b5d59ae77e1fef6a7cc"
+        },
+        {
+          "progressionId": "prog-melody-005-04-primary",
+          "file": "lesson-content/audits/melody/batch-05-midi/prog-melody-005-04-primary.mid",
+          "notes": 19,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "9a583bbdfadd955496b40dce2e2685fea8554e057cdc5b072d1cd4d035ccba4d"
+        },
+        {
+          "progressionId": "prog-melody-006-02-primary",
+          "file": "lesson-content/audits/melody/batch-05-midi/prog-melody-006-02-primary.mid",
+          "notes": 8,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "88995b203dfec2f17766d6d9081eb5816f4ca2c177fa78ffd8e8c678d117c57a"
+        },
+        {
+          "progressionId": "prog-melody-007-03-primary",
+          "file": "lesson-content/audits/melody/batch-05-midi/prog-melody-007-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "a7faeba033a52f3674739b080476707c69f17ba734e4dcf4fa77b4d8305e4482"
+        },
+        {
+          "progressionId": "prog-melody-008-01-primary",
+          "file": "lesson-content/audits/melody/batch-05-midi/prog-melody-008-01-primary.mid",
+          "notes": 8,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "54cdf25984c835d740589df12d69ca4ac7ffa6a626b83d8f8dd90125f9be23fe"
+        },
+        {
+          "progressionId": "prog-melody-009-04-primary",
+          "file": "lesson-content/audits/melody/batch-05-midi/prog-melody-009-04-primary.mid",
+          "notes": 9,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "6cad462f50a38d751f744b3b4205be7361c308b95fed64543dd326f77219062b"
+        },
+        {
+          "progressionId": "prog-melody-010-01-primary",
+          "file": "lesson-content/audits/melody/batch-05-midi/prog-melody-010-01-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "ad79d032b891dc7b6f6ded50c3c0396ad5c4eb89179132c4752405f6d00d81fe"
+        },
+        {
+          "progressionId": "prog-melody-011-03-primary",
+          "file": "lesson-content/audits/melody/batch-05-midi/prog-melody-011-03-primary.mid",
+          "notes": 35,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "dabda59ba67793cd1db78bd2a5a1e937d13fdcadc9d5580008910b54520e0fbf"
+        },
+        {
+          "progressionId": "prog-melody-011-04-primary",
+          "file": "lesson-content/audits/melody/batch-05-midi/prog-melody-011-04-primary.mid",
+          "notes": 35,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "a8d4fee4fe251709aa101682f944527bff151219e89d33c388c7920b69390a25"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-melody-013",
+      "lesson-melody-014",
+      "lesson-melody-015"
+    ]
+  },
+  "expression-05": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 64,
+      "progressions": 64,
+      "chord-events": 368,
+      "note-events": 1695
+    },
+    "metrics": {
+      "progressionsAnalyzed": 64,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-expression"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-expression-001-01-primary",
+          "file": "lesson-content/audits/expression/batch-05-midi/prog-expression-001-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "7613a30e2c01c996cbdb375d3993c61cd3811d9d8c9b867b4d842bbc1da7c519"
+        },
+        {
+          "progressionId": "prog-expression-001-03-primary",
+          "file": "lesson-content/audits/expression/batch-05-midi/prog-expression-001-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "4c6590928756e8dedb58dc79ee881e6786bf34eae22368693c8c6e01a01916f1"
+        },
+        {
+          "progressionId": "prog-expression-002-01-primary",
+          "file": "lesson-content/audits/expression/batch-05-midi/prog-expression-002-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "6ef02d62b076459745b01ec44eacc7a57f9be7fb0a3c1c936e76ca385efdfa3d"
+        },
+        {
+          "progressionId": "prog-expression-003-03-primary",
+          "file": "lesson-content/audits/expression/batch-05-midi/prog-expression-003-03-primary.mid",
+          "notes": 18,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "29d1d30b7a0dfd29501b559e803c2f330217769cbddff0a49fc28b59d7a5948b"
+        },
+        {
+          "progressionId": "prog-expression-004-04-primary",
+          "file": "lesson-content/audits/expression/batch-05-midi/prog-expression-004-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 909091,
+          "sha256": "dc710fe6ea053e73cfda41df45648ea76a93019b2ead7e6d5d070aa158167366"
+        },
+        {
+          "progressionId": "prog-expression-005-04-primary",
+          "file": "lesson-content/audits/expression/batch-05-midi/prog-expression-005-04-primary.mid",
+          "notes": 38,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "7e663fb179022b8124d3396bb18de40712c432c97b285232bdd55592bf6f2a30"
+        },
+        {
+          "progressionId": "prog-expression-006-02-primary",
+          "file": "lesson-content/audits/expression/batch-05-midi/prog-expression-006-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 882353,
+          "sha256": "07a45db025bfdd541afbabb16154a3d3dfad9887057c3e1ef6ee7da5920915ef"
+        },
+        {
+          "progressionId": "prog-expression-007-04-primary",
+          "file": "lesson-content/audits/expression/batch-05-midi/prog-expression-007-04-primary.mid",
+          "notes": 44,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 769231,
+          "sha256": "ba13a1bf22960e9096bf0eefec3f3f60234cbdb64a65f62971636e001bd33706"
+        },
+        {
+          "progressionId": "prog-expression-008-02-primary",
+          "file": "lesson-content/audits/expression/batch-05-midi/prog-expression-008-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "44c2945f6d14beb3636457ed6bc2ac9946362cc91a62a041f68b8db3e4c68c9c"
+        },
+        {
+          "progressionId": "prog-expression-010-01-primary",
+          "file": "lesson-content/audits/expression/batch-05-midi/prog-expression-010-01-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "c62bdb718851a09e22178806bf39bf2ee558a5b20fd9582a3ac5f846869edd92"
+        },
+        {
+          "progressionId": "prog-expression-010-02-primary",
+          "file": "lesson-content/audits/expression/batch-05-midi/prog-expression-010-02-primary.mid",
+          "notes": 25,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "cae2c17cc6ee67dffb0bc0df3b0c073fe7b80ca57776ec5269856a1a99d02b81"
+        },
+        {
+          "progressionId": "prog-expression-011-03-primary",
+          "file": "lesson-content/audits/expression/batch-05-midi/prog-expression-011-03-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "e064969084205dbcbafab7dba94813e816ceb2ec454ca1efced623d0c0717f97"
+        },
+        {
+          "progressionId": "prog-expression-011-04-primary",
+          "file": "lesson-content/audits/expression/batch-05-midi/prog-expression-011-04-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "f82a924f56deced741377d3b98278d8fcafd34b3744cdca704192b7c5edd003b"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-expression-013",
+      "lesson-expression-014",
+      "lesson-expression-015"
+    ]
+  },
+  "independence-05": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 74,
+      "progressions": 74,
+      "chord-events": 336,
+      "note-events": 2040
+    },
+    "metrics": {
+      "progressionsAnalyzed": 74,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-independence"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-independence-001-01-primary",
+          "file": "lesson-content/audits/independence/batch-05-midi/prog-independence-001-01-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "139541c2e9faedf40c7894763092f43d13d7333d99e5e77681894a30eb3c38ef"
+        },
+        {
+          "progressionId": "prog-independence-001-05-primary",
+          "file": "lesson-content/audits/independence/batch-05-midi/prog-independence-001-05-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "dfe2c3b43858f3acbcb7df8e884ccd2f04f277c3b845af54bf4ea071de554138"
+        },
+        {
+          "progressionId": "prog-independence-002-05-primary",
+          "file": "lesson-content/audits/independence/batch-05-midi/prog-independence-002-05-primary.mid",
+          "notes": 22,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "2624b89f617b4c57575f6896e04a04281bb89b71ad71775d441637c1636c9632"
+        },
+        {
+          "progressionId": "prog-independence-003-01-primary",
+          "file": "lesson-content/audits/independence/batch-05-midi/prog-independence-003-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "ac5e564ce30cfd54dc4415e32d0ff5e05db44cc69d89cb626c58148880cdbed8"
+        },
+        {
+          "progressionId": "prog-independence-007-02-primary",
+          "file": "lesson-content/audits/independence/batch-05-midi/prog-independence-007-02-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "0facb4aed7551ff2898f82fc6fb12811529fe028eed60acef009181721291afe"
+        },
+        {
+          "progressionId": "prog-independence-008-05-primary",
+          "file": "lesson-content/audits/independence/batch-05-midi/prog-independence-008-05-primary.mid",
+          "notes": 19,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "9dae6e1cf4fb790c711c96d1881d89d77b461f949a3dc899be33747a12497045"
+        },
+        {
+          "progressionId": "prog-independence-009-03-primary",
+          "file": "lesson-content/audits/independence/batch-05-midi/prog-independence-009-03-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "e18de2735daa84f711d76517c7f42e112f26e7aa3809c01ba00987ccc138cc54"
+        },
+        {
+          "progressionId": "prog-independence-009-05-primary",
+          "file": "lesson-content/audits/independence/batch-05-midi/prog-independence-009-05-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "c39555c01dc8e4a73ea2621e67aa3e143b9bee5c6b76bbee409ca70b910e81e1"
+        },
+        {
+          "progressionId": "prog-independence-010-01-primary",
+          "file": "lesson-content/audits/independence/batch-05-midi/prog-independence-010-01-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "24dca7103ca835d8f397c110d41594c059baf4400b656e92d6f1100926d0f52f"
+        },
+        {
+          "progressionId": "prog-independence-012-01-primary",
+          "file": "lesson-content/audits/independence/batch-05-midi/prog-independence-012-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "4921bb052b0eda4b457cf2692b465e50fa0e669cacd955bd99a150c0f30a768b"
+        },
+        {
+          "progressionId": "prog-independence-012-04-primary",
+          "file": "lesson-content/audits/independence/batch-05-midi/prog-independence-012-04-primary.mid",
+          "notes": 54,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "efab78d89a4b290d083eb8ca80041992655896aec51ebd6f5634734122ba0827"
+        },
+        {
+          "progressionId": "prog-independence-013-01-primary",
+          "file": "lesson-content/audits/independence/batch-05-midi/prog-independence-013-01-primary.mid",
+          "notes": 48,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 681818,
+          "sha256": "57a435b2f34d1db18f408a9dbd8c9d054f5e9ba10c5b460384af2ba053c3252a"
+        },
+        {
+          "progressionId": "prog-independence-015-04-primary",
+          "file": "lesson-content/audits/independence/batch-05-midi/prog-independence-015-04-primary.mid",
+          "notes": 31,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "e7315682d9360f2606ad71259ffb86018436cd72ecf9a651afb8026fbdda7dbc"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-independence-013",
+      "lesson-independence-014",
+      "lesson-independence-015"
+    ]
+  },
+  "harmony-05": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 60,
+      "progressions": 60,
+      "chord-events": 320,
+      "note-events": 1166
+    },
+    "metrics": {
+      "progressionsAnalyzed": 60,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-harmony"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-harmony-001-01-primary",
+          "file": "lesson-content/audits/harmony/batch-05-midi/prog-harmony-001-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "608fc84cb7ac4e4c769f39b7bfccde99871b47e0974bae9e5ab195ef8664a1de"
+        },
+        {
+          "progressionId": "prog-harmony-001-03-primary",
+          "file": "lesson-content/audits/harmony/batch-05-midi/prog-harmony-001-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "92b2f7080107ebfd976193d9f460c86779c5a1f49cef534f60c67df89ee1854e"
+        },
+        {
+          "progressionId": "prog-harmony-002-01-primary",
+          "file": "lesson-content/audits/harmony/batch-05-midi/prog-harmony-002-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "647c0c48f26fd5e6ff019e1715f97e508f2ece5e91e49f3c3a4bfd232723337c"
+        },
+        {
+          "progressionId": "prog-harmony-002-02-primary",
+          "file": "lesson-content/audits/harmony/batch-05-midi/prog-harmony-002-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "8e8ae3963e77e348c50d043b864a2dad7b23295bfe63dac5913a844bc5d646f6"
+        },
+        {
+          "progressionId": "prog-harmony-004-04-primary",
+          "file": "lesson-content/audits/harmony/batch-05-midi/prog-harmony-004-04-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "c74d1ff006072ea79bcf2edf59a39b835d4b87138debfba5b497b850f0bbf8cf"
+        },
+        {
+          "progressionId": "prog-harmony-005-04-primary",
+          "file": "lesson-content/audits/harmony/batch-05-midi/prog-harmony-005-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "51f5415a6d93f6ab9f49c8d897725167da3161cdda9c9ff0ada18e2814648fc1"
+        },
+        {
+          "progressionId": "prog-harmony-006-02-primary",
+          "file": "lesson-content/audits/harmony/batch-05-midi/prog-harmony-006-02-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "167d5f42de8f55198549d001cd09e8fd69b8e43cc1af2f5798339152da4e27b0"
+        },
+        {
+          "progressionId": "prog-harmony-007-04-primary",
+          "file": "lesson-content/audits/harmony/batch-05-midi/prog-harmony-007-04-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "2ea0d93baea019a913bb7c71823c3f580dc9547238807b85bd1c1d285bf3f7c0"
+        },
+        {
+          "progressionId": "prog-harmony-008-02-primary",
+          "file": "lesson-content/audits/harmony/batch-05-midi/prog-harmony-008-02-primary.mid",
+          "notes": 17,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "94a4d0b9fcdfbac65dd83d6adc18803410c1dca5c54d87bdbebff2f8fcc54856"
+        },
+        {
+          "progressionId": "prog-harmony-011-01-primary",
+          "file": "lesson-content/audits/harmony/batch-05-midi/prog-harmony-011-01-primary.mid",
+          "notes": 25,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "2d4d9cb0ddde11294f5ed16897f84a230f8e4cea92b7d28f9b7e1b472c06c166"
+        },
+        {
+          "progressionId": "prog-harmony-011-02-primary",
+          "file": "lesson-content/audits/harmony/batch-05-midi/prog-harmony-011-02-primary.mid",
+          "notes": 24,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "bcf335b5d367c525aa1d8841c85ee8b4665f69f8abfc992c040ef1a6a9ebd466"
+        },
+        {
+          "progressionId": "prog-harmony-012-04-primary",
+          "file": "lesson-content/audits/harmony/batch-05-midi/prog-harmony-012-04-primary.mid",
+          "notes": 25,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "6d59aa2c37d752321c80b3cd0000fb2f6a83328503e6b4a9e7d3070f29da1087"
+        },
+        {
+          "progressionId": "prog-harmony-013-01-primary",
+          "file": "lesson-content/audits/harmony/batch-05-midi/prog-harmony-013-01-primary.mid",
+          "notes": 25,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 833333,
+          "sha256": "ad4c98145cf67f4ded7916a34db3b94e035d828a6838810fbb2c35b19f9f53bb"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-harmony-013",
+      "lesson-harmony-014",
+      "lesson-harmony-015"
+    ]
+  },
+  "accompaniment-05": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 75,
+      "progressions": 76,
+      "chord-events": 408,
+      "note-events": 2049
+    },
+    "metrics": {
+      "progressionsAnalyzed": 76,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 13,
+      "categoriesCovered": [
+        "cat-accompaniment"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-accompaniment-001-01-primary",
+          "file": "lesson-content/audits/accompaniment/batch-05-midi/prog-accompaniment-001-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "699e171b249c6f371427d0e0221929cfb52c532e240470f03c49086761737d25"
+        },
+        {
+          "progressionId": "prog-accompaniment-001-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-05-midi/prog-accompaniment-001-05-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "65f5cc772e1dafc9904ef0bb1c88252c7ce4a2cffd4a5f93148a4af4d55b9358"
+        },
+        {
+          "progressionId": "prog-accompaniment-002-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-05-midi/prog-accompaniment-002-05-primary.mid",
+          "notes": 12,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "e0905664623b96dd9f2d4c3648e8eb9afaba4f35e6b6dc72936103dcc37caa08"
+        },
+        {
+          "progressionId": "prog-accompaniment-003-01-primary",
+          "file": "lesson-content/audits/accompaniment/batch-05-midi/prog-accompaniment-003-01-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "d9db05a6636dda64c1465066f60bc751bc9b4b13d2c96593dbac55a01b6a8599"
+        },
+        {
+          "progressionId": "prog-accompaniment-007-02-primary",
+          "file": "lesson-content/audits/accompaniment/batch-05-midi/prog-accompaniment-007-02-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 882353,
+          "sha256": "abe3ed50931d1e6a3ddfa155e7daeb5cd2a108f6ad39f77ae7912c47ecf115e0"
+        },
+        {
+          "progressionId": "prog-accompaniment-008-02-primary",
+          "file": "lesson-content/audits/accompaniment/batch-05-midi/prog-accompaniment-008-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "331d6e262a48c09eb0826d383d936dd293546a0e3c44cd2347b0e44173e9b42a"
+        },
+        {
+          "progressionId": "prog-accompaniment-008-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-05-midi/prog-accompaniment-008-05-primary.mid",
+          "notes": 19,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "53483b03172bf911da9930b7ac2031556cd01b7755657e14f97713af76fc26c1"
+        },
+        {
+          "progressionId": "prog-accompaniment-009-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-05-midi/prog-accompaniment-009-03-primary.mid",
+          "notes": 16,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 882353,
+          "sha256": "72f8490777aed7779a5acffa4ce0fd068d8b8267d5ba71a8ce6b7b6bbdd30120"
+        },
+        {
+          "progressionId": "prog-accompaniment-009-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-05-midi/prog-accompaniment-009-05-primary.mid",
+          "notes": 14,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 882353,
+          "sha256": "9d240d32f2375f0ad916c7770cd18295ab5c26b4697c4c894475e588e0fd55a6"
+        },
+        {
+          "progressionId": "prog-accompaniment-011-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-05-midi/prog-accompaniment-011-05-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 1000000,
+          "sha256": "a553c0ba5b89006e259a132d8e637fdf143e19b78a64f08cda09a66c8577b9c1"
+        },
+        {
+          "progressionId": "prog-accompaniment-012-03-primary",
+          "file": "lesson-content/audits/accompaniment/batch-05-midi/prog-accompaniment-012-03-primary.mid",
+          "notes": 15,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "3e2a66ba95856703baba9abff3b347497019cec72baec1876ebf45aad7882bb8"
+        },
+        {
+          "progressionId": "prog-accompaniment-012-05-primary",
+          "file": "lesson-content/audits/accompaniment/batch-05-midi/prog-accompaniment-012-05-primary.mid",
+          "notes": 15,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 833333,
+          "sha256": "0259dc43014855c9e6c81ca9e2bf40938888708fe784e48459934d34f49a667c"
+        },
+        {
+          "progressionId": "prog-accompaniment-015-02-primary",
+          "file": "lesson-content/audits/accompaniment/batch-05-midi/prog-accompaniment-015-02-primary.mid",
+          "notes": 58,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 600000,
+          "sha256": "9253739181c7989e387b993baeb6310a68d3fdd9d801cea923d010b98cd2bae6"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-accompaniment-013",
+      "lesson-accompaniment-014",
+      "lesson-accompaniment-015"
+    ]
+  },
+  "rhythm-05": {
+    "technicalStatus": "passed",
+    "masterStatus": "approved-after-independent-review",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 63,
+      "progressions": 64,
+      "chord-events": 311,
+      "note-events": 2862
+    },
+    "metrics": {
+      "progressionsAnalyzed": 64,
+      "findings": [],
+      "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+    },
+    "midi": {
+      "seed": 202603,
+      "sampleCount": 18,
+      "categoriesCovered": [
+        "cat-rhythm"
+      ],
+      "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+      "samples": [
+        {
+          "progressionId": "prog-rhythm-001-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-001-01-primary.mid",
+          "notes": 28,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "3289853b4343b7401010d9e7bbaff23a6809c14c3334ea14dd3aaf32e4f7e0a5"
+        },
+        {
+          "progressionId": "prog-rhythm-001-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-001-03-primary.mid",
+          "notes": 25,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "c2ec4d51b3cc70499846b9ace740f01f6fa503026ef7458493eef36e7aa1098c"
+        },
+        {
+          "progressionId": "prog-rhythm-002-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-002-01-primary.mid",
+          "notes": 56,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "4aa3bd964f3765bd0fc2557efa771050b1c08abe0b05ed7a962240f9b0f175fa"
+        },
+        {
+          "progressionId": "prog-rhythm-003-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-003-03-primary.mid",
+          "notes": 32,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "ac61a5d078b458026dc8535cce307f1c99be6960af6f1ad1738285eb62f1ba67"
+        },
+        {
+          "progressionId": "prog-rhythm-004-01-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-004-01-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "023d5ce87dbff5a45c81c3841d82c92a5f78e535d42971e22cf47d3c6a6d89c9"
+        },
+        {
+          "progressionId": "prog-rhythm-004-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-004-02-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "03e12cf73aa376b15c7dea7e15a08fa0c7d962ec0fa66dfdf04fbcbf54d0a064"
+        },
+        {
+          "progressionId": "prog-rhythm-004-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-004-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "892429614ada6842313fec1fe17c390cdc81d5848d6dfd4c7b188e7d65a705bb"
+        },
+        {
+          "progressionId": "prog-rhythm-004-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-004-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "a16da20313baebb5a28435e16cc6b29e80c4865b42985bf5d4d1fc156b4d1163"
+        },
+        {
+          "progressionId": "prog-rhythm-004-05-alternative-01",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-004-05-alternative-01.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "e5ca6e78e4b200f5ffe0200fe75292a96c137e656e3f14e6966b831755b982f2"
+        },
+        {
+          "progressionId": "prog-rhythm-004-05-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-004-05-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "4834f89f81840d2517550387f7e1cc4567c49ccd8dc79f6f475fdb23a50e186b"
+        },
+        {
+          "progressionId": "prog-rhythm-005-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-005-02-primary.mid",
+          "notes": 40,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 600000,
+          "sha256": "b6149d329794dbbd0ec9ec48aff9d8daa4e705d6b6d90192c8d14d5007350847"
+        },
+        {
+          "progressionId": "prog-rhythm-005-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-005-04-primary.mid",
+          "notes": 39,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 600000,
+          "sha256": "956198812ebcb982c5d6241d0c4a5c4c26a4676fec798d6dd5a22260f4afd6e7"
+        },
+        {
+          "progressionId": "prog-rhythm-007-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-007-02-primary.mid",
+          "notes": 72,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 666667,
+          "sha256": "9c61a02e3c6662b500f02480dee3031cb844c3593031f0b5f58a47265af5c8a6"
+        },
+        {
+          "progressionId": "prog-rhythm-007-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-007-04-primary.mid",
+          "notes": 72,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 666667,
+          "sha256": "d11b6bf114644fe73ce7ee60de734462af7d6586ca8c617d1286f2947cd1ca3c"
+        },
+        {
+          "progressionId": "prog-rhythm-009-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-009-03-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "f0ae084f0429b9acc481cd77af8eea0456317ad37932f8ef48ed7606d273e064"
+        },
+        {
+          "progressionId": "prog-rhythm-009-04-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-009-04-primary.mid",
+          "notes": 20,
+          "ppq": 960,
+          "totalTicks": 15360,
+          "tempoMicroseconds": 750000,
+          "sha256": "36b25a38d18396abe6320f75dd8b64bb251fe44c3db7675e1df3a734f6e883ba"
+        },
+        {
+          "progressionId": "prog-rhythm-011-02-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-011-02-primary.mid",
+          "notes": 76,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "7e3a3948f1891fa12dd41460e1ca9ee10f08e4e24626a4dfa4efa8018e86356a"
+        },
+        {
+          "progressionId": "prog-rhythm-011-03-primary",
+          "file": "lesson-content/audits/rhythm/batch-05-midi/prog-rhythm-011-03-primary.mid",
+          "notes": 76,
+          "ppq": 960,
+          "totalTicks": 30720,
+          "tempoMicroseconds": 750000,
+          "sha256": "82e31a61607870cc6499d436042404653329b5f816bbed051f1146e94371a2f2"
+        }
+      ]
+    },
+    "approvedLessonIds": [
+      "lesson-rhythm-014",
+      "lesson-rhythm-015"
+    ]
+  }
+}

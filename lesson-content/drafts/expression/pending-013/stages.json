@@ -1,0 +1,62 @@
+[
+  {
+    "id": "stage-expression-013-01",
+    "lessonId": "lesson-expression-013",
+    "order": 1,
+    "title": "Frase llena",
+    "explanationMd": "Versión de referencia completa: la izquierda toca bloques de tres notas durante cuatro pulsos; la derecha frasea cuatro ataques swung por compás. Tempo estable de 72 BPM.",
+    "task": "Toca ambas manos durante ocho compases a 72 BPM: bloques izquierdos y línea derecha en pares swung; mantén el pulso y distingue melodía de acompañamiento.",
+    "changeFromPrevious": "Versión llena de referencia; establece el patrón común de manos, armonía, tempo y swing.",
+    "successCriteria": [
+      "Hay cuatro ataques derechos por compás en los beats 0, ⅔, 2, 2⅔ relativos; duran ⅔, ⅓, ⅔, ⅓ y tienen velocity 72.",
+      "La izquierda toca el bloque indicado al inicio de cada compás durante cuatro pulsos, velocity 55; ambas manos sostienen ocho compases a 72 BPM."
+    ],
+    "simplifyHint": "Practica cada mano por separado; subdivide cada pulso en tres y acentúa la primera corchea del par swung.",
+    "extendHint": "Canta la línea derecha mientras tocas el bloque izquierdo; no añadas otra parte."
+  },
+  {
+    "id": "stage-expression-013-02",
+    "lessonId": "lesson-expression-013",
+    "order": 2,
+    "title": "Respirar en la dominante",
+    "explanationMd": "Se restablece la versión 01 y la derecha calla en los ataques de 15 y 15⅔, creando silencio [13,16); la izquierda mantiene el bloque de G7 en el compás 4.",
+    "task": "Repite exactamente la versión llena de la etapa 01 salvo los dos ataques derechos de 15 y 15⅔, que se omiten. Cuenta el hueco [13,16) mientras la izquierda sostiene su bloque normal.",
+    "changeFromPrevious": "Se restablece la versión 01 y la derecha calla en los ataques de 15 y 15⅔, creando silencio [13,16); la izquierda mantiene el bloque de G7 en el compás 4.",
+    "successCriteria": [
+      "Se omiten solo los ataques derechos en beats globales 15 y 15⅔; el resto de la versión 01 permanece idéntico.",
+      "La derecha queda en silencio de beat 13 a 16 y la izquierda mantiene normalmente el bloque del compás 4."
+    ],
+    "simplifyHint": "Cuenta en voz alta 13–16; retira solo esos dos ataques derechos y sigue tocando la izquierda.",
+    "extendHint": "Toca el hueco de la derecha imaginando su subdivisión, sin rellenarlo y con la izquierda presente."
+  },
+  {
+    "id": "stage-expression-013-03",
+    "lessonId": "lesson-expression-013",
+    "order": 3,
+    "title": "Restablecer y respirar",
+    "explanationMd": "Se restablece la versión 01 y la derecha calla en los ataques de 27 y 27⅔, creando silencio [25,28); la izquierda mantiene el bloque de G7 en el compás 7. No se acumula el silencio de la etapa 02.",
+    "task": "Vuelve a la versión 01 y omite únicamente los ataques derechos de 27 y 27⅔. El silencio [25,28) reemplaza, no suma, al hueco del compás 4; la izquierda continúa.",
+    "changeFromPrevious": "Se restablece la versión 01 y la derecha calla en los ataques de 27 y 27⅔, creando silencio [25,28); la izquierda mantiene el bloque de G7 en el compás 7. No se acumula el silencio de la etapa 02.",
+    "successCriteria": [
+      "La etapa vuelve a la versión llena y omite solo los ataques derechos en beats 27 y 27⅔, no los del compás 4.",
+      "La derecha calla de beat 25 a 28 mientras la izquierda conserva el bloque del compás 7."
+    ],
+    "simplifyHint": "Reinicia mentalmente desde la etapa 01; cuenta 25–28 y deja solo a la derecha en silencio.",
+    "extendHint": "Cuenta el silencio derecho y prepara la llegada del compás 8 sobre el bloque izquierdo continuo."
+  },
+  {
+    "id": "stage-expression-013-04",
+    "lessonId": "lesson-expression-013",
+    "order": 4,
+    "title": "Elegir una llegada",
+    "explanationMd": "Conserva la reducción y el silencio [25,28) de la etapa 03. La llegada en el compás 8, beat 28, pasa de velocity 72 a 84; se conserva el par swing precedente y la izquierda sigue sin cambio. No es silencio total ni cambio de tempo.",
+    "task": "Mantén el arreglo y la pausa de la etapa 03. Haz audible la llegada de la derecha en beat 28 con velocity 84 (antes 72); conserva el swing de los pares cercanos y toca siempre los bloques izquierdos.",
+    "changeFromPrevious": "Conserva la reducción y el silencio [25,28) de la etapa 03. La llegada en el compás 8, beat 28, pasa de velocity 72 a 84; se conserva el par swing precedente y la izquierda sigue sin cambio. No es silencio total ni cambio de tempo.",
+    "successCriteria": [
+      "La reducción y el silencio [25,28) de la etapa 03 se conservan; la única alteración nueva es velocity 84 en la llegada derecha de beat 28.",
+      "La izquierda permanece intacta; no hay tercera mano, silencio total ni cambio de BPM."
+    ],
+    "simplifyHint": "Practica primero la etapa 03; luego acentúa únicamente el ataque derecho de beat 28, sin modificar el bajo.",
+    "extendHint": "Elige si la llegada destacada debe ser en beat 16 o 28; aquí se elige beat 28 y se conserva su par swung previo."
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "id": "stage-melody-001-01",
+    "lessonId": "lesson-melody-001",
+    "order": 1,
+    "title": "Base: nota indiferente",
+    "explanationMd": "A: oye G4 repetido aunque cambien bajo y acorde. La línea no intenta señalar cada cambio. El bajo y la melodía representan parcialmente el plan armónico; no son bloques de acordes completos.",
+    "task": "Toca cada nota derecha al inicio del compás y compara su estabilidad con los cambios del bajo.",
+    "changeFromPrevious": "Presentación A: G4 (67) en los cuatro inicios, sobre el mismo plan C–Am–F–G.",
+    "successCriteria": [
+      "Mantengo G4 en los cuatro inicios",
+      "Oigo que G4 no señala por igual los cuatro cambios"
+    ],
+    "simplifyHint": "Toca G4 una vez al inicio de cada compás; conserva bajo y quinta izquierdos.",
+    "extendHint": "Escoge una nota acordal distinta para una llegada y compara su color sin cambiar el ritmo."
+  },
+  {
+    "id": "stage-melody-001-02",
+    "lessonId": "lesson-melody-001",
+    "order": 2,
+    "title": "B: destinos acordales",
+    "explanationMd": "B: compara con A. Cada ataque ahora coincide con una nota del acorde: E de C, C de Am, F de F y G de G. El bajo y la melodía representan parcialmente el plan armónico; no son bloques de acordes completos.",
+    "task": "Alterna A y B; comprueba que solo cambia la selección de alturas de la melodía.",
+    "changeFromPrevious": "B frente a A: sustituye solo las cuatro alturas derechas por E4, C4, F4 y G4 en 0, 4, 8 y 12; bajo y armonía no cambian.",
+    "successCriteria": [
+      "E, C, F y G pertenecen a los acordes de llegada",
+      "Puedo comparar A y B sin cambiar el pulso"
+    ],
+    "simplifyHint": "Practica primero los cuatro objetivos acordales sin bajo; luego añade la izquierda.",
+    "extendHint": "Escoge una nota acordal distinta para una llegada y compara su color sin cambiar el ritmo."
+  },
+  {
+    "id": "stage-melody-001-03",
+    "lessonId": "lesson-melody-001",
+    "order": 3,
+    "title": "Cambia un destino",
+    "explanationMd": "A/B: solo cambia el objetivo final; B4 también pertenece a G y ofrece otro color acordal que G4. El bajo y la melodía representan parcialmente el plan armónico; no son bloques de acordes completos.",
+    "task": "Compara los finales G4 y B4 sobre G; canta ambos objetivos antes de tocarlos.",
+    "changeFromPrevious": "Frente a B, cambia solo el último objetivo G4 (67) por B4 (71), otra nota del acorde G; los tres primeros objetivos quedan iguales.",
+    "successCriteria": [
+      "Solo cambia el último objetivo",
+      "Reconozco ambos finales como notas de G"
+    ],
+    "simplifyHint": "Compara solo G4 y B4 sobre el último compás antes de tocar la frase completa.",
+    "extendHint": "Escoge una nota acordal distinta para una llegada y compara su color sin cambiar el ritmo."
+  },
+  {
+    "id": "stage-melody-001-04",
+    "lessonId": "lesson-melody-001",
+    "order": 4,
+    "title": "Elección autónoma",
+    "explanationMd": "La referencia usa otras notas del acorde en cada llegada. Canta y escoge tus objetivos: el ejemplo no es respuesta única. El bajo y la melodía representan parcialmente el plan armónico; no son bloques de acordes completos.",
+    "task": "Escoge una nota del acorde por compás y explica por qué la elegiste.",
+    "changeFromPrevious": "Referencia autónoma: C5, E4, A4 y D5 son una elección posible de notas del acorde; elige tus propios objetivos, no una solución única.",
+    "successCriteria": [
+      "Puedo cantar mis objetivos antes de tocarlos",
+      "Sé que la referencia no es la única respuesta"
+    ],
+    "simplifyHint": "Elige una nota del acorde por compás; reduce a dos llegadas si hace falta.",
+    "extendHint": "Escoge una nota acordal distinta para una llegada y compara su color sin cambiar el ritmo."
+  },
+  {
+    "id": "stage-melody-002-01",
+    "lessonId": "lesson-melody-002",
+    "order": 1,
+    "title": "Presenta la célula",
+    "explanationMd": "Canta E4–G4–C5 y siente la pausa antes de la repetición. El bajo y la melodía representan parcialmente el plan armónico; no son bloques de acordes completos.",
+    "task": "Canta la célula, toca sus tres notas y respeta la pausa.",
+    "changeFromPrevious": "Presentación: motivo de tres notas, dos breves y una larga, seguido por aire.",
+    "successCriteria": [
+      "Toco tres notas con ritmo reconocible",
+      "Dejo la pausa después de la célula"
+    ],
+    "simplifyHint": "Toca las tres notas E–G–C más despacio y conserva la pausa.",
+    "extendHint": "Varía una altura cada vez y conserva el ritmo, las tres notas y la pausa."
+  },
+  {
+    "id": "stage-melody-002-02",
+    "lessonId": "lesson-melody-002",
+    "order": 2,
+    "title": "Repite en compases 3 y 4",
+    "explanationMd": "A/B: el motivo que aparecía en compases 1 y 2 ahora también suena en 3 y 4; no cambia su célula. El bajo y la melodía representan parcialmente el plan armónico; no son bloques de acordes completos.",
+    "task": "Compara las repeticiones nuevas de compases 3 y 4 con las de 1 y 2.",
+    "changeFromPrevious": "Frente a 01, repite el mismo motivo en los compases 3 y 4; conserva ritmo, alturas y pausa sobre Am7.",
+    "successCriteria": [
+      "Repito la célula en los compases 3 y 4",
+      "Conservo alturas, contorno y pausa"
+    ],
+    "simplifyHint": "Repite la célula de tres notas solo en el compás 3, manteniendo la pausa.",
+    "extendHint": "Varía una altura cada vez y conserva el ritmo, las tres notas y la pausa."
+  },
+  {
+    "id": "stage-melody-002-03",
+    "lessonId": "lesson-melody-002",
+    "order": 3,
+    "title": "Adapta una altura",
+    "explanationMd": "A/B: compara C5 y A4 al final de las dos últimas células; ritmo y primeras dos notas siguen iguales. El bajo y la melodía representan parcialmente el plan armónico; no son bloques de acordes completos.",
+    "task": "Repite el motivo y escucha cómo cambia solo su última altura en Am7.",
+    "changeFromPrevious": "Frente a 02, cambia solo la última altura de cada repetición en compases 3 y 4: C5 pasa a A4, acorde con Am7.",
+    "successCriteria": [
+      "Cambio una sola altura en cada respuesta",
+      "El motivo sigue reconocible"
+    ],
+    "simplifyHint": "Cambia únicamente la última de las tres notas; conserva ritmo y pausa.",
+    "extendHint": "Varía una altura cada vez y conserva el ritmo, las tres notas y la pausa."
+  },
+  {
+    "id": "stage-melody-002-04",
+    "lessonId": "lesson-melody-002",
+    "order": 4,
+    "title": "Respuesta de referencia",
+    "explanationMd": "Usa la célula como referencia para responder; conserva tres notas y una pausa, con alturas propias. El bajo y la melodía representan parcialmente el plan armónico; no son bloques de acordes completos.",
+    "task": "Inventa una respuesta breve que mantenga el motivo reconocible y su espacio.",
+    "changeFromPrevious": "Referencia autónoma: añade una respuesta breve conservando las tres notas del motivo y dejando su pausa; hay otras respuestas válidas.",
+    "successCriteria": [
+      "Mi respuesta conserva la célula de tres notas",
+      "Dejo espacio y no impongo una solución única"
+    ],
+    "simplifyHint": "Responde una sola vez con tres notas y una pausa.",
+    "extendHint": "Varía una altura cada vez y conserva el ritmo, las tres notas y la pausa."
+  },
+  {
+    "id": "stage-melody-003-01",
+    "lessonId": "lesson-melody-003",
+    "order": 1,
+    "title": "Apoyos sin conexión",
+    "explanationMd": "Escucha E4, C4, A3 y B3 como apoyos; el bajo sostiene las raíces y deja aire a la línea. El bajo y la melodía representan parcialmente el plan armónico; no son bloques de acordes completos.",
+    "task": "Toca los apoyos sin rellenar los huecos; canta E–C y C–A.",
+    "changeFromPrevious": "Presentación: conserva los cuatro apoyos; la derecha deja espacio entre ellos.",
+    "successCriteria": [
+      "Distingo los cuatro apoyos",
+      "Puedo cantar las conexiones sin adornos"
+    ],
+    "simplifyHint": "Toca solo los apoyos E4, C4, A3 y B3; conserva sus huecos.",
+    "extendHint": "Elige otra frontera de acorde y compón un paso diatónico de entrada y salida conjuntas."
+  },
+  {
+    "id": "stage-melody-003-02",
+    "lessonId": "lesson-melody-003",
+    "order": 2,
+    "title": "Paso débil E–D–C",
+    "explanationMd": "D4 entra en 3.5, parte débil, entre E4 y C4; comprueba ambos pasos conjuntos y la llegada a C4 en 4. El bajo y la melodía representan parcialmente el plan armónico; no son bloques de acordes completos.",
+    "task": "Aísla E–D–C y verifica que D entra débil y resuelve por grado conjunto.",
+    "changeFromPrevious": "Frente a 01, añade solo D4 (62) en 3.5: E4–D4–C4 es paso diatónico débil con entrada y salida conjuntas.",
+    "successCriteria": [
+      "D entra en parte débil",
+      "E–D y D–C avanzan por grado conjunto"
+    ],
+    "simplifyHint": "Practica E–D–C sin bajo y cuenta D en 4&.",
+    "extendHint": "Elige otra frontera de acorde y compón un paso diatónico de entrada y salida conjuntas."
+  },
+  {
+    "id": "stage-melody-003-03",
+    "lessonId": "lesson-melody-003",
+    "order": 3,
+    "title": "Añade C–B–A",
+    "explanationMd": "El nuevo B3 entra en 7.5 entre C4 y A3; escucha la resolución conjunta sobre el siguiente apoyo. El bajo y la melodía representan parcialmente el plan armónico; no son bloques de acordes completos.",
+    "task": "Practica E–D–C y C–B–A por separado y luego sobre el bajo.",
+    "changeFromPrevious": "Conserva E4–D4–C4 y añade solo B3 (59) en 7.5: C4–B3–A3 resuelve por grado conjunto.",
+    "successCriteria": [
+      "B entra en parte débil",
+      "C–B y B–A resuelven por grado conjunto"
+    ],
+    "simplifyHint": "Practica primero E–D–C y después C–B–A, sin añadir más notas.",
+    "extendHint": "Elige otra frontera de acorde y compón un paso diatónico de entrada y salida conjuntas."
+  },
+  {
+    "id": "stage-melody-003-04",
+    "lessonId": "lesson-melody-003",
+    "order": 4,
+    "title": "Elige una frontera",
+    "explanationMd": "Se retira el paso E–D–C y se conserva C–B–A en la frontera 8; decide si esa conexión sirve a tu frase. El bajo y la melodía representan parcialmente el plan armónico; no son bloques de acordes completos.",
+    "task": "Elige una frontera para un paso diatónico débil y comprueba entrada y resolución.",
+    "changeFromPrevious": "Vuelve a la base y conserva solo el paso de la frontera 8 (B3@7.5); puedes elegir otra conexión diatónica débil, no es una solución única.",
+    "successCriteria": [
+      "Elijo una sola frontera",
+      "Puedo cantar entrada, paso y destino"
+    ],
+    "simplifyHint": "Conserva solo el paso C–B–A en 4& del compás 2.",
+    "extendHint": "Elige otra frontera de acorde y compón un paso diatónico de entrada y salida conjuntas."
+  },
+  {
+    "id": "stage-melody-004-01",
+    "lessonId": "lesson-melody-004",
+    "order": 1,
+    "title": "Objetivos directos",
+    "explanationMd": "A: cada nota objetivo entra con su acorde; la izquierda marca solo las raíces para dejar espacio a la línea. El bajo y la melodía representan parcialmente el plan armónico; no son bloques completos.",
+    "task": "Toca primero los cuatro objetivos en el inicio de cada acorde; canta el cambio de compás.",
+    "changeFromPrevious": "Presentación A: notas objetivo F4, B3, G4 y E4 en los inicios 0, 4, 8 y 12 sobre ii–V–I–I.",
+    "successCriteria": [
+      "Cada objetivo entra con el acorde previsto",
+      "La izquierda permanece sencilla"
+    ],
+    "simplifyHint": "Deja solo las raíces en la izquierda y toca en la derecha los cuatro objetivos al inicio de cada compás.",
+    "extendHint": "Elige otro objetivo en la progresión y prepara su ataque con una vecina diatónica superior."
+  },
+  {
+    "id": "stage-melody-004-02",
+    "lessonId": "lesson-melody-004",
+    "order": 2,
+    "title": "Prepara B con C",
+    "explanationMd": "A/B: C4 es la vecina diatónica superior de B3 y cae exactamente cuando entra G7; el acorde y el bajo no cambian. El bajo y la melodía representan parcialmente el plan armónico; no son bloques completos.",
+    "task": "Compara llegada directa B3 con C4–B3; no muevas el ataque de B3.",
+    "changeFromPrevious": "B frente a A: añade solo C4@3.5; resuelve por semitono diatónico descendente a B3 justo en el ataque de G7.",
+    "successCriteria": [
+      "C4 está en parte débil",
+      "C4 resuelve a B3 en el ataque de G7"
+    ],
+    "simplifyHint": "Aísla C4@3.5–B3@4 y conserva B3 en el ataque de G7.",
+    "extendHint": "Elige otro objetivo en la progresión y prepara su ataque con una vecina diatónica superior."
+  },
+  {
+    "id": "stage-melody-004-03",
+    "lessonId": "lesson-melody-004",
+    "order": 3,
+    "title": "Prepara G con A",
+    "explanationMd": "A/B: añade A4 antes de G4 en la nueva frontera; escucha la llegada prevista sin adelantarla. El bajo y la melodía representan parcialmente el plan armónico; no son bloques completos.",
+    "task": "Añade A4–G4 y conserva intacta la preparación anterior.",
+    "changeFromPrevious": "Conserva C4–B3 y añade solo A4@7.5; resuelve por grado conjunto a G4 en el ataque de Cmaj7.",
+    "successCriteria": [
+      "A4 resuelve a G4 en el ataque de Cmaj7",
+      "La llegada no se adelanta"
+    ],
+    "simplifyHint": "Practica C4–B3 y A4–G4 por separado antes de unirlos.",
+    "extendHint": "Elige otro objetivo en la progresión y prepara su ataque con una vecina diatónica superior."
+  },
+  {
+    "id": "stage-melody-004-04",
+    "lessonId": "lesson-melody-004",
+    "order": 4,
+    "title": "Elige otra llegada",
+    "explanationMd": "La referencia prepara E4 con F4 justo antes del ataque; puedes escoger otra llegada y conservar la vecina superior diatónica. El bajo y la melodía representan parcialmente el plan armónico; no son bloques completos.",
+    "task": "Prueba la llegada final de referencia y luego inventa otra con su propio destino.",
+    "changeFromPrevious": "Mantén las dos llegadas y añade solo F4@11.5, que resuelve a E4 en el último ataque de Cmaj7; elige otros objetivos si lo deseas.",
+    "successCriteria": [
+      "La vecina es diatónica y superior",
+      "El objetivo cae en el ataque previsto"
+    ],
+    "simplifyHint": "Usa una sola vecina superior y su objetivo; deja las otras llegadas directas.",
+    "extendHint": "Elige otro objetivo en la progresión y prepara su ataque con una vecina diatónica superior."
+  },
+  {
+    "id": "stage-melody-005-01",
+    "lessonId": "lesson-melody-005",
+    "order": 1,
+    "title": "Una línea sin respirar",
+    "explanationMd": "Escucha los dos primeros compases como pregunta y los dos últimos como respuesta todavía enlazada, sin respirar. El bajo y la melodía representan parcialmente el plan armónico; no son bloques completos.",
+    "task": "Toca la línea seguida y marca con la voz dónde empiezan sus dos mitades.",
+    "changeFromPrevious": "Presentación: línea continua de cuatro compases; los compases 1–2 plantean la pregunta y 3–4 responden con notas relacionadas, sin pausa.",
+    "successCriteria": [
+      "Distingo los primeros dos compases de los últimos dos",
+      "Mantengo el pulso continuo"
+    ],
+    "simplifyHint": "Toca solo la primera y última nota de cada compás, sin introducir la pausa todavía.",
+    "extendHint": "Transforma una nota de la respuesta y conserva su vínculo con la pregunta."
+  },
+  {
+    "id": "stage-melody-005-02",
+    "lessonId": "lesson-melody-005",
+    "order": 2,
+    "title": "Pregunta y pausa",
+    "explanationMd": "A/B: la pregunta termina en G4; el silencio de beat 7 deja una negra completa antes de la respuesta en beat 8. El bajo y la melodía representan parcialmente el plan armónico; no son bloques completos.",
+    "task": "Cuenta el silencio completo entre beat 7 y beat 8; no adelantes la respuesta.",
+    "changeFromPrevious": "Frente a 01, retira solo B3@7: queda una pausa real de una negra entre la pregunta y la respuesta.",
+    "successCriteria": [
+      "Hay una negra completa de silencio",
+      "La respuesta entra en beat 8"
+    ],
+    "simplifyHint": "Toca el inicio y cierre de pregunta y respuesta; conserva la pausa de una negra.",
+    "extendHint": "Conserva la pausa y transforma una nota de la respuesta sin perder su vínculo con la pregunta."
+  },
+  {
+    "id": "stage-melody-005-03",
+    "lessonId": "lesson-melody-005",
+    "order": 3,
+    "title": "Respuesta transformada",
+    "explanationMd": "A/B: C5 en la respuesta cambia una sola altura y pertenece a Am7; el resto de la frase permanece. El bajo y la melodía representan parcialmente el plan armónico; no son bloques completos.",
+    "task": "Compara A4 y C5 en la respuesta sin alterar el resto de la pregunta.",
+    "changeFromPrevious": "Conserva la pausa y cambia solo A4@10 por C5; la respuesta se aparta de la pregunta sin perder el pulso.",
+    "successCriteria": [
+      "La pausa se mantiene",
+      "La respuesta conserva relación con la pregunta"
+    ],
+    "simplifyHint": "Cambia solo A4 por C5 y mantén intactos el ritmo y el silencio.",
+    "extendHint": "Conserva la pausa y transforma una nota de la respuesta sin perder su vínculo con la pregunta."
+  },
+  {
+    "id": "stage-melody-005-04",
+    "lessonId": "lesson-melody-005",
+    "order": 4,
+    "title": "Cierre propio",
+    "explanationMd": "E4 cierra sobre Cmaj7 sin ser la única respuesta posible; puedes elegir otra nota estable para terminar. El bajo y la melodía representan parcialmente el plan armónico; no son bloques completos.",
+    "task": "Prueba el cierre E4 y luego elige una nota estable propia sobre el acorde final.",
+    "changeFromPrevious": "Mantén pregunta, pausa y respuesta; cambia solo el cierre C4@15 por E4, otra llegada estable sobre Cmaj7.",
+    "successCriteria": [
+      "La respuesta dura dos compases",
+      "El cierre es estable y no lo considero único"
+    ],
+    "simplifyHint": "Responde con pocas notas y conserva la pausa y el cierre estable.",
+    "extendHint": "Conserva la pausa y transforma una nota de la respuesta sin perder su vínculo con la pregunta."
+  },
+  {
+    "id": "stage-melody-006-01",
+    "lessonId": "lesson-melody-006",
+    "order": 1,
+    "title": "Raíces de referencia",
+    "explanationMd": "A: las notas son las raíces impresas en cada acorde, no terceras inferidas. El bajo y la melodía representan parcialmente el plan armónico; no son bloques completos.",
+    "task": "Canta cada raíz junto al nombre del acorde antes de tocarla.",
+    "changeFromPrevious": "Presentación: una raíz al inicio de cada acorde: C4 sobre C, A3 sobre Am, F3 sobre F y G3 sobre G.",
+    "successCriteria": [
+      "Identifico las raíces C, A, F y G",
+      "No llamo tercera a la raíz"
+    ],
+    "simplifyHint": "Toca solo la raíz de cada acorde y di su nombre; conserva el mismo plan armónico.",
+    "extendHint": "Elige otra octava cómoda para una tercera real y comprueba la relación raíz-tercera en cada símbolo."
+  },
+  {
+    "id": "stage-melody-006-02",
+    "lessonId": "lesson-melody-006",
+    "order": 2,
+    "title": "Primera tercera real",
+    "explanationMd": "A/B: en Cmaj7, C es raíz y E es tercera; verifica ambas alturas contra el símbolo y el bajo. El bajo y la melodía representan parcialmente el plan armónico; no son bloques completos.",
+    "task": "Compara C4 y E4 sobre Cmaj7; identifica la raíz y la tercera reales.",
+    "changeFromPrevious": "Frente a 01, cambia solo C4 por E4: E es la tercera real de Cmaj7; las otras raíces siguen como referencia.",
+    "successCriteria": [
+      "E pertenece como tercera a Cmaj7",
+      "Las otras tres notas siguen siendo raíces"
+    ],
+    "simplifyHint": "Compara C4 y E4 sobre Cmaj7 antes de añadir los demás compases.",
+    "extendHint": "Elige otra octava cómoda para una tercera real y comprueba la relación raíz-tercera en cada símbolo."
+  },
+  {
+    "id": "stage-melody-006-03",
+    "lessonId": "lesson-melody-006",
+    "order": 3,
+    "title": "Tercera de Am7",
+    "explanationMd": "A/B: en Am7, A es raíz y C es tercera; los otros dos compases aún usan raíces. El bajo y la melodía representan parcialmente el plan armónico; no son bloques completos.",
+    "task": "Compara A3 y C4 sobre Am7; nombra raíz y tercera antes de tocar.",
+    "changeFromPrevious": "Frente a 02, cambia solo A3 por C4: C es la tercera real de Am7; F3 y G3 siguen como raíces.",
+    "successCriteria": [
+      "C es tercera de Am7",
+      "F3 y G3 siguen siendo raíces"
+    ],
+    "simplifyHint": "Practica A3 y C4 sobre Am7; conserva las otras alturas.",
+    "extendHint": "Elige otra octava cómoda para una tercera real y comprueba la relación raíz-tercera en cada símbolo."
+  },
+  {
+    "id": "stage-melody-006-04",
+    "lessonId": "lesson-melody-006",
+    "order": 4,
+    "title": "Tercera de Fmaj7",
+    "explanationMd": "A/B: en Fmaj7, F es raíz y A es tercera; el último compás todavía muestra la raíz G. El bajo y la melodía representan parcialmente el plan armónico; no son bloques completos.",
+    "task": "Compara F3 y A3 sobre Fmaj7; no cambies las otras llegadas.",
+    "changeFromPrevious": "Frente a 03, cambia solo F3 por A3: A es la tercera real de Fmaj7; G3 sigue como raíz.",
+    "successCriteria": [
+      "A es tercera de Fmaj7",
+      "G3 sigue siendo raíz"
+    ],
+    "simplifyHint": "Practica F3 y A3 sobre Fmaj7; no cambies la armonía.",
+    "extendHint": "Elige otra octava cómoda para una tercera real y comprueba la relación raíz-tercera en cada símbolo."
+  },
+  {
+    "id": "stage-melody-006-05",
+    "lessonId": "lesson-melody-006",
+    "order": 5,
+    "title": "Tercera de G7: elige el registro",
+    "explanationMd": "En G7, G es raíz y B es tercera. La referencia muestra una ruta posible; elige registro y frase sin cambiar el acorde. El bajo y la melodía representan parcialmente el plan armónico; no son bloques completos.",
+    "task": "Comprueba G–B en G7 y escoge octavas cómodas para las cuatro terceras.",
+    "changeFromPrevious": "Frente a 04, cambia solo G3 por B3: B es la tercera real de G7. Mapa completo C→E, A→C, F→A, G→B; elige tus octavas.",
+    "successCriteria": [
+      "B es tercera de G7",
+      "Relaciono cada objetivo con la raíz escrita"
+    ],
+    "simplifyHint": "Toca una tercera correcta por acorde en una octava cómoda; no rellenes los pulsos.",
+    "extendHint": "Elige otra octava cómoda para una tercera real y comprueba la relación raíz-tercera en cada símbolo."
+  },
+  {
+    "id": "stage-melody-007-01",
+    "lessonId": "lesson-melody-007",
+    "order": 1,
+    "title": "Motivo a negras",
+    "explanationMd": "A presenta el contorno E–G–A–G–E–D sobre I–vi–IV–V; los espacios son parte del motivo. Referencia a dos manos: bajo monofónico y melodía; no son bloques armónicos completos.",
+    "task": "Toca y canta el motivo; marca los silencios contando negras.",
+    "changeFromPrevious": "A: motivo de alturas E4–G4–A4–G4–E4–D4, con huecos y cuatro acordes I–vi–IV–V.",
+    "successCriteria": [
+      "Reconozco el contorno E–G–A–G–E–D",
+      "El pulso sigue regular en los silencios"
+    ],
+    "simplifyHint": "Toca E4, G4, A4, G4, E4, D4 a negras, una nota por pulso.",
+    "extendHint": "Crea una segunda variación rítmica y alterna A/B sin cambiar alturas ni progresión."
+  },
+  {
+    "id": "stage-melody-007-02",
+    "lessonId": "lesson-melody-007",
+    "order": 2,
+    "title": "Alargar sin cambiar alturas",
+    "explanationMd": "A/B: las alturas y acordes no cambian; A4 dura dos negras y G4 entra en 1.5. Referencia a dos manos: bajo monofónico y melodía; no son bloques armónicos completos.",
+    "task": "Compara A y B y señala qué nota se alargó y dónde entra G4.",
+    "changeFromPrevious": "B frente a A: conserva cada altura y orden; alarga A4 y adelanta G4 medio pulso, redistribuyendo el silencio.",
+    "successCriteria": [
+      "Las alturas coinciden con A",
+      "A4 se alarga y G4 entra en 1.5"
+    ],
+    "simplifyHint": "Practica solo A4@2–G4@1.5 con metrónomo lento.",
+    "extendHint": "Crea una segunda variación rítmica y alterna A/B sin cambiar alturas ni progresión."
+  },
+  {
+    "id": "stage-melody-007-03",
+    "lessonId": "lesson-melody-007",
+    "order": 3,
+    "title": "Desplazar una pausa",
+    "explanationMd": "A/B: cambia únicamente la colocación de una pausa; compara el mismo contorno y el mismo ciclo armónico. Referencia a dos manos: bajo monofónico y melodía; no son bloques armónicos completos.",
+    "task": "Toca ambas versiones sin alterar ninguna altura; identifica el hueco desplazado.",
+    "changeFromPrevious": "Mantén las alturas; desplaza el hueco del segundo compás a después de D4 y deja el resto rítmico reconocible.",
+    "successCriteria": [
+      "El contorno y alturas permanecen",
+      "La pausa cambia de ubicación"
+    ],
+    "simplifyHint": "Vuelve a A y cambia solo una pausa, sin mover las alturas.",
+    "extendHint": "Crea una segunda variación rítmica y alterna A/B sin cambiar alturas ni progresión."
+  },
+  {
+    "id": "stage-melody-007-04",
+    "lessonId": "lesson-melody-007",
+    "order": 4,
+    "title": "Variar por cuenta propia",
+    "explanationMd": "La referencia conserva el material tonal; inventa otra distribución de duración y silencios sin añadir alturas. Referencia a dos manos: bajo monofónico y melodía; no son bloques armónicos completos.",
+    "task": "Inventa una variación rítmica, anótala en beats y ejecútala sobre los mismos cuatro acordes.",
+    "changeFromPrevious": "Diseña otra variación solo rítmica; conserva exactamente las alturas del motivo y los cambios I–vi–IV–V.",
+    "successCriteria": [
+      "La variación usa solo alturas del motivo",
+      "Puedo repetirla sobre I–vi–IV–V"
+    ],
+    "simplifyHint": "Conserva cuatro notas del motivo y crea un único silencio nuevo.",
+    "extendHint": "Crea una segunda variación rítmica y alterna A/B sin cambiar alturas ni progresión."
+  },
+  {
+    "id": "stage-melody-008-01",
+    "lessonId": "lesson-melody-008",
+    "order": 1,
+    "title": "Apoyos largos",
+    "explanationMd": "La línea muestra apoyos del acorde y deja espacio después de cada nota larga. Referencia a dos manos: bajo monofónico y melodía; no son bloques armónicos completos.",
+    "task": "Toca cada apoyo y cuenta las dos negras antes de la siguiente entrada.",
+    "changeFromPrevious": "A: notas estructurales E4, A4, F4 y G4, sostenidas dos negras al inicio de cada acorde.",
+    "successCriteria": [
+      "Reconozco E4, A4, F4, G4 como apoyos",
+      "Dejo el espacio escrito"
+    ],
+    "simplifyHint": "Toca solo E4, A4, F4 y G4 en el primer pulso de cada acorde.",
+    "extendHint": "Escribe una bordadura propia para cada acorde; verifica escala diatónica y retorno a la misma nota."
+  },
+  {
+    "id": "stage-melody-008-02",
+    "lessonId": "lesson-melody-008",
+    "order": 2,
+    "title": "Vecina inferior",
+    "explanationMd": "D–E, G–A, E–F y F–G son movimientos diatónicos de grado conjunto de ida y regreso. Referencia a dos manos: bajo monofónico y melodía; no son bloques armónicos completos.",
+    "task": "Toca apoyo–nota inferior–mismo apoyo; comprueba que la última altura repite la primera.",
+    "changeFromPrevious": "B frente a A: inserta una vecina diatónica inferior y vuelve a la misma nota: E–D–E, A–G–A, F–E–F, G–F–G.",
+    "successCriteria": [
+      "Cada vecina es diatónica e inferior",
+      "La nota final repite el apoyo inicial"
+    ],
+    "simplifyHint": "Practica cada pareja inferior–apoyo por separado, sin bajo.",
+    "extendHint": "Escribe una bordadura propia para cada acorde; verifica escala diatónica y retorno a la misma nota."
+  },
+  {
+    "id": "stage-melody-008-03",
+    "lessonId": "lesson-melody-008",
+    "order": 3,
+    "title": "Vecina superior",
+    "explanationMd": "F–E–F sobre Cmaj7, B–A–B sobre Am7, G–F–G sobre Fmaj7 y A–G–A sobre G7 retornan al apoyo. Referencia a dos manos: bajo monofónico y melodía; no son bloques armónicos completos.",
+    "task": "Compara dirección superior con inferior y verifica el retorno exacto.",
+    "changeFromPrevious": "Cambia dirección: sustituye las vecinas inferiores por vecinas superiores diatónicas, siempre regresando al apoyo original.",
+    "successCriteria": [
+      "Cada vecina es diatónica y superior",
+      "La resolución regresa a idéntica nota"
+    ],
+    "simplifyHint": "Practica solo F4–E4–F4 y B3–A3–B3.",
+    "extendHint": "Escribe una bordadura propia para cada acorde; verifica escala diatónica y retorno a la misma nota."
+  },
+  {
+    "id": "stage-melody-008-04",
+    "lessonId": "lesson-melody-008",
+    "order": 4,
+    "title": "Elige dirección y resuelve",
+    "explanationMd": "La vecina diatónica cambia momentáneamente el apoyo y resuelve a la misma nota, no a un destino nuevo. Referencia a dos manos: bajo monofónico y melodía; no son bloques armónicos completos.",
+    "task": "Elige una dirección por acorde, escribe las alturas y comprueba el regreso antes de tocar.",
+    "changeFromPrevious": "Escoge superior o inferior para cada apoyo; cada salida debe volver a la misma altura, sin alterar armonía.",
+    "successCriteria": [
+      "La decisión de dirección es explícita",
+      "Cada bordadura retorna antes de otro apoyo"
+    ],
+    "simplifyHint": "Elige una sola bordadura completa y repítela lentamente.",
+    "extendHint": "Escribe una bordadura propia para cada acorde; verifica escala diatónica y retorno a la misma nota."
+  },
+  {
+    "id": "stage-melody-009-01",
+    "lessonId": "lesson-melody-009",
+    "order": 1,
+    "title": "Terceras objetivo",
+    "explanationMd": "A fija la tercera de cada acorde como destino; la izquierda toca raíces largas y la línea es monofónica. Referencia a dos manos: bajo monofónico y melodía; no son bloques armónicos completos.",
+    "task": "Toca E–C–A–B en los cambios; nombra la tercera antes de cada ataque.",
+    "changeFromPrevious": "A: terceras E4, C4, A3 y B3 en Cmaj7, Am7, Fmaj7 y G7.",
+    "successCriteria": [
+      "Cada objetivo es tercera del acorde escrito",
+      "La línea no añade otra altura"
+    ],
+    "simplifyHint": "Toca solo las cuatro terceras en los inicios de acorde.",
+    "extendHint": "Elige otro registro para las mismas cuatro terceras y conserva cada aproximación inferior de un semitono."
+  },
+  {
+    "id": "stage-melody-009-02",
+    "lessonId": "lesson-melody-009",
+    "order": 2,
+    "title": "Aproximar E",
+    "explanationMd": "B3 es cromática inferior a C4; ocupa la parte débil y resuelve por semitono al entrar Am7. Referencia a dos manos: bajo monofónico y melodía; no son bloques armónicos completos.",
+    "task": "Compara C4 directa con B3–C4; mantén el objetivo en el beat 4.",
+    "changeFromPrevious": "B frente a A: añade B3@3.5 antes de C4@4, aproximación cromática inferior de medio pulso; conserva el objetivo.",
+    "successCriteria": [
+      "B está un semitono bajo C",
+      "Resuelve en beat 4 y dura medio pulso"
+    ],
+    "simplifyHint": "Aísla D#4@3.5–E4@4, sin acompañamiento.",
+    "extendHint": "Elige otro registro para las mismas cuatro terceras y conserva cada aproximación inferior de un semitono."
+  },
+  {
+    "id": "stage-melody-009-03",
+    "lessonId": "lesson-melody-009",
+    "order": 3,
+    "title": "Resolver C y A",
+    "explanationMd": "G#3→A3 sobre Fmaj7 completa la tercera aproximación; todas duran medio pulso y llegan a las terceras anunciadas. Referencia a dos manos: bajo monofónico y melodía; no son bloques armónicos completos.",
+    "task": "Añade G#3–A3 sobre Fmaj7; conserva B3–C4 y no desplaces llegadas.",
+    "changeFromPrevious": "Añade G#3@7.5–A3@8; junto a B3–C4, son dos aproximaciones cromáticas inferiores de medio pulso.",
+    "successCriteria": [
+      "B→C y G#→A resuelven exacto",
+      "Cada nota cromática dura medio pulso"
+    ],
+    "simplifyHint": "Practica una pareja cromática a la vez, con metrónomo.",
+    "extendHint": "Elige otro registro para las mismas cuatro terceras y conserva cada aproximación inferior de un semitono."
+  },
+  {
+    "id": "stage-melody-009-04",
+    "lessonId": "lesson-melody-009",
+    "order": 4,
+    "title": "Cuatro llegadas cromáticas",
+    "explanationMd": "A#3→B3 prepara la tercera de G7; D#4@15.5 prepara E4@0 del siguiente ciclo. Cada cromatismo resuelve exacto. Referencia a dos manos: bajo monofónico y melodía; no son bloques armónicos completos.",
+    "task": "Toca B–C, G#–A, A#–B y D#–E en la vuelta; cuenta cada ataque débil y resuelve en medio pulso.",
+    "changeFromPrevious": "Añade A#3@11.5–B3@12 y D#4@15.5–E4@0 al repetir el loop. Una aproximación por acorde, nunca una cadena.",
+    "successCriteria": [
+      "Una aproximación por acorde",
+      "La resolución coincide con la tercera objetivo"
+    ],
+    "simplifyHint": "Usa solo D#–E en el primer acorde; deja los demás objetivos directos.",
+    "extendHint": "Elige otro registro para las mismas cuatro terceras y conserva cada aproximación inferior de un semitono."
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lesson-rhythm-012",
+    "primarySkillId": "skill-rhythm-subdivision",
+    "orderInCategory": 12,
+    "title": "Desplazar una célula sin deformarla",
+    "difficulty": 3,
+    "goal": "Repetir una célula de semicorcheas un cuarto de pulso después conservando sus intervalos temporales.",
+    "introMd": "En cuatro compases de un vamp de funk, compara una célula derecha original y desplazada con bajo escaso. No cambies sus duraciones internas ni el tempo; decide en qué compás volver al inicio para cerrar el ciclo.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-007",
+      "lesson-rhythm-009"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "funk"
+    ]
+  }
+]

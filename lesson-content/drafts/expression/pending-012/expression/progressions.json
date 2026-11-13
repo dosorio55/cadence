@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-expression-012-01-primary",
+    "stageId": "stage-expression-012-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Articulación pareja",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 90,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ambas manos separan sus ataques por dos pulsos y cada nota dura 0.5.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-012-02-primary",
+    "stageId": "stage-expression-012-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Izquierda breve",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 90,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Solo la izquierda acorta cada nota a 0.25; la derecha mantiene 0.5.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-012-03-primary",
+    "stageId": "stage-expression-012-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Melodía ligada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 90,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "La derecha sostiene cada nota durante dos pulsos, hasta el ataque siguiente; sin pedal.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-012-04-primary",
+    "stageId": "stage-expression-012-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Independencia de duración",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 90,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "La derecha sostiene 1.75 pulsos y deja 0.25 de separación antes del ataque siguiente; la izquierda conserva 0.25.",
+    "loopable": false
+  }
+]

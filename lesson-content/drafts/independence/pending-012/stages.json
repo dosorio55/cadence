@@ -1,0 +1,72 @@
+[
+  {
+    "id": "stage-independence-012-01",
+    "lessonId": "lesson-independence-012",
+    "order": 1,
+    "title": "Raíz y quinta, sin desmontar la célula",
+    "explanationMd": "Primero fija la base: en cada compás la izquierda toca raíz en el offset 0 y quinta en el 2, ambas durante 2 negras. Esta preparación parcial deja oír el ciclo I–vi–ii–V sin pedir un acorde completo ni una tercera mano.",
+    "task": "Practica las 16 blancas izquierdas de los ocho compases; cuenta el cambio armónico aunque la derecha aún no toque.",
+    "changeFromPrevious": "Base LH: raíz/quinta en 0/2, duración 2.",
+    "successCriteria": [
+      "La izquierda ataca 16 notas, offsets globales 0, 2, 4…30; cada nota dura 2 y conserva la raíz/quinta del acorde de su compás."
+    ],
+    "simplifyHint": "Aísla un compás y alterna raíz–quinta a 60 BPM antes de enlazar los ocho.",
+    "extendHint": "Conserva las 16 blancas; estudia por separado solo el compás cuyo cambio de raíz te cueste."
+  },
+  {
+    "id": "stage-independence-012-02",
+    "lessonId": "lesson-independence-012",
+    "order": 2,
+    "title": "Añadir la célula de bossa",
+    "explanationMd": "La izquierda conserva exactamente sus 16 blancas. La derecha añade shells de tercera y séptima con la célula de dos compases: compases impares en 0, 1.5 y 3; pares en 1 y 2.5. Cada ataque dura 0.5. Es una reducción pianística, no una orquestación completa de bossa.",
+    "task": "Toca primero la base izquierda; añade los shells en los ataques escritos sin adelantar ni duplicar la mano izquierda.",
+    "changeFromPrevious": "Solo se añade RH en los dos patrones alternos; LH no cambia.",
+    "successCriteria": [
+      "RH toca dos notas por ataque: patrón impar en offsets 0/1.5/3 y par en 1/2.5; cada nota dura 0.5. LH conserva exactamente las 16 notas y duraciones de la etapa 01."
+    ],
+    "simplifyHint": "Cuenta en voz alta los cinco ataques derechos distintos de cada par de compases; luego suma la izquierda sin cambiar su pulso.",
+    "extendHint": "Practica solo el patrón derecho del compás 1 y 2; reúnelos después con las blancas izquierdas intactas."
+  },
+  {
+    "id": "stage-independence-012-03",
+    "lessonId": "lesson-independence-012",
+    "order": 3,
+    "title": "Despejar los shells",
+    "explanationMd": "Solo cambia la duración derecha: mantiene alturas, ataques y células, pero cada nota pasa a 0.25. La izquierda sigue en las mismas 16 blancas. El espacio entre shells hace más nítida la síncopa sin desarmar la célula de dos compases.",
+    "task": "Repite los dos compases con shells breves; deja sonar completa cada blanca izquierda.",
+    "changeFromPrevious": "RH pasa de 0.5 a 0.25; LH, ataques y pitches RH quedan iguales.",
+    "successCriteria": [
+      "Todos los ataques RH conservan su pitch y offset de 02 y duran 0.25; LH conserva pitches, onsets y duraciones de 01."
+    ],
+    "simplifyHint": "Toca el patrón RH aislado primero y escucha el hueco que queda entre shells; integra después la izquierda.",
+    "extendHint": "Reduce a un solo compás por mano si hace falta, pero vuelve a unir los dos compases conservando sus offsets."
+  },
+  {
+    "id": "stage-independence-012-04",
+    "lessonId": "lesson-independence-012",
+    "order": 4,
+    "title": "Quitar un shell al final",
+    "explanationMd": "La referencia 03 se mantiene, salvo un único silencio: se omite el shell del compás 4 global, offset 2.5 (beat global 14.5). No se altera el resto de la célula ni ninguna de las 16 blancas LH.",
+    "task": "Toca la referencia 03 y deja vacío únicamente el ataque RH de beat 14.5; sostén el ciclo izquierdo sin interrupción.",
+    "changeFromPrevious": "Única omisión: shell RH de bar 4, offset 2.5/global 14.5; el resto es 03.",
+    "successCriteria": [
+      "No existe onset RH global 14.5; todos los demás shells tienen duración 0.25 y pitches de su acorde. LH contiene las mismas 16 notas de 01–03."
+    ],
+    "simplifyHint": "Ensaya el último compás en bucle con LH completa y deja el hueco en 14.5, sin desplazar el ataque anterior.",
+    "extendHint": "Vuelve a 03 a tempo lento y aplica solo el silencio exacto en 14.5."
+  },
+  {
+    "id": "stage-independence-012-05",
+    "lessonId": "lesson-independence-012",
+    "order": 5,
+    "title": "Autonomía: elegir un hueco",
+    "explanationMd": "Referencia 03 con una sola omisión elegida: se omite RH en global 6.5 (compás 2, offset 2.5) y se restaura el shell de global 14.5. La decisión desplaza el silencio, no la célula; LH vuelve a ser idéntica y completa: 16 blancas.",
+    "task": "Toca el patrón 03 completo excepto el ataque RH de 6.5; ejecuta el de 14.5 y mantén LH completa.",
+    "changeFromPrevious": "Respecto a 03, única omisión pasa de RH global 14.5 a 6.5; se restaura 14.5.",
+    "successCriteria": [
+      "RH no ataca en 6.5 y sí en 14.5; todos los demás ataques de 03 se conservan, duración 0.25. LH es idéntica en las cinco etapas: 16 notas de duración 2."
+    ],
+    "simplifyHint": "Antes de tocar, marca el único hueco en 6.5; verifica que la derecha sí entra en 14.5 y la izquierda no omite ninguna blanca.",
+    "extendHint": "Practica el patrón RH 03 por separado; después restaura el ataque de 14.5 y deja solo el hueco elegido en 6.5."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-melody-010-01-primary",
+    "stageId": "stage-melody-010-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Repetir la pregunta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de C–Am–F–G–C–Am–G–C, una armonía por compás. Bajo monofónico en la izquierda; melodía monofónica en la derecha, una nota de duración 1 en beats 0 y 1 de cada compás y silencio [2,4). Beats en negras desde cero.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-010-02-primary",
+    "stageId": "stage-melody-010-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cambiar el contorno",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de C–Am–F–G–C–Am–G–C, una armonía por compás. Bajo monofónico en la izquierda; melodía monofónica en la derecha, una nota de duración 1 en beats 0 y 1 de cada compás y silencio [2,4). Beats en negras desde cero.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-010-03-primary",
+    "stageId": "stage-melody-010-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cerrar en la tónica",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de C–Am–F–G–C–Am–G–C, una armonía por compás. Bajo monofónico en la izquierda; melodía monofónica en la derecha, una nota de duración 1 en beats 0 y 1 de cada compás y silencio [2,4). Beats en negras desde cero.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-010-04-primary",
+    "stageId": "stage-melody-010-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir qué conservar",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de C–Am–F–G–C–Am–G–C, una armonía por compás. Bajo monofónico en la izquierda; melodía monofónica en la derecha, una nota de duración 1 en beats 0 y 1 de cada compás y silencio [2,4). Beats en negras desde cero.",
+    "loopable": false
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-expression-010",
+    "primarySkillId": "skill-expression-form",
+    "orderInCategory": 10,
+    "title": "Volver o terminar: dos señales distintas",
+    "difficulty": 3,
+    "goal": "Distinguir un retorno que invita a repetir de un cierre en tónica que detiene la frase.",
+    "introMd": "En ocho compases de jazz con bajo y shells, compara el mismo inicio seguido de turnaround o cadencia final. Las armonías ya son conocidas: elige la señal formal y su articulación, sin inventar sustituciones para crear contraste.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-005",
+      "lesson-expression-008",
+      "lesson-harmony-011"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

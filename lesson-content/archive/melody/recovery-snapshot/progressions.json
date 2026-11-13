@@ -1,0 +1,668 @@
+[
+  {
+    "id": "prog-melody-001-01-primary",
+    "stageId": "stage-melody-001-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Objetivos sobre I–vi–IV–V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: bajo sencillo y melodía monofónica; el plan armónico se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-001-02-primary",
+    "stageId": "stage-melody-001-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Objetivos sobre I–vi–IV–V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: bajo sencillo y melodía monofónica; el plan armónico se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-001-03-primary",
+    "stageId": "stage-melody-001-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Objetivos sobre I–vi–IV–V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: bajo sencillo y melodía monofónica; el plan armónico se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-001-04-primary",
+    "stageId": "stage-melody-001-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Objetivos sobre I–vi–IV–V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: bajo sencillo y melodía monofónica; el plan armónico se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-002-01-primary",
+    "stageId": "stage-melody-002-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Motivo de tres notas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: bajo sencillo y melodía monofónica; el plan armónico se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-002-02-primary",
+    "stageId": "stage-melody-002-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Motivo de tres notas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: bajo sencillo y melodía monofónica; el plan armónico se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-002-03-primary",
+    "stageId": "stage-melody-002-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Motivo de tres notas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: bajo sencillo y melodía monofónica; el plan armónico se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-002-04-primary",
+    "stageId": "stage-melody-002-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Motivo de tres notas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: bajo sencillo y melodía monofónica; el plan armónico se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-003-01-primary",
+    "stageId": "stage-melody-003-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Apoyos con paso débil",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: bajo sencillo y melodía monofónica; el plan armónico se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-003-02-primary",
+    "stageId": "stage-melody-003-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Apoyos con paso débil",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: bajo sencillo y melodía monofónica; el plan armónico se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-003-03-primary",
+    "stageId": "stage-melody-003-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Apoyos con paso débil",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: bajo sencillo y melodía monofónica; el plan armónico se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-003-04-primary",
+    "stageId": "stage-melody-003-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Apoyos con paso débil",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: bajo sencillo y melodía monofónica; el plan armónico se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-004-01-primary",
+    "stageId": "stage-melody-004-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Preparar la llegada desde al lado",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos con bajo sencillo y melodía monofónica; la armonía se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-004-02-primary",
+    "stageId": "stage-melody-004-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Preparar la llegada desde al lado",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos con bajo sencillo y melodía monofónica; la armonía se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-004-03-primary",
+    "stageId": "stage-melody-004-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Preparar la llegada desde al lado",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos con bajo sencillo y melodía monofónica; la armonía se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-004-04-primary",
+    "stageId": "stage-melody-004-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Preparar la llegada desde al lado",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos con bajo sencillo y melodía monofónica; la armonía se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-005-01-primary",
+    "stageId": "stage-melody-005-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Preguntar y responder con aire",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos con bajo sencillo y melodía monofónica; la armonía se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-005-02-primary",
+    "stageId": "stage-melody-005-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Preguntar y responder con aire",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos con bajo sencillo y melodía monofónica; la armonía se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-005-03-primary",
+    "stageId": "stage-melody-005-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Preguntar y responder con aire",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos con bajo sencillo y melodía monofónica; la armonía se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-005-04-primary",
+    "stageId": "stage-melody-005-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Preguntar y responder con aire",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos con bajo sencillo y melodía monofónica; la armonía se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-006-01-primary",
+    "stageId": "stage-melody-006-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Las terceras cuentan el cambio",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos con bajo sencillo y melodía monofónica; la armonía se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-006-02-primary",
+    "stageId": "stage-melody-006-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Las terceras cuentan el cambio",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos con bajo sencillo y melodía monofónica; la armonía se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-006-03-primary",
+    "stageId": "stage-melody-006-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Las terceras cuentan el cambio",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos con bajo sencillo y melodía monofónica; la armonía se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-006-04-primary",
+    "stageId": "stage-melody-006-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Las terceras cuentan el cambio",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos con bajo sencillo y melodía monofónica; la armonía se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-006-05-primary",
+    "stageId": "stage-melody-006-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Las terceras cuentan el cambio",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos con bajo sencillo y melodía monofónica; la armonía se representa parcialmente, no como voicings completos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-007-01-primary",
+    "stageId": "stage-melody-007-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cambiar el ritmo y conservar la idea",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan explícito de bajo fundamental y melodía monofónica; armonía parcial, no voicing completo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-007-02-primary",
+    "stageId": "stage-melody-007-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cambiar el ritmo y conservar la idea",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan explícito de bajo fundamental y melodía monofónica; armonía parcial, no voicing completo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-007-03-primary",
+    "stageId": "stage-melody-007-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cambiar el ritmo y conservar la idea",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan explícito de bajo fundamental y melodía monofónica; armonía parcial, no voicing completo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-007-04-primary",
+    "stageId": "stage-melody-007-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cambiar el ritmo y conservar la idea",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan explícito de bajo fundamental y melodía monofónica; armonía parcial, no voicing completo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-008-01-primary",
+    "stageId": "stage-melody-008-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Salir y volver con una bordadura",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan explícito de bajo fundamental y melodía monofónica; armonía parcial, no voicing completo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-008-02-primary",
+    "stageId": "stage-melody-008-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Salir y volver con una bordadura",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan explícito de bajo fundamental y melodía monofónica; armonía parcial, no voicing completo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-008-03-primary",
+    "stageId": "stage-melody-008-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Salir y volver con una bordadura",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan explícito de bajo fundamental y melodía monofónica; armonía parcial, no voicing completo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-008-04-primary",
+    "stageId": "stage-melody-008-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Salir y volver con una bordadura",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan explícito de bajo fundamental y melodía monofónica; armonía parcial, no voicing completo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-009-01-primary",
+    "stageId": "stage-melody-009-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Un semitono que pide resolver",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan explícito de bajo fundamental y melodía monofónica; armonía parcial, no voicing completo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-009-02-primary",
+    "stageId": "stage-melody-009-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Un semitono que pide resolver",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan explícito de bajo fundamental y melodía monofónica; armonía parcial, no voicing completo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-009-03-primary",
+    "stageId": "stage-melody-009-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Un semitono que pide resolver",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan explícito de bajo fundamental y melodía monofónica; armonía parcial, no voicing completo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-009-04-primary",
+    "stageId": "stage-melody-009-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Un semitono que pide resolver",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Plan explícito de bajo fundamental y melodía monofónica; armonía parcial, no voicing completo.",
+    "loopable": true
+  }
+]

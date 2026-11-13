@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-melody-012",
+    "primarySkillId": "skill-melody-motifs",
+    "orderInCategory": 12,
+    "title": "Desarrollar un motivo, no abandonarlo",
+    "difficulty": 3,
+    "goal": "Sostener ocho compases con un motivo y dos transformaciones reconocibles sin convertirlo en una secuencia de escalas.",
+    "introMd": "En pop, conserva bajo sencillo y alterna motivo, variación rítmica y adaptación de una altura al acorde. Compara ideas inconexas con desarrollo emparentado; decide cuándo recuperar el motivo original como señal de regreso.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-007",
+      "lesson-melody-010",
+      "lesson-melody-011"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "pop"
+    ]
+  }
+]

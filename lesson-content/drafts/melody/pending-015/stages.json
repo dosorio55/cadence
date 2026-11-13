@@ -1,0 +1,72 @@
+[
+  {
+    "id": "stage-melody-015-01",
+    "lessonId": "lesson-melody-015",
+    "order": 1,
+    "title": "Oír pregunta y respuesta",
+    "explanationMd": "En ocho compases de do mayor, cada bloque LH sostiene raíz, tercera y séptima durante cuatro beats; la RH toca dos notas breves en los beats 0 y 1 de cada compás y calla de 2 a 4. Los primeros cuatro compases forman siempre la misma pregunta; esta referencia contesta con los pares indicados.",
+    "task": "Toca la pregunta fija y compara la respuesta de referencia; canta o cuenta los objetivos antes de tocar.",
+    "changeFromPrevious": "Base de comparación: pregunta fija en compases 1–4 y respuesta de referencia en 5–8; LH y ritmos quedan establecidos.",
+    "successCriteria": [
+      "Los ocho acordes y bloques LH duran cuatro beats; RH toca los pares previstos en beats 0 y 1 y descansa de 2 a 4."
+    ],
+    "simplifyHint": "Toca primero los bloques LH y canta los dos objetivos RH por compás; después incorpora los silencios y cualquier adorno que hayas elegido.",
+    "extendHint": "Escribe una respuesta propia con los mismos ocho acordes y el ritmo indicado; identifica objetivos primero y añade como máximo una aproximación si mejora una llegada."
+  },
+  {
+    "id": "stage-melody-015-02",
+    "lessonId": "lesson-melody-015",
+    "order": 2,
+    "title": "Cambiar el contorno de la respuesta",
+    "explanationMd": "La pregunta de los compases 1–4 no cambia. En la respuesta, invierte solo el orden de los dos pares del compás 5 (beats 16 y 17) y del compás 6 (20 y 21); conserva sus alturas, ataques, silencios y el resto de la referencia.",
+    "task": "Compara 01 y 02: ¿cómo cambia el contorno al invertir esos dos pares sin alterar ritmo ni acordes?",
+    "changeFromPrevious": "Frente a 01, invierte únicamente los dos primeros pares de la respuesta; la pregunta, LH y ritmo permanecen iguales.",
+    "successCriteria": [
+      "La pregunta (compases 1–4), el patrón rítmico, los acordes y LH coinciden exactamente con 01; solo se invierten los pares en compases 5 y 6."
+    ],
+    "simplifyHint": "Toca primero los bloques LH y canta los dos objetivos RH por compás; después incorpora los silencios y cualquier adorno que hayas elegido.",
+    "extendHint": "Escribe una respuesta propia con los mismos ocho acordes y el ritmo indicado; identifica objetivos primero y añade como máximo una aproximación si mejora una llegada."
+  },
+  {
+    "id": "stage-melody-015-03",
+    "lessonId": "lesson-melody-015",
+    "order": 3,
+    "title": "Probar una aproximación opcional",
+    "explanationMd": "Conserva íntegra la versión 02 y prueba, si ayuda a la frase, A#4 (70)@23.5 por medio beat, que llega a B4@24. Es una única aproximación opcional; también puedes omitirla.",
+    "task": "Prueba 02 sin adorno y con A#4@23.5; elige si la aproximación ayuda a oír la llegada a B4@24.",
+    "changeFromPrevious": "Frente a 02, solo se puede añadir A#4 (70)@23.5 por 0.5 beat como aproximación opcional a B4@24.",
+    "successCriteria": [
+      "A#4@23.5 dura 0.5 beat y resuelve al B4@24; todo lo demás es idéntico a 02, y la aproximación puede omitirse."
+    ],
+    "simplifyHint": "Toca primero los bloques LH y canta los dos objetivos RH por compás; después incorpora los silencios y cualquier adorno que hayas elegido.",
+    "extendHint": "Escribe una respuesta propia con los mismos ocho acordes y el ritmo indicado; identifica objetivos primero y añade como máximo una aproximación si mejora una llegada."
+  },
+  {
+    "id": "stage-melody-015-04",
+    "lessonId": "lesson-melody-015",
+    "order": 4,
+    "title": "Dejar espacio para la frase",
+    "explanationMd": "Mantén la pregunta y los cambios de 03. En la respuesta, omite E4@17 (segunda nota del compás 5) para crear más espacio; conserva A#4@23.5 y todo lo demás.",
+    "task": "Compara 03 con y sin E4@17. Decide si el silencio adicional deja respirar la frase; no cambies el resto.",
+    "changeFromPrevious": "Frente a 03, omite únicamente E4@17; se conserva la aproximación opcional A#4@23.5.",
+    "successCriteria": [
+      "E4@17 es la única nota omitida frente a 03; se conservan A#4@23.5 y todos los demás eventos."
+    ],
+    "simplifyHint": "Toca primero los bloques LH y canta los dos objetivos RH por compás; después incorpora los silencios y cualquier adorno que hayas elegido.",
+    "extendHint": "Escribe una respuesta propia con los mismos ocho acordes y el ritmo indicado; identifica objetivos primero y añade como máximo una aproximación si mejora una llegada."
+  },
+  {
+    "id": "stage-melody-015-05",
+    "lessonId": "lesson-melody-015",
+    "order": 5,
+    "title": "Elegir objetivos antes de adornar",
+    "explanationMd": "Autonomía: vuelve al ritmo y contorno de 02, sin aproximación ni silencio extra. Decide primero objetivos y después si una pausa o una sola aproximación opcional (como 03/04) sirve a la frase. La referencia elige G4@16→C5@24; C5 es tercera de Am7. No es la única respuesta posible.",
+    "task": "Anota primero objetivos para los compases 5–8; luego decide si necesitas pausa o una única aproximación. Compara tu versión con la referencia, no la trates como respuesta única.",
+    "changeFromPrevious": "Autonomía basada en 02: la referencia cambia solo el objetivo inicial de respuesta a G4@16 y el cierre a C5@24; decide primero objetivos y luego recursos opcionales.",
+    "successCriteria": [
+      "La pregunta y LH no cambian; no hay aproximación ni silencio extra. Los objetivos se eligen antes de decidir adornos; G4@16 y C5@24 son una referencia válida, no la única."
+    ],
+    "simplifyHint": "Toca primero los bloques LH y canta los dos objetivos RH por compás; después incorpora los silencios y cualquier adorno que hayas elegido.",
+    "extendHint": "Escribe una respuesta propia con los mismos ocho acordes y el ritmo indicado; identifica objetivos primero y añade como máximo una aproximación si mejora una llegada."
+  }
+]

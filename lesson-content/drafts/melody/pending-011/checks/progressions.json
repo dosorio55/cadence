@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-melody-011-01-primary",
+    "stageId": "stage-melody-011-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Objetivos de la progresión",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Dos manos: bloques LH de raíz, tercera y séptima en el inicio de cada compás; melodía RH monofónica aparte. Sin walking. Beats en negras.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-011-02-primary",
+    "stageId": "stage-melody-011-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Conectar D4 con C4",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Dos manos: bloques LH de raíz, tercera y séptima en el inicio de cada compás; melodía RH monofónica aparte. Sin walking. Beats en negras.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-011-03-primary",
+    "stageId": "stage-melody-011-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Conectar la segunda frase",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Dos manos: bloques LH de raíz, tercera y séptima en el inicio de cada compás; melodía RH monofónica aparte. Sin walking. Beats en negras.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-011-04-primary",
+    "stageId": "stage-melody-011-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir primero las llegadas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Dos manos: bloques LH de raíz, tercera y séptima en el inicio de cada compás; melodía RH monofónica aparte. Sin walking. Beats en negras.",
+    "loopable": false
+  }
+]

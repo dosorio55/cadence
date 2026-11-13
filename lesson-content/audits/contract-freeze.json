@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "models": {
+    "pedagogyAndReview": "openai-codex/gpt-6.1-sol",
+    "compositionAndTechnical": "openai-codex/gpt-6-luna"
+  },
+  "modelSubstitutions": [],
+  "contractStatus": "approved",
+  "designStatus": "approved",
+  "pilotStatus": "approved-after-independent-recheck",
+  "massProductionAuthorized": true,
+  "sha256": {
+    "lesson-content/schemas/categories.schema.json": "aefb8fdffd91e302d7b52fa1245cdb3f332d1008224c3b2f2337d694ed13209b",
+    "lesson-content/schemas/chord-events.schema.json": "3b8d93714023fa1d7b8ed4b3109018362e45145c2d8c551b4b2de4d9a4df7e56",
+    "lesson-content/schemas/lessons.schema.json": "eb720405936ad54783f9827b80c0f1e07b8a53846e49bf282c79053134b8b6f0",
+    "lesson-content/schemas/note-events.schema.json": "750712a7896cfece90afcfc3d1f59c7d0e31574a139a94af5bbbbd342d870281",
+    "lesson-content/schemas/progressions.schema.json": "5e452612ba34a20e93fc67ea7305c75cbb03f2d2467eaec36267954b34879dbd",
+    "lesson-content/schemas/skills.schema.json": "8575485b337d4901122388a3619a2173a629b3e786c6c618fc989c47ccb9dcae",
+    "lesson-content/schemas/stages.schema.json": "bd4901c363138ba22327918412700f877975a42b1a98d5a68a4c8b56be1eeea9",
+    "lesson-content/approved/categories.json": "bb8c4da76ba99c5a562b1ac3d0efe939bc45b629d729096989a808716726812d",
+    "lesson-content/approved/skills.json": "dc89bab1d1fd3d44dd1b9cc24c79c74a02fa06b09b6e6e2b37ebcce559278228",
+    "lesson-content/approved/lessons.json": "5b9011d0ea1c4ef935c2b8926ac4a34a96c1e6f4bb37e07fecaeb6de04db784a"
+  },
+  "pilotSha256": {
+    "lesson-content/examples/pilot-data/categories.json": "bb8c4da76ba99c5a562b1ac3d0efe939bc45b629d729096989a808716726812d",
+    "lesson-content/examples/pilot-data/chord-events.json": "3113de29db49842cff4dabf65340ca6102a8c8798952e38eb45c257f2d0c3305",
+    "lesson-content/examples/pilot-data/lessons.json": "648e720cbe466a96cce779a74b39653f2843639dfbdad4a442315e7f18b35ce2",
+    "lesson-content/examples/pilot-data/note-events.json": "b386b2ed4191a10679b48c8247fb8a91071c9b099b1f6a9d13082c0ee68ce3fb",
+    "lesson-content/examples/pilot-data/progressions.json": "6ac70738fd25147e2f1b4c82c59a8a0c8c107a0feab2bb77fd332d3ff2260bb5",
+    "lesson-content/examples/pilot-data/skills.json": "f87206cc0bb0d7f123620756e8615333f4fa3e1b457a343f29386c4a3e59b290",
+    "lesson-content/examples/pilot-data/stages.json": "40626b57b00c85b0c41d1110315bcf966dc1267a8c7f524f71a710ca4ccf46f6"
+  }
+}

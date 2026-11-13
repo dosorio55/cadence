@@ -1,0 +1,227 @@
+[
+  {
+    "id": "stage-accompaniment-001-01",
+    "lessonId": "lesson-accompaniment-001",
+    "order": 1,
+    "title": "Base: tríadas en raíz",
+    "explanationMd": "A: C–G–Am–F en posición fundamental; todavía no hay inversiones.",
+    "task": "Toca bloque derecho y raíz izquierda al inicio de cada compás.",
+    "changeFromPrevious": "Presentación de la base.",
+    "successCriteria": [
+      "Identifico la posición fundamental de las cuatro tríadas.",
+      "Mantengo la raíz izquierda durante el compás."
+    ],
+    "simplifyHint": "Practica cada bloque por separado con su raíz.",
+    "extendHint": "Toca los cuatro compases sin cambiar la posición de las tríadas."
+  },
+  {
+    "id": "stage-accompaniment-001-02",
+    "lessonId": "lesson-accompaniment-001",
+    "order": 2,
+    "title": "Invertir V",
+    "explanationMd": "A (01) frente a B: solo G pasa a B–D–G; G4 queda como nota común desde C.",
+    "task": "Enlaza C→G conservando G4.",
+    "changeFromPrevious": "G cambia de posición fundamental a primera inversión; raíz izquierda G2 intacta.",
+    "successCriteria": [
+      "G está en primera inversión: B3–D4–G4.",
+      "Conservo G4 al pasar de C a G."
+    ],
+    "simplifyHint": "Aísla el enlace C→G y mantén G4.",
+    "extendHint": "Compara la posición fundamental y la primera inversión de G."
+  },
+  {
+    "id": "stage-accompaniment-001-03",
+    "lessonId": "lesson-accompaniment-001",
+    "order": 3,
+    "title": "Acercar Am",
+    "explanationMd": "A (02) frente a B: Am pasa a C–E–A; la voz superior sube G4→A4 por tono.",
+    "task": "Conduce G4 a A4 sin mover la raíz.",
+    "changeFromPrevious": "Am cambia a primera inversión; bajo A2 intacto.",
+    "successCriteria": [
+      "Am está en primera inversión C4–E4–A4.",
+      "La voz superior sube de G4 a A4 por tono."
+    ],
+    "simplifyHint": "Practica solo el enlace G→Am.",
+    "extendHint": "Busca otra posición próxima de Am y compara la voz superior."
+  },
+  {
+    "id": "stage-accompaniment-001-04",
+    "lessonId": "lesson-accompaniment-001",
+    "order": 4,
+    "title": "Enlazar F",
+    "explanationMd": "A (03) frente a B: F pasa a A–C–F, con C común desde Am.",
+    "task": "Toca la progresión y conserva C4 entre Am y F.",
+    "changeFromPrevious": "F cambia a primera inversión A–C–F; bajo F2 intacto.",
+    "successCriteria": [
+      "F está en primera inversión A3–C4–F4.",
+      "C4 permanece entre Am y F."
+    ],
+    "simplifyHint": "Practica solo Am→F conservando C4.",
+    "extendHint": "Compara otra inversión de F sin mover la raíz izquierda."
+  },
+  {
+    "id": "stage-accompaniment-001-05",
+    "lessonId": "lesson-accompaniment-001",
+    "order": 5,
+    "title": "Autonomía: elegir una inversión",
+    "explanationMd": "**A (etapa 01):** C–G–Am–F en posición fundamental. **B (esta referencia):** G y Am están invertidos; F vuelve a posición fundamental. Elige qué acorde invertir en tu propia vuelta: la referencia no es la única solución.",
+    "task": "Compara A y B y luego elige una inversión cercana para un enlace; puedes conservar F en posición fundamental o probar otra posición.",
+    "changeFromPrevious": "Se retiran las instrucciones de qué acorde invertir. La referencia conserva las inversiones de G y Am, pero devuelve F a posición fundamental; el estudiante elige su propio enlace.",
+    "successCriteria": [
+      "La referencia tiene G y Am invertidos y F en posición fundamental.",
+      "Elijo otra inversión solo si mejora o mantiene un enlace cómodo."
+    ],
+    "simplifyHint": "Compara primero el enlace G→Am entre A y B.",
+    "extendHint": "Prueba una inversión alternativa para F y verifica si reduce el movimiento de la voz superior."
+  },
+  {
+    "id": "stage-accompaniment-002-01",
+    "lessonId": "lesson-accompaniment-002",
+    "order": 1,
+    "title": "Referencia: acordes completos",
+    "explanationMd": "**A (referencia):** Dm7–G7–Cmaj7–Cmaj7 con acordes completos en la derecha y raíces izquierdas. Escucha las cuatro notas que identifican cada séptima; la etapa siguiente las reducirá a dos notas guía.",
+    "task": "Toca cada acorde de séptima completo en bloque, junto con su raíz izquierda.",
+    "changeFromPrevious": "Presentación de la base completa de ii–V–I mayor, antes de reducir voces.",
+    "successCriteria": [
+      "Reconozco la tercera y séptima dentro de cada acorde completo.",
+      "La izquierda toca D2–G2–C3–C3, una raíz por compás."
+    ],
+    "simplifyHint": "Toca primero solo la derecha y nombra tercera y séptima.",
+    "extendHint": "Escucha cómo se mueven las voces del acorde completo al siguiente."
+  },
+  {
+    "id": "stage-accompaniment-002-02",
+    "lessonId": "lesson-accompaniment-002",
+    "order": 2,
+    "title": "Reducir a shells",
+    "explanationMd": "Compara **A (etapa 01)**, con acordes completos, con **B (esta etapa)**: mismo Dm7–G7–Cmaj7–Cmaj7 y bajo; la derecha conserva tercera y séptima: Dm7 C4–F4, G7 F3–B3, Cmaj7 B3–E4.",
+    "task": "Toca los shells de dos notas en los mismos ataques y conserva el bajo D2–G2–C3–C3.",
+    "changeFromPrevious": "Se retiran voces del bloque para dejar tercera y séptima. En G7 se omiten D4 y G4, y F4 (MIDI 65) baja a F3 (MIDI 53); armonía, bajo, ataques y duraciones se conservan.",
+    "successCriteria": [
+      "Distingo tercera y séptima en cada shell.",
+      "El bajo y la secuencia ii–V–I mayor permanecen iguales a A."
+    ],
+    "simplifyHint": "Practica las dos notas derechas por separado, sin cambiar los ataques de cada compás.",
+    "extendHint": "Canta las notas retiradas del bloque mientras tocas solo el shell."
+  },
+  {
+    "id": "stage-accompaniment-002-03",
+    "lessonId": "lesson-accompaniment-002",
+    "order": 3,
+    "title": "Cambiar la octava de la séptima de V",
+    "explanationMd": "Compara **A (etapa 02)** con **B (esta etapa)**: solo G7 cambia de F3–B3 a B3–F4. B3 permanece; F sube una octava y resuelve como F4→E4 al llegar a Cmaj7.",
+    "task": "Toca Dm7 y Cmaj7 igual que en A. En G7 coloca B3–F4; al pasar a Cmaj7, baja F4 a E4 y conserva B3.",
+    "changeFromPrevious": "Solo la séptima F de G7 sube de F3 a F4; en la llegada resuelve F4→E4. Los demás shells, bajo y tiempos se conservan.",
+    "successCriteria": [
+      "Oigo el cambio de octava en la séptima de G7.",
+      "F4 baja a E4 al llegar a Cmaj7, sin cambiar la armonía."
+    ],
+    "simplifyHint": "Aísla el enlace G7→Cmaj7: B3 permanece y F4 baja a E4.",
+    "extendHint": "Compara este registro con el de la etapa 02 sin afirmar que uno sea una conducción universalmente óptima."
+  },
+  {
+    "id": "stage-accompaniment-002-04",
+    "lessonId": "lesson-accompaniment-002",
+    "order": 4,
+    "title": "Mover el shell de ii una octava",
+    "explanationMd": "Compara **A (etapa 03)** con **B (esta etapa)**: solo Dm7 cambia de C4–F4 a F4–C5. G7 y los dos Cmaj7 conservan los shells de la etapa anterior; el bajo sigue D2–G2–C3–C3.",
+    "task": "Mantén G7 y Cmaj7 como en A; mueve únicamente las dos notas de Dm7 a F4–C5.",
+    "changeFromPrevious": "Solo Dm7 cambia de C4–F4 a F4–C5. No se presenta como conducción óptima; es una comparación de registro manteniendo la calidad y el bajo.",
+    "successCriteria": [
+      "Reconozco C y F como séptima y tercera de Dm7 en el nuevo registro.",
+      "No cambio los shells de G7 ni Cmaj7."
+    ],
+    "simplifyHint": "Practica el shell de Dm7 aislado antes de tocar los cuatro compases.",
+    "extendHint": "Compara ambas octavas y elige la que resulte más cómoda, sin cambiar las notas guía."
+  },
+  {
+    "id": "stage-accompaniment-002-05",
+    "lessonId": "lesson-accompaniment-002",
+    "order": 5,
+    "title": "Autonomía: elegir la octava",
+    "explanationMd": "Compara **A (etapa 04)** con **B (esta referencia)**: Dm7 vuelve de F4–C5 a C4–F4; G7 sigue B3–F4 y Cmaj7 B3–E4. La etapa 03 ya tenía esta disposición de Dm7 y coincide con B; elige la octava para tu versión, sin tomar el ejemplo como única respuesta.",
+    "task": "Toca la referencia y luego escoge una octava cómoda para el shell de Dm7; conserva las notas guía, el resto de los shells y las raíces.",
+    "changeFromPrevious": "Se retira la elección prescrita: Dm7 vuelve a C4–F4 como referencia y el estudiante decide la octava. G7 y Cmaj7 permanecen como en la etapa 03.",
+    "successCriteria": [
+      "Comparo A (04: F4–C5) con B (05: C4–F4); la etapa 03 ya coincide con B.",
+      "Elijo una posición de Dm7 manteniendo tercera, séptima y bajo."
+    ],
+    "simplifyHint": "Compara primero solo las dos posiciones de Dm7 con el mismo bajo D2.",
+    "extendHint": "Prueba otra octava cómoda para Dm7 y describe la diferencia de registro, no una respuesta correcta única."
+  },
+  {
+    "id": "stage-accompaniment-003-01",
+    "lessonId": "lesson-accompaniment-003",
+    "order": 1,
+    "title": "Base: tríadas en bloque",
+    "explanationMd": "**A (esta etapa):** C–Am–F–G con tres notas derechas simultáneas al inicio de cada compás y raíz izquierda sostenida. Esta es la referencia para la etapa 02; todavía no hay arpegio.",
+    "task": "Toca cada tríada derecha en bloque en beat 0, 4, 8 y 12, sosteniéndola durante el compás junto con la raíz izquierda.",
+    "changeFromPrevious": "Presentación de la referencia armónica C–Am–F–G en bloques de tres notas.",
+    "successCriteria": [
+      "Toco las tres notas simultáneamente durante cuatro negras.",
+      "La izquierda sostiene una sola raíz por compás."
+    ],
+    "simplifyHint": "Practica cada bloque por separado antes de enlazar los cuatro acordes.",
+    "extendHint": "Escucha la nota superior de cada bloque sin añadir ataques."
+  },
+  {
+    "id": "stage-accompaniment-003-02",
+    "lessonId": "lesson-accompaniment-003",
+    "order": 2,
+    "title": "Desplegar tres notas",
+    "explanationMd": "Compara **A (etapa 01)** con **B (esta etapa)**: cada bloque se despliega en tres ataques regulares, desplazamientos locales 0, 1 y 2. La raíz y la nota media duran una negra; la cima comienza en 2 y dura dos negras.",
+    "task": "Toca raíz en 0, nota media en 1 y cima en 2; sostén esta última hasta el cambio de compás.",
+    "changeFromPrevious": "El mismo acorde y bajo pasan de tres notas simultáneas a tres ataques separados por una negra; la cima dura dos negras.",
+    "successCriteria": [
+      "Los ataques derechos caen en 0, 1 y 2 de cada compás.",
+      "La cima dura dos negras y el bajo no cambia."
+    ],
+    "simplifyHint": "Practica una sola tríada con metrónomo a negras.",
+    "extendHint": "Conserva exactamente el pulso y escucha la cima sostenida hasta el siguiente acorde."
+  },
+  {
+    "id": "stage-accompaniment-003-03",
+    "lessonId": "lesson-accompaniment-003",
+    "order": 3,
+    "title": "Acortar la cima y responder",
+    "explanationMd": "Compara **A (etapa 02)** con **B (esta etapa)**: raíz en 0 y nota media en 1 se conservan; la cima se acorta de dos a una negra en 2 y se añade una respuesta de nota media en 3.",
+    "task": "Toca raíz–media–cima–media en 0, 1, 2 y 3; libera la cima al terminar una negra para responder.",
+    "changeFromPrevious": "La cima pasa de dos negras a una para dejar espacio a una nota media nueva en beat 3; se conserva el bajo y la rejilla de negras.",
+    "successCriteria": [
+      "La cima dura una negra, no dos.",
+      "La respuesta de beat 3 cabe antes del siguiente compás."
+    ],
+    "simplifyHint": "Practica primero los ataques 0–1–2 y añade la respuesta en 3.",
+    "extendHint": "Mantén todas las notas en la rejilla regular de negras."
+  },
+  {
+    "id": "stage-accompaniment-003-04",
+    "lessonId": "lesson-accompaniment-003",
+    "order": 4,
+    "title": "Dejar aire antes de la cima",
+    "explanationMd": "Compara **A (etapa 03)** con **B (esta etapa)**: se elimina únicamente la nota media de beat 1. Quedan raíz en 0, cima en 2 y respuesta media en 3; no hay nota sostenida sobre otra.",
+    "task": "Toca raíz en 0, deja beat 1 en silencio, toca cima en 2 y nota media en 3.",
+    "changeFromPrevious": "Se retira solo el ataque de la nota media en beat 1; las otras entradas y duraciones de la etapa 03 se conservan.",
+    "successCriteria": [
+      "Dejo libre beat 1 sin adelantar la cima.",
+      "Toco cima en 2 y respuesta media en 3."
+    ],
+    "simplifyHint": "Cuenta en voz alta los cuatro pulsos y toca solo raíz y cima.",
+    "extendHint": "Conserva el silencio aunque la mano quiera rellenarlo."
+  },
+  {
+    "id": "stage-accompaniment-003-05",
+    "lessonId": "lesson-accompaniment-003",
+    "order": 5,
+    "title": "Autonomía: decidir el espacio",
+    "explanationMd": "Compara **A (etapa 04)** con **B (esta referencia)**: B toca raíz en 0 y cima en 2, sostenida dos negras hasta el cambio; omite los ataques interiores de 1 y 3. Elige en qué compás conservar ese espacio.",
+    "task": "Toca la referencia y diseña una vuelta propia: decide dónde omitir ataques, mantén la cima en beat 2 durante dos negras y conserva el bajo.",
+    "changeFromPrevious": "Se retira la instrucción fija de omitir beat 1: la referencia omite beats 1 y 3 y sostiene la cima de 2 a 4; el estudiante decide dónde usar ese espacio.",
+    "successCriteria": [
+      "La cima inicia en 2 y dura dos negras.",
+      "Elijo el espacio sin alterar la progresión ni el bajo."
+    ],
+    "simplifyHint": "Repite raíz en 0 y cima en 2, sostenida hasta 4: beat 1 queda sin nota derecha activa; en beat 3 no hay ataque nuevo, pero la cima sigue sonando.",
+    "extendHint": "Decide qué compases necesitan aire y explica la elección sin añadir otra textura."
+  }
+]

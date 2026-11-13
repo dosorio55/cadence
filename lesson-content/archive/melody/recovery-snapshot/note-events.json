@@ -1,0 +1,4572 @@
+[
+  {
+    "id": "note-melody-001-01-primary-0001",
+    "progressionId": "prog-melody-001-01-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-01-primary-0002",
+    "progressionId": "prog-melody-001-01-primary",
+    "midi": 55,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-01-primary-0003",
+    "progressionId": "prog-melody-001-01-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-01-primary-0004",
+    "progressionId": "prog-melody-001-01-primary",
+    "midi": 52,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-01-primary-0005",
+    "progressionId": "prog-melody-001-01-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-01-primary-0006",
+    "progressionId": "prog-melody-001-01-primary",
+    "midi": 48,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-01-primary-0007",
+    "progressionId": "prog-melody-001-01-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-01-primary-0008",
+    "progressionId": "prog-melody-001-01-primary",
+    "midi": 50,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-01-primary-0009",
+    "progressionId": "prog-melody-001-01-primary",
+    "midi": 67,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-01-primary-0010",
+    "progressionId": "prog-melody-001-01-primary",
+    "midi": 67,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-01-primary-0011",
+    "progressionId": "prog-melody-001-01-primary",
+    "midi": 67,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-01-primary-0012",
+    "progressionId": "prog-melody-001-01-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-02-primary-0001",
+    "progressionId": "prog-melody-001-02-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-02-primary-0002",
+    "progressionId": "prog-melody-001-02-primary",
+    "midi": 55,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-02-primary-0003",
+    "progressionId": "prog-melody-001-02-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-02-primary-0004",
+    "progressionId": "prog-melody-001-02-primary",
+    "midi": 52,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-02-primary-0005",
+    "progressionId": "prog-melody-001-02-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-02-primary-0006",
+    "progressionId": "prog-melody-001-02-primary",
+    "midi": 48,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-02-primary-0007",
+    "progressionId": "prog-melody-001-02-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-02-primary-0008",
+    "progressionId": "prog-melody-001-02-primary",
+    "midi": 50,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-02-primary-0009",
+    "progressionId": "prog-melody-001-02-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-02-primary-0010",
+    "progressionId": "prog-melody-001-02-primary",
+    "midi": 60,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-02-primary-0011",
+    "progressionId": "prog-melody-001-02-primary",
+    "midi": 65,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-02-primary-0012",
+    "progressionId": "prog-melody-001-02-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-03-primary-0001",
+    "progressionId": "prog-melody-001-03-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-03-primary-0002",
+    "progressionId": "prog-melody-001-03-primary",
+    "midi": 55,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-03-primary-0003",
+    "progressionId": "prog-melody-001-03-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-03-primary-0004",
+    "progressionId": "prog-melody-001-03-primary",
+    "midi": 52,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-03-primary-0005",
+    "progressionId": "prog-melody-001-03-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-03-primary-0006",
+    "progressionId": "prog-melody-001-03-primary",
+    "midi": 48,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-03-primary-0007",
+    "progressionId": "prog-melody-001-03-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-03-primary-0008",
+    "progressionId": "prog-melody-001-03-primary",
+    "midi": 50,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-03-primary-0009",
+    "progressionId": "prog-melody-001-03-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-03-primary-0010",
+    "progressionId": "prog-melody-001-03-primary",
+    "midi": 60,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-03-primary-0011",
+    "progressionId": "prog-melody-001-03-primary",
+    "midi": 65,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-03-primary-0012",
+    "progressionId": "prog-melody-001-03-primary",
+    "midi": 71,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-04-primary-0001",
+    "progressionId": "prog-melody-001-04-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-04-primary-0002",
+    "progressionId": "prog-melody-001-04-primary",
+    "midi": 55,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-04-primary-0003",
+    "progressionId": "prog-melody-001-04-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-04-primary-0004",
+    "progressionId": "prog-melody-001-04-primary",
+    "midi": 52,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-04-primary-0005",
+    "progressionId": "prog-melody-001-04-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-04-primary-0006",
+    "progressionId": "prog-melody-001-04-primary",
+    "midi": 48,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-04-primary-0007",
+    "progressionId": "prog-melody-001-04-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-04-primary-0008",
+    "progressionId": "prog-melody-001-04-primary",
+    "midi": 50,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-001-04-primary-0009",
+    "progressionId": "prog-melody-001-04-primary",
+    "midi": 72,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-04-primary-0010",
+    "progressionId": "prog-melody-001-04-primary",
+    "midi": 64,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-04-primary-0011",
+    "progressionId": "prog-melody-001-04-primary",
+    "midi": 69,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-001-04-primary-0012",
+    "progressionId": "prog-melody-001-04-primary",
+    "midi": 74,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-01-primary-0041",
+    "progressionId": "prog-melody-002-01-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-01-primary-0042",
+    "progressionId": "prog-melody-002-01-primary",
+    "midi": 48,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-01-primary-0043",
+    "progressionId": "prog-melody-002-01-primary",
+    "midi": 45,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-01-primary-0044",
+    "progressionId": "prog-melody-002-01-primary",
+    "midi": 45,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-01-primary-0045",
+    "progressionId": "prog-melody-002-01-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-01-primary-0046",
+    "progressionId": "prog-melody-002-01-primary",
+    "midi": 67,
+    "startBeat": 1,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-01-primary-0047",
+    "progressionId": "prog-melody-002-01-primary",
+    "midi": 72,
+    "startBeat": 2,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-01-primary-0048",
+    "progressionId": "prog-melody-002-01-primary",
+    "midi": 64,
+    "startBeat": 4,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-01-primary-0049",
+    "progressionId": "prog-melody-002-01-primary",
+    "midi": 67,
+    "startBeat": 5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-01-primary-0050",
+    "progressionId": "prog-melody-002-01-primary",
+    "midi": 72,
+    "startBeat": 6,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-02-primary-0051",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-02-primary-0052",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 48,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-02-primary-0053",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 45,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-02-primary-0054",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 45,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-02-primary-0055",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-02-primary-0056",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 67,
+    "startBeat": 1,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-02-primary-0057",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 72,
+    "startBeat": 2,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-02-primary-0058",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 64,
+    "startBeat": 4,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-02-primary-0059",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 67,
+    "startBeat": 5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-02-primary-0060",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 72,
+    "startBeat": 6,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-02-primary-0061",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 64,
+    "startBeat": 8,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-02-primary-0062",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 67,
+    "startBeat": 9,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-02-primary-0063",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 72,
+    "startBeat": 10,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-02-primary-0064",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 64,
+    "startBeat": 12,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-02-primary-0065",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 67,
+    "startBeat": 13,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-02-primary-0066",
+    "progressionId": "prog-melody-002-02-primary",
+    "midi": 72,
+    "startBeat": 14,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-03-primary-0067",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-03-primary-0068",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 48,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-03-primary-0069",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 45,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-03-primary-0070",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 45,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-03-primary-0071",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-03-primary-0072",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 67,
+    "startBeat": 1,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-03-primary-0073",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 72,
+    "startBeat": 2,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-03-primary-0074",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 64,
+    "startBeat": 4,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-03-primary-0075",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 67,
+    "startBeat": 5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-03-primary-0076",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 72,
+    "startBeat": 6,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-03-primary-0077",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 64,
+    "startBeat": 8,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-03-primary-0078",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 67,
+    "startBeat": 9,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-03-primary-0079",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 69,
+    "startBeat": 10,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-03-primary-0080",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 64,
+    "startBeat": 12,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-03-primary-0081",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 67,
+    "startBeat": 13,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-03-primary-0082",
+    "progressionId": "prog-melody-002-03-primary",
+    "midi": 69,
+    "startBeat": 14,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-04-primary-0083",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-04-primary-0084",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 48,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-04-primary-0085",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 45,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-04-primary-0086",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 45,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-002-04-primary-0087",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-04-primary-0088",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 67,
+    "startBeat": 1,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-04-primary-0089",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 72,
+    "startBeat": 2,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-04-primary-0090",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 64,
+    "startBeat": 4,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-04-primary-0091",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 67,
+    "startBeat": 5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-04-primary-0092",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 72,
+    "startBeat": 6,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-04-primary-0093",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 64,
+    "startBeat": 8,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-04-primary-0094",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 67,
+    "startBeat": 9,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-04-primary-0095",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 69,
+    "startBeat": 10,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-04-primary-0096",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 64,
+    "startBeat": 12,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-04-primary-0097",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 67,
+    "startBeat": 13,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-04-primary-0098",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 69,
+    "startBeat": 14,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-002-04-primary-0099",
+    "progressionId": "prog-melody-002-04-primary",
+    "midi": 67,
+    "startBeat": 15.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-01-primary-0001",
+    "progressionId": "prog-melody-003-01-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-01-primary-0002",
+    "progressionId": "prog-melody-003-01-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-01-primary-0003",
+    "progressionId": "prog-melody-003-01-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-01-primary-0004",
+    "progressionId": "prog-melody-003-01-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-01-primary-0005",
+    "progressionId": "prog-melody-003-01-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 3.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-01-primary-0006",
+    "progressionId": "prog-melody-003-01-primary",
+    "midi": 60,
+    "startBeat": 4,
+    "durationBeats": 3.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-01-primary-0007",
+    "progressionId": "prog-melody-003-01-primary",
+    "midi": 57,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-01-primary-0008",
+    "progressionId": "prog-melody-003-01-primary",
+    "midi": 59,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-02-primary-0001",
+    "progressionId": "prog-melody-003-02-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-02-primary-0002",
+    "progressionId": "prog-melody-003-02-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-02-primary-0003",
+    "progressionId": "prog-melody-003-02-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-02-primary-0004",
+    "progressionId": "prog-melody-003-02-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-02-primary-0005",
+    "progressionId": "prog-melody-003-02-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 3.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-02-primary-0006",
+    "progressionId": "prog-melody-003-02-primary",
+    "midi": 62,
+    "startBeat": 3.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-02-primary-0007",
+    "progressionId": "prog-melody-003-02-primary",
+    "midi": 60,
+    "startBeat": 4,
+    "durationBeats": 3.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-02-primary-0008",
+    "progressionId": "prog-melody-003-02-primary",
+    "midi": 57,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-02-primary-0009",
+    "progressionId": "prog-melody-003-02-primary",
+    "midi": 59,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-03-primary-0001",
+    "progressionId": "prog-melody-003-03-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-03-primary-0002",
+    "progressionId": "prog-melody-003-03-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-03-primary-0003",
+    "progressionId": "prog-melody-003-03-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-03-primary-0004",
+    "progressionId": "prog-melody-003-03-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-03-primary-0005",
+    "progressionId": "prog-melody-003-03-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 3.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-03-primary-0006",
+    "progressionId": "prog-melody-003-03-primary",
+    "midi": 62,
+    "startBeat": 3.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-03-primary-0007",
+    "progressionId": "prog-melody-003-03-primary",
+    "midi": 60,
+    "startBeat": 4,
+    "durationBeats": 3.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-03-primary-0008",
+    "progressionId": "prog-melody-003-03-primary",
+    "midi": 59,
+    "startBeat": 7.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-03-primary-0009",
+    "progressionId": "prog-melody-003-03-primary",
+    "midi": 57,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-03-primary-0010",
+    "progressionId": "prog-melody-003-03-primary",
+    "midi": 59,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-04-primary-0001",
+    "progressionId": "prog-melody-003-04-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-04-primary-0002",
+    "progressionId": "prog-melody-003-04-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-04-primary-0003",
+    "progressionId": "prog-melody-003-04-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-04-primary-0004",
+    "progressionId": "prog-melody-003-04-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-003-04-primary-0005",
+    "progressionId": "prog-melody-003-04-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 3.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-04-primary-0006",
+    "progressionId": "prog-melody-003-04-primary",
+    "midi": 60,
+    "startBeat": 4,
+    "durationBeats": 3.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-04-primary-0007",
+    "progressionId": "prog-melody-003-04-primary",
+    "midi": 59,
+    "startBeat": 7.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-04-primary-0008",
+    "progressionId": "prog-melody-003-04-primary",
+    "midi": 57,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-003-04-primary-0009",
+    "progressionId": "prog-melody-003-04-primary",
+    "midi": 59,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-01-primary-0001",
+    "progressionId": "prog-melody-004-01-primary",
+    "midi": 50,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-01-primary-0002",
+    "progressionId": "prog-melody-004-01-primary",
+    "midi": 43,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-01-primary-0003",
+    "progressionId": "prog-melody-004-01-primary",
+    "midi": 48,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-01-primary-0004",
+    "progressionId": "prog-melody-004-01-primary",
+    "midi": 48,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-01-primary-0005",
+    "progressionId": "prog-melody-004-01-primary",
+    "midi": 65,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-01-primary-0006",
+    "progressionId": "prog-melody-004-01-primary",
+    "midi": 59,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-01-primary-0007",
+    "progressionId": "prog-melody-004-01-primary",
+    "midi": 67,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-01-primary-0008",
+    "progressionId": "prog-melody-004-01-primary",
+    "midi": 64,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-02-primary-0001",
+    "progressionId": "prog-melody-004-02-primary",
+    "midi": 50,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-02-primary-0002",
+    "progressionId": "prog-melody-004-02-primary",
+    "midi": 43,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-02-primary-0003",
+    "progressionId": "prog-melody-004-02-primary",
+    "midi": 48,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-02-primary-0004",
+    "progressionId": "prog-melody-004-02-primary",
+    "midi": 48,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-02-primary-0005",
+    "progressionId": "prog-melody-004-02-primary",
+    "midi": 65,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-02-primary-0006",
+    "progressionId": "prog-melody-004-02-primary",
+    "midi": 60,
+    "startBeat": 3.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-02-primary-0007",
+    "progressionId": "prog-melody-004-02-primary",
+    "midi": 59,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-02-primary-0008",
+    "progressionId": "prog-melody-004-02-primary",
+    "midi": 67,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-02-primary-0009",
+    "progressionId": "prog-melody-004-02-primary",
+    "midi": 64,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-03-primary-0001",
+    "progressionId": "prog-melody-004-03-primary",
+    "midi": 50,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-03-primary-0002",
+    "progressionId": "prog-melody-004-03-primary",
+    "midi": 43,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-03-primary-0003",
+    "progressionId": "prog-melody-004-03-primary",
+    "midi": 48,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-03-primary-0004",
+    "progressionId": "prog-melody-004-03-primary",
+    "midi": 48,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-03-primary-0005",
+    "progressionId": "prog-melody-004-03-primary",
+    "midi": 65,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-03-primary-0006",
+    "progressionId": "prog-melody-004-03-primary",
+    "midi": 60,
+    "startBeat": 3.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-03-primary-0007",
+    "progressionId": "prog-melody-004-03-primary",
+    "midi": 59,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-03-primary-0008",
+    "progressionId": "prog-melody-004-03-primary",
+    "midi": 69,
+    "startBeat": 7.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-03-primary-0009",
+    "progressionId": "prog-melody-004-03-primary",
+    "midi": 67,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-03-primary-0010",
+    "progressionId": "prog-melody-004-03-primary",
+    "midi": 64,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-04-primary-0001",
+    "progressionId": "prog-melody-004-04-primary",
+    "midi": 50,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-04-primary-0002",
+    "progressionId": "prog-melody-004-04-primary",
+    "midi": 43,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-04-primary-0003",
+    "progressionId": "prog-melody-004-04-primary",
+    "midi": 48,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-04-primary-0004",
+    "progressionId": "prog-melody-004-04-primary",
+    "midi": 48,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-004-04-primary-0005",
+    "progressionId": "prog-melody-004-04-primary",
+    "midi": 65,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-04-primary-0006",
+    "progressionId": "prog-melody-004-04-primary",
+    "midi": 60,
+    "startBeat": 3.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-04-primary-0007",
+    "progressionId": "prog-melody-004-04-primary",
+    "midi": 59,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-04-primary-0008",
+    "progressionId": "prog-melody-004-04-primary",
+    "midi": 69,
+    "startBeat": 7.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-04-primary-0009",
+    "progressionId": "prog-melody-004-04-primary",
+    "midi": 67,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-04-primary-0010",
+    "progressionId": "prog-melody-004-04-primary",
+    "midi": 65,
+    "startBeat": 11.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-004-04-primary-0011",
+    "progressionId": "prog-melody-004-04-primary",
+    "midi": 64,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0001",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-01-primary-0002",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 43,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-01-primary-0003",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 45,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-01-primary-0004",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 48,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-01-primary-0005",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0006",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 67,
+    "startBeat": 1,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0007",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 64,
+    "startBeat": 2,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0008",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 67,
+    "startBeat": 3,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0009",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 62,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0010",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 65,
+    "startBeat": 5,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0011",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 67,
+    "startBeat": 6,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0012",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 59,
+    "startBeat": 7,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0013",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 64,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0014",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 67,
+    "startBeat": 9,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0015",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 69,
+    "startBeat": 10,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0016",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 67,
+    "startBeat": 11,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0017",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0018",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 64,
+    "startBeat": 13,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0019",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 67,
+    "startBeat": 14,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-01-primary-0020",
+    "progressionId": "prog-melody-005-01-primary",
+    "midi": 60,
+    "startBeat": 15,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0001",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-02-primary-0002",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 43,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-02-primary-0003",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 45,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-02-primary-0004",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 48,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-02-primary-0005",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0006",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 67,
+    "startBeat": 1,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0007",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 64,
+    "startBeat": 2,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0008",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 67,
+    "startBeat": 3,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0009",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 62,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0010",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 65,
+    "startBeat": 5,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0011",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 67,
+    "startBeat": 6,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0012",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 64,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0013",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 67,
+    "startBeat": 9,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0014",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 69,
+    "startBeat": 10,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0015",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 67,
+    "startBeat": 11,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0016",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0017",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 64,
+    "startBeat": 13,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0018",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 67,
+    "startBeat": 14,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-02-primary-0019",
+    "progressionId": "prog-melody-005-02-primary",
+    "midi": 60,
+    "startBeat": 15,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0001",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-03-primary-0002",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 43,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-03-primary-0003",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 45,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-03-primary-0004",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 48,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-03-primary-0005",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0006",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 67,
+    "startBeat": 1,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0007",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 64,
+    "startBeat": 2,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0008",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 67,
+    "startBeat": 3,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0009",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 62,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0010",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 65,
+    "startBeat": 5,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0011",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 67,
+    "startBeat": 6,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0012",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 64,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0013",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 67,
+    "startBeat": 9,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0014",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 72,
+    "startBeat": 10,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0015",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 67,
+    "startBeat": 11,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0016",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0017",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 64,
+    "startBeat": 13,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0018",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 67,
+    "startBeat": 14,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-03-primary-0019",
+    "progressionId": "prog-melody-005-03-primary",
+    "midi": 60,
+    "startBeat": 15,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0001",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-04-primary-0002",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 43,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-04-primary-0003",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 45,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-04-primary-0004",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 48,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-005-04-primary-0005",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0006",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 67,
+    "startBeat": 1,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0007",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 64,
+    "startBeat": 2,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0008",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 67,
+    "startBeat": 3,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0009",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 62,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0010",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 65,
+    "startBeat": 5,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0011",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 67,
+    "startBeat": 6,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0012",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 64,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0013",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 67,
+    "startBeat": 9,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0014",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 72,
+    "startBeat": 10,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0015",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 67,
+    "startBeat": 11,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0016",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0017",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 64,
+    "startBeat": 13,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0018",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 67,
+    "startBeat": 14,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-005-04-primary-0019",
+    "progressionId": "prog-melody-005-04-primary",
+    "midi": 64,
+    "startBeat": 15,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-01-primary-0001",
+    "progressionId": "prog-melody-006-01-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-01-primary-0002",
+    "progressionId": "prog-melody-006-01-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-01-primary-0003",
+    "progressionId": "prog-melody-006-01-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-01-primary-0004",
+    "progressionId": "prog-melody-006-01-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-01-primary-0005",
+    "progressionId": "prog-melody-006-01-primary",
+    "midi": 60,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-01-primary-0006",
+    "progressionId": "prog-melody-006-01-primary",
+    "midi": 57,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-01-primary-0007",
+    "progressionId": "prog-melody-006-01-primary",
+    "midi": 53,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-01-primary-0008",
+    "progressionId": "prog-melody-006-01-primary",
+    "midi": 55,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-02-primary-0001",
+    "progressionId": "prog-melody-006-02-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-02-primary-0002",
+    "progressionId": "prog-melody-006-02-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-02-primary-0003",
+    "progressionId": "prog-melody-006-02-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-02-primary-0004",
+    "progressionId": "prog-melody-006-02-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-02-primary-0005",
+    "progressionId": "prog-melody-006-02-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-02-primary-0006",
+    "progressionId": "prog-melody-006-02-primary",
+    "midi": 57,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-02-primary-0007",
+    "progressionId": "prog-melody-006-02-primary",
+    "midi": 53,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-02-primary-0008",
+    "progressionId": "prog-melody-006-02-primary",
+    "midi": 55,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-03-primary-0001",
+    "progressionId": "prog-melody-006-03-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-03-primary-0002",
+    "progressionId": "prog-melody-006-03-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-03-primary-0003",
+    "progressionId": "prog-melody-006-03-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-03-primary-0004",
+    "progressionId": "prog-melody-006-03-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-03-primary-0005",
+    "progressionId": "prog-melody-006-03-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-03-primary-0006",
+    "progressionId": "prog-melody-006-03-primary",
+    "midi": 60,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-03-primary-0007",
+    "progressionId": "prog-melody-006-03-primary",
+    "midi": 53,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-03-primary-0008",
+    "progressionId": "prog-melody-006-03-primary",
+    "midi": 55,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-04-primary-0001",
+    "progressionId": "prog-melody-006-04-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-04-primary-0002",
+    "progressionId": "prog-melody-006-04-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-04-primary-0003",
+    "progressionId": "prog-melody-006-04-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-04-primary-0004",
+    "progressionId": "prog-melody-006-04-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-04-primary-0005",
+    "progressionId": "prog-melody-006-04-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-04-primary-0006",
+    "progressionId": "prog-melody-006-04-primary",
+    "midi": 60,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-04-primary-0007",
+    "progressionId": "prog-melody-006-04-primary",
+    "midi": 57,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-04-primary-0008",
+    "progressionId": "prog-melody-006-04-primary",
+    "midi": 55,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-05-primary-0001",
+    "progressionId": "prog-melody-006-05-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-05-primary-0002",
+    "progressionId": "prog-melody-006-05-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-05-primary-0003",
+    "progressionId": "prog-melody-006-05-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-05-primary-0004",
+    "progressionId": "prog-melody-006-05-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-006-05-primary-0005",
+    "progressionId": "prog-melody-006-05-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-05-primary-0006",
+    "progressionId": "prog-melody-006-05-primary",
+    "midi": 60,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-05-primary-0007",
+    "progressionId": "prog-melody-006-05-primary",
+    "midi": 57,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-006-05-primary-0008",
+    "progressionId": "prog-melody-006-05-primary",
+    "midi": 59,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-01-primary-0001",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-01-primary-0002",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-01-primary-0003",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-01-primary-0004",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-01-primary-0005",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-01-primary-0006",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 67,
+    "startBeat": 1,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-01-primary-0007",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 69,
+    "startBeat": 2,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-01-primary-0008",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 67,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-01-primary-0009",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 64,
+    "startBeat": 5,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-01-primary-0010",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 62,
+    "startBeat": 6,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-01-primary-0011",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 64,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-01-primary-0012",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 67,
+    "startBeat": 9,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-01-primary-0013",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 69,
+    "startBeat": 10,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-01-primary-0014",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-01-primary-0015",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 64,
+    "startBeat": 13,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-01-primary-0016",
+    "progressionId": "prog-melody-007-01-primary",
+    "midi": 62,
+    "startBeat": 14,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-02-primary-0001",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-02-primary-0002",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-02-primary-0003",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-02-primary-0004",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-02-primary-0005",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-02-primary-0006",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 67,
+    "startBeat": 1.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-02-primary-0007",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 69,
+    "startBeat": 2,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-02-primary-0008",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 67,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-02-primary-0009",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 64,
+    "startBeat": 5,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-02-primary-0010",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 62,
+    "startBeat": 6,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-02-primary-0011",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 64,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-02-primary-0012",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 67,
+    "startBeat": 9.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-02-primary-0013",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 69,
+    "startBeat": 10,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-02-primary-0014",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-02-primary-0015",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 64,
+    "startBeat": 13,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-02-primary-0016",
+    "progressionId": "prog-melody-007-02-primary",
+    "midi": 62,
+    "startBeat": 14,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-03-primary-0001",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-03-primary-0002",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-03-primary-0003",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-03-primary-0004",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-03-primary-0005",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-03-primary-0006",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 67,
+    "startBeat": 1.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-03-primary-0007",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 69,
+    "startBeat": 2,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-03-primary-0008",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 67,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-03-primary-0009",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 64,
+    "startBeat": 5,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-03-primary-0010",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 62,
+    "startBeat": 6.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-03-primary-0011",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 64,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-03-primary-0012",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 67,
+    "startBeat": 9.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-03-primary-0013",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 69,
+    "startBeat": 10,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-03-primary-0014",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-03-primary-0015",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 64,
+    "startBeat": 13,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-03-primary-0016",
+    "progressionId": "prog-melody-007-03-primary",
+    "midi": 62,
+    "startBeat": 14.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-04-primary-0001",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-04-primary-0002",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-04-primary-0003",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-04-primary-0004",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-007-04-primary-0005",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-04-primary-0006",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 67,
+    "startBeat": 1.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-04-primary-0007",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 69,
+    "startBeat": 2,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-04-primary-0008",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 67,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-04-primary-0009",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 64,
+    "startBeat": 5,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-04-primary-0010",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 62,
+    "startBeat": 6.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-04-primary-0011",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 64,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-04-primary-0012",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 67,
+    "startBeat": 9.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-04-primary-0013",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 69,
+    "startBeat": 10,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-04-primary-0014",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-04-primary-0015",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 64,
+    "startBeat": 13,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-007-04-primary-0016",
+    "progressionId": "prog-melody-007-04-primary",
+    "midi": 62,
+    "startBeat": 14,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-01-primary-0001",
+    "progressionId": "prog-melody-008-01-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-01-primary-0002",
+    "progressionId": "prog-melody-008-01-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-01-primary-0003",
+    "progressionId": "prog-melody-008-01-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-01-primary-0004",
+    "progressionId": "prog-melody-008-01-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-01-primary-0005",
+    "progressionId": "prog-melody-008-01-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-01-primary-0006",
+    "progressionId": "prog-melody-008-01-primary",
+    "midi": 69,
+    "startBeat": 4,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-01-primary-0007",
+    "progressionId": "prog-melody-008-01-primary",
+    "midi": 65,
+    "startBeat": 8,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-01-primary-0008",
+    "progressionId": "prog-melody-008-01-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-02-primary-0001",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-02-primary-0002",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-02-primary-0003",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-02-primary-0004",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-02-primary-0005",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-02-primary-0006",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 62,
+    "startBeat": 1,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-02-primary-0007",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 64,
+    "startBeat": 2,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-02-primary-0008",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 69,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-02-primary-0009",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 67,
+    "startBeat": 5,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-02-primary-0010",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 69,
+    "startBeat": 6,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-02-primary-0011",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 65,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-02-primary-0012",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 64,
+    "startBeat": 9,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-02-primary-0013",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 65,
+    "startBeat": 10,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-02-primary-0014",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-02-primary-0015",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 65,
+    "startBeat": 13,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-02-primary-0016",
+    "progressionId": "prog-melody-008-02-primary",
+    "midi": 67,
+    "startBeat": 14,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-03-primary-0001",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-03-primary-0002",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-03-primary-0003",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-03-primary-0004",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-03-primary-0005",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-03-primary-0006",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 66,
+    "startBeat": 1,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-03-primary-0007",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 64,
+    "startBeat": 2,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-03-primary-0008",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 69,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-03-primary-0009",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 71,
+    "startBeat": 5,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-03-primary-0010",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 69,
+    "startBeat": 6,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-03-primary-0011",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 65,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-03-primary-0012",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 67,
+    "startBeat": 9,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-03-primary-0013",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 65,
+    "startBeat": 10,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-03-primary-0014",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-03-primary-0015",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 69,
+    "startBeat": 13,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-03-primary-0016",
+    "progressionId": "prog-melody-008-03-primary",
+    "midi": 67,
+    "startBeat": 14,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-04-primary-0001",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-04-primary-0002",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-04-primary-0003",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-04-primary-0004",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-008-04-primary-0005",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-04-primary-0006",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 62,
+    "startBeat": 1,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-04-primary-0007",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 64,
+    "startBeat": 2,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-04-primary-0008",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 69,
+    "startBeat": 4,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-04-primary-0009",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 67,
+    "startBeat": 5,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-04-primary-0010",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 69,
+    "startBeat": 6,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-04-primary-0011",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 65,
+    "startBeat": 8,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-04-primary-0012",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 67,
+    "startBeat": 9,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-04-primary-0013",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 65,
+    "startBeat": 10,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-04-primary-0014",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 67,
+    "startBeat": 12,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-04-primary-0015",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 65,
+    "startBeat": 13,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-008-04-primary-0016",
+    "progressionId": "prog-melody-008-04-primary",
+    "midi": 67,
+    "startBeat": 14,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-01-primary-0001",
+    "progressionId": "prog-melody-009-01-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-01-primary-0002",
+    "progressionId": "prog-melody-009-01-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-01-primary-0003",
+    "progressionId": "prog-melody-009-01-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-01-primary-0004",
+    "progressionId": "prog-melody-009-01-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-01-primary-0005",
+    "progressionId": "prog-melody-009-01-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-01-primary-0006",
+    "progressionId": "prog-melody-009-01-primary",
+    "midi": 60,
+    "startBeat": 4,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-01-primary-0007",
+    "progressionId": "prog-melody-009-01-primary",
+    "midi": 57,
+    "startBeat": 8,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-01-primary-0008",
+    "progressionId": "prog-melody-009-01-primary",
+    "midi": 59,
+    "startBeat": 12,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-02-primary-0001",
+    "progressionId": "prog-melody-009-02-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-02-primary-0002",
+    "progressionId": "prog-melody-009-02-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-02-primary-0003",
+    "progressionId": "prog-melody-009-02-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-02-primary-0004",
+    "progressionId": "prog-melody-009-02-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-02-primary-0005",
+    "progressionId": "prog-melody-009-02-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-02-primary-0006",
+    "progressionId": "prog-melody-009-02-primary",
+    "midi": 59,
+    "startBeat": 3.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-02-primary-0007",
+    "progressionId": "prog-melody-009-02-primary",
+    "midi": 60,
+    "startBeat": 4,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-02-primary-0008",
+    "progressionId": "prog-melody-009-02-primary",
+    "midi": 57,
+    "startBeat": 8,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-02-primary-0009",
+    "progressionId": "prog-melody-009-02-primary",
+    "midi": 59,
+    "startBeat": 12,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-03-primary-0001",
+    "progressionId": "prog-melody-009-03-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-03-primary-0002",
+    "progressionId": "prog-melody-009-03-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-03-primary-0003",
+    "progressionId": "prog-melody-009-03-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-03-primary-0004",
+    "progressionId": "prog-melody-009-03-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-03-primary-0005",
+    "progressionId": "prog-melody-009-03-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-03-primary-0006",
+    "progressionId": "prog-melody-009-03-primary",
+    "midi": 59,
+    "startBeat": 3.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-03-primary-0007",
+    "progressionId": "prog-melody-009-03-primary",
+    "midi": 60,
+    "startBeat": 4,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-03-primary-0008",
+    "progressionId": "prog-melody-009-03-primary",
+    "midi": 56,
+    "startBeat": 7.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-03-primary-0009",
+    "progressionId": "prog-melody-009-03-primary",
+    "midi": 57,
+    "startBeat": 8,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-03-primary-0010",
+    "progressionId": "prog-melody-009-03-primary",
+    "midi": 59,
+    "startBeat": 12,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-04-primary-0001",
+    "progressionId": "prog-melody-009-04-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-04-primary-0002",
+    "progressionId": "prog-melody-009-04-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-04-primary-0003",
+    "progressionId": "prog-melody-009-04-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-04-primary-0004",
+    "progressionId": "prog-melody-009-04-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 58,
+    "role": "bass",
+    "hand": "left"
+  },
+  {
+    "id": "note-melody-009-04-primary-0005",
+    "progressionId": "prog-melody-009-04-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-04-primary-0006",
+    "progressionId": "prog-melody-009-04-primary",
+    "midi": 59,
+    "startBeat": 3.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-04-primary-0007",
+    "progressionId": "prog-melody-009-04-primary",
+    "midi": 60,
+    "startBeat": 4,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-04-primary-0008",
+    "progressionId": "prog-melody-009-04-primary",
+    "midi": 56,
+    "startBeat": 7.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-04-primary-0009",
+    "progressionId": "prog-melody-009-04-primary",
+    "midi": 57,
+    "startBeat": 8,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-04-primary-0010",
+    "progressionId": "prog-melody-009-04-primary",
+    "midi": 58,
+    "startBeat": 11.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-04-primary-0011",
+    "progressionId": "prog-melody-009-04-primary",
+    "midi": 59,
+    "startBeat": 12,
+    "durationBeats": 2,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-melody-009-04-primary-0012",
+    "progressionId": "prog-melody-009-04-primary",
+    "midi": 63,
+    "startBeat": 15.5,
+    "durationBeats": 0.5,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-expression-010-01-primary",
+    "stageId": "stage-expression-010-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retorno A o cierre B, ocho compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de I–vi–ii–V. A: retorno I–vi–ii–V dos veces; B comparte los primeros seis compases y cierra G7–Cmaj7. Los primeros seis compases son idénticos en todas las etapas. Retorno/Cierre/A4/B3 especifican articulación, loopabilidad y silencios; el MIDI no representa audio ni repetición automática.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-010-02-primary",
+    "stageId": "stage-expression-010-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retorno A o cierre B, ocho compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de I–vi–ii–V. A: retorno I–vi–ii–V dos veces; B comparte los primeros seis compases y cierra G7–Cmaj7. Los primeros seis compases son idénticos en todas las etapas. Retorno/Cierre/A4/B3 especifican articulación, loopabilidad y silencios; el MIDI no representa audio ni repetición automática.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-010-03-primary",
+    "stageId": "stage-expression-010-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retorno A o cierre B, ocho compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de I–vi–ii–V. A: retorno I–vi–ii–V dos veces; B comparte los primeros seis compases y cierra G7–Cmaj7. Los primeros seis compases son idénticos en todas las etapas. Retorno/Cierre/A4/B3 especifican articulación, loopabilidad y silencios; el MIDI no representa audio ni repetición automática.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-010-04-primary",
+    "stageId": "stage-expression-010-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retorno A o cierre B, ocho compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de I–vi–ii–V. A: retorno I–vi–ii–V dos veces; B comparte los primeros seis compases y cierra G7–Cmaj7. Los primeros seis compases son idénticos en todas las etapas. Retorno/Cierre/A4/B3 especifican articulación, loopabilidad y silencios; el MIDI no representa audio ni repetición automática.",
+    "loopable": true
+  },
+  {
+    "id": "prog-expression-010-05-primary",
+    "stageId": "stage-expression-010-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retorno A o cierre B, ocho compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de I–vi–ii–V. A: retorno I–vi–ii–V dos veces; B comparte los primeros seis compases y cierra G7–Cmaj7. Los primeros seis compases son idénticos en todas las etapas. Retorno/Cierre/A4/B3 especifican articulación, loopabilidad y silencios; el MIDI no representa audio ni repetición automática.",
+    "loopable": false
+  }
+]

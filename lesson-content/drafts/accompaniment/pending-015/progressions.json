@@ -1,0 +1,110 @@
+[
+  {
+    "id": "prog-accompaniment-015-01-primary",
+    "stageId": "stage-accompaniment-015-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bossa C, etapa 1",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Raíz–quinta izquierda fija en cada compás; la célula derecha ataca en posiciones alternas.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-015-02-primary",
+    "stageId": "stage-accompaniment-015-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bossa C, etapa 2",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Raíz–quinta izquierda fija en cada compás; la célula derecha ataca en posiciones alternas.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-015-03-primary",
+    "stageId": "stage-accompaniment-015-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bossa C, etapa 3",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Raíz–quinta izquierda fija en cada compás; la célula derecha ataca en posiciones alternas.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-015-04-primary",
+    "stageId": "stage-accompaniment-015-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bossa C, etapa 4",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Raíz–quinta izquierda fija en cada compás; la célula derecha ataca en posiciones alternas.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-015-05-primary",
+    "stageId": "stage-accompaniment-015-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bossa C, etapa 5",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Raíz–quinta izquierda fija en cada compás; la célula derecha ataca en posiciones alternas.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-015-01-alternative-01",
+    "stageId": "stage-accompaniment-015-01",
+    "kind": "alternative",
+    "order": 1,
+    "title": "Escuchar la frase guía sola",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Guía melódica para escuchar antes, sin bajo ni comping; mapa armónico de referencia parcial, no bloques.",
+    "loopable": true
+  }
+]

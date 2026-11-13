@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-independence-014-01-primary",
+    "stageId": "stage-independence-014-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Fijar walking y dos respuestas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases Dm7–G7–Cmaj7–Cmaj7–Am7–Dm7–G7–Cmaj7. Walking LH a negras, una nota por beat y duración 1. Aproximaciones diatónicas F→G, B→C, B→C, G→A, C→D, F→G, B→C, E→D (loop). En etapa 03 beat 7: Db3 MIDI 49 cromático superior hacia C3 MIDI 48 en beat 8; no C# ascendente a D. RH: solo dos shells indicados por etapa, nunca melodía adicional.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-014-02-primary",
+    "stageId": "stage-independence-014-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Añadir dos shells",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases Dm7–G7–Cmaj7–Cmaj7–Am7–Dm7–G7–Cmaj7. Walking LH a negras, una nota por beat y duración 1. Aproximaciones diatónicas F→G, B→C, B→C, G→A, C→D, F→G, B→C, E→D (loop). En etapa 03 beat 7: Db3 MIDI 49 cromático superior hacia C3 MIDI 48 en beat 8; no C# ascendente a D. RH: solo dos shells indicados por etapa, nunca melodía adicional.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-014-03-primary",
+    "stageId": "stage-independence-014-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Aproximar con Db",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases Dm7–G7–Cmaj7–Cmaj7–Am7–Dm7–G7–Cmaj7. Walking LH a negras, una nota por beat y duración 1. Aproximaciones diatónicas F→G, B→C, B→C, G→A, C→D, F→G, B→C, E→D (loop). En etapa 03 beat 7: Db3 MIDI 49 cromático superior hacia C3 MIDI 48 en beat 8; no C# ascendente a D. RH: solo dos shells indicados por etapa, nunca melodía adicional.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-014-04-primary",
+    "stageId": "stage-independence-014-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Desplazar la primera respuesta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases Dm7–G7–Cmaj7–Cmaj7–Am7–Dm7–G7–Cmaj7. Walking LH a negras, una nota por beat y duración 1. Aproximaciones diatónicas F→G, B→C, B→C, G→A, C→D, F→G, B→C, E→D (loop). En etapa 03 beat 7: Db3 MIDI 49 cromático superior hacia C3 MIDI 48 en beat 8; no C# ascendente a D. RH: solo dos shells indicados por etapa, nunca melodía adicional.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-014-05-primary",
+    "stageId": "stage-independence-014-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir respuestas autónomas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases Dm7–G7–Cmaj7–Cmaj7–Am7–Dm7–G7–Cmaj7. Walking LH a negras, una nota por beat y duración 1. Aproximaciones diatónicas F→G, B→C, B→C, G→A, C→D, F→G, B→C, E→D (loop). En etapa 03 beat 7: Db3 MIDI 49 cromático superior hacia C3 MIDI 48 en beat 8; no C# ascendente a D. RH: solo dos shells indicados por etapa, nunca melodía adicional.",
+    "loopable": true
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-rhythm-009-01-primary",
+    "stageId": "stage-rhythm-009-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bloque en cada compás",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en C, cuatro compases; raíces izquierdas estables y una tríada derecha por compás.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-009-02-primary",
+    "stageId": "stage-rhythm-009-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "La derecha entra después",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en C, cuatro compases; raíces izquierdas estables y una tríada derecha por compás.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-009-03-primary",
+    "stageId": "stage-rhythm-009-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Sostener el bloque sobre el pulso",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en C, cuatro compases; raíces izquierdas estables y una tríada derecha por compás.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-009-04-primary",
+    "stageId": "stage-rhythm-009-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elegir otra entrada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "I–vi–ii–V en C, cuatro compases; raíces izquierdas estables y una tríada derecha por compás.",
+    "loopable": true
+  }
+]

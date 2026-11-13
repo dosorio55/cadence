@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-harmony-011-01-primary",
+    "stageId": "stage-harmony-011-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "01 cierre A",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Referencia de cierre, cuatro compases: Cmaj7–Am7–Dm7–G7, cuatro negras cada uno. Bajo C3/A2/D3/G2 (MIDI 48/45/50/43); shells derechos [E4,B4], [C4,G4], [F4,C5], [B3,F4]. LH velocity 60 y RH 64.",
+    "loopable": false
+  },
+  {
+    "id": "prog-harmony-011-02-primary",
+    "stageId": "stage-harmony-011-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "02 retorno B",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "B conserva exactamente los cuatro primeros acordes, bajos y shells de A. Los cuatro últimos son Cmaj7–Am7–Dm7–G7, cuatro negras cada uno: I–vi–ii–V relanza el ciclo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-011-03-primary",
+    "stageId": "stage-harmony-011-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "03 retorno con aceleración armónica",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Conserva el retorno de 02: primeros cuatro acordes idénticos a 01; últimos Cmaj7(4), Am7(4), Dm7(6), G7(2). El ii dura seis negras y V dos; suma 32. Mismos bajos raíz y shells guía.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-011-04-primary",
+    "stageId": "stage-harmony-011-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "04 autonomía",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Referencia reiniciada exactamente a 01: cierre Cmaj7–Am7–Dm7–G7, cuatro negras cada uno, seguido por Cmaj7–Dm7–G7–C, cuatro negras cada uno. En el último C: bajo C3 (48), derecha C4–E4–G4 (60,64,67); los demás conservan raíz y shell conocidos. Elige únicamente cierre 01 o retorno 02; inicio común intacto.",
+    "loopable": false
+  }
+]

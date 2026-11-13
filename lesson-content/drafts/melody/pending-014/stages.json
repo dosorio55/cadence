@@ -1,0 +1,62 @@
+[
+  {
+    "id": "stage-melody-014-01",
+    "lessonId": "lesson-melody-014",
+    "order": 1,
+    "title": "Objetivos claros",
+    "explanationMd": "Cuatro objetivos de una negra: F4=65@0 sobre Dm7, B4=71@4 sobre G7, E4=64@8 y E4@12 sobre Cmaj7. Las tres notas restantes se dejan en silencio; B4 es una octava por encima del B3 prohibido, que chocaría con C4=60 de la izquierda.",
+    "task": "Toca LH en bloques simultáneos al beat 0 de cada compás, sosteniendo 4 negras. En RH toca solo F4@0, B4@4, E4@8 y E4@12 (duración 1, velocity 75); cuenta los silencios.",
+    "changeFromPrevious": "Base: cuatro objetivos, sin adornos.",
+    "successCriteria": [
+      "RH contiene exactamente F4=65@0, B4=71@4, E4=64@8 y E4=64@12; cada una dura 1 y velocity 75.",
+      "LH toca bloques Dm7 [50,53,60], G7 [43,47,53], Cmaj7 [48,52,59] y Cmaj7 [48,52,59], al inicio de cada compás y por 4 beats."
+    ],
+    "simplifyHint": "Practica primero los cuatro acordes LH; luego añade solo cuatro objetivos RH en 0, 4, 8 y 12.",
+    "extendHint": "Escoge una única llegada en beat 4, 8 o 12 y anota alturas MIDI, beats y duraciones; confirma vecina diatónica superior y semitono inferior, sin añadir otros adornos."
+  },
+  {
+    "id": "stage-melody-014-02",
+    "lessonId": "lesson-melody-014",
+    "order": 2,
+    "title": "Una aproximación inferior",
+    "explanationMd": "Se añade solo D#4=63@7.5, duración 0.5, como semitono inferior que resuelve en E4=64@8. No es nota diatónica de Do mayor; el resto son exactamente los cuatro objetivos.",
+    "task": "Mantén idénticos acordes y objetivos de 01. Añade únicamente D#4=63@7.5 durante 0.5 negras y resuelve en E4@8; no trates D# como diatónico.",
+    "changeFromPrevious": "Respecto a 01, solo entra D#4=63@7.5 de duración 0.5 antes de E4@8.",
+    "successCriteria": [
+      "Además de los cuatro objetivos, solo hay D#4=63@7.5 de 0.5 beats.",
+      "D#4 resuelve por semitono ascendente a E4@8; el silencio previo es [1,7.5)."
+    ],
+    "simplifyHint": "Practica D#4@7.5–E4@8 lentamente; el resto son objetivos y silencios.",
+    "extendHint": "Escoge una única llegada en beat 4, 8 o 12 y anota alturas MIDI, beats y duraciones; confirma vecina diatónica superior y semitono inferior, sin añadir otros adornos."
+  },
+  {
+    "id": "stage-melody-014-03",
+    "lessonId": "lesson-melody-014",
+    "order": 3,
+    "title": "Cerco alrededor de E4",
+    "explanationMd": "Frente a 02 se añade solo F4=65@7, duración 0.5. El cerco F4@7–D#4@7.5–E4@8 combina vecina diatónica superior y semitono inferior; la izquierda permanece igual.",
+    "task": "Mantén lo de 02 y agrega F4=65@7 durante 0.5. Toca F4@7, D#4@7.5, E4@8; reconoce F natural diatónico superior y D# semitono inferior.",
+    "changeFromPrevious": "Respecto a 02, solo entra F4=65@7 de duración 0.5; D#4@7.5 y E4@8 no cambian.",
+    "successCriteria": [
+      "Además de las notas de 02, F4=65@7 dura 0.5; el cerco es F–D#–E en beats 7, 7.5 y 8.",
+      "F4 es vecina diatónica superior y D#4 semitono inferior; no hay notas adicionales."
+    ],
+    "simplifyHint": "Practica solo F4@7–D#4@7.5–E4@8 y luego incorpora los cuatro objetivos.",
+    "extendHint": "Escoge una única llegada en beat 4, 8 o 12 y anota alturas MIDI, beats y duraciones; confirma vecina diatónica superior y semitono inferior, sin añadir otros adornos."
+  },
+  {
+    "id": "stage-melody-014-04",
+    "lessonId": "lesson-melody-014",
+    "order": 4,
+    "title": "Elegir un único cerco",
+    "explanationMd": "Retorna a los cuatro objetivos desnudos y elige un solo cerco preparado: C5=72@3 (0.5), A#4=70@3.5 (0.5), B4=71@4 (objetivo, tercera de G7). A#4 es aproximación cromática inferior, no diatónica; evita añadir el cerco de E4 u otra cadena.",
+    "task": "Quita F4@7 y D#4@7.5: conserva F4@0, B4@4, E4@8, E4@12. Elige solo C5@3 y A#4@3.5 (ambas 0.5) antes de B4@4, o diseña una sola llegada cercada en beat 8 o 12; en beat 0 no hay preparación previa. Sin otras notas de paso.",
+    "changeFromPrevious": "Autonomía: retira los adornos del beat 8 y elige un único cerco C5@3–A#4@3.5–B4@4; los otros objetivos quedan puros.",
+    "successCriteria": [
+      "Hay exactamente un cerco: C5=72@3 y A#4=70@3.5, ambos de 0.5, hacia B4=71@4; no hay cerco en beat 8.",
+      "B4 es la tercera de G7; los objetivos 0, 8 y 12 se mantienen y no aparece cadena cromática."
+    ],
+    "simplifyHint": "Toca solo C5@3–A#4@3.5–B4@4 como llegada cercada; deja los demás objetivos sin adornos.",
+    "extendHint": "Escoge una única llegada en beat 4, 8 o 12 y anota alturas MIDI, beats y duraciones; confirma vecina diatónica superior y semitono inferior, sin añadir otros adornos."
+  }
+]

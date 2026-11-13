@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lesson-rhythm-010",
+    "primarySkillId": "skill-rhythm-swing",
+    "orderInCategory": 10,
+    "title": "Frasear desde el contratiempo de swing",
+    "difficulty": 3,
+    "goal": "Entrar en la parte corta del pulso ternario y dejar una pausa sin volver a corcheas rectas.",
+    "introMd": "En cuatro compases de ii–V–I–I, mantén bajo en blancas y desplaza el inicio de una frase derecha al último tercio del pulso. Compara inicio a tierra y en contratiempo; decide qué final de frase merece silencio, sin añadir acordes.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-005",
+      "lesson-rhythm-006"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

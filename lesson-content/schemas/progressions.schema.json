@@ -1,0 +1,121 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$"
+      },
+      "stageId": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$"
+      },
+      "kind": {
+        "type": "string",
+        "enum": [
+          "primary",
+          "alternative",
+          "simplified",
+          "advanced"
+        ]
+      },
+      "order": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "title": {
+        "type": "string",
+        "minLength": 1
+      },
+      "keyTonic": {
+        "type": "string",
+        "enum": [
+          "C",
+          "C#",
+          "Db",
+          "D",
+          "D#",
+          "Eb",
+          "E",
+          "F",
+          "F#",
+          "Gb",
+          "G",
+          "G#",
+          "Ab",
+          "A",
+          "A#",
+          "Bb",
+          "B"
+        ]
+      },
+      "keyMode": {
+        "type": "string",
+        "enum": [
+          "major",
+          "minor"
+        ]
+      },
+      "style": {
+        "type": "string",
+        "minLength": 1
+      },
+      "bpm": {
+        "type": "number",
+        "exclusiveMinimum": 0
+      },
+      "timeSignature": {
+        "type": "object",
+        "properties": {
+          "numerator": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "denominator": {
+            "type": "integer",
+            "enum": [
+              2,
+              4,
+              8,
+              16
+            ]
+          }
+        },
+        "required": [
+          "numerator",
+          "denominator"
+        ],
+        "additionalProperties": false
+      },
+      "totalBars": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "description": {
+        "type": "string",
+        "minLength": 1
+      },
+      "loopable": {
+        "type": "boolean"
+      }
+    },
+    "required": [
+      "id",
+      "stageId",
+      "kind",
+      "order",
+      "title",
+      "keyTonic",
+      "keyMode",
+      "style",
+      "bpm",
+      "timeSignature",
+      "totalBars",
+      "description",
+      "loopable"
+    ],
+    "additionalProperties": false
+  }
+}

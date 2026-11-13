@@ -1,0 +1,812 @@
+[
+  {
+    "id": "prog-independence-001-01-primary",
+    "stageId": "stage-independence-001-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Base: blancas juntas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-001-02-primary",
+    "stageId": "stage-independence-001-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "La derecha calla",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-001-03-primary",
+    "stageId": "stage-independence-001-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Solo responde en compases impares",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-001-04-primary",
+    "stageId": "stage-independence-001-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cambiar solo la respuesta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-001-05-primary",
+    "stageId": "stage-independence-001-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Decidir cuándo callar",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-002-01-primary",
+    "stageId": "stage-independence-002-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Base: bajo largo y acordes",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-002-02-primary",
+    "stageId": "stage-independence-002-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "No cortar el bajo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-002-03-primary",
+    "stageId": "stage-independence-002-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Dos blancas sostenidas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-002-04-primary",
+    "stageId": "stage-independence-002-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Raíz nueva sin recorte",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-002-05-primary",
+    "stageId": "stage-independence-002-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir el bajo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-003-01-primary",
+    "stageId": "stage-independence-003-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Raíz–quinta a negras",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-003-02-primary",
+    "stageId": "stage-independence-003-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "La derecha deja aire",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-003-03-primary",
+    "stageId": "stage-independence-003-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Nota larga y pausa",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-003-04-primary",
+    "stageId": "stage-independence-003-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Variar arriba sin perseguir",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-003-05-primary",
+    "stageId": "stage-independence-003-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Diseñar respuesta propia",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de cuatro compases; el foco es mantener procesos independientes entre manos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-004-01-primary",
+    "stageId": "stage-independence-004-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Raíz repetida sobre ii–V–I–I",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-004-02-primary",
+    "stageId": "stage-independence-004-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "La tercera dirige el camino",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-004-03-primary",
+    "stageId": "stage-independence-004-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Añadir la quinta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-004-04-primary",
+    "stageId": "stage-independence-004-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Preparar el próximo acorde",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-004-05-primary",
+    "stageId": "stage-independence-004-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir el lado de llegada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-005-01-primary",
+    "stageId": "stage-independence-005-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Motivo breve y base en blancas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-005-02-primary",
+    "stageId": "stage-independence-005-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Desplazar la segunda respuesta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-005-03-primary",
+    "stageId": "stage-independence-005-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Sostener la primera nota",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-005-04-primary",
+    "stageId": "stage-independence-005-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cambiar el contorno",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-005-05-primary",
+    "stageId": "stage-independence-005-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir una respiración",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-006-01-primary",
+    "stageId": "stage-independence-006-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bajo repetido y entrada conjunta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-006-02-primary",
+    "stageId": "stage-independence-006-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Entrar en 2 y",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-006-03-primary",
+    "stageId": "stage-independence-006-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Sostener sobre el bajo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-006-04-primary",
+    "stageId": "stage-independence-006-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir otra nota del acorde",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia de cuatro compases; la progresión y los eventos específicos sostienen el objetivo de esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-006-05-primary",
+    "stageId": "stage-independence-006-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir otro contratiempo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia de autonomía: solo el primer compás entra en 1&; los demás siguen en 2&. Todas las notas derechas duran dos negras sobre bajo a negras constante.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-008-01-primary",
+    "stageId": "stage-independence-008-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Raíz y quinta con huecos",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Vamp funk C7. LH ostinato de raíz y quinta en corcheas seleccionadas, con huecos: offsets 0, 0.5, 2 y 2.5, duración 0.25. RH sincopa en offsets 0.5 y 1.5, con nota sostenida a través del pulso real; no reactives la misma tecla. Practica manos separadas.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-008-02-primary",
+    "stageId": "stage-independence-008-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "La derecha entra entre corcheas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Vamp funk C7. LH ostinato de raíz y quinta en corcheas seleccionadas, con huecos: offsets 0, 0.5, 2 y 2.5, duración 0.25. RH sincopa en offsets 0.5 y 1.5, con nota sostenida a través del pulso real; no reactives la misma tecla. Combina el patrón idéntico.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-008-03-primary",
+    "stageId": "stage-independence-008-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Sostener la síncopa",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Vamp funk C7. LH ostinato de raíz y quinta en corcheas seleccionadas, con huecos: offsets 0, 0.5, 2 y 2.5, duración 0.25. RH sincopa en offsets 0.5 y 1.5, con nota sostenida a través del pulso real; no reactives la misma tecla. Novedad: prolonga RH hasta offset 2.25.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-008-04-primary",
+    "stageId": "stage-independence-008-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cambiar la nota sincopada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Vamp funk C7. LH ostinato de raíz y quinta en corcheas seleccionadas, con huecos: offsets 0, 0.5, 2 y 2.5, duración 0.25. RH sincopa en offsets 0.5 y 1.5, con nota sostenida a través del pulso real; no reactives la misma tecla. Novedad: cambia solo la altura derecha.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-008-05-primary",
+    "stageId": "stage-independence-008-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir una pausa",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Vamp funk C7. LH ostinato de raíz y quinta en corcheas seleccionadas, con huecos: offsets 0, 0.5, 2 y 2.5, duración 0.25. RH sincopa en offsets 0.5 y 1.5, con nota sostenida a través del pulso real; no reactives la misma tecla. Referencia autónoma: omite una nota RH, elige cuál; no cambies ni densifiques LH.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-009-01-primary",
+    "stageId": "stage-independence-009-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Walking conocido, shell en uno",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Jazz ii–V–I–I. La línea LH es exactamente la línea de lesson-independence-004, stage 04, incluido cada pitch/ataque (raíz-tercera-quinta-aproximación). RH shell de tercera y séptima. Shell coincide en offset 0.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-009-02-primary",
+    "stageId": "stage-independence-009-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Shell después del bajo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Jazz ii–V–I–I. La línea LH es exactamente la línea de lesson-independence-004, stage 04, incluido cada pitch/ataque (raíz-tercera-quinta-aproximación). RH shell de tercera y séptima. Novedad: mueve el shell del compás de offset 0 a 2, sin cambiar walking.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-009-03-primary",
+    "stageId": "stage-independence-009-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Respuesta ternaria",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Jazz ii–V–I–I. La línea LH es exactamente la línea de lesson-independence-004, stage 04, incluido cada pitch/ataque (raíz-tercera-quinta-aproximación). RH shell de tercera y séptima. Novedad: añade respuesta en offset 3, duración 1/3 (ternario); conserva la respuesta offset 2.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-009-04-primary",
+    "stageId": "stage-independence-009-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Una respuesta por compás",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Jazz ii–V–I–I. La línea LH es exactamente la línea de lesson-independence-004, stage 04, incluido cada pitch/ataque (raíz-tercera-quinta-aproximación). RH shell de tercera y séptima. Novedad: una sola respuesta RH por compás, en offset 2.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-009-05-primary",
+    "stageId": "stage-independence-009-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir un compás",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Jazz ii–V–I–I. La línea LH es exactamente la línea de lesson-independence-004, stage 04, incluido cada pitch/ataque (raíz-tercera-quinta-aproximación). RH shell de tercera y séptima. Referencia: respuesta de offset 2 solo en compás 1; decide un único compás con respuesta.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-007-01-primary",
+    "stageId": "stage-independence-007-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Práctica parcial LH",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases en 4/4. Practica solo la izquierda: raíces en offsets 0 y 2, duración 0.5 beats cada una. No hay eventos RH en esta etapa; es práctica parcial de LH, no una ejecución completa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-007-02-primary",
+    "stageId": "stage-independence-007-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Coordinar ambas manos",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases en 4/4. Añade shells RH en offsets 1, 1.5 y 3, duración 0.5 beats. La LH conserva exactamente ataques y duración de la etapa 01; coordina dos procesos independientes.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-007-03-primary",
+    "stageId": "stage-independence-007-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Prolongar el bajo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases en 4/4. La LH conserva offsets 0 y 2 y alarga cada nota a 2 beats. La RH mantiene ataques, alturas y duración 0.5 de la etapa 02.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-007-04-primary",
+    "stageId": "stage-independence-007-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Acortar respuesta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases en 4/4. La LH conserva offsets 0 y 2 y duración 2 beats. La RH conserva los ataques y shells de la etapa 03, pero cada shell dura 0.25 beats.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-007-05-primary",
+    "stageId": "stage-independence-007-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir una omisión",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases en 4/4. Todo es idéntico a la etapa 04 excepto que RH omite el shell de offset global 5.5, en el segundo compás. Luego elige otra única omisión RH; no cambies la LH ni ningún otro ataque.",
+    "loopable": true
+  }
+]

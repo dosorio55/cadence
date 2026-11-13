@@ -1,0 +1,46 @@
+[
+  {
+    "category": "melody",
+    "batch": 1,
+    "verdict": "approved",
+    "review": "curriculum/reports/melody/batch-01-review.md",
+    "reviewSha256": "e3c50ffca693082d0d39e10f2968dcdcf914446d2ac90f53c46a45b16e2edca1",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-melody-001",
+        "lesson-melody-002",
+        "lesson-melody-003"
+      ],
+      "sha256": "869d7d5ce2622406a49c0804b52b6bb18e996b830ea1adf6cd1204cec10be3d1",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 48,
+        "note-events": 143
+      }
+    }
+  },
+  {
+    "category": "melody",
+    "batch": 2,
+    "verdict": "approved",
+    "review": "curriculum/reports/melody/batch-02-review.md",
+    "reviewSha256": "b4280f922865d1c4c613e3e31d30dc739eb2cb5aac0f5bfecc4b8b47d13dd4b2",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-melody-004",
+        "lesson-melody-005",
+        "lesson-melody-006"
+      ],
+      "sha256": "18c85356aca9bf04b528b9aae2b750dd6bc7e8c6e261aa68c6c603ec65bb33b4",
+      "counts": {
+        "lessons": 3,
+        "stages": 13,
+        "progressions": 13,
+        "chord-events": 52,
+        "note-events": 155
+      }
+    }
+  }
+]

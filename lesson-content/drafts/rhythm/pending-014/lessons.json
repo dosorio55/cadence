@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-rhythm-014",
+    "primarySkillId": "skill-rhythm-syncopation",
+    "orderInCategory": 14,
+    "title": "Anticipar sin romper los dos compases",
+    "difficulty": 4,
+    "goal": "Anticipar una llegada en 4& dentro de un ciclo de son y sostenerla sobre el uno sin perder la orientación 2–3.",
+    "introMd": "En ocho compases, conserva el guajeo reducido y el bajo simple ya conocidos; mueve juntos bajo y armonía en una frontera elegida. Compara el mapa sin anticipación y el anticipado; decide otra llegada compatible, sin convertir cada compás en un cambio nuevo.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-004",
+      "lesson-rhythm-009",
+      "lesson-rhythm-013"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "son"
+    ]
+  }
+]

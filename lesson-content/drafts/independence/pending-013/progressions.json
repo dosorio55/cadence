@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-independence-013-01-primary",
+    "stageId": "stage-independence-013-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Fijar el vamp",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Vamp C7/I7: un acorde por cuatro compases, repetido; cada acorde dura 16 negras. LH C3/G3 alternados en offsets 0, 0.5, 2, 2.5, duración 0.25 (32 ataques idénticos). RH usa solo E4, G4 y Bb4: melodía de C7; Bb es su séptima. Textura armónica parcial raíz/quinta más línea explícita, sin acordes RH.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-013-02-primary",
+    "stageId": "stage-independence-013-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Repetir la frase",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Vamp C7/I7: un acorde por cuatro compases, repetido; cada acorde dura 16 negras. LH C3/G3 alternados en offsets 0, 0.5, 2, 2.5, duración 0.25 (32 ataques idénticos). RH usa solo E4, G4 y Bb4: melodía de C7; Bb es su séptima. Textura armónica parcial raíz/quinta más línea explícita, sin acordes RH.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-013-03-primary",
+    "stageId": "stage-independence-013-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ampliar la respuesta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Vamp C7/I7: un acorde por cuatro compases, repetido; cada acorde dura 16 negras. LH C3/G3 alternados en offsets 0, 0.5, 2, 2.5, duración 0.25 (32 ataques idénticos). RH usa solo E4, G4 y Bb4: melodía de C7; Bb es su séptima. Textura armónica parcial raíz/quinta más línea explícita, sin acordes RH.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-013-04-primary",
+    "stageId": "stage-independence-013-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Desplazar la síncopa",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Vamp C7/I7: un acorde por cuatro compases, repetido; cada acorde dura 16 negras. LH C3/G3 alternados en offsets 0, 0.5, 2, 2.5, duración 0.25 (32 ataques idénticos). RH usa solo E4, G4 y Bb4: melodía de C7; Bb es su séptima. Textura armónica parcial raíz/quinta más línea explícita, sin acordes RH.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-013-05-primary",
+    "stageId": "stage-independence-013-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir un silencio",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "funk",
+    "bpm": 88,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Vamp C7/I7: un acorde por cuatro compases, repetido; cada acorde dura 16 negras. LH C3/G3 alternados en offsets 0, 0.5, 2, 2.5, duración 0.25 (32 ataques idénticos). RH usa solo E4, G4 y Bb4: melodía de C7; Bb es su séptima. Textura armónica parcial raíz/quinta más línea explícita, sin acordes RH.",
+    "loopable": true
+  }
+]

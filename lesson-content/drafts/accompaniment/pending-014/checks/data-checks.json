@@ -1,0 +1,25 @@
+[
+  {
+    "check": "design-counts",
+    "categories": 6,
+    "skills": 30,
+    "lessons": 90,
+    "lesson014_copied": true
+  },
+  {
+    "check": "owned-records",
+    "lesson_records": 1,
+    "stages": 5,
+    "progressions": 5,
+    "chord_events": 40,
+    "note_events": 176
+  },
+  {
+    "check": "temporal-contract",
+    "bars": 8,
+    "beats_per_bar": 4,
+    "bpm": 72,
+    "RH_duration_beats": 4.0,
+    "LH_duration_beats": 4.0
+  }
+]

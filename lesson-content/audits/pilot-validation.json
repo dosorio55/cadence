@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "1.0.0",
+  "technicalStatus": "passed",
+  "designLessons": 90,
+  "developedLessons": 1,
+  "counts": {
+    "categories": 6,
+    "skills": 30,
+    "lessons": 90,
+    "stages": 5,
+    "progressions": 6,
+    "chord-events": 24,
+    "note-events": 120
+  },
+  "midi": {
+    "seed": 202603,
+    "sampleCount": 6,
+    "categoriesCovered": [
+      "cat-rhythm"
+    ],
+    "verification": "Lectura binaria de notas, tempo, compás y cierre; no escucha humana.",
+    "samples": [
+      {
+        "progressionId": "prog-rhythm-004-01-primary",
+        "file": "lesson-content/examples/pilot-midi/prog-rhythm-004-01-primary.mid",
+        "notes": 20,
+        "ppq": 960,
+        "totalTicks": 15360,
+        "tempoMicroseconds": 750000,
+        "sha256": "023d5ce87dbff5a45c81c3841d82c92a5f78e535d42971e22cf47d3c6a6d89c9"
+      },
+      {
+        "progressionId": "prog-rhythm-004-02-primary",
+        "file": "lesson-content/examples/pilot-midi/prog-rhythm-004-02-primary.mid",
+        "notes": 20,
+        "ppq": 960,
+        "totalTicks": 15360,
+        "tempoMicroseconds": 750000,
+        "sha256": "03e12cf73aa376b15c7dea7e15a08fa0c7d962ec0fa66dfdf04fbcbf54d0a064"
+      },
+      {
+        "progressionId": "prog-rhythm-004-03-primary",
+        "file": "lesson-content/examples/pilot-midi/prog-rhythm-004-03-primary.mid",
+        "notes": 20,
+        "ppq": 960,
+        "totalTicks": 15360,
+        "tempoMicroseconds": 750000,
+        "sha256": "892429614ada6842313fec1fe17c390cdc81d5848d6dfd4c7b188e7d65a705bb"
+      },
+      {
+        "progressionId": "prog-rhythm-004-04-primary",
+        "file": "lesson-content/examples/pilot-midi/prog-rhythm-004-04-primary.mid",
+        "notes": 20,
+        "ppq": 960,
+        "totalTicks": 15360,
+        "tempoMicroseconds": 750000,
+        "sha256": "a16da20313baebb5a28435e16cc6b29e80c4865b42985bf5d4d1fc156b4d1163"
+      },
+      {
+        "progressionId": "prog-rhythm-004-05-alternative-01",
+        "file": "lesson-content/examples/pilot-midi/prog-rhythm-004-05-alternative-01.mid",
+        "notes": 20,
+        "ppq": 960,
+        "totalTicks": 15360,
+        "tempoMicroseconds": 750000,
+        "sha256": "e5ca6e78e4b200f5ffe0200fe75292a96c137e656e3f14e6966b831755b982f2"
+      },
+      {
+        "progressionId": "prog-rhythm-004-05-primary",
+        "file": "lesson-content/examples/pilot-midi/prog-rhythm-004-05-primary.mid",
+        "notes": 20,
+        "ppq": 960,
+        "totalTicks": 15360,
+        "tempoMicroseconds": 750000,
+        "sha256": "4834f89f81840d2517550387f7e1cc4567c49ccd8dc79f6f475fdb23a50e186b"
+      }
+    ]
+  },
+  "musicalMetrics": {
+    "progressionsAnalyzed": 6,
+    "findings": [],
+    "criterion": "Alcance simultáneo > octava, más de cinco notas por mano, alturas solapadas y MIDI idéntico entre etapas requieren revisión contextual."
+  },
+  "sql": {
+    "firstImport": "passed",
+    "secondImportIdentical": true,
+    "foreignKeyCheck": "passed",
+    "dumpSha256": "98c63771132be70d1fd6d4007926a926051096666e0edc4a0ad05ff21a675de9",
+    "prerequisiteOrderPreserved": true
+  },
+  "listening": "No se escuchó ni renderizó; inspección completa de la línea temporal MIDI.",
+  "massProductionAuthorized": true,
+  "harmonicCorrectionCheck": "Dm7 y Fmaj7 contienen sus cuatro clases de altura; passed",
+  "independentMusicReview": "approved"
+}

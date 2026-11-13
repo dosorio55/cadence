@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-expression-011-01-primary",
+    "stageId": "stage-expression-011-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Frases en equilibrio",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Balada de ocho compases. RH conserva la melodía y sus ataques; LH acompaña con díadas en 0 y 2 de cada compás, duración 1.5 beats. El contraste se expresa solo mediante velocity.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-011-02-primary",
+    "stageId": "stage-expression-011-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Primera frase contenida",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Balada de ocho compases. RH conserva la melodía y sus ataques; LH acompaña con díadas en 0 y 2 de cada compás, duración 1.5 beats. El contraste se expresa solo mediante velocity.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-011-03-primary",
+    "stageId": "stage-expression-011-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Una cumbre en la respuesta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Balada de ocho compases. RH conserva la melodía y sus ataques; LH acompaña con díadas en 0 y 2 de cada compás, duración 1.5 beats. El contraste se expresa solo mediante velocity.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-011-04-primary",
+    "stageId": "stage-expression-011-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retirar el fondo en la segunda frase",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Balada de ocho compases. RH conserva la melodía y sus ataques; LH acompaña con díadas en 0 y 2 de cada compás, duración 1.5 beats. El contraste se expresa solo mediante velocity.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-011-05-primary",
+    "stageId": "stage-expression-011-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir una sola cumbre",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Balada de ocho compases. RH conserva la melodía y sus ataques; LH acompaña con díadas en 0 y 2 de cada compás, duración 1.5 beats. El contraste se expresa solo mediante velocity.",
+    "loopable": false
+  }
+]

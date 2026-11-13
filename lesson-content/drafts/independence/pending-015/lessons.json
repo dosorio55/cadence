@@ -1,0 +1,21 @@
+[
+  {
+    "id": "lesson-independence-015",
+    "primarySkillId": "skill-independence-melody-over-pattern",
+    "orderInCategory": 15,
+    "title": "Una frase propia sobre una base que sigue",
+    "difficulty": 5,
+    "goal": "Crear una melodía de ocho compases sobre un patrón izquierdo conocido sin que la base siga los cambios de ritmo de la derecha.",
+    "introMd": "En balada, la izquierda mantiene raíz–quinta en blancas y la derecha transforma un motivo, no añade acordes simultáneos. Compara melodía de referencia y propia; elige llegadas y respiraciones mientras la base conserva entradas, duración y tempo.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-010",
+      "lesson-independence-012",
+      "lesson-independence-013",
+      "lesson-melody-012"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "balada"
+    ]
+  }
+]

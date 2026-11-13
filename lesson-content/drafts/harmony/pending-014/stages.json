@@ -1,0 +1,70 @@
+[
+  {
+    "id": "stage-harmony-014-01",
+    "lessonId": "lesson-harmony-014",
+    "order": 1,
+    "title": "Referencia: ocho cambios regulares",
+    "explanationMd": "Referencia de ocho compases en 4/4: Cmaj7/Am7/Dm7/G7/Cmaj7/Dm7/G7/C, cuatro negras por acorde.",
+    "task": "Toca los ocho compases a 72 BPM con un bloque LH/RH por frontera y sostiene cada acorde hasta el siguiente.",
+    "changeFromPrevious": "Referencia base: un acorde por compás, con bloque simultáneo en cada frontera.",
+    "successCriteria": [
+      "La progresión cubre exactamente 32 negras (ocho compases de 4/4), sin huecos ni solapamientos.",
+      "Cada acorde tiene un único ataque LH/RH en su frontera; las velocidades son LH 60 y RH 64.",
+      "Las alturas corresponden a las calidades indicadas; el tempo es 72 BPM.",
+      "Se preservan Dm7@20 y G7@24→C@28 en etapas 2–3; etapa 4 reinicia la referencia y usa un solo paso."
+    ],
+    "simplifyHint": "Cuenta en voz alta las fronteras; toca solo las raíces de la izquierda con sus duraciones y conserva la resolución al acorde siguiente.",
+    "extendHint": "Propón una duración alternativa de uno o dos pulsos para un solo paso; comprueba que la suma siga en 32 y la cadencia G7@24→C@28 no cambie."
+  },
+  {
+    "id": "stage-harmony-014-02",
+    "lessonId": "lesson-harmony-014",
+    "order": 2,
+    "title": "Insertar C#dim7 antes de Dm7",
+    "explanationMd": "Divide Cmaj7 de beat 16 en dos negras y añade C#dim7 en beat 18 por dos; Dm7 sigue intacto en beat 20 y la cadencia G7@24→C@28 no se mueve.",
+    "task": "En beat 16 divide Cmaj7 y toca C#dim7 en 18; resuelve C#49→D50, E64→F65, G67→A69 y Bb70→C72 al Dm7@20.",
+    "changeFromPrevious": "Solo cambia beat 16–20: Cmaj7 se divide y aparece C#dim7; el resto de fronteras y notas se conserva.",
+    "successCriteria": [
+      "La progresión cubre exactamente 32 negras (ocho compases de 4/4), sin huecos ni solapamientos.",
+      "Cada acorde tiene un único ataque LH/RH en su frontera; las velocidades son LH 60 y RH 64.",
+      "Las alturas corresponden a las calidades indicadas; el tempo es 72 BPM.",
+      "Se preservan Dm7@20 y G7@24→C@28 en etapas 2–3; etapa 4 reinicia la referencia y usa un solo paso."
+    ],
+    "simplifyHint": "Cuenta en voz alta las fronteras; toca solo las raíces de la izquierda con sus duraciones y conserva la resolución al acorde siguiente.",
+    "extendHint": "Propón una duración alternativa de uno o dos pulsos para un solo paso; comprueba que la suma siga en 32 y la cadencia G7@24→C@28 no cambie."
+  },
+  {
+    "id": "stage-harmony-014-03",
+    "lessonId": "lesson-harmony-014",
+    "order": 3,
+    "title": "Acortar el paso a una negra",
+    "explanationMd": "Frontera desplazada: Cmaj7@16 dura tres negras y C#dim7@19 dura una; Dm7@20 permanece intacto.",
+    "task": "Toca la frontera Cmaj7@16→C#dim7@19 con duraciones 3+1 y resuelve al Dm7 intacto en 20.",
+    "changeFromPrevious": "Respecto a etapa 2, C#dim7 comienza en 19 y dura una negra; conserva la resolución en 20.",
+    "successCriteria": [
+      "La progresión cubre exactamente 32 negras (ocho compases de 4/4), sin huecos ni solapamientos.",
+      "Cada acorde tiene un único ataque LH/RH en su frontera; las velocidades son LH 60 y RH 64.",
+      "Las alturas corresponden a las calidades indicadas; el tempo es 72 BPM.",
+      "Se preservan Dm7@20 y G7@24→C@28 en etapas 2–3; etapa 4 reinicia la referencia y usa un solo paso."
+    ],
+    "simplifyHint": "Cuenta en voz alta las fronteras; toca solo las raíces de la izquierda con sus duraciones y conserva la resolución al acorde siguiente.",
+    "extendHint": "Propón una duración alternativa de uno o dos pulsos para un solo paso; comprueba que la suma siga en 32 y la cadencia G7@24→C@28 no cambie."
+  },
+  {
+    "id": "stage-harmony-014-04",
+    "lessonId": "lesson-harmony-014",
+    "order": 4,
+    "title": "Autonomía: elige un único paso",
+    "explanationMd": "Reinicia la referencia. Elige SOLO una alternativa: en beat 0, Cmaj7 dura tres y G/B ocupa beat 3 por una negra; Am7@4 permanece. No uses C#dim7 aquí; restaura Cmaj7@16 por cuatro y conserva G7@24→C@28.",
+    "task": "Desde la referencia, aplica solo una alternativa: Cmaj7@0 dur3→G/B@3 dur1 o una inserción C#dim7 de 1–2 beats que no desplace G7@24→C@28.",
+    "changeFromPrevious": "Restablece etapa 1; escoge un solo paso entre los dos modelos, duración de 1–2 negras cuando aplique, sin desplazar G7@24→C@28.",
+    "successCriteria": [
+      "La progresión cubre exactamente 32 negras (ocho compases de 4/4), sin huecos ni solapamientos.",
+      "Cada acorde tiene un único ataque LH/RH en su frontera; las velocidades son LH 60 y RH 64.",
+      "Las alturas corresponden a las calidades indicadas; el tempo es 72 BPM.",
+      "Se preservan Dm7@20 y G7@24→C@28 en etapas 2–3; etapa 4 reinicia la referencia y usa un solo paso."
+    ],
+    "simplifyHint": "Cuenta en voz alta las fronteras; toca solo las raíces de la izquierda con sus duraciones y conserva la resolución al acorde siguiente.",
+    "extendHint": "Propón una duración alternativa de uno o dos pulsos para un solo paso; comprueba que la suma siga en 32 y la cadencia G7@24→C@28 no cambie."
+  }
+]

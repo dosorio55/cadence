@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "1.0.0",
+  "status": "approved",
+  "counts": {
+    "categories": 6,
+    "skills": 30,
+    "lessons": 90,
+    "stages": 400,
+    "progressions": 402,
+    "chord-events": 2091,
+    "note-events": 11016
+  },
+  "categories": [
+    {
+      "category": "rhythm",
+      "skills": 5,
+      "lessons": 15,
+      "stages": 63,
+      "progressions": 64,
+      "chordEvents": 311,
+      "noteEvents": 2862
+    },
+    {
+      "category": "accompaniment",
+      "skills": 5,
+      "lessons": 15,
+      "stages": 75,
+      "progressions": 76,
+      "chordEvents": 408,
+      "noteEvents": 2049
+    },
+    {
+      "category": "harmony",
+      "skills": 5,
+      "lessons": 15,
+      "stages": 60,
+      "progressions": 60,
+      "chordEvents": 320,
+      "noteEvents": 1166
+    },
+    {
+      "category": "melody",
+      "skills": 5,
+      "lessons": 15,
+      "stages": 64,
+      "progressions": 64,
+      "chordEvents": 348,
+      "noteEvents": 1204
+    },
+    {
+      "category": "independence",
+      "skills": 5,
+      "lessons": 15,
+      "stages": 74,
+      "progressions": 74,
+      "chordEvents": 336,
+      "noteEvents": 2040
+    },
+    {
+      "category": "expression",
+      "skills": 5,
+      "lessons": 15,
+      "stages": 64,
+      "progressions": 64,
+      "chordEvents": 368,
+      "noteEvents": 1695
+    }
+  ],
+  "issues": {
+    "total": 125,
+    "bySeverity": {
+      "blocker": 2,
+      "major": 76,
+      "minor": 47
+    },
+    "byStatus": {
+      "resolved": 125
+    }
+  },
+  "stageCountDistribution": {
+    "5": 40,
+    "4": 50
+  },
+  "consolidatedSha256": {
+    "categories.json": "bb8c4da76ba99c5a562b1ac3d0efe939bc45b629d729096989a808716726812d",
+    "skills.json": "dc89bab1d1fd3d44dd1b9cc24c79c74a02fa06b09b6e6e2b37ebcce559278228",
+    "lessons.json": "5b9011d0ea1c4ef935c2b8926ac4a34a96c1e6f4bb37e07fecaeb6de04db784a",
+    "stages.json": "5849453e29f1fa51e52d702346270db56bc88b740d44a26814dab8b0c7b5ba81",
+    "progressions.json": "2163caff6d475c10337daed3a528c79255ba327ec833ce485cf2003bc6c8bf0f",
+    "chord-events.json": "16133e25558b199e6390c726bdb0321ae347237642226d496ea10b3090f9561d",
+    "note-events.json": "1953d125f9bb1a7d4b319a1f94b8bab5faf66454e714a48d81efed3078d83e77"
+  },
+  "approvals": {
+    "approvedBatchesIncludingPilot": 31,
+    "lessonsCovered": 90,
+    "frozenContractAndPilot": "unchanged",
+    "approvedRecordsAndReviews": "unchanged"
+  },
+  "allMidi": {
+    "progressions": 402,
+    "notes": 11016,
+    "status": "passed"
+  },
+  "sql": {
+    "file": "lesson-content/examples/curriculum.sqlite",
+    "sha256": "e7a4d317a4d2e0d7aec38db020e555f9e210bedbc764889c16926405a048b13a",
+    "dumpSha256": "15ee3048c853978b2e302abe9be26e8e597d95599c232d6d1577127918dae8a3",
+    "counts": {
+      "categories": 6,
+      "skills": 30,
+      "lessons": 90,
+      "stages": 400,
+      "progressions": 402,
+      "chord_events": 2091,
+      "note_events": 11016,
+      "lesson_prerequisites": 225
+    },
+    "secondImportIdentical": true,
+    "foreignKeyCheck": "passed",
+    "integrityCheck": "passed"
+  }
+}

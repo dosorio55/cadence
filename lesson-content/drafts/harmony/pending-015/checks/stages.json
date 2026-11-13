@@ -1,0 +1,70 @@
+[
+  {
+    "id": "stage-harmony-015-01",
+    "lessonId": "lesson-harmony-015",
+    "order": 1,
+    "title": "Referencia: ii–V–I con F sobre G7",
+    "explanationMd": "En los compases 1–8, cada acorde dura cuatro negras. En el compás 2, G7 lleva B3/F4; F4 (MIDI 65) es la cima derecha. Dm7 del compás 5 comparte esa cima F4. Compara la progresión completa antes de sustituir nada.",
+    "task": "Toca Dm7–G7–Cmaj7–C dos veces, cuatro negras por compás a 72 BPM. Mantén cada bloque sin reataques; escucha F4 arriba de G7 y su continuación hacia E4 en Cmaj7.",
+    "changeFromPrevious": "Presentación: referencia diatónica completa en ii–V–I–I, con voicings y duración fijados.",
+    "successCriteria": [
+      "El ciclo tiene 32 negras: ocho compases de 4/4 a 72 BPM.",
+      "Cada compás contiene cuatro ataques de negras por mano, LH60 y RH64, sin notas simultáneas en la misma tecla entre manos.",
+      "La derecha contiene el bloque Dm7 [60,65], G7 [59,65], Cmaj7 [59,64] y C [55,60,64]; cada acorde se sostiene cuatro negras.",
+      "F4 (65), la cima del bloque G7, se mantiene como nota de la línea; al llegar a Cmaj7 la cima es E4 (64)."
+    ],
+    "simplifyHint": "Practica cada bloque una mano a la vez y conserva sus cuatro negras; reúne las manos solo cuando las cuatro notas por compás estén estables.",
+    "extendHint": "Repite la referencia sin cambiar notas ni ataques y canta F4 sobre G7 seguido de E4 sobre Cmaj7."
+  },
+  {
+    "id": "stage-harmony-015-02",
+    "lessonId": "lesson-harmony-015",
+    "order": 2,
+    "title": "Sustituye el segundo G7 por Db7",
+    "explanationMd": "Reinicia la referencia de la etapa 1 y cambia únicamente el acorde del compás 6 (beat 20): Db7 ocupa el segundo G7. El bajo pasa de G2 (43) a Db3 (49); la derecha permanece [59,65]. En Db7, MIDI59 es Cb4, séptima, y MIDI65 es F4, tercera. Son las mismas teclas que en G7, donde B3 (59) es la tercera y F4 (65) la séptima: no llames a F tercera de G7 ni a B natural nota de Db7. Conserva la cima F4 y resuélvela a E4 en Cmaj7; Db3 baja a C3 por semitono.",
+    "task": "Compara con la etapa 1: toca Db7 solo en el compás 6, desde beat 20, con bajo Db3 y el mismo bloque RH [59,65]. En el compás 7 regresa a Cmaj7 con bajo C3 y RH [59,64]; conserva los otros siete compases y todas las duraciones.",
+    "changeFromPrevious": "Una sustitución puntual: G7→Db7 solo en el compás 6. Cambian únicamente el símbolo y el bajo G2→Db3; RH, tempo, dinámica, melodía y los otros siete acordes quedan idénticos.",
+    "successCriteria": [
+      "La única aparición de Db7 está en el compás 6, beat 20; G7 del compás 2 permanece sin cambio.",
+      "En Db7 suenan Db3 y las teclas 59/65; la lectura correcta es Cb4 séptima y F4 tercera, no B natural ni F como tercera de G7.",
+      "La cima F4 se resuelve a E4 al entrar Cmaj7 en beat 24, y Db3→C3 baja un semitono.",
+      "Las notas, duraciones y velocidades de todo lo demás coinciden exactamente con la etapa 1."
+    ],
+    "simplifyHint": "Aísla beat 20–28: Db3 con RH [59,65] durante cuatro negras, luego C3 con RH [59,64]. Reúne ese enlace con la referencia sin cambiar otra frontera.",
+    "extendHint": "Canta por separado F4→E4 y Db3→C3 al cambiar en beats 20 y 24; luego comprueba que el segundo G7 es la única sustitución del ciclo."
+  },
+  {
+    "id": "stage-harmony-015-03",
+    "lessonId": "lesson-harmony-015",
+    "order": 3,
+    "title": "Mueve Db7 al primer G7",
+    "explanationMd": "Reinicia exactamente la referencia de etapa 1 y mueve la única sustitución a G7 del compás 2, beat 4: Db7 reemplaza ese acorde y conserva el bloque RH [59,65]. Los compases 6–8 vuelven a G7–Cmaj7–C como en la referencia. Cb4 (59) es séptima de Db7 y F4 (65) su tercera; no son B natural ni la tercera de G7. F4→E4 y Db3→C3 resuelven por semitono en el compás 3.",
+    "task": "Compara con la etapa 2 y coloca la única Db7 en el compás 2, beat 4: bajo Db3 (49), RH [59,65]. Desde beat 8 restaura G7 y sigue la referencia exacta hasta el final; conserva 32 negras, cuatro ataques por compás, timbre y dinámica.",
+    "changeFromPrevious": "Se retira Db7 del compás 6 y se coloca en el primer G7, compás 2. La única Db7 ahora resuelve a Cmaj7 en el compás 3; en el compás 6 se restaura G7. No cambian otros eventos ni los voicings RH.",
+    "successCriteria": [
+      "Hay una sola Db7, en beat 4; G7 está restaurado en beat 20.",
+      "El bloque de Db7 es RH [59,65] (Cb4 séptima y F4 tercera) sobre Db3; no se describe 59 como B natural ni 65 como tercera de G7.",
+      "En beat 8, F4→E4 y Db3→C3 bajan un semitono al llegar a Cmaj7.",
+      "Comparada con la referencia, solo cambia el acorde y bajo del compás 2; todos los otros acordes, notas, ataques, velocidades y duraciones son idénticos."
+    ],
+    "simplifyHint": "Toca beats 4–12 lentamente: Db3/RH [59,65] por cuatro negras y después C3/RH [59,64]. Luego completa la referencia sin mover ningún otro acorde.",
+    "extendHint": "Alterna exactamente etapa 1 y esta ubicación en beat 4; identifica la resolución de ambas manos antes de decidir cuál versión reconocerías al escucharla."
+  },
+  {
+    "id": "stage-harmony-015-04",
+    "lessonId": "lesson-harmony-015",
+    "order": 4,
+    "title": "Autonomía: elige beat 4 o beat 20",
+    "explanationMd": "Referencia de reinicio exacta: etapa 2, con el segundo G7 sustituido por Db7 solo en beat 20. Elige UNA ubicación conocida para la única Db7: beat 4 (etapa 3) o beat 20 (etapa 2). Mantén el bloque RH [59,65], la cima F4→E4 al llegar al acorde C y el bajo Db3→C3 por semitono. No cambies melodía, voicings, duración, timbre, dinámica ni otros acordes.",
+    "task": "Toca primero la referencia exacta de etapa 2 y luego elige una sola ubicación de sustitución, beat 4 o beat 20. En la ubicación elegida toca Db3 y RH [59,65] durante cuatro negras; inmediatamente después restaura el acorde C ya fijado. El resto es idéntico a la referencia.",
+    "changeFromPrevious": "Se reinicia exactamente el ejemplo de etapa 2 (Db7 en beat 20) como referencia audible. La decisión autónoma queda limitada a conservar beat 20 o mover esa única Db7 a beat 4, como en etapa 3; no se compone una tercera ubicación ni se alteran otros parámetros.",
+    "successCriteria": [
+      "Reproduce la etapa 2 sin modificaciones como referencia: una Db7 en beat 20 y ningún otro cambio.",
+      "Elige una sola ubicación conocida, beat 4 o beat 20; no hay Db7 en ambas.",
+      "En la sustitución toca Db3/RH [59,65] (Cb4 séptima y F4 tercera), sin nombrar B natural ni F como tercera de G7.",
+      "La cima RH F4→E4 y el bajo Db3→C3 descienden un semitono hacia C; no se altera ninguna otra nota, acorde, duración, timbre o dinámica."
+    ],
+    "simplifyHint": "Repite etapa 2 exactamente; después elige beat 20 o mueve su único Db7 a beat 4. Si se mueve, devuelve G7 a beat 20.",
+    "extendHint": "Graba las dos ubicaciones conocidas por separado y compara su dirección hacia C sin variar ningún otro parámetro; elige una para tu interpretación."
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "lesson-accompaniment-001",
+    "primarySkillId": "skill-accompaniment-inversions",
+    "orderInCategory": 1,
+    "title": "La inversión más cercana",
+    "difficulty": 1,
+    "goal": "Enlazar cuatro tríadas con menos saltos en la derecha y fundamentales claras en la izquierda.",
+    "introMd": "En cuatro compases de I–V–vi–IV, compara posiciones fundamentales con inversiones próximas. Mantén iguales los ataques; escoge un enlace que conserve una nota común sin exigir más de una octava por mano.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-001"
+    ],
+    "targetMinutes": 15,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-accompaniment-002",
+    "primarySkillId": "skill-accompaniment-shells",
+    "orderInCategory": 2,
+    "title": "Escuchar tercera y séptima",
+    "difficulty": 1,
+    "goal": "Reconocer un ii–V–I con bajo fundamental y solo tercera y séptima en la derecha.",
+    "introMd": "En cuatro compases, compara acordes completos con shells de dos notas derechas sobre un bajo izquierdo. Conserva las notas que definen calidad y resolución; elige la octava más cómoda, no una nueva armonía.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-001"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-accompaniment-003",
+    "primarySkillId": "skill-accompaniment-arpeggiation",
+    "orderInCategory": 3,
+    "title": "Abrir la tríada en el tiempo",
+    "difficulty": 1,
+    "goal": "Convertir acordes en bloque en un arpegio regular que conserve una voz superior reconocible.",
+    "introMd": "En cuatro compases de balada, deja bajo largo a la izquierda y reparte tres notas cómodas en la derecha. Compara bloque y arpegio con el mismo acorde; elige dónde sostener la nota superior para no llenar todo el espacio.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-001",
+      "lesson-rhythm-002"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-accompaniment-004",
+    "primarySkillId": "skill-accompaniment-spacing",
+    "orderInCategory": 4,
+    "title": "Despejar el registro del bajo",
+    "difficulty": 2,
+    "goal": "Hacer más claro un acompañamiento separando el bajo grave del cuerpo medio sin cambiar sus acordes.",
+    "introMd": "En cuatro compases, compara tríadas apretadas en el grave con bajo aislado y dos o tres voces medias derechas. No abras la mano más de una octava: cambia la distribución entre manos y elige un registro que no enturbie la llegada.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-001",
+      "lesson-accompaniment-002"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop",
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-accompaniment-005",
+    "primarySkillId": "skill-accompaniment-comping",
+    "orderInCategory": 5,
+    "title": "Acompañar con dos voces suficientes",
+    "difficulty": 2,
+    "goal": "Sostener una frase sugerida con shells en sus huecos sin cubrir su registro.",
+    "introMd": "En cuatro compases de jazz, el bajo izquierdo da la raíz y la derecha toca dos voces en ataques ya fijados. La frase se presenta aparte y no exige una tercera mano; compara acordes densos con shells y elige una disposición más despejada.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-002",
+      "lesson-accompaniment-004",
+      "lesson-rhythm-005"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-accompaniment-006",
+    "primarySkillId": "skill-accompaniment-inversions",
+    "orderInCategory": 6,
+    "title": "Elegir el camino de la voz superior",
+    "difficulty": 2,
+    "goal": "Conducir una voz superior por grado conjunto entre inversiones de una progresión dada.",
+    "introMd": "En ocho compases de pop, conserva fundamentales y ritmo mientras comparas una voz superior que salta con otra de pequeños pasos. Elige el recorrido de una segunda frase sin añadir notas ajenas al acorde.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-001",
+      "lesson-accompaniment-004"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop"
+    ]
+  }
+]

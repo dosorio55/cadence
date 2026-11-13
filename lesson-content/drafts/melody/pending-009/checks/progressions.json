@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-melody-009-01-primary",
+    "stageId": "stage-melody-009-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Objetivos directos",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: raíces monofónicas largas en izquierda y melodía monofónica en derecha; armonía parcial, no voicings completos. Beats y duraciones se expresan en negras.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-009-02-primary",
+    "stageId": "stage-melody-009-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Paso diatónico hacia B",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: raíces monofónicas largas en izquierda y melodía monofónica en derecha; armonía parcial, no voicings completos. Beats y duraciones se expresan en negras.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-009-03-primary",
+    "stageId": "stage-melody-009-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Comparación cromática",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: raíces monofónicas largas en izquierda y melodía monofónica en derecha; armonía parcial, no voicings completos. Beats y duraciones se expresan en negras.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-009-04-primary",
+    "stageId": "stage-melody-009-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elección de una llegada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia a dos manos: raíces monofónicas largas en izquierda y melodía monofónica en derecha; armonía parcial, no voicings completos. Beats y duraciones se expresan en negras.",
+    "loopable": false
+  }
+]

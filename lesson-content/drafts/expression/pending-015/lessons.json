@@ -1,0 +1,21 @@
+[
+  {
+    "id": "lesson-expression-015",
+    "primarySkillId": "skill-expression-form",
+    "orderInCategory": 15,
+    "title": "Tocar una miniatura con comienzo y final",
+    "difficulty": 5,
+    "goal": "Interpretar ocho compases con entrada, frase contrastante y cierre inequívoco usando recursos ya dominados.",
+    "introMd": "En balada, reserva un compás para entrada, tres para la idea, tres para respuesta y uno para cierre; bajo sencillo y melodía dejan ambas manos disponibles. Compara versión plana y forma dirigida; elige balance, una respiración y un final, sin intentar usar todos los recursos a la vez.",
+    "prerequisiteLessonIds": [
+      "lesson-expression-010",
+      "lesson-expression-012",
+      "lesson-expression-013",
+      "lesson-expression-014"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "balada"
+    ]
+  }
+]

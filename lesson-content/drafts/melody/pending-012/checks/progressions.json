@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-melody-012-01-primary",
+    "stageId": "stage-melody-012-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ideas inconexas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 90,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases contrastantes: la línea cambia libremente en cada compás.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-012-02-primary",
+    "stageId": "stage-melody-012-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Motivo E–G–A",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 90,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Repite E4–G4–A4 en los ocho compases.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-012-03-primary",
+    "stageId": "stage-melody-012-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Desplazamiento rítmico",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 90,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Conserva pitches; desplaza solo el ritmo en compases pares.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-012-04-primary",
+    "stageId": "stage-melody-012-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Color sobre G",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 90,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Conserva el ritmo; en los compases 4 y 7 cambia solo la tercera nota a B4.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-012-05-primary",
+    "stageId": "stage-melody-012-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Regreso elegido",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 90,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Restaura E–G–A en el último compás como señal de regreso; elige otro momento propio para recuperarlo.",
+    "loopable": false
+  }
+]

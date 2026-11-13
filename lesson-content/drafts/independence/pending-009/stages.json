@@ -1,0 +1,77 @@
+[
+  {
+    "id": "stage-independence-009-01",
+    "lessonId": "lesson-independence-009",
+    "order": 1,
+    "title": "Shell conjunto al primer tiempo",
+    "explanationMd": "En Dm7–G7–Cmaj7–Cmaj7 el RH presenta el shell al inicio de cada compás; cada ataque dura un tercio de negra. LH mantiene intactas sus cuatro negras.",
+    "task": "Toca primero las cuatro negras LH de cada compás; agrega el shell RH justo con la armonía y suéltalo tras 1/3 de negra.",
+    "changeFromPrevious": "Base de coordinación: shell RH de tercera y séptima en offset 0, duración 1/3; el walking LH se clona del stage 004-04.",
+    "successCriteria": [
+      "Ataco un shell por compás en beat 0 y lo suelto tras 1/3 de negra.",
+      "Toco las dieciséis negras LH sin sustituir ninguna por un ataque RH."
+    ],
+    "simplifyHint": "Practica primero las cuatro negras izquierdas exactas de D2–F2–A2–F2, G2–B2–D3–B2, C3–E3–G3–B2, C3–E3–G2–E2. Añade después los shells RH de esta etapa en sus subdivisiones escritas.",
+    "extendHint": "Mantén LH y los ataques RH de esta etapa sin cambios; cambia una sola decisión musical indicada: shell conjunto al primer tiempo. Anota offset y duración antes de tocar y verifica que no se añadan ataques."
+  },
+  {
+    "id": "stage-independence-009-02",
+    "lessonId": "lesson-independence-009",
+    "order": 2,
+    "title": "Desplazamiento ternario breve",
+    "explanationMd": "El mismo shell aparece en 2/3 de negra dentro de cada compás y dura 1/3. El onset también es ternario: no se redondea al beat entero.",
+    "task": "Cuenta cada compás como cuatro negras subdivididas en tres. Ataca RH en 2/3 y suelta en 1; no lo adelantes al primer tiempo.",
+    "changeFromPrevious": "Se desplaza cada ataque RH de 0 a 2/3 y se mantiene la duración 1/3; LH, alturas y progresión no cambian.",
+    "successCriteria": [
+      "Los cuatro ataques RH caen en 2/3 local, no en una negra entera.",
+      "Cada shell dura 1/3 y el walking conserva pitches y onsets originales."
+    ],
+    "simplifyHint": "Practica primero las cuatro negras izquierdas exactas de D2–F2–A2–F2, G2–B2–D3–B2, C3–E3–G3–B2, C3–E3–G2–E2. Añade después los shells RH de esta etapa en sus subdivisiones escritas.",
+    "extendHint": "Mantén LH y los ataques RH de esta etapa sin cambios; cambia una sola decisión musical indicada: desplazamiento ternario breve. Anota offset y duración antes de tocar y verifica que no se añadan ataques."
+  },
+  {
+    "id": "stage-independence-009-03",
+    "lessonId": "lesson-independence-009",
+    "order": 3,
+    "title": "Sostener sobre el siguiente paso",
+    "explanationMd": "El shell entra en 2/3 y dura 2/3 de negra. Su sostén atraviesa el siguiente ataque de LH sin copiar ni recortar el walking.",
+    "task": "Mantén el shell desde 2/3 hasta 4/3: escucha cómo la mano izquierda cambia de nota en beat 1 mientras la derecha sigue sonando.",
+    "changeFromPrevious": "Solo se prolonga RH de 1/3 a 2/3; el inicio ternario 2/3 y las dieciséis negras LH permanecen idénticos.",
+    "successCriteria": [
+      "Cada shell dura 2/3 desde 2/3 y suena durante el cambio LH de beat 1.",
+      "No añado ni desplazo notas LH para seguir la duración derecha."
+    ],
+    "simplifyHint": "Practica primero las cuatro negras izquierdas exactas de D2–F2–A2–F2, G2–B2–D3–B2, C3–E3–G3–B2, C3–E3–G2–E2. Añade después los shells RH de esta etapa en sus subdivisiones escritas.",
+    "extendHint": "Mantén LH y los ataques RH de esta etapa sin cambios; cambia una sola decisión musical indicada: sostener sobre el siguiente paso. Anota offset y duración antes de tocar y verifica que no se añadan ataques."
+  },
+  {
+    "id": "stage-independence-009-04",
+    "lessonId": "lesson-independence-009",
+    "order": 4,
+    "title": "Inversión inicial en la tónica",
+    "explanationMd": "La única variación de alturas está en el primer compás: Dm7 usa la inversión [60,65]. Los otros tres shells conservan exactamente las alturas de 03.",
+    "task": "Compara [65,72] con [60,65] solo en Dm7; conserva la misma duración y coloca los otros shells sin cambios.",
+    "changeFromPrevious": "Solo se invierte el primer shell, de [65,72] a [60,65]; posición, duración y los otros tres compases no cambian.",
+    "successCriteria": [
+      "El primer shell es [60,65] y los otros tres coinciden con la etapa 03.",
+      "La inversión no cambia entrada/duración ni altera ninguna nota LH."
+    ],
+    "simplifyHint": "Practica primero las cuatro negras izquierdas exactas de D2–F2–A2–F2, G2–B2–D3–B2, C3–E3–G3–B2, C3–E3–G2–E2. Añade después los shells RH de esta etapa en sus subdivisiones escritas.",
+    "extendHint": "Mantén LH y los ataques RH de esta etapa sin cambios; cambia una sola decisión musical indicada: inversión inicial en la tónica. Anota offset y duración antes de tocar y verifica que no se añadan ataques."
+  },
+  {
+    "id": "stage-independence-009-05",
+    "lessonId": "lesson-independence-009",
+    "order": 5,
+    "title": "Respuesta autónoma en dos posiciones",
+    "explanationMd": "Cada compás recibe una sola respuesta RH de 2/3 de negra: alterna posiciones 2/3 y 5/3. Los cuatro shells son los de la inversión de 04.",
+    "task": "Toca una única respuesta por compás en los offsets locales 2/3, 5/3, 2/3 y 5/3. Cuenta el silencio restante sin agregar ataques.",
+    "changeFromPrevious": "Autonomía: una respuesta por compás alternando offsets 2/3 y 5/3, con duración 2/3; se conservan los voicings de 04 y todo el walking.",
+    "successCriteria": [
+      "Hay exactamente un ataque RH por compás, en los cuatro offsets especificados.",
+      "Todas las respuestas duran 2/3; LH sigue con sus onsets enteros 0–15."
+    ],
+    "simplifyHint": "Practica primero las cuatro negras izquierdas exactas de D2–F2–A2–F2, G2–B2–D3–B2, C3–E3–G3–B2, C3–E3–G2–E2. Añade después los shells RH de esta etapa en sus subdivisiones escritas.",
+    "extendHint": "Mantén LH y los ataques RH de esta etapa sin cambios; cambia una sola decisión musical indicada: respuesta autónoma en dos posiciones. Anota offset y duración antes de tocar y verifica que no se añadan ataques."
+  }
+]

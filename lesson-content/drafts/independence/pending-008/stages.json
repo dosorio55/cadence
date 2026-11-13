@@ -1,0 +1,77 @@
+[
+  {
+    "id": "stage-independence-008-01",
+    "lessonId": "lesson-independence-008",
+    "order": 1,
+    "title": "Pulso conjunto: E4 y raíz",
+    "explanationMd": "Base: en cada compás C7, LH alterna C3/G3 en offsets 0, 0.5, 2 y 2.5; cada ataque dura 0.25. RH toca E4 (64) en offset 0, duración 0.25: coincide con el primer C3. La textura es parcial: bajo de raíz/quinta más una nota melódica, no un acorde completo ni una tercera mano.",
+    "task": "Toca primero LH sola; suma E4 en el primer C3 y deja intactos los tres ataques izquierdos restantes.",
+    "changeFromPrevious": "Base: RH E4 acoplado en offset 0; LH fijo raíz–quinta con huecos.",
+    "successCriteria": [
+      "RH E4/64 ataca en offsets 0, 4, 8 y 12 y dura 0.25.",
+      "LH repite en cada compás offsets 0, 0.5, 2, 2.5 con duraciones 0.25 y pitches 48,55,48,55."
+    ],
+    "simplifyHint": "A 60 BPM aísla los cuatro ataques LH por compás; añade E4 en offset 0 sin prolongar la nota.",
+    "extendHint": "Mantén invariable la célula LH escrita; cambia únicamente la decisión RH indicada para esta etapa, sin agregar ataques ni notas simultáneas."
+  },
+  {
+    "id": "stage-independence-008-02",
+    "lessonId": "lesson-independence-008",
+    "order": 2,
+    "title": "Desacoplar la entrada derecha",
+    "explanationMd": "Comparada con 01, LH es idéntica. RH conserva E4 y duración 0.25 pero pasa de offset 0 a 1.5; ahora es independiente del ataque inicial del bajo. Practica sin mover la célula izquierda.",
+    "task": "Toca LH y entra con E4 en offset 1.5 de cada compás; no anticipes ni copies el ataque con la izquierda.",
+    "changeFromPrevious": "Solo RH se desplaza de offset 0 a 1.5; altura/duración y LH constantes.",
+    "successCriteria": [
+      "RH E4/64 ataca en globales 1.5, 5.5, 9.5 y 13.5; cada nota dura 0.25.",
+      "Ningún onset, duración o pitch LH cambia respecto de 01."
+    ],
+    "simplifyHint": "Marca 1.5 con subdivisión hablada; toca la secuencia LH completa antes de sumar E4.",
+    "extendHint": "Mantén invariable la célula LH escrita; cambia únicamente la decisión RH indicada para esta etapa, sin agregar ataques ni notas simultáneas."
+  },
+  {
+    "id": "stage-independence-008-03",
+    "lessonId": "lesson-independence-008",
+    "order": 3,
+    "title": "Cruzar el pulso sin reatacar",
+    "explanationMd": "Comparada con 02, solo se alarga RH: E4 ataca en offset 1.5 y dura 1 negra, de 1.5 a 2.5. Cruza el pulso 2 ligado, sin reatacar; LH mantiene sus cuatro ataques breves.",
+    "task": "Sostén E4 de 1.5 a 2.5 atravesando el pulso 2 sin volver a atacar; sigue ejecutando LH.",
+    "changeFromPrevious": "Solo RH pasa de duración 0.25 a 1; cruza beat 2 sin reataque.",
+    "successCriteria": [
+      "RH E4/64 ataca en globales 1.5, 5.5, 9.5 y 13.5 y dura 1; cruza beat 2 sin reataque.",
+      "Los cuatro eventos LH por compás conservan offsets, pitches y duración 0.25."
+    ],
+    "simplifyHint": "Practica LH a volumen bajo y sostén E4 sin repetirlo al contar el beat 2.",
+    "extendHint": "Mantén invariable la célula LH escrita; cambia únicamente la decisión RH indicada para esta etapa, sin agregar ataques ni notas simultáneas."
+  },
+  {
+    "id": "stage-independence-008-04",
+    "lessonId": "lesson-independence-008",
+    "order": 4,
+    "title": "Color de séptima: Bb4",
+    "explanationMd": "Comparada con 03, solo cambia la altura RH: Bb4 (MIDI 70), offset 1.5, duración 1. Bb es la séptima menor real de C7 y aporta su color dominante; LH y el cruce ligado siguen intactos.",
+    "task": "Sustituye únicamente E4 por Bb4; oye la séptima menor de C7 mientras LH conserva la célula.",
+    "changeFromPrevious": "Solo RH cambia de MIDI 64 a 70; ataque, duración y LH no cambian.",
+    "successCriteria": [
+      "RH Bb4/70 ataca en globales 1.5, 5.5, 9.5 y 13.5 y dura 1.",
+      "La nota es la séptima menor de C7; LH conserva exactamente su secuencia de 01–03."
+    ],
+    "simplifyHint": "Canta Bb4 antes de tocar; no agregues otras notas para completar C7.",
+    "extendHint": "Mantén invariable la célula LH escrita; cambia únicamente la decisión RH indicada para esta etapa, sin agregar ataques ni notas simultáneas."
+  },
+  {
+    "id": "stage-independence-008-05",
+    "lessonId": "lesson-independence-008",
+    "order": 5,
+    "title": "Pausa derecha, ostinato intacto",
+    "explanationMd": "Referencia autónoma: conserva exactamente LH y RH Bb4 (offset 1.5, duración 1) en compases 1, 3 y 4; omite RH solo en compás 2, offset global 5.5. La pausa modifica únicamente la densidad derecha; no propone dos respuestas RH ni densifica el ostinato.",
+    "task": "Toca la referencia con Bb4 en compases 1, 3 y 4 y silencio derecho en el 2; mantén LH completo.",
+    "changeFromPrevious": "Se omite RH solo en compás 2; las tres entradas restantes y toda LH son idénticas a 04.",
+    "successCriteria": [
+      "RH Bb4/70 solo en globales 1.5, 9.5 y 13.5, cada una duración 1; no hay onset en 5.5.",
+      "LH es idéntica en pitch, onset y duración a las cuatro etapas anteriores; la única omisión es derecha."
+    ],
+    "simplifyHint": "Ensaya LH sola; vuelve a añadir solo las tres notas Bb4 de referencia, sin llenar el compás 2.",
+    "extendHint": "Mantén invariable la célula LH escrita; cambia únicamente la decisión RH indicada para esta etapa, sin agregar ataques ni notas simultáneas."
+  }
+]

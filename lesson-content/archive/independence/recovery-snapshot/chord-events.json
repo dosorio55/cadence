@@ -1,0 +1,947 @@
+[
+  {
+    "id": "chord-independence-001-01-001",
+    "progressionId": "prog-independence-001-01-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-01-002",
+    "progressionId": "prog-independence-001-01-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-01-003",
+    "progressionId": "prog-independence-001-01-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-01-004",
+    "progressionId": "prog-independence-001-01-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-02-001",
+    "progressionId": "prog-independence-001-02-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-02-002",
+    "progressionId": "prog-independence-001-02-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-02-003",
+    "progressionId": "prog-independence-001-02-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-02-004",
+    "progressionId": "prog-independence-001-02-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-03-001",
+    "progressionId": "prog-independence-001-03-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-03-002",
+    "progressionId": "prog-independence-001-03-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-03-003",
+    "progressionId": "prog-independence-001-03-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-03-004",
+    "progressionId": "prog-independence-001-03-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-04-001",
+    "progressionId": "prog-independence-001-04-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-04-002",
+    "progressionId": "prog-independence-001-04-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-04-003",
+    "progressionId": "prog-independence-001-04-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-04-004",
+    "progressionId": "prog-independence-001-04-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-05-001",
+    "progressionId": "prog-independence-001-05-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-05-002",
+    "progressionId": "prog-independence-001-05-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-05-003",
+    "progressionId": "prog-independence-001-05-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-001-05-004",
+    "progressionId": "prog-independence-001-05-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-01-001",
+    "progressionId": "prog-independence-002-01-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-01-002",
+    "progressionId": "prog-independence-002-01-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-01-003",
+    "progressionId": "prog-independence-002-01-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-01-004",
+    "progressionId": "prog-independence-002-01-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-02-001",
+    "progressionId": "prog-independence-002-02-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-02-002",
+    "progressionId": "prog-independence-002-02-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-02-003",
+    "progressionId": "prog-independence-002-02-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-02-004",
+    "progressionId": "prog-independence-002-02-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-03-001",
+    "progressionId": "prog-independence-002-03-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-03-002",
+    "progressionId": "prog-independence-002-03-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-03-003",
+    "progressionId": "prog-independence-002-03-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-03-004",
+    "progressionId": "prog-independence-002-03-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-04-001",
+    "progressionId": "prog-independence-002-04-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-04-002",
+    "progressionId": "prog-independence-002-04-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-04-003",
+    "progressionId": "prog-independence-002-04-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-04-004",
+    "progressionId": "prog-independence-002-04-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-05-001",
+    "progressionId": "prog-independence-002-05-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-05-002",
+    "progressionId": "prog-independence-002-05-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-05-003",
+    "progressionId": "prog-independence-002-05-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-002-05-004",
+    "progressionId": "prog-independence-002-05-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-003-01-001",
+    "progressionId": "prog-independence-003-01-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-003-02-001",
+    "progressionId": "prog-independence-003-02-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-003-03-001",
+    "progressionId": "prog-independence-003-03-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-003-04-001",
+    "progressionId": "prog-independence-003-04-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-003-05-001",
+    "progressionId": "prog-independence-003-05-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-004-01-001",
+    "progressionId": "prog-independence-004-01-primary",
+    "order": 1,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-01-002",
+    "progressionId": "prog-independence-004-01-primary",
+    "order": 2,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-01-003",
+    "progressionId": "prog-independence-004-01-primary",
+    "order": 3,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-01-004",
+    "progressionId": "prog-independence-004-01-primary",
+    "order": 4,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-02-001",
+    "progressionId": "prog-independence-004-02-primary",
+    "order": 1,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-02-002",
+    "progressionId": "prog-independence-004-02-primary",
+    "order": 2,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-02-003",
+    "progressionId": "prog-independence-004-02-primary",
+    "order": 3,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-02-004",
+    "progressionId": "prog-independence-004-02-primary",
+    "order": 4,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-03-001",
+    "progressionId": "prog-independence-004-03-primary",
+    "order": 1,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-03-002",
+    "progressionId": "prog-independence-004-03-primary",
+    "order": 2,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-03-003",
+    "progressionId": "prog-independence-004-03-primary",
+    "order": 3,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-03-004",
+    "progressionId": "prog-independence-004-03-primary",
+    "order": 4,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-04-001",
+    "progressionId": "prog-independence-004-04-primary",
+    "order": 1,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-04-002",
+    "progressionId": "prog-independence-004-04-primary",
+    "order": 2,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-04-003",
+    "progressionId": "prog-independence-004-04-primary",
+    "order": 3,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-04-004",
+    "progressionId": "prog-independence-004-04-primary",
+    "order": 4,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-05-001",
+    "progressionId": "prog-independence-004-05-primary",
+    "order": 1,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-05-002",
+    "progressionId": "prog-independence-004-05-primary",
+    "order": 2,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-05-003",
+    "progressionId": "prog-independence-004-05-primary",
+    "order": 3,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-004-05-004",
+    "progressionId": "prog-independence-004-05-primary",
+    "order": 4,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-01-001",
+    "progressionId": "prog-independence-005-01-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-01-002",
+    "progressionId": "prog-independence-005-01-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-01-003",
+    "progressionId": "prog-independence-005-01-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-01-004",
+    "progressionId": "prog-independence-005-01-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-02-001",
+    "progressionId": "prog-independence-005-02-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-02-002",
+    "progressionId": "prog-independence-005-02-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-02-003",
+    "progressionId": "prog-independence-005-02-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-02-004",
+    "progressionId": "prog-independence-005-02-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-03-001",
+    "progressionId": "prog-independence-005-03-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-03-002",
+    "progressionId": "prog-independence-005-03-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-03-003",
+    "progressionId": "prog-independence-005-03-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-03-004",
+    "progressionId": "prog-independence-005-03-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-04-001",
+    "progressionId": "prog-independence-005-04-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-04-002",
+    "progressionId": "prog-independence-005-04-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-04-003",
+    "progressionId": "prog-independence-005-04-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-04-004",
+    "progressionId": "prog-independence-005-04-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-05-001",
+    "progressionId": "prog-independence-005-05-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-05-002",
+    "progressionId": "prog-independence-005-05-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-05-003",
+    "progressionId": "prog-independence-005-05-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-005-05-004",
+    "progressionId": "prog-independence-005-05-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-01-001",
+    "progressionId": "prog-independence-006-01-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-01-002",
+    "progressionId": "prog-independence-006-01-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-01-003",
+    "progressionId": "prog-independence-006-01-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-01-004",
+    "progressionId": "prog-independence-006-01-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-02-001",
+    "progressionId": "prog-independence-006-02-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-02-002",
+    "progressionId": "prog-independence-006-02-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-02-003",
+    "progressionId": "prog-independence-006-02-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-02-004",
+    "progressionId": "prog-independence-006-02-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-03-001",
+    "progressionId": "prog-independence-006-03-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-03-002",
+    "progressionId": "prog-independence-006-03-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-03-003",
+    "progressionId": "prog-independence-006-03-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-03-004",
+    "progressionId": "prog-independence-006-03-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-04-001",
+    "progressionId": "prog-independence-006-04-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-04-002",
+    "progressionId": "prog-independence-006-04-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-04-003",
+    "progressionId": "prog-independence-006-04-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-04-004",
+    "progressionId": "prog-independence-006-04-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-05-001",
+    "progressionId": "prog-independence-006-05-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "Imaj7",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-05-002",
+    "progressionId": "prog-independence-006-05-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-05-003",
+    "progressionId": "prog-independence-006-05-primary",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-independence-006-05-004",
+    "progressionId": "prog-independence-006-05-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  }
+]

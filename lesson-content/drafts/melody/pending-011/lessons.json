@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-melody-011",
+    "primarySkillId": "skill-melody-target-notes",
+    "orderInCategory": 11,
+    "title": "Planear las llegadas antes del recorrido",
+    "difficulty": 3,
+    "goal": "Hacer reconocible una cadencia de ocho compases eligiendo primero notas objetivo y luego conexiones breves.",
+    "introMd": "Usa bajo y shells izquierdos cómodos, sin walking, bajo una línea derecha espaciada de jazz. Compara objetivos solos y su conexión; elige las llegadas de una segunda frase antes de improvisar el recorrido.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-006",
+      "lesson-melody-008",
+      "lesson-harmony-011"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

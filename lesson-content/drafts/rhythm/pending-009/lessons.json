@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lesson-rhythm-009",
+    "primarySkillId": "skill-rhythm-syncopation",
+    "orderInCategory": 9,
+    "title": "Síncopa sin cambiar de acorde",
+    "difficulty": 3,
+    "goal": "Sostener un ataque en contratiempo sobre el tiempo fuerte y distinguirlo de una anticipación armónica.",
+    "introMd": "En cuatro compases con bajo en uno y tres, desplaza una tríada a 2& y sostén sobre tres sin reatacar. El acorde no cambia de función ni de frontera; compara con la anticipación de la lección 004 y elige un segundo lugar de síncopa.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-004",
+      "lesson-rhythm-007"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop"
+    ]
+  }
+]

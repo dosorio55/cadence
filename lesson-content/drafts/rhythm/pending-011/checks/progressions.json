@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-rhythm-011-01-primary",
+    "stageId": "stage-rhythm-011-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Pulso continuo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "I–vi–IV–V repetido dos veces; LH fija y RH cambia solo densidad/ubicación de ataques según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-011-02-primary",
+    "stageId": "stage-rhythm-011-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bloques de densidad",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "I–vi–IV–V repetido dos veces; LH fija y RH cambia solo densidad/ubicación de ataques según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-011-03-primary",
+    "stageId": "stage-rhythm-011-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Desplazar el ataque espaciado",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "I–vi–IV–V repetido dos veces; LH fija y RH cambia solo densidad/ubicación de ataques según etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-rhythm-011-04-primary",
+    "stageId": "stage-rhythm-011-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: invertir los bloques",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "I–vi–IV–V repetido dos veces; LH fija y RH cambia solo densidad/ubicación de ataques según etapa.",
+    "loopable": true
+  }
+]

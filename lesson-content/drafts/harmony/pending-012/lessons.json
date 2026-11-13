@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-harmony-012",
+    "primarySkillId": "skill-harmony-harmonic-rhythm",
+    "orderInCategory": 12,
+    "title": "Diseñar una curva de cambios",
+    "difficulty": 3,
+    "goal": "Crear ocho compases con reposo inicial, aceleración de cambios y llegada estable sin aumentar el BPM.",
+    "introMd": "Reorganiza duraciones de un vocabulario I–vi–ii–V ya conocido, con bajo y bloques regulares. Compara un cambio por compás con una curva de uno y dos cambios por compás; decide el punto de máxima actividad y deja sitio al reposo.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-007",
+      "lesson-harmony-011"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz",
+      "balada"
+    ]
+  }
+]

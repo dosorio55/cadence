@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$"
+      },
+      "lessonId": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$"
+      },
+      "order": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "title": {
+        "type": "string",
+        "minLength": 1
+      },
+      "explanationMd": {
+        "type": "string",
+        "minLength": 1
+      },
+      "task": {
+        "type": "string",
+        "minLength": 1
+      },
+      "changeFromPrevious": {
+        "type": "string",
+        "minLength": 1
+      },
+      "successCriteria": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        },
+        "minItems": 1
+      },
+      "simplifyHint": {
+        "type": "string",
+        "minLength": 1
+      },
+      "extendHint": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "required": [
+      "id",
+      "lessonId",
+      "order",
+      "title",
+      "explanationMd",
+      "task",
+      "changeFromPrevious",
+      "successCriteria"
+    ],
+    "additionalProperties": false
+  }
+}

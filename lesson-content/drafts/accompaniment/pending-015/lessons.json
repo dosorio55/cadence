@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-accompaniment-015",
+    "primarySkillId": "skill-accompaniment-comping",
+    "orderInCategory": 15,
+    "title": "Elegir el acompañamiento que deja cantar",
+    "difficulty": 5,
+    "goal": "Diseñar ocho compases de comping con voicings claros que dejen libres los registros y huecos de una frase de referencia.",
+    "introMd": "La frase guía se escucha antes; el ejemplo a dos manos contiene bajo y acordes, no una tercera parte obligatoria. Compara acompañamiento uniforme con selección de shells, colores y descansos; elige tu arreglo sobre la misma armonía y célula de bossa conocida.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-010",
+      "lesson-accompaniment-013",
+      "lesson-accompaniment-014"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "bossa"
+    ]
+  }
+]

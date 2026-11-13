@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-accompaniment-012-01-primary",
+    "stageId": "stage-accompaniment-012-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia mayor",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia mayor: cuatro acordes de un compás; raíz izquierda y bloque derecho sostenidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-012-02-primary",
+    "stageId": "stage-accompaniment-012-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Enlace menor completo",
+    "keyTonic": "A",
+    "keyMode": "minor",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Enlace menor completo: cuatro acordes de un compás; raíz izquierda y bloque derecho sostenidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-012-03-primary",
+    "stageId": "stage-accompaniment-012-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Solo iiø invertido",
+    "keyTonic": "A",
+    "keyMode": "minor",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Solo iiø invertido: cuatro acordes de un compás; raíz izquierda y bloque derecho sostenidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-012-04-primary",
+    "stageId": "stage-accompaniment-012-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Séptima natural de i7",
+    "keyTonic": "A",
+    "keyMode": "minor",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Séptima natural de i7: cuatro acordes de un compás; raíz izquierda y bloque derecho sostenidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-012-05-primary",
+    "stageId": "stage-accompaniment-012-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elige posición de iiø",
+    "keyTonic": "A",
+    "keyMode": "minor",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Autonomía: elige posición de iiø: cuatro acordes de un compás; raíz izquierda y bloque derecho sostenidos.",
+    "loopable": true
+  }
+]

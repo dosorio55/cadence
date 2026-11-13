@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-expression-013-01-primary",
+    "stageId": "stage-expression-013-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Frase llena",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Versión de referencia completa: la izquierda toca bloques de tres notas durante cuatro pulsos; la derecha frasea cuatro ataques swung por compás. Tempo estable de 72 BPM.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-013-02-primary",
+    "stageId": "stage-expression-013-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Respirar en la dominante",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Se restablece la versión 01 y la derecha calla en los ataques de 15 y 15⅔, creando silencio [13,16); la izquierda mantiene el bloque de G7 en el compás 4.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-013-03-primary",
+    "stageId": "stage-expression-013-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Restablecer y respirar",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Se restablece la versión 01 y la derecha calla en los ataques de 27 y 27⅔, creando silencio [25,28); la izquierda mantiene el bloque de G7 en el compás 7. No se acumula el silencio de la etapa 02.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-013-04-primary",
+    "stageId": "stage-expression-013-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir una llegada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Conserva la reducción y el silencio [25,28) de la etapa 03. La llegada en el compás 8, beat 28, pasa de velocity 72 a 84; se conserva el par swing precedente y la izquierda sigue sin cambio. No es silencio total ni cambio de tempo.",
+    "loopable": false
+  }
+]

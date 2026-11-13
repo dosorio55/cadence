@@ -1,0 +1,586 @@
+[
+  {
+    "id": "stage-harmony-001-01",
+    "lessonId": "lesson-harmony-001",
+    "order": 1,
+    "title": "Oye el cierre sin dominante",
+    "explanationMd": "A: I–IV–I–I termina en reposo sin preparación dominante. Escucha la llegada en el último compás.",
+    "task": "Toca C–F–C–C a 72 negras por minuto; deja durar cada acorde cuatro pulsos.",
+    "changeFromPrevious": "Presentación A: sucesión sin V antes de I.",
+    "successCriteria": [
+      "Mantengo 72 negras por minuto.",
+      "Distingo la repetición de tónica del enlace dominante–tónica."
+    ],
+    "simplifyHint": "Toca solo bajo y tercera del acorde, conservando las mismas duraciones.",
+    "extendHint": "En una repetición posterior, elige una inversión cercana sin cambiar el plan armónico."
+  },
+  {
+    "id": "stage-harmony-001-02",
+    "lessonId": "lesson-harmony-001",
+    "order": 2,
+    "title": "Prepara I con V",
+    "explanationMd": "B: solo cambia el tercer acorde: G ocupa el lugar de C y resuelve a C. Compara B con la etapa 1; oye la sensible B subir a C.",
+    "task": "Alterna A (etapa 1) y B (esta etapa), sin acelerar ni cambiar los cuatro pulsos por acorde.",
+    "changeFromPrevious": "En el compás 3, I pasa a V; el compás 4 mantiene I y realiza la resolución G–C.",
+    "successCriteria": [
+      "Oigo B–C en las voces superiores.",
+      "La duración y el pulso siguen iguales a A."
+    ],
+    "simplifyHint": "Toca solo bajo y tercera del acorde, conservando las mismas duraciones.",
+    "extendHint": "En una repetición posterior, elige una inversión cercana sin cambiar el plan armónico."
+  },
+  {
+    "id": "stage-harmony-001-03",
+    "lessonId": "lesson-harmony-001",
+    "order": 3,
+    "title": "Oye la sensible en la voz superior",
+    "explanationMd": "Se conserva B, pero la voz superior de G sube a B4 y resuelve por semitono a C5. Compara con la etapa 2: allí B3, en una voz interior, llega a C4.",
+    "task": "Toca G con B4 arriba y resuélvela a C5; conserva cuatro pulsos por acorde y compara con la etapa 2.",
+    "changeFromPrevious": "El bloque V–I cambia de disposición para llevar la voz superior B4–C5, en vez de la resolución interior B3–C4 de etapa 2; la función, duración y pulso siguen iguales.",
+    "successCriteria": [
+      "Oigo B4 subir a C5 en el enlace V–I.",
+      "No reataco antes del cambio de compás."
+    ],
+    "simplifyHint": "Toca solo bajo y tercera del acorde, conservando las mismas duraciones.",
+    "extendHint": "En una repetición posterior, elige una inversión cercana sin cambiar el plan armónico."
+  },
+  {
+    "id": "stage-harmony-001-04",
+    "lessonId": "lesson-harmony-001",
+    "order": 4,
+    "title": "Elige dónde preparar la llegada",
+    "explanationMd": "Autonomía: compara A (etapa 1) y B (etapa 2). La referencia vuelve a la disposición conocida de B: la sensible B3 sigue como voz interior, no desaparece. Decide si colocar V en el compás 3 u otra ubicación compatible antes de I.",
+    "task": "Toca la referencia B de la etapa 2 y elige una ubicación para V; escucha también la sensible B3 interior al resolver a C.",
+    "changeFromPrevious": "Se retira la indicación del compás y se vuelve a la disposición conocida de la etapa 2; B3 permanece como sensible interior. La novedad es decidir dónde ubicar V.",
+    "successCriteria": [
+      "El acorde elegido como V resuelve a I.",
+      "Mantengo tempo y duración de cada acorde."
+    ],
+    "simplifyHint": "Toca solo bajo y tercera del acorde, conservando las mismas duraciones.",
+    "extendHint": "En una repetición posterior, elige una inversión cercana sin cambiar el plan armónico."
+  },
+  {
+    "id": "stage-harmony-002-01",
+    "lessonId": "lesson-harmony-002",
+    "order": 1,
+    "title": "Un acorde por compás",
+    "explanationMd": "A: I, IV, V e I duran cuatro pulsos cada uno. El patrón de ataques es un bloque al inicio de cada compás.",
+    "task": "Toca C–F–G–C con un ataque de ambas manos por compás a 72 BPM.",
+    "changeFromPrevious": "Presentación A: una armonía nueva al inicio de cada compás.",
+    "successCriteria": [
+      "No acelero el pulso.",
+      "Sostengo cada acorde hasta el siguiente cambio."
+    ],
+    "simplifyHint": "Toca solo bajo y tercera del acorde, conservando las mismas duraciones.",
+    "extendHint": "En una repetición posterior, elige una inversión cercana sin cambiar el plan armónico."
+  },
+  {
+    "id": "stage-harmony-002-02",
+    "lessonId": "lesson-harmony-002",
+    "order": 2,
+    "title": "Prolonga la tónica inicial",
+    "explanationMd": "B: compara con A. C ocupa dos compases; F y G, dos pulsos cada uno, preparan la misma llegada C. No hay más ataques de ejecución: solo cambia cuándo cambia la armonía.",
+    "task": "Toca C durante ocho pulsos, F dos, G dos y C cuatro; mantén 72 BPM.",
+    "changeFromPrevious": "La frontera F–G se desplaza de los pulsos 4/8 a 8/10; las duraciones pasan a 8+2+2+4.",
+    "successCriteria": [
+      "Oigo más espacio inicial y dos cambios cercanos antes de I.",
+      "El tempo sigue constante."
+    ],
+    "simplifyHint": "Toca solo bajo y tercera del acorde, conservando las mismas duraciones.",
+    "extendHint": "En una repetición posterior, elige una inversión cercana sin cambiar el plan armónico."
+  },
+  {
+    "id": "stage-harmony-002-03",
+    "lessonId": "lesson-harmony-002",
+    "order": 3,
+    "title": "Deja respirar IV antes de V",
+    "explanationMd": "C: compara con B (etapa 2). La tónica inicial pasa de ocho a seis pulsos; IV gana dos pulsos y V conserva dos antes de I. Sigue habiendo un ataque por cambio a 72 BPM.",
+    "task": "Toca C seis pulsos, F cuatro, G dos y C cuatro; no subdividas ni aceleres los ataques.",
+    "changeFromPrevious": "La duración inicial baja de 8 a 6 y IV sube de 2 a 4; V–I conserva sus duraciones. Cambia solo la distribución armónica.",
+    "successCriteria": [
+      "Oigo IV con más espacio antes de V.",
+      "Los ataques siguen ocurriendo solo en las fronteras."
+    ],
+    "simplifyHint": "Toca solo bajo y tercera del acorde, conservando las mismas duraciones.",
+    "extendHint": "En una repetición posterior, elige una inversión cercana sin cambiar el plan armónico."
+  },
+  {
+    "id": "stage-harmony-002-04",
+    "lessonId": "lesson-harmony-002",
+    "order": 4,
+    "title": "Diseña la distribución del cierre",
+    "explanationMd": "Autonomía: con C–F–G–C y 16 pulsos fijos, elige cuánto reservar para I inicial y para la aproximación IV–V. A/B: compara la distribución regular de etapa 1 con B de etapa 3.",
+    "task": "Propón duraciones positivas que sumen 16; toca un ataque por acorde y conserva 72 BPM.",
+    "changeFromPrevious": "Se retiran las duraciones prescritas; la nueva decisión autónoma es distribuir los cuatro acordes en 16 pulsos, sin cambiar tempo ni patrón.",
+    "successCriteria": [
+      "Las duraciones suman cuatro compases.",
+      "El pulso y el ataque por acorde permanecen estables."
+    ],
+    "simplifyHint": "Toca solo bajo y tercera del acorde, conservando las mismas duraciones.",
+    "extendHint": "En una repetición posterior, elige una inversión cercana sin cambiar el plan armónico."
+  },
+  {
+    "id": "stage-harmony-003-01",
+    "lessonId": "lesson-harmony-003",
+    "order": 1,
+    "title": "De ii a V y a I",
+    "explanationMd": "A: Dm7–G7–C. El shell de Dm7 conserva C, séptima compartida con D7; al comparar A y B solo cambia F natural por F#. Escucha G7 resolver a C.",
+    "task": "Toca C–Dm7–G7–C con acordes de cuatro pulsos; compara el shell A con D7 de B y señala la llegada final.",
+    "changeFromPrevious": "Presentación A: ii–V–I diatónico, sin dominante secundaria.",
+    "successCriteria": [
+      "Oigo G7 resolver a C.",
+      "Mantengo cuatro pulsos por acorde."
+    ],
+    "simplifyHint": "Toca solo bajo y tercera del acorde, conservando las mismas duraciones.",
+    "extendHint": "En una repetición posterior, elige una inversión cercana sin cambiar el plan armónico."
+  },
+  {
+    "id": "stage-harmony-003-02",
+    "lessonId": "lesson-harmony-003",
+    "order": 2,
+    "title": "Inserta V/V antes de V",
+    "explanationMd": "B: reemplaza el shell Dm7 de A por D7. C, séptima de Dm7, se conserva como séptima de D7; solo F natural cambia a F# y resuelve a G.",
+    "task": "Toca D7 con F# y C explícitos y resuélvelos a G7; conserva cuatro pulsos por acorde.",
+    "changeFromPrevious": "En el compás 2, el shell ii7 Dm7 se sustituye por V/V D7; C permanece y solo cambia F natural por F#; el compás 3 recibe la resolución.",
+    "successCriteria": [
+      "La derecha contiene F# en D7.",
+      "Oigo F#→G al llegar a G7."
+    ],
+    "simplifyHint": "Toca solo bajo y tercera del acorde, conservando las mismas duraciones.",
+    "extendHint": "En una repetición posterior, elige una inversión cercana sin cambiar el plan armónico."
+  },
+  {
+    "id": "stage-harmony-003-03",
+    "lessonId": "lesson-harmony-003",
+    "order": 3,
+    "title": "Sigue la resolución de las dos guías",
+    "explanationMd": "Mantén B: F# sube a G y C (séptima de D7) baja a B, tercera de G7; después B de G7 resuelve a C. Escucha ambas resoluciones en los bloques compactos.",
+    "task": "Canta o toca por separado F#–G y C–B; luego ejecuta los cuatro acordes completos.",
+    "changeFromPrevious": "No se añaden acordes: el voicing de D7 explicita tercera F# y séptima C, y el de G7 hace audibles sus notas guía B y F.",
+    "successCriteria": [
+      "F#→G y C→B se oyen en la conexión D7–G7.",
+      "B conduce a C en G7–C."
+    ],
+    "simplifyHint": "Practica F#–G y C–B por separado, o conserva ambas guías de D7 y G7 en shells sin quinta; mantén la séptima de D7 y las mismas duraciones.",
+    "extendHint": "En una repetición posterior, elige una inversión cercana sin cambiar el plan armónico."
+  },
+  {
+    "id": "stage-harmony-003-04",
+    "lessonId": "lesson-harmony-003",
+    "order": 4,
+    "title": "Decide si intensificar la preparación",
+    "explanationMd": "Autonomía: A (etapa 1) usa el shell Dm7 con C compartido; B (etapa 2) conserva C y cambia solo F natural por F# en D7. Esta referencia muestra A.",
+    "task": "Alterna las referencias A (Dm7) y B (D7) de las etapas 1 y 2; escoge una y toca cuatro pulsos por acorde.",
+    "changeFromPrevious": "Se retira la indicación de insertar D7 y vuelve A como ejemplo; la decisión autónoma es conservar ii o usar V/V.",
+    "successCriteria": [
+      "Puedo nombrar y tocar la opción elegida.",
+      "Si uso D7, F# resuelve a G; no suprimo la resolución."
+    ],
+    "simplifyHint": "Toca solo bajo y tercera del acorde, conservando las mismas duraciones.",
+    "extendHint": "En una repetición posterior, elige una inversión cercana sin cambiar el plan armónico."
+  },
+  {
+    "id": "stage-harmony-004-01",
+    "lessonId": "lesson-harmony-004",
+    "order": 1,
+    "title": "La ruta directa C–Am",
+    "explanationMd": "A: C ocupa los dos primeros compases y Am los dos últimos. Escucha el descenso del bajo C–A sin acorde de enlace.",
+    "task": "Toca C durante ocho pulsos y Am durante ocho, con un bloque por acorde.",
+    "changeFromPrevious": "Presentación A: dos funciones y bajo C–A, sin acorde intermedio.",
+    "successCriteria": [
+      "El bajo baja de C a A.",
+      "Am entra en el tercer compás."
+    ],
+    "simplifyHint": "Toca solo C3 en beat 0 y A2 en beat 8; cuenta ocho negras para cada bloque.",
+    "extendHint": "Destaca E4 dentro del bloque de C y C4 dentro de Am; son notas ya presentes, no ataques adicionales ni necesariamente las cimas."
+  },
+  {
+    "id": "stage-harmony-004-02",
+    "lessonId": "lesson-harmony-004",
+    "order": 2,
+    "title": "Inserta V6 entre I y vi",
+    "explanationMd": "B: compara con A. Aparece G/B durante dos pulsos: el bajo dibuja C–B–A y el acorde de paso tiene su propio tiempo antes de Am.",
+    "task": "Toca C seis pulsos, G/B dos y Am ocho; escucha el si del bajo enlazar do con la.",
+    "changeFromPrevious": "Se añade G/B en los pulsos 6–8 y C se acorta para que Am conserve su llegada en el pulso 8.",
+    "successCriteria": [
+      "Oigo C–G/B–Am.",
+      "El bajo C3–B2–A2 desciende por grados conjuntos."
+    ],
+    "simplifyHint": "En G/B conserva B2 en bajo y G3–D4 en derecha durante beats 6–8; llega a Am en beat 8.",
+    "extendHint": "Destaca la línea B3→C4 entre G/B y Am sin añadir notas ni mover sus fronteras."
+  },
+  {
+    "id": "stage-harmony-004-03",
+    "lessonId": "lesson-harmony-004",
+    "order": 3,
+    "title": "Da más tiempo al acorde de paso",
+    "explanationMd": "C: el mismo G/B ocupa cuatro pulsos en vez de dos; C se acorta y Am sigue llegando en el tercer compás. Compara con B (etapa 2) y oye el bajo C–B–A sin cambiar su dirección.",
+    "task": "Toca C cuatro pulsos, G/B cuatro y Am ocho, conservando un ataque por acorde.",
+    "changeFromPrevious": "Solo crece la duración de G/B de dos a cuatro pulsos; C cede esos dos pulsos y Am mantiene ocho.",
+    "successCriteria": [
+      "G/B tiene tiempo armónico propio de cuatro pulsos.",
+      "Am sigue entrando en beat 8 y el bajo hace C–B–A."
+    ],
+    "simplifyHint": "En G/B conserva B2 y dos notas de derecha durante sus cuatro pulsos; Am entra en beat 8.",
+    "extendHint": "Prueba B3→C4 entre G/B y Am sin alterar los cuatro pulsos del enlace."
+  },
+  {
+    "id": "stage-harmony-004-04",
+    "lessonId": "lesson-harmony-004",
+    "order": 4,
+    "title": "Elige la duración del enlace",
+    "explanationMd": "Autonomía: compara A (etapa 1) con B (etapa 2). La referencia recupera el enlace breve G/B de dos pulsos; decide cuánto espacio darle sin perder C–B–A ni desplazar la llegada de Am.",
+    "task": "Toca la referencia y luego elige una duración de G/B entre uno y cuatro pulsos; completa 16 pulsos y deja Am en beat 8.",
+    "changeFromPrevious": "Vuelve a la disposición temporal conocida de B; se retira la duración prescrita para que decidas el espacio del enlace.",
+    "successCriteria": [
+      "G/B tiene duración propia y positiva.",
+      "El bajo desciende C–B–A y Am comienza en beat 8."
+    ],
+    "simplifyHint": "Cuenta C6–G/B2–Am8 y toca solo los bajos C3–B2–A2.",
+    "extendHint": "Elige G/B entre uno y cuatro pulsos y ajusta C para que Am siga entrando en beat 8."
+  },
+  {
+    "id": "stage-harmony-005-01",
+    "lessonId": "lesson-harmony-005",
+    "order": 1,
+    "title": "A: V–I con mi arriba",
+    "explanationMd": "A: después de G7, C llega con mi4 (E4) como nota superior. Esta es la referencia de cierre tonal para comparar con vi.",
+    "task": "Toca C–G7–C–C; conserva E4 en la voz superior de los dos últimos bloques.",
+    "changeFromPrevious": "Presentación A: G7 resuelve a I y E4 pertenece al acorde de llegada.",
+    "successCriteria": [
+      "La voz superior llega a E4.",
+      "G7 resuelve a C en beat 8."
+    ],
+    "simplifyHint": "En G7 toca bajo G2 y las guías B3/F4; en la llegada conserva E4 arriba del acorde C.",
+    "extendHint": "Escucha B3→C4 y F4→E4 al resolver G7–C; no cambies E4 como nota superior."
+  },
+  {
+    "id": "stage-harmony-005-02",
+    "lessonId": "lesson-harmony-005",
+    "order": 2,
+    "title": "B: cambia I por vi",
+    "explanationMd": "B: conserva C, G7 y E4 en la llegada, pero Am ocupa el lugar de C. Compara con A: la nota mi es común a ambos destinos; Am deja el cierre abierto.",
+    "task": "Alterna A (etapa 1) y B; en beat 8 mantén E4 y escucha el cambio de C a Am.",
+    "changeFromPrevious": "Solo cambia el acorde de llegada en beat 8 y su repetición: I pasa a vi; G7, compás, tempo y E4 superior se conservan.",
+    "successCriteria": [
+      "E4 suena en la llegada de C y de Am.",
+      "Distingo el reposo de I del cierre evitado en vi."
+    ],
+    "simplifyHint": "En G7 conserva B3/F4; al entrar Am toca A2 y deja E4 como nota superior.",
+    "extendHint": "Compara C y Am en la llegada de beat 8; E4 no se mueve."
+  },
+  {
+    "id": "stage-harmony-005-03",
+    "lessonId": "lesson-harmony-005",
+    "order": 3,
+    "title": "Deja el bajo en do al llegar a vi",
+    "explanationMd": "Se conserva la llegada B y E4 arriba. Am/C pone do en el bajo: sigue siendo vi, pero comparte bajo con la tónica C; escucha el bajo común mientras E4 permanece.",
+    "task": "Toca G7–Am/C en la llegada, manteniendo E4 arriba; compara el bajo C con la llegada C de A.",
+    "changeFromPrevious": "Solo cambia la inversión del acorde vi: el bajo pasa de A2 a C3; E4 y las funciones permanecen.",
+    "successCriteria": [
+      "El símbolo Am/C y el bajo C identifican la inversión de vi.",
+      "E4 permanece como nota superior de la llegada."
+    ],
+    "simplifyHint": "En Am/C toca bajo C3 y derecha A3–C4–E4, integrando E4 como voz superior del acorde.",
+    "extendHint": "Alterna C [G3,C4,E4] y Am/C [A3,C4,E4], sosteniendo E4 arriba en ambas llegadas."
+  },
+  {
+    "id": "stage-harmony-005-04",
+    "lessonId": "lesson-harmony-005",
+    "order": 4,
+    "title": "Escoge el tipo de reposo",
+    "explanationMd": "Autonomía: compara A (etapa 1) y B (etapa 2). La referencia vuelve a Am en posición fundamental y conserva E4 arriba; decide si la frase pide reposo en I o cierre evitado en vi.",
+    "task": "Toca la referencia B y luego elige C o Am para ambos compases finales, manteniendo E4 como nota superior.",
+    "changeFromPrevious": "Se retira la decisión prescrita: vuelve la referencia B en posición fundamental y eliges entre las llegadas ya comparadas, sin cambiar la nota E.",
+    "successCriteria": [
+      "E4 se conserva con cualquiera de los dos acordes.",
+      "Puedo explicar por qué I cierra más que vi."
+    ],
+    "simplifyHint": "Toca la referencia G7–Am y conserva E4 arriba en beats 8 y 12.",
+    "extendHint": "Elige I o vi para los dos últimos compases y deja E4 fijo; compara cuánto reposa cada cierre."
+  },
+  {
+    "id": "stage-harmony-006-01",
+    "lessonId": "lesson-harmony-006",
+    "order": 1,
+    "title": "A: dominante menor sin sensible",
+    "explanationMd": "A: Em7 conserva sol natural antes de Am; no contiene la sensible G# de la menor armónica. Escucha el enlace menos dirigido y el reposo final.",
+    "task": "Toca Bm7b5–Em7–Am–Am con cuatro pulsos por acorde.",
+    "changeFromPrevious": "Presentación A: v7 menor, sin G# ascendente hacia A.",
+    "successCriteria": [
+      "En Em7 suena G natural.",
+      "Am llega en beat 8 y su tercera menor C está presente."
+    ],
+    "simplifyHint": "En iiø toca B2 con D4/F4 para reconocer la tercera y quinta disminuida; en Em7 conserva E2 con G3/D4.",
+    "extendHint": "Destaca A4, séptima de Bm7b5, y D4, séptima de Em7: ambas ya están en sus bloques. Conserva los cuatro pulsos por acorde."
+  },
+  {
+    "id": "stage-harmony-006-02",
+    "lessonId": "lesson-harmony-006",
+    "order": 2,
+    "title": "B: eleva la sensible en V7",
+    "explanationMd": "B: cambia Em7 por E7; solo G natural pasa a G#. La tercera de E7 resuelve por semitono a A3 en Am, mientras la séptima D de E7 baja a C.",
+    "task": "Compara A y B; toca G#3 en E7 y escucha su resolución a A3 al entrar Am.",
+    "changeFromPrevious": "En beat 4, v7 Em7 se vuelve V7 E7; G# es explícito y resuelve a A en beat 8. El resto de acordes y duraciones permanece.",
+    "successCriteria": [
+      "E7 contiene G# y D.",
+      "G#3→A3 y D4→C4 se oyen al llegar a Am."
+    ],
+    "simplifyHint": "En E7 conserva bajo E2 y las guías G#3/D4; al llegar a Am toca bajo A2 y derecha A3/C4, manteniendo G#3→A3 y D4→C4.",
+    "extendHint": "Toca G#3→A3 y D4→C4 ligadas entre beats 4 y 8."
+  },
+  {
+    "id": "stage-harmony-006-03",
+    "lessonId": "lesson-harmony-006",
+    "order": 3,
+    "title": "Pon la sensible arriba",
+    "explanationMd": "Se conserva B. Cambia solo el registro de las guías de llegada: G#4 resuelve a A4 y D4 baja a C4; escucha la tercera menor C de la tónica.",
+    "task": "Toca las dos líneas G#4–A4 y D4–C4 por separado; luego reúne el bloque sin cambiar su duración.",
+    "changeFromPrevious": "Mismo plan iiø7–V7–i y mismas duraciones; la realización de E7 y Am mueve G#–A a la voz superior y mantiene audibles D–C.",
+    "successCriteria": [
+      "G#4→A4 resuelve por semitono.",
+      "Am contiene C, su tercera menor."
+    ],
+    "simplifyHint": "Practica G#4→A4 y D4→C4 por separado; después tócalas juntas con el bajo.",
+    "extendHint": "Destaca G#4→A4 y D4→C4 sin omitir B3 de E7 ni E4 de Am; ambas notas ya forman parte de la referencia."
+  },
+  {
+    "id": "stage-harmony-006-04",
+    "lessonId": "lesson-harmony-006",
+    "order": 4,
+    "title": "Decide cuánto reposo dejar en i",
+    "explanationMd": "Autonomía: compara A (etapa 1) con B (etapa 3). Se mantiene la disposición superior de B; la referencia sostiene Am ocho pulsos tras G#→A. Decide cuánto reposo reservar a la tónica menor.",
+    "task": "Elige Am entre cuatro y ocho pulsos; reparte los pulsos restantes entre iiø7 y V7, deja V7 inmediatamente antes de Am y conserva G#→A.",
+    "changeFromPrevious": "Se mantienen el registro y las guías de B; la novedad es prolongar i como un solo acorde de ocho pulsos en vez de dos bloques de cuatro.",
+    "successCriteria": [
+      "La sensible G# resuelve a A antes de sostener la tónica.",
+      "Las duraciones suman 16 pulsos a tempo constante."
+    ],
+    "simplifyHint": "Cuenta iiø7 cuatro pulsos, V7 cuatro y Am ocho; conserva G#→A y C en la llegada.",
+    "extendHint": "Elige Am entre cuatro y ocho pulsos y reparte los pulsos restantes entre iiø7 y V7, dejando V7 inmediatamente antes de i."
+  },
+  {
+    "id": "stage-harmony-007-01",
+    "lessonId": "lesson-harmony-007",
+    "order": 1,
+    "title": "A: cambios regulares",
+    "explanationMd": "A mantiene C–F–G–C durante8negras cada uno; ocho compases a72BPM.",
+    "task": "Toca cuatro bloques de8negras, cambiando ambas manos solo en la frontera armónica.",
+    "changeFromPrevious": "Base:8+8+8+8, sin alterar el tempo.",
+    "successCriteria": [
+      "Cada acorde dura8 y el ciclo suma32.",
+      "Puedo repetir el ciclo al tempo indicado sin cambiar notas ajenas a esta transformación."
+    ]
+  },
+  {
+    "id": "stage-harmony-007-02",
+    "lessonId": "lesson-harmony-007",
+    "order": 2,
+    "title": "B: cuatro compases de prolongación",
+    "explanationMd": "B prolonga C16negras y responde F4–G4–C8: cuatro compases de prolongación y cuatro de respuesta.",
+    "task": "Compara01/02 con los mismos voicings y72BPM; cambia solo cuando cambia el acorde.",
+    "changeFromPrevious": "Solo se redistribuye el tiempo armónico:16+4+4+8.",
+    "successCriteria": [
+      "C dura16 y la respuesta4+4+8, sin reataques decorativos.",
+      "Puedo repetir el ciclo al tempo indicado sin cambiar notas ajenas a esta transformación."
+    ]
+  },
+  {
+    "id": "stage-harmony-007-03",
+    "lessonId": "lesson-harmony-007",
+    "order": 3,
+    "title": "Reservar más tiempo a V",
+    "explanationMd": "Frente a02, F se acorta de4 a2 y G crece de4 a6; I inicial16 e I final8 permanecen. Bajo y voicings idénticos.",
+    "task": "Toca C16–F2–G6–C8 y compara la llegada V–I en24 sin cambiar la articulación.",
+    "changeFromPrevious": "Solo cambian las duraciones de IV/V; no aparece inversión ni síncopa instrumental nueva.",
+    "successCriteria": [
+      "G entra en18 y dura6; C sigue entrando en24.",
+      "Puedo repetir el ciclo al tempo indicado sin cambiar notas ajenas a esta transformación."
+    ]
+  },
+  {
+    "id": "stage-harmony-007-04",
+    "lessonId": "lesson-harmony-007",
+    "order": 4,
+    "title": "Elige el reparto de la respuesta",
+    "explanationMd": "La referencia usa C16–F6–G2–C8; respecto a03 solo redistribuye las8negras de F/G. Elige otro reparto positivo de esas8negras.",
+    "task": "Conserva C16 y C final8; reparte8negras entre F y G, siempre V inmediatamente antes de I.",
+    "changeFromPrevious": "Elección autónoma de duración en respuesta; primeros cuatro compases prolongan C.",
+    "successCriteria": [
+      "Las duraciones suman32 y F/G suman8; tempo72 constante.",
+      "Puedo repetir el ciclo al tempo indicado sin cambiar notas ajenas a esta transformación."
+    ]
+  },
+  {
+    "id": "stage-harmony-008-01",
+    "lessonId": "lesson-harmony-008",
+    "order": 1,
+    "title": "A: Em diatónico hacia Am",
+    "explanationMd": "C–Em–Am–G conserva G3 natural en Em. Am está realmente realizado con bajo A2 y derecha A3/C4/E4.",
+    "task": "Toca4negras por acorde; reconoce G3 en Em y la llegada A3 en Am.",
+    "changeFromPrevious": "Base de Em triada, no Em7 ni dominante con sensible.",
+    "successCriteria": [
+      "Em contiene G natural y Am contiene A/C/E.",
+      "Puedo repetir el ciclo al tempo indicado sin cambiar notas ajenas a esta transformación."
+    ]
+  },
+  {
+    "id": "stage-harmony-008-02",
+    "lessonId": "lesson-harmony-008",
+    "order": 2,
+    "title": "B: E7 conduce a vi",
+    "explanationMd": "Solo el segundo acorde cambia: G3 pasa a G#3 y se añade D4, conservando E4 y B3. E7 resuelve a Am con G#3→A3 y D4→C4.",
+    "task": "Compara01/02, cuatro negras por acorde; no confundas la tonicización breve de vi con modulación.",
+    "changeFromPrevious": "Em se vuelve E7; demás acordes, voicings y tiempos permanecen iguales.",
+    "successCriteria": [
+      "E7 tiene G# y D; Am mantiene A/C/E y bajo A2.",
+      "Puedo repetir el ciclo al tempo indicado sin cambiar notas ajenas a esta transformación."
+    ]
+  },
+  {
+    "id": "stage-harmony-008-03",
+    "lessonId": "lesson-harmony-008",
+    "order": 3,
+    "title": "Sensible superior, mismo destino",
+    "explanationMd": "Conserva E7–Am pero mueve G#3 a G#4 y A3 a A4. Bajo E2/A2 y otras notas de los bloques siguen sin cambios; la sensible alta resuelve por semitono.",
+    "task": "Toca G#4→A4 al llegar a Am; termina en G y escucha C al reiniciar.",
+    "changeFromPrevious": "Solo cambia el registro de la pareja G#–A; ningún bajo cambia de inversión.",
+    "successCriteria": [
+      "G#4 y A4 son cimas; E7 y Am siguen siendo V7/vi y vi.",
+      "Puedo repetir el ciclo al tempo indicado sin cambiar notas ajenas a esta transformación."
+    ]
+  },
+  {
+    "id": "stage-harmony-008-04",
+    "lessonId": "lesson-harmony-008",
+    "order": 4,
+    "title": "Elige tonicizar o no",
+    "explanationMd": "Reinicia A=01: la referencia usa Em y G natural. Decide entre Em y E7 conocidos; si eliges E7 conserva G#/D y su destino Am.",
+    "task": "Compara A01/B02 y elige un segundo acorde, sin cambiar los cuatro límites ni C como centro.",
+    "changeFromPrevious": "Retorno explícito a01 para elegir la calidad del segundo acorde, no un nuevo centro.",
+    "successCriteria": [
+      "Puedo contrastar G natural y G#; la llegada siempre es Am real.",
+      "Puedo repetir el ciclo al tempo indicado sin cambiar notas ajenas a esta transformación."
+    ]
+  },
+  {
+    "id": "stage-harmony-009-01",
+    "lessonId": "lesson-harmony-009",
+    "order": 1,
+    "title": "A: ruta directa a ii",
+    "explanationMd": "C–Dm–G7–C dura4negras cada uno. Bajo C3–D3–G2–C3 y triadas/guías completas.",
+    "task": "Toca sin acorde de paso, un bloque por frontera a72BPM.",
+    "changeFromPrevious": "Base: C llega directamente a Dm en4.",
+    "successCriteria": [
+      "C y Dm tienen bajos C3/D3; no hay cromatismo de paso.",
+      "Puedo repetir el ciclo al tempo indicado sin cambiar notas ajenas a esta transformación."
+    ]
+  },
+  {
+    "id": "stage-harmony-009-02",
+    "lessonId": "lesson-harmony-009",
+    "order": 2,
+    "title": "B: C#dim7 con destino propio",
+    "explanationMd": "C4–C#dim7(2)–Dm(2)–G7(4)–C(4): C#dim7 realiza C#4/E4/G4/Bb4, sobre C#3. Dm entra en6 y el bajo hace C3–C#3–D3.",
+    "task": "Oye C#4→D4, E4→F4 y Bb4→A4; G4 no se duplica en el bloque reducido de Dm.",
+    "changeFromPrevious": "Se inserta el paso de2negras y Dm cede2; resto del ciclo conserva sus fronteras.",
+    "successCriteria": [
+      "El disminuido tiene C#/E/G/Bb y el bajo asciende cromático sin salto de octava.",
+      "Puedo repetir el ciclo al tempo indicado sin cambiar notas ajenas a esta transformación."
+    ]
+  },
+  {
+    "id": "stage-harmony-009-03",
+    "lessonId": "lesson-harmony-009",
+    "order": 3,
+    "title": "Otra conducción cercana",
+    "explanationMd": "El paso usa E4/G4/Bb4/C#5 y Dm usa F4/A4/D5. E4→F4, Bb4→A4 y C#5→D5 son semitonos; G4 se omite al reducir a la triada de destino.",
+    "task": "Toca las tres resoluciones nombradas sin inventar F5/A5; añade el bajo C3–C#3–D3.",
+    "changeFromPrevious": "Solo cambia la disposición de los dos bloques del enlace; tiempos y funciones iguales a02.",
+    "successCriteria": [
+      "Las tres resoluciones están en el registro real y cada mano abarca menos de octava.",
+      "Puedo repetir el ciclo al tempo indicado sin cambiar notas ajenas a esta transformación."
+    ]
+  },
+  {
+    "id": "stage-harmony-009-04",
+    "lessonId": "lesson-harmony-009",
+    "order": 4,
+    "title": "Elige una duración breve",
+    "explanationMd": "Vuelve al voicing de02. La referencia acorta C#dim7 a1negra y alarga Dm a3: C4–paso1–Dm3–G7(4)–C(4). Elige1o2negras de paso conservando ii como destino.",
+    "task": "Compara duraciones de1/2 para el disminuido y ajusta Dm para llegar a G7 en8; no añadas una cadena.",
+    "changeFromPrevious": "Reinicio explícito del voicing02; la única decisión nueva es duración del paso.",
+    "successCriteria": [
+      "Paso positivo y breve, C#–D real, G7 entra8 y el ciclo termina16.",
+      "Puedo repetir el ciclo al tempo indicado sin cambiar notas ajenas a esta transformación."
+    ]
+  },
+  {
+    "id": "stage-harmony-012-01",
+    "lessonId": "lesson-harmony-012",
+    "order": 1,
+    "title": "Un cambio por compás",
+    "explanationMd": "Referencia uniforme: Cmaj7–Am7–Dm7–G7–Cmaj7–Am7–G7–C, cuatro pulsos por acorde; un bloque simultáneo al inicio de cada acorde.",
+    "task": "Toca los ocho acordes a 72 BPM, atacando ambas manos una sola vez en cada frontera y sosteniendo cada bloque hasta el siguiente.",
+    "changeFromPrevious": "Presentación: ocho acordes duran cuatro negras cada uno.",
+    "successCriteria": [
+      "Las duraciones suman 32 negras y cubren exactamente ocho compases de 4/4.",
+      "Cada acorde y bloque LH/RH ataca una sola vez en su frontera; no hay síncopas ni reataques.",
+      "El tempo es 72 BPM y las notas y velocidades son idénticas en las cuatro etapas.",
+      "La etapa termina en C con reposo armónico."
+    ],
+    "simplifyHint": "Cuenta las fronteras en voz alta; toca solo las raíces LH en esas mismas entradas, sosteniendo cada nota hasta la siguiente.",
+    "extendHint": "Sin cambiar la secuencia ni las notas, propone otra curva que sume 32 y compara dónde se concentra la actividad frente a la referencia."
+  },
+  {
+    "id": "stage-harmony-012-02",
+    "lessonId": "lesson-harmony-012",
+    "order": 2,
+    "title": "Reposo, aceleración y tónica final",
+    "explanationMd": "Cmaj7 inicial ocupa ocho pulsos; los cambios se acercan en Dm7–G7 y Am7–G7, y la tónica final C ocupa ocho pulsos de reposo.",
+    "task": "Sostén Cmaj7 ocho negras al inicio y ocho negras de C al final; ejecuta los cambios interiores únicamente en sus fronteras indicadas.",
+    "changeFromPrevious": "Solo cambian duraciones/fronteras: 8+4+4+2+2+2+2+8; notas, tempo, volumen y ataque permanecen.",
+    "successCriteria": [
+      "Las duraciones suman 32 negras y cubren exactamente ocho compases de 4/4.",
+      "Cada acorde y bloque LH/RH ataca una sola vez en su frontera; no hay síncopas ni reataques.",
+      "El tempo es 72 BPM y las notas y velocidades son idénticas en las cuatro etapas.",
+      "La etapa termina en C con reposo armónico."
+    ],
+    "simplifyHint": "Cuenta las fronteras en voz alta; toca solo las raíces LH en esas mismas entradas, sosteniendo cada nota hasta la siguiente.",
+    "extendHint": "Sin cambiar la secuencia ni las notas, propone otra curva que sume 32 y compara dónde se concentra la actividad frente a la referencia."
+  },
+  {
+    "id": "stage-harmony-012-03",
+    "lessonId": "lesson-harmony-012",
+    "order": 3,
+    "title": "Concentra dos cambios en el compás seis",
+    "explanationMd": "La curva concentra los dos cambios de acorde dentro del compás 6: Cmaj7→Am7 en beat 20 y Am7→G7 en beat 22. Fuera de ese compás no hay dos cambios en un mismo compás.",
+    "task": "Cuenta 4/4 a 72 BPM y coloca los dos cambios del compás 6 en beats 20 y 22; no añadas ataques entre fronteras.",
+    "changeFromPrevious": "Solo cambia la curva a 8+4+4+4+2+2+4+4; los dos cambios del compás 6 quedan concentrados ahí.",
+    "successCriteria": [
+      "Las duraciones suman 32 negras y cubren exactamente ocho compases de 4/4.",
+      "Cada acorde y bloque LH/RH ataca una sola vez en su frontera; no hay síncopas ni reataques.",
+      "El tempo es 72 BPM y las notas y velocidades son idénticas en las cuatro etapas.",
+      "La etapa termina en C con reposo armónico."
+    ],
+    "simplifyHint": "Cuenta las fronteras en voz alta; toca solo las raíces LH en esas mismas entradas, sosteniendo cada nota hasta la siguiente.",
+    "extendHint": "Sin cambiar la secuencia ni las notas, propone otra curva que sume 32 y compara dónde se concentra la actividad frente a la referencia."
+  },
+  {
+    "id": "stage-harmony-012-04",
+    "lessonId": "lesson-harmony-012",
+    "order": 4,
+    "title": "Autonomía: mueve la actividad a G–C",
+    "explanationMd": "Curva autónoma de referencia: prolonga el inicio, concentra actividad en G7→Cmaj7 del compás 5 y reserva el cierre en C. Elige duraciones con la misma secuencia y suma 32.",
+    "task": "Toca la referencia y diseña otra curva de duraciones positivas que sume 32, manteniendo el máximo de actividad en el compás 5 y C final estable.",
+    "changeFromPrevious": "Autonomía: conserva notas, secuencia, dinámica, BPM y ataque; decide otra curva de 32 negras con máxima actividad en el compás 5 y reposo final.",
+    "successCriteria": [
+      "Las duraciones suman 32 negras y cubren exactamente ocho compases de 4/4.",
+      "Cada acorde y bloque LH/RH ataca una sola vez en su frontera; no hay síncopas ni reataques.",
+      "El tempo es 72 BPM y las notas y velocidades son idénticas en las cuatro etapas.",
+      "La etapa termina en C con reposo armónico."
+    ],
+    "simplifyHint": "Cuenta las fronteras en voz alta; toca solo las raíces LH en esas mismas entradas, sosteniendo cada nota hasta la siguiente.",
+    "extendHint": "Sin cambiar la secuencia ni las notas, propone otra curva que sume 32 y compara dónde se concentra la actividad frente a la referencia."
+  }
+]

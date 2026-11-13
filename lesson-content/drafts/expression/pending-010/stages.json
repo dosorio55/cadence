@@ -1,0 +1,77 @@
+[
+  {
+    "id": "stage-expression-010-01",
+    "lessonId": "lesson-expression-010",
+    "order": 1,
+    "title": "Retorno A: la dominante invita otra vuelta",
+    "explanationMd": "La forma A mantiene ocho compases I–vi–ii–V dos veces. El G7 final queda articulado durante cuatro beats; su función V7 invita a volver a C al reiniciar el loop.",
+    "task": "Toca las ocho raíces y shells en bloques de cuatro beats. Al final deja que G7 impulse mentalmente el regreso a C, sin fingir que el MIDI contiene una repetición adicional.",
+    "changeFromPrevious": "Referencia A: Cmaj7–Am7–Dm7–G7, repetido dos veces. Cada bajo y shell ataca al inicio de su compás y dura 4 beats; LH velocity 60, RH 68.",
+    "successCriteria": [
+      "Identifico el G7 final como V7 que invita al C inicial.",
+      "Reconozco el silencio y el límite de la referencia sin atribuir audio que el MIDI no contiene."
+    ],
+    "simplifyHint": "Si ayuda, cuenta 1–2–3–4 en cada bloque y reinicia en C después del G7.",
+    "extendHint": "Describe cómo cambia el sentido si el último G7 vuelve al C inicial."
+  },
+  {
+    "id": "stage-expression-010-02",
+    "lessonId": "lesson-expression-010",
+    "order": 2,
+    "title": "Cierre B: dominante y tónica final",
+    "explanationMd": "Los primeros seis compases son idénticos a A. El compás 7 conserva Dm7 y el 8 hace G7–Cmaj7: V7–I da cierre, no una instrucción de loop.",
+    "task": "Toca la forma B y articula el G7 del compás 7 seguido por Cmaj7 en el 8; termina en la tónica sin reiniciar.",
+    "changeFromPrevious": "Solo cambia la forma de los dos últimos compases respecto a A: Dm7 en 7 y G7 en 8 pasan a G7 en 7 y Cmaj7 en 8. Los primeros seis compases, ataques, duraciones y velocities permanecen iguales.",
+    "successCriteria": [
+      "Los primeros seis compases coinciden con A y G7–Cmaj7 suena V7–I.",
+      "Reconozco el silencio y el límite de la referencia sin atribuir audio que el MIDI no contiene."
+    ],
+    "simplifyHint": "Aísla los compases 7–8, cuenta cuatro beats por acorde y luego reintegra los seis primeros.",
+    "extendHint": "Compara el final Cmaj7 con el G7 de A: nombra cuál invita a continuar y cuál cierra."
+  },
+  {
+    "id": "stage-expression-010-03",
+    "lessonId": "lesson-expression-010",
+    "order": 3,
+    "title": "Cierre B reducido: acorde y silencio",
+    "explanationMd": "Conserva la cadencia B y el inicio idéntico; en el último compás, ambas manos atacan Cmaj7 en beat 28 y lo sostienen 2 beats. Los beats 30–32 son silencio real, sin notas nuevas.",
+    "task": "Toca la cadencia y libera ambas manos al llegar a beat 30; cuenta en silencio beats 31 y 32 hasta el final del compás.",
+    "changeFromPrevious": "Solo cambia la articulación del último Cmaj7 de B: LH y RH duran 2 beats desde 28 hasta 30; no se añaden notas y quedan dos beats de silencio.",
+    "successCriteria": [
+      "El último Cmaj7 ocupa [28,30) y ninguna nota suena en [30,32).",
+      "Reconozco el silencio y el límite de la referencia sin atribuir audio que el MIDI no contiene."
+    ],
+    "simplifyHint": "Practica solo la salida: ataca en 28, suelta en 30 y cuenta dos beats sin tocar.",
+    "extendHint": "Verifica que el silencio no acorte los ocho compases ni agregue un acorde."
+  },
+  {
+    "id": "stage-expression-010-04",
+    "lessonId": "lesson-expression-010",
+    "order": 4,
+    "title": "Retorno articulado: bass invita, shell se retira",
+    "explanationMd": "La armonía vuelve a A. En el último G7, la izquierda sostiene la raíz durante cuatro beats y la derecha toca el shell solo medio beat. El bajo conserva la invitación a C aunque el shell se retire pronto.",
+    "task": "Reinicia en A; en el G7 final toca RH [59,65] por 0.5 beat y sostén LH 43 hasta el reinicio esperado en C. No confundas la articulación derecha breve con un final.",
+    "changeFromPrevious": "Solo cambia la articulación RH del último G7 respecto a A01: [59,65] dura 0.5 beat; LH 43 permanece cuatro beats. El mapa A y la invitación V7→I se conservan.",
+    "successCriteria": [
+      "En beat 28 RH ataca el shell G7 y lo suelta en 28.5; LH 43 continúa hasta beat 32.",
+      "Reconozco el silencio y el límite de la referencia sin atribuir audio que el MIDI no contiene."
+    ],
+    "simplifyHint": "Cuenta el último compás mientras levantas RH después de medio beat y mantienes la raíz LH.",
+    "extendHint": "Compara cuánto sostiene el bajo y cuánto el shell; decide si el retorno aún se percibe."
+  },
+  {
+    "id": "stage-expression-010-05",
+    "lessonId": "lesson-expression-010",
+    "order": 5,
+    "title": "Elige: volver a A o cerrar en B",
+    "explanationMd": "La referencia reproduce B02 pero acorta el Cmaj7 final a un beat: LH raíz 48 y RH [60,64,67] atacan en 28; beats 29–32 quedan en silencio. Es un ejemplo de cierre conocido, no una única respuesta. Decide entre volver a A04 (G7 invita C) o terminar como B03; conserva literalmente los primeros seis compases.",
+    "task": "Elige y explica: reinicia la forma A04 después del G7, o recorre la cadencia B y termina. Para el cierre de referencia, suelta ambas manos tras un beat y cuenta los tres beats de silencio restantes.",
+    "changeFromPrevious": "Se retira la obligación de una sola secuencia: referencia B02 con Cmaj7 de un beat y silencio de tres; autonomía permite A04 loopable o cierre B03. Los primeros seis compases nunca cambian.",
+    "successCriteria": [
+      "Puedo elegir entre el G7 que vuelve a C en A04 y el Cmaj7 final de B; el silencio ocupa [29,32) en la referencia.",
+      "Reconozco el silencio y el límite de la referencia sin atribuir audio que el MIDI no contiene."
+    ],
+    "simplifyHint": "Usa primero B02 como referencia y luego prueba A04; mantén ocho compases completos en ambos casos.",
+    "extendHint": "Crea otra decisión de retorno/cierre solo con estas armonías conocidas; no añadas acordes ni cambies los seis primeros compases."
+  }
+]

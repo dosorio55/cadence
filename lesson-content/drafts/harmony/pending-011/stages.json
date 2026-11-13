@@ -1,0 +1,54 @@
+[
+  {
+    "id": "stage-harmony-011-01",
+    "lessonId": "lesson-harmony-011",
+    "order": 1,
+    "title": "01 cierre A",
+    "explanationMd": "Referencia de cierre, cuatro compases: Cmaj7–Am7–Dm7–G7, cuatro negras cada uno. Bajo C3/A2/D3/G2 (MIDI 48/45/50/43); shells derechos [E4,B4], [C4,G4], [F4,C5], [B3,F4]. LH velocity 60 y RH 64.",
+    "task": "Toca A: Cmaj7–Am7–Dm7–G7; una entrada por acorde, cuatro negras cada uno y pulso fijo.",
+    "changeFromPrevious": "Base A: turnaround I–vi–ii–V; sin cambio de registro ni articulación.",
+    "successCriteria": [
+      "Mantengo el pulso y la suma de 32 negras.",
+      "Identifico cierre o retorno por su secuencia y destino armónico."
+    ]
+  },
+  {
+    "id": "stage-harmony-011-02",
+    "lessonId": "lesson-harmony-011",
+    "order": 2,
+    "title": "02 retorno B",
+    "explanationMd": "B conserva exactamente los cuatro primeros acordes, bajos y shells de A. Los cuatro últimos son Cmaj7–Am7–Dm7–G7, cuatro negras cada uno: I–vi–ii–V relanza el ciclo.",
+    "task": "Alterna cierre 01 y retorno 02; comprueba que sus primeros cuatro acordes y voicings coinciden.",
+    "changeFromPrevious": "Se repite I–vi–ii–V al final en vez de cerrar; solo cambia la forma armónica y loopable.",
+    "successCriteria": [
+      "Mantengo el pulso y la suma de 32 negras.",
+      "Identifico cierre o retorno por su secuencia y destino armónico."
+    ]
+  },
+  {
+    "id": "stage-harmony-011-03",
+    "lessonId": "lesson-harmony-011",
+    "order": 3,
+    "title": "03 retorno con aceleración armónica",
+    "explanationMd": "Conserva el retorno de 02: primeros cuatro acordes idénticos a 01; últimos Cmaj7(4), Am7(4), Dm7(6), G7(2). El ii dura seis negras y V dos; suma 32. Mismos bajos raíz y shells guía.",
+    "task": "Toca ocho compases: Cmaj7–Am7–Dm7–G7–Cmaj7–Am7–Dm7(6)–G7(2), sin cambiar el pulso.",
+    "changeFromPrevious": "Respecto a 02 solo las duraciones finales pasan a 4+4+6+2; el turnaround se comprime hacia V.",
+    "successCriteria": [
+      "Mantengo el pulso y la suma de 32 negras.",
+      "Identifico cierre o retorno por su secuencia y destino armónico."
+    ]
+  },
+  {
+    "id": "stage-harmony-011-04",
+    "lessonId": "lesson-harmony-011",
+    "order": 4,
+    "title": "04 autonomía",
+    "explanationMd": "Referencia reiniciada exactamente a 01: cierre Cmaj7–Am7–Dm7–G7, cuatro negras cada uno, seguido por Cmaj7–Dm7–G7–C, cuatro negras cada uno. En el último C: bajo C3 (48), derecha C4–E4–G4 (60,64,67); los demás conservan raíz y shell conocidos. Elige únicamente cierre 01 o retorno 02; inicio común intacto.",
+    "task": "Toca esta referencia de cierre y luego elige cierre 01 o retorno 02 con el mismo inicio; no añadas sustituciones ni cambies toque.",
+    "changeFromPrevious": "Autonomía formal: se presentan ambos finales conocidos y se decide detener o relanzar; sin armonía nueva.",
+    "successCriteria": [
+      "Mantengo el pulso y la suma de 32 negras.",
+      "Identifico cierre o retorno por su secuencia y destino armónico."
+    ]
+  }
+]

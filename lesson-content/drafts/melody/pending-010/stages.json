@@ -1,0 +1,66 @@
+[
+  {
+    "id": "stage-melody-010-01",
+    "lessonId": "lesson-melody-010",
+    "order": 1,
+    "title": "Repetir la pregunta",
+    "explanationMd": "La pregunta ocupa cuatro compases: una nota en los beats 1 y 2 de cada compás y silencio en [2,4). La respuesta repite literalmente las ocho alturas, los ataques y las duraciones; compara identidad exacta con un cierre nuevo.",
+    "task": "Toca la pregunta en los primeros cuatro compases y respeta su silencio [2,4) en cada compás. En los cuatro siguientes, reproduce literalmente sus ocho alturas en los mismos beats; escucha qué produce repetirla sin cambios.",
+    "changeFromPrevious": "Presentación: pregunta y respuesta literal.",
+    "successCriteria": [
+      "La pregunta tiene ocho notas en los beats 0, 1, 4, 5, 8, 9, 12 y 13.",
+      "La respuesta repite esas ocho alturas en 16, 17, 20, 21, 24, 25, 28 y 29.",
+      "Cada nota dura 1 beat y cada compás deja [2,4) en silencio."
+    ],
+    "simplifyHint": "Practica primero una mano/frase por separado; cuenta en voz alta los beats de entrada y di “silencio” durante [2,4).",
+    "extendHint": "Crea una respuesta propia cambiando un solo rasgo de alturas; conserva todos los ataques, duraciones y silencios, y explica por qué ese rasgo suena relacionado."
+  },
+  {
+    "id": "stage-melody-010-02",
+    "lessonId": "lesson-melody-010",
+    "order": 2,
+    "title": "Cambiar el contorno",
+    "explanationMd": "La pregunta no cambia. En la respuesta cambia solo el contorno: [67,64,67,69,62,64,62,67]. Se conservan los mismos beats, duraciones y silencios para que puedas oír la transformación sin confundirla con el ritmo.",
+    "task": "Conserva intacta la pregunta. En la respuesta usa el contorno indicado en 02; no muevas ataques, no alargues notas y no rellenes [2,4). Compara la dirección de ambas frases.",
+    "changeFromPrevious": "Solo cambia el contorno de la respuesta.",
+    "successCriteria": [
+      "La pregunta conserva sus alturas y ataques.",
+      "La respuesta usa exactamente el contorno [67,64,67,69,62,64,62,67].",
+      "No cambian ritmo, duraciones ni pausas."
+    ],
+    "simplifyHint": "Practica primero una mano/frase por separado; cuenta en voz alta los beats de entrada y di “silencio” durante [2,4).",
+    "extendHint": "Crea una respuesta propia cambiando un solo rasgo de alturas; conserva todos los ataques, duraciones y silencios, y explica por qué ese rasgo suena relacionado."
+  },
+  {
+    "id": "stage-melody-010-03",
+    "lessonId": "lesson-melody-010",
+    "order": 3,
+    "title": "Cerrar en la tónica",
+    "explanationMd": "La pregunta no cambia. La respuesta conserva el contorno de 02 y modifica únicamente la última altura: 67@29 pasa a 60 (C4), que cierra sobre I. El ritmo y todas las pausas siguen iguales.",
+    "task": "Parte de 02 y cambia solo la última nota de la respuesta: beat 29, 60 (C4). Deja intactos los otros siete ataques y la pausa de cada compás; escucha cómo ese C cierra sobre I.",
+    "changeFromPrevious": "Solo cambia la última nota de 02 a C4.",
+    "successCriteria": [
+      "Solo cambia la última altura de la respuesta: 60 en beat 29.",
+      "Las otras siete alturas de la respuesta coinciden con 02.",
+      "La nota final C4 cae sobre I sin alterar el ritmo ni las pausas."
+    ],
+    "simplifyHint": "Practica primero una mano/frase por separado; cuenta en voz alta los beats de entrada y di “silencio” durante [2,4).",
+    "extendHint": "Crea una respuesta propia cambiando un solo rasgo de alturas; conserva todos los ataques, duraciones y silencios, y explica por qué ese rasgo suena relacionado."
+  },
+  {
+    "id": "stage-melody-010-04",
+    "lessonId": "lesson-melody-010",
+    "order": 4,
+    "title": "Elegir qué conservar",
+    "explanationMd": "Conserva el cierre de 03 y restaura al inicio de la respuesta la primera pareja de la pregunta: [64,67] en beats 16 y 17; el resto queda igual. Elige qué rasgo de la pregunta conviene conservar (no hay una única solución); mantén el ritmo y las pausas.",
+    "task": "Parte de 03, devuelve la pareja inicial de la respuesta a 64@16 y 67@17 y conserva el resto, o elige otro rasgo de la pregunta para reflejarlo. Explica tu elección: no existe una única solución. Mantén el ritmo y cada pausa [2,4).",
+    "changeFromPrevious": "Autonomía: restaura la primera pareja de 01 y conserva el cierre de 03.",
+    "successCriteria": [
+      "La respuesta conserva C4@29 y restaura 64@16, 67@17, o declara otro rasgo elegido de la pregunta.",
+      "Justifica qué rasgo refleja y reconoce que hay más de una respuesta válida.",
+      "Mantiene los ataques, duraciones y silencios [2,4) en todos los compases."
+    ],
+    "simplifyHint": "Practica primero una mano/frase por separado; cuenta en voz alta los beats de entrada y di “silencio” durante [2,4).",
+    "extendHint": "Crea una respuesta propia cambiando un solo rasgo de alturas; conserva todos los ataques, duraciones y silencios, y explica por qué ese rasgo suena relacionado."
+  }
+]

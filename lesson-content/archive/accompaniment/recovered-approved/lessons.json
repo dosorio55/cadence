@@ -1,0 +1,51 @@
+[
+  {
+    "id": "lesson-accompaniment-001",
+    "primarySkillId": "skill-accompaniment-inversions",
+    "orderInCategory": 1,
+    "title": "La inversión más cercana",
+    "difficulty": 1,
+    "goal": "Enlazar cuatro tríadas con menos saltos en la derecha y fundamentales claras en la izquierda.",
+    "introMd": "En cuatro compases de I–V–vi–IV, compara posiciones fundamentales con inversiones próximas. Mantén iguales los ataques; escoge un enlace que conserve una nota común sin exigir más de una octava por mano.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-001"
+    ],
+    "targetMinutes": 15,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-accompaniment-002",
+    "primarySkillId": "skill-accompaniment-shells",
+    "orderInCategory": 2,
+    "title": "Escuchar tercera y séptima",
+    "difficulty": 1,
+    "goal": "Reconocer un ii–V–I con bajo fundamental y solo tercera y séptima en la derecha.",
+    "introMd": "En cuatro compases, compara acordes completos con shells de dos notas derechas sobre un bajo izquierdo. Conserva las notas que definen calidad y resolución; elige la octava más cómoda, no una nueva armonía.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-001"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-accompaniment-003",
+    "primarySkillId": "skill-accompaniment-arpeggiation",
+    "orderInCategory": 3,
+    "title": "Abrir la tríada en el tiempo",
+    "difficulty": 1,
+    "goal": "Convertir acordes en bloque en un arpegio regular que conserve una voz superior reconocible.",
+    "introMd": "En cuatro compases de balada, deja bajo largo a la izquierda y reparte tres notas cómodas en la derecha. Compara bloque y arpegio con el mismo acorde; elige dónde sostener la nota superior para no llenar todo el espacio.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-001",
+      "lesson-rhythm-002"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "balada"
+    ]
+  }
+]

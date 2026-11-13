@@ -1,0 +1,21 @@
+[
+  {
+    "id": "lesson-independence-008",
+    "primarySkillId": "skill-independence-ostinatos",
+    "orderInCategory": 8,
+    "title": "El ostinato no copia la síncopa",
+    "difficulty": 2,
+    "goal": "Conservar una célula izquierda de corcheas seleccionadas mientras la derecha liga un contratiempo sobre el pulso.",
+    "introMd": "En cuatro compases de un vamp de funk, la izquierda repite raíz y quinta con huecos fijos y la derecha una nota sincopada. Compara ritmos acoplados con independientes; elige una pausa derecha sin densificar la izquierda ni exigir octavas rápidas.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-003",
+      "lesson-independence-006",
+      "lesson-rhythm-007",
+      "lesson-rhythm-009"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "funk"
+    ]
+  }
+]

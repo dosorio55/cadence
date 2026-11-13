@@ -1,0 +1,70 @@
+[
+  {
+    "id": "stage-harmony-012-01",
+    "lessonId": "lesson-harmony-012",
+    "order": 1,
+    "title": "Un cambio por compás",
+    "explanationMd": "Referencia uniforme: Cmaj7–Am7–Dm7–G7–Cmaj7–Am7–G7–C, cuatro pulsos por acorde; un bloque simultáneo al inicio de cada acorde.",
+    "task": "Toca los ocho acordes a 72 BPM, atacando ambas manos una sola vez en cada frontera y sosteniendo cada bloque hasta el siguiente.",
+    "changeFromPrevious": "Presentación: ocho acordes duran cuatro negras cada uno.",
+    "successCriteria": [
+      "Las duraciones suman 32 negras y cubren exactamente ocho compases de 4/4.",
+      "Cada acorde y bloque LH/RH ataca una sola vez en su frontera; no hay síncopas ni reataques.",
+      "El tempo es 72 BPM y las notas y velocidades son idénticas en las cuatro etapas.",
+      "La etapa termina en C con reposo armónico."
+    ],
+    "simplifyHint": "Cuenta las fronteras en voz alta; toca solo las raíces LH en esas mismas entradas, sosteniendo cada nota hasta la siguiente.",
+    "extendHint": "Sin cambiar la secuencia ni las notas, propone otra curva que sume 32 y compara dónde se concentra la actividad frente a la referencia."
+  },
+  {
+    "id": "stage-harmony-012-02",
+    "lessonId": "lesson-harmony-012",
+    "order": 2,
+    "title": "Reposo, aceleración y tónica final",
+    "explanationMd": "Cmaj7 inicial ocupa ocho pulsos; los cambios se acercan en Dm7–G7 y Am7–G7, y la tónica final C ocupa ocho pulsos de reposo.",
+    "task": "Sostén Cmaj7 ocho negras al inicio y ocho negras de C al final; ejecuta los cambios interiores únicamente en sus fronteras indicadas.",
+    "changeFromPrevious": "Solo cambian duraciones/fronteras: 8+4+4+2+2+2+2+8; notas, tempo, volumen y ataque permanecen.",
+    "successCriteria": [
+      "Las duraciones suman 32 negras y cubren exactamente ocho compases de 4/4.",
+      "Cada acorde y bloque LH/RH ataca una sola vez en su frontera; no hay síncopas ni reataques.",
+      "El tempo es 72 BPM y las notas y velocidades son idénticas en las cuatro etapas.",
+      "La etapa termina en C con reposo armónico."
+    ],
+    "simplifyHint": "Cuenta las fronteras en voz alta; toca solo las raíces LH en esas mismas entradas, sosteniendo cada nota hasta la siguiente.",
+    "extendHint": "Sin cambiar la secuencia ni las notas, propone otra curva que sume 32 y compara dónde se concentra la actividad frente a la referencia."
+  },
+  {
+    "id": "stage-harmony-012-03",
+    "lessonId": "lesson-harmony-012",
+    "order": 3,
+    "title": "Concentra dos cambios en el compás seis",
+    "explanationMd": "La curva concentra los dos cambios de acorde dentro del compás 6: Cmaj7→Am7 en beat 20 y Am7→G7 en beat 22. Fuera de ese compás no hay dos cambios en un mismo compás.",
+    "task": "Cuenta 4/4 a 72 BPM y coloca los dos cambios del compás 6 en beats 20 y 22; no añadas ataques entre fronteras.",
+    "changeFromPrevious": "Solo cambia la curva a 8+4+4+4+2+2+4+4; los dos cambios del compás 6 quedan concentrados ahí.",
+    "successCriteria": [
+      "Las duraciones suman 32 negras y cubren exactamente ocho compases de 4/4.",
+      "Cada acorde y bloque LH/RH ataca una sola vez en su frontera; no hay síncopas ni reataques.",
+      "El tempo es 72 BPM y las notas y velocidades son idénticas en las cuatro etapas.",
+      "La etapa termina en C con reposo armónico."
+    ],
+    "simplifyHint": "Cuenta las fronteras en voz alta; toca solo las raíces LH en esas mismas entradas, sosteniendo cada nota hasta la siguiente.",
+    "extendHint": "Sin cambiar la secuencia ni las notas, propone otra curva que sume 32 y compara dónde se concentra la actividad frente a la referencia."
+  },
+  {
+    "id": "stage-harmony-012-04",
+    "lessonId": "lesson-harmony-012",
+    "order": 4,
+    "title": "Autonomía: mueve la actividad a G–C",
+    "explanationMd": "Curva autónoma de referencia: prolonga el inicio, concentra actividad en G7→Cmaj7 del compás 5 y reserva el cierre en C. Elige duraciones con la misma secuencia y suma 32.",
+    "task": "Toca la referencia y diseña otra curva de duraciones positivas que sume 32, manteniendo el máximo de actividad en el compás 5 y C final estable.",
+    "changeFromPrevious": "Autonomía: conserva notas, secuencia, dinámica, BPM y ataque; decide otra curva de 32 negras con máxima actividad en el compás 5 y reposo final.",
+    "successCriteria": [
+      "Las duraciones suman 32 negras y cubren exactamente ocho compases de 4/4.",
+      "Cada acorde y bloque LH/RH ataca una sola vez en su frontera; no hay síncopas ni reataques.",
+      "El tempo es 72 BPM y las notas y velocidades son idénticas en las cuatro etapas.",
+      "La etapa termina en C con reposo armónico."
+    ],
+    "simplifyHint": "Cuenta las fronteras en voz alta; toca solo las raíces LH en esas mismas entradas, sosteniendo cada nota hasta la siguiente.",
+    "extendHint": "Sin cambiar la secuencia ni las notas, propone otra curva que sume 32 y compara dónde se concentra la actividad frente a la referencia."
+  }
+]

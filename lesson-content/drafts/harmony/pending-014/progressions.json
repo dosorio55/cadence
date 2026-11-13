@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-harmony-014-01-primary",
+    "stageId": "stage-harmony-014-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia: ocho cambios regulares",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Bloques simultáneos LH/RH: LH raíz velocity 60; RH voicing indicado velocity 64. Un ataque por cambio; sostener hasta siguiente frontera. Cadencia G7@24→C@28.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-014-02-primary",
+    "stageId": "stage-harmony-014-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Insertar C#dim7 antes de Dm7",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Bloques simultáneos LH/RH: LH raíz velocity 60; RH voicing indicado velocity 64. Un ataque por cambio; sostener hasta siguiente frontera. Cadencia G7@24→C@28.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-014-03-primary",
+    "stageId": "stage-harmony-014-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Acortar el paso a una negra",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Bloques simultáneos LH/RH: LH raíz velocity 60; RH voicing indicado velocity 64. Un ataque por cambio; sostener hasta siguiente frontera. Cadencia G7@24→C@28.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-014-04-primary",
+    "stageId": "stage-harmony-014-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elige un único paso",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Bloques simultáneos LH/RH: LH raíz velocity 60; RH voicing indicado velocity 64. Un ataque por cambio; sostener hasta siguiente frontera. Cadencia G7@24→C@28.",
+    "loopable": true
+  }
+]

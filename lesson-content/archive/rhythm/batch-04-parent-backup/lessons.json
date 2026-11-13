@@ -1,0 +1,166 @@
+[
+  {
+    "id": "lesson-rhythm-001",
+    "primarySkillId": "skill-rhythm-pulse",
+    "orderInCategory": 1,
+    "title": "Un pulso que no se cae",
+    "difficulty": 1,
+    "goal": "Mantener cuatro compases de bajo a negras y acordes largos sin acelerar al cambiar de acorde.",
+    "introMd": "En 4/4, toca fundamentales con la izquierda y tríadas sostenidas con la derecha sobre I–V–vi–IV. Compara ataques inseguros con un pulso regular; después decide dónde respirar sin acortar el compás.",
+    "prerequisiteLessonIds": [],
+    "targetMinutes": 15,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-rhythm-002",
+    "primarySkillId": "skill-rhythm-subdivision",
+    "orderInCategory": 2,
+    "title": "Oír la corchea que no tocas",
+    "difficulty": 1,
+    "goal": "Alternar negras, corcheas y silencios en la derecha sin mover el bajo regular.",
+    "introMd": "Usa cuatro compases de dos tríadas conocidas y bajo en blancas. Compara corcheas continuas con la misma rejilla parcialmente en silencio; elige dos huecos y conserva la subdivisión interior.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-001"
+    ],
+    "targetMinutes": 15,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-rhythm-003",
+    "primarySkillId": "skill-rhythm-style-patterns",
+    "orderInCategory": 3,
+    "title": "Dar sitio a dos y cuatro",
+    "difficulty": 1,
+    "goal": "Hacer reconocible un backbeat de pop con acordes en dos y cuatro sobre un bajo estable.",
+    "introMd": "En cuatro compases, la izquierda marca uno y tres; la derecha responde con tríadas cortas en dos y cuatro. Compara con acordes solo en uno y elige un compás de descanso sin perder el backbeat.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-002"
+    ],
+    "targetMinutes": 15,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-rhythm-004",
+    "primarySkillId": "skill-rhythm-syncopation",
+    "orderInCategory": 4,
+    "title": "Anticipar la llegada en cuatro y",
+    "difficulty": 2,
+    "goal": "Hacer llegar el acorde siguiente en el contratiempo de cuatro sin acelerar ni repetirlo en el uno.",
+    "introMd": "Compara A, con cambios en el uno, y B, con una llegada adelantada a 4& en cuatro compases de I–vi–ii–V. Adelanta bajo y acorde juntos: cambia la entrada armónica, no solo un ataque. Después elige otra llegada y explica qué anticipaste.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-002",
+      "lesson-rhythm-003"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-rhythm-005",
+    "primarySkillId": "skill-rhythm-swing",
+    "orderInCategory": 5,
+    "title": "Pasar de corchea recta a swing",
+    "difficulty": 2,
+    "goal": "Distinguir y tocar una frase de corcheas rectas frente a una referencia ternaria de swing sobre el mismo pulso.",
+    "introMd": "Sobre cuatro compases de ii–V–I–I, usa bajo en blancas y una nota por ataque derecho. La referencia largo–corto usa tresillos, no es una regla universal del swing; elige dónde dejar una pausa sin perder esa colocación.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-002"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-rhythm-006",
+    "primarySkillId": "skill-rhythm-pulse",
+    "orderInCategory": 6,
+    "title": "Seguir cuando faltan los ataques",
+    "difficulty": 2,
+    "goal": "Reentrar juntos después de un compás con pocos ataques manteniendo la duración del ciclo.",
+    "introMd": "En ocho compases de pop, retira primero ataques derechos y luego parte del bajo; conserva una llegada común. Compara la vuelta llena con la reducida y decide un compás de aire que no altere el pulso.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-001",
+      "lesson-rhythm-003"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-rhythm-007",
+    "primarySkillId": "skill-rhythm-subdivision",
+    "orderInCategory": 7,
+    "title": "Una semicorchea cambia el empuje",
+    "difficulty": 2,
+    "goal": "Colocar una célula corta de semicorcheas con silencios sin comprimir las negras.",
+    "introMd": "En cuatro compases sobre un acorde de séptima, compara corcheas con una célula derecha de semicorcheas y huecos; la izquierda mantiene negras espaciadas. Elige un único ataque para desplazar una semicorchea: importa la rejilla precisa, no tocar más notas.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-002",
+      "lesson-rhythm-006"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "funk"
+    ]
+  },
+  {
+    "id": "lesson-rhythm-008",
+    "primarySkillId": "skill-rhythm-style-patterns",
+    "orderInCategory": 8,
+    "title": "La respuesta breve del bolero",
+    "difficulty": 2,
+    "goal": "Sostener una célula de bolero con bajo en uno y tres y respuesta acordal en dos, dos y, y cuatro.",
+    "introMd": "En cuatro compases de I–vi–ii–V, compara el backbeat con esta reducción pianística de bolero: bajo en uno y tres, acordes en dos, 2& y cuatro. No representa toda la percusión del género; elige un silencio sin borrar la célula.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-003",
+      "lesson-rhythm-004"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "bolero"
+    ]
+  },
+  {
+    "id": "lesson-rhythm-009",
+    "primarySkillId": "skill-rhythm-syncopation",
+    "orderInCategory": 9,
+    "title": "Síncopa sin cambiar de acorde",
+    "difficulty": 3,
+    "goal": "Sostener un ataque en contratiempo sobre el tiempo fuerte y distinguirlo de una anticipación armónica.",
+    "introMd": "En cuatro compases con bajo en uno y tres, desplaza una tríada a 2& y sostén sobre tres sin reatacar. El acorde no cambia de función ni de frontera; compara con la anticipación de la lección 004 y elige un segundo lugar de síncopa.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-004",
+      "lesson-rhythm-007"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-rhythm-010",
+    "primarySkillId": "skill-rhythm-swing",
+    "orderInCategory": 10,
+    "title": "Frasear desde el contratiempo de swing",
+    "difficulty": 3,
+    "goal": "Entrar en la parte corta del pulso ternario y dejar una pausa sin volver a corcheas rectas.",
+    "introMd": "En cuatro compases de ii–V–I–I, mantén bajo en blancas y desplaza el inicio de una frase derecha al último tercio del pulso. Compara inicio a tierra y en contratiempo; decide qué final de frase merece silencio, sin añadir acordes.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-005",
+      "lesson-rhythm-006"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

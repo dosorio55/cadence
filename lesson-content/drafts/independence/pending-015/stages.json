@@ -1,0 +1,72 @@
+[
+  {
+    "id": "stage-independence-015-01",
+    "lessonId": "lesson-independence-015",
+    "order": 1,
+    "title": "Fijar la base",
+    "explanationMd": "La izquierda alterna raíz en offset 0 y quinta en 2, ambas de duración 2. La frase derecha de referencia entra en cada compás en offsets 0 y 1, dos notas de duración 1. Es melodía sobre armonía parcial: no se presenta como voicing completo.",
+    "task": "Practica los ocho pares melódicos y las 16 notas izquierdas, respetando los ataques escritos.",
+    "changeFromPrevious": "Se añade una frase RH de referencia con ataques 0/1 en cada compás; la LH establece raíz/quinta en 0/2.",
+    "successCriteria": [
+      "LH: 16 notas en 0,2…30, duración 2, alturas indicadas por compás. RH reproduce los ocho pares iniciales exactamente, duraciones 1, vel 72."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado y vuelve a unirlas sin mover los ataques de la izquierda.",
+    "extendHint": "Graba la etapa y verifica de oído que la línea izquierda no reacciona a las decisiones rítmicas derechas."
+  },
+  {
+    "id": "stage-independence-015-02",
+    "lessonId": "lesson-independence-015",
+    "order": 2,
+    "title": "Desplazar la segunda nota",
+    "explanationMd": "La frase inicial queda intacta. Solo las segundas notas RH de cada compás se desplazan de offset 1 a 2.5; cada una conserva pitch, duración 1 y velocity 72. La izquierda no sigue ese cambio.",
+    "task": "Toca la frase inicial de cuatro compases sin alterar; luego desplaza únicamente las segundas notas indicadas en la respuesta.",
+    "changeFromPrevious": "Solo cambia el offset de las segundas notas RH de los compases 5–8: 1→2.5; LH y primer fraseo intactos.",
+    "successCriteria": [
+      "Los primeros cuatro pares RH conservan pitch y offset 0/1 de la etapa 01. En compases 5–8, las primeras notas quedan en offset 0 y las segundas pasan a 2.5; LH sigue idéntica."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado y vuelve a unirlas sin mover los ataques de la izquierda.",
+    "extendHint": "Graba la etapa y verifica de oído que la línea izquierda no reacciona a las decisiones rítmicas derechas."
+  },
+  {
+    "id": "stage-independence-015-03",
+    "lessonId": "lesson-independence-015",
+    "order": 3,
+    "title": "Cambiar una llegada",
+    "explanationMd": "Solo cambia el primer objetivo de la frase: RH 64 (E4) en beat global 16 pasa a 71 (B4), séptima de Cmaj7; conserva hora 16 y duración 1. Todo lo demás vuelve a los ataques de referencia de la etapa 01.",
+    "task": "Toca la melodía de referencia y cambia una sola nota: en beat 16 llega a B4; mantén intactos el resto de la frase y la base.",
+    "changeFromPrevious": "Respecto a 02, solo cambia RH midi 64→71 en global 16; mismo inicio y duración. El desplazamiento 1→2.5 de segundas notas R se conserva.",
+    "successCriteria": [
+      "La nota RH global 16 es B4 (71), onset 16 y duración 1; todas las demás RH coinciden con 02, incluida la frase Q intacta y las segundas notas R en 2.5; LH mantiene las 16 notas exactas."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado y vuelve a unirlas sin mover los ataques de la izquierda.",
+    "extendHint": "Graba la etapa y verifica de oído que la línea izquierda no reacciona a las decisiones rítmicas derechas."
+  },
+  {
+    "id": "stage-independence-015-04",
+    "lessonId": "lesson-independence-015",
+    "order": 4,
+    "title": "Dejar un hueco arriba",
+    "explanationMd": "Desde la frase inicial solo se omite RH midi 64 en beat 22.5 (compás 6, segunda nota). LH global 22 continúa raíz–quinta sin pausa; no se transfiere ni prolonga el silencio a la izquierda.",
+    "task": "Toca toda la frase de referencia salvo la nota RH de 22.5; cuenta en voz alta las blancas izquierdas para que sigan sin pausa.",
+    "changeFromPrevious": "Única omisión frente a 01: RH 64 en 22.5; LH, incluidos sus ataques globales 22 y 24, no cambia.",
+    "successCriteria": [
+      "No hay RH en 22.5; todas las demás notas RH coinciden con 01. LH conserva exactamente sus 16 ataques, alturas y duraciones de 01."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado y vuelve a unirlas sin mover los ataques de la izquierda.",
+    "extendHint": "Graba la etapa y verifica de oído que la línea izquierda no reacciona a las decisiones rítmicas derechas."
+  },
+  {
+    "id": "stage-independence-015-05",
+    "lessonId": "lesson-independence-015",
+    "order": 5,
+    "title": "Elegir otra respiración",
+    "explanationMd": "Autonomía sobre la etapa 04: restaura RH en 22.5 y omite en cambio midi 67 en global 18.5. Conserva el primer objetivo B4 en global 16 y todo el resto de 04. Elige además otras llegadas o una respiración distinta en la frase final, sin copiar el bajo, sin arpegios ni bloques simultáneos de acorde; la línea RH es una melodía parcial explícita, no un voicing completo. G7 beat 26.5: F4 (65) conduce a E4 (64) en beat 28 sobre C; C4 (60) en 30.5 cierra la melodía.",
+    "task": "Toca la base intacta y crea una respuesta propia: conserva B4 en 16, restaura la nota de 22.5 y respira en 18.5 (omite 67); decide llegadas y un respiro final sin imitar el bajo. Termina con F4 sobre G7 en 26.5, E4 al resolver en 28 y C4 en 30.5.",
+    "changeFromPrevious": "Desde 04, restaura RH 64@22.5 y omite RH 67@18.5; conserva B4@16 y el resto, con una melodía final propia no arpegiada ni acordal. LH permanece íntegra e idéntica.",
+    "successCriteria": [
+      "RH incluye B4 (71) en 16; no hay RH en 18.5 ni omisión en 22.5 (la nota de referencia 64 sí está); F4 (65) ataca 26.5 y E4 (64) 28, C4 (60) 30.5. LH es idéntica a 01: 16 notas y ningún silencio."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado y vuelve a unirlas sin mover los ataques de la izquierda.",
+    "extendHint": "Graba la etapa y verifica de oído que la línea izquierda no reacciona a las decisiones rítmicas derechas."
+  }
+]

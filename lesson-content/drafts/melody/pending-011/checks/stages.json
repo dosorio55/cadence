@@ -1,0 +1,62 @@
+[
+  {
+    "id": "stage-melody-011-01",
+    "lessonId": "lesson-melody-011",
+    "order": 1,
+    "title": "Objetivos de la progresión",
+    "explanationMd": "Plan de ocho compases en do mayor: cada bloque izquierdo presenta raíz, tercera y séptima al inicio del compás durante cuatro beats. La derecha toca solo las notas guía indicadas, dos beats cada una; escucha la cadencia antes de añadir conexiones.",
+    "task": "Toca los ocho bloques izquierdos y las ocho notas guía derechas; cuenta los inicios 0, 4, 8, 12, 16, 20, 24 y 28.",
+    "changeFromPrevious": "Base: ocho bloques izquierdos raíz–tercera–séptima y ocho objetivos derechos; sin conexiones añadidas.",
+    "successCriteria": [
+      "Cada bloque LH comienza en 0, 4, 8, 12, 16, 20, 24 o 28 y dura cuatro beats.",
+      "La derecha toca los ocho objetivos en el beat indicado; LH son bloques y RH melodía monofónica separada."
+    ],
+    "simplifyHint": "Toca primero un bloque izquierdo y su nota guía; añade las conexiones escritas solo después de comprobar sus ataques.",
+    "extendHint": "Planifica una llegada de la segunda frase, verifica que pertenezca al acorde y escribe una conexión breve que resuelva exactamente en ella."
+  },
+  {
+    "id": "stage-melody-011-02",
+    "lessonId": "lesson-melody-011",
+    "order": 2,
+    "title": "Conectar D4 con C4",
+    "explanationMd": "Conserva el mapa de objetivos. Añade D4 (62) en 3.5 durante 0.5 beat; resuelve por tono descendente a C4 (60) en 4, sin mover su ataque ni el acorde Am7.",
+    "task": "Compara C4 directa con D4@3.5–C4@4. La conexión dura medio beat y no desplaza la llegada; mantén idéntico el acompañamiento.",
+    "changeFromPrevious": "Frente a 01, añade únicamente D4 (62)@3.5 por 0.5 beat; C4@4 permanece en su ataque original.",
+    "successCriteria": [
+      "D4 dura 0.5 beat y resuelve a C4@4 sin desplazarlo.",
+      "Los eventos no duplican alturas entre manos ni exceden el span de once semitonos por bloque izquierdo."
+    ],
+    "simplifyHint": "Toca primero un bloque izquierdo y su nota guía; añade las conexiones escritas solo después de comprobar sus ataques.",
+    "extendHint": "Planifica una llegada de la segunda frase, verifica que pertenezca al acorde y escribe una conexión breve que resuelva exactamente en ella."
+  },
+  {
+    "id": "stage-melody-011-03",
+    "lessonId": "lesson-melody-011",
+    "order": 3,
+    "title": "Conectar la segunda frase",
+    "explanationMd": "Conserva los objetivos y la conexión D4–C4. En la segunda frase, añade G4 (67)@22.5 y A4 (69)@23.5, cada una por 0.5 beat; ambas conexiones llegan por tono a B4 (71)@24 sobre G7.",
+    "task": "Compara la segunda frase con y sin G4@22.5–A4@23.5 antes de B4@24. Cuenta los medios beats y conserva el pulso y los bloques izquierdos.",
+    "changeFromPrevious": "Frente a 02, añade G4 (67)@22.5 y A4 (69)@23.5 por 0.5 beat cada una; B4@24 permanece.",
+    "successCriteria": [
+      "G4@22.5 y A4@23.5 duran 0.5 beat y conducen a B4@24.",
+      "La línea derecha conserva los objetivos y no se convierte en walking."
+    ],
+    "simplifyHint": "Toca primero un bloque izquierdo y su nota guía; añade las conexiones escritas solo después de comprobar sus ataques.",
+    "extendHint": "Planifica una llegada de la segunda frase, verifica que pertenezca al acorde y escribe una conexión breve que resuelva exactamente en ella."
+  },
+  {
+    "id": "stage-melody-011-04",
+    "lessonId": "lesson-melody-011",
+    "order": 4,
+    "title": "Elegir primero las llegadas",
+    "explanationMd": "Antes de improvisar, elige las notas de llegada de la segunda frase. En esta referencia cambia el objetivo A4@20 por E4 (64) sobre Fmaj7 (su séptima mayor); conserva D4–C4 y G4–A4–B4. No añadas notas aleatorias.",
+    "task": "Primero escribe las llegadas de la segunda frase y verifica que sean notas guía de sus acordes; luego conecta solo donde lo planeaste. En la referencia, E4@20 es la séptima de Fmaj7; conserva las dos conexiones ya escritas.",
+    "changeFromPrevious": "Autonomía: primero decide las llegadas; la referencia cambia solo A4 (69)@20 por E4 (64), séptima de Fmaj7. Conserva las conexiones de 02 y 03.",
+    "successCriteria": [
+      "Antes de improvisar, anoto y compruebo las llegadas de la segunda frase contra sus acordes.",
+      "E4@20 es la séptima de Fmaj7; las conexiones D4–C4 y G4–A4–B4 se conservan."
+    ],
+    "simplifyHint": "Toca primero un bloque izquierdo y su nota guía; añade las conexiones escritas solo después de comprobar sus ataques.",
+    "extendHint": "Planifica una llegada de la segunda frase, verifica que pertenezca al acorde y escribe una conexión breve que resuelva exactamente en ella."
+  }
+]

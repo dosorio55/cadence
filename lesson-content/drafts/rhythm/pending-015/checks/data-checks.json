@@ -1,0 +1,5 @@
+[
+  {"check":"design_tables","categories":6,"skills":30,"lessons":90,"result":"pass"},
+  {"check":"lesson_scope","pending_lessons":1,"id":"lesson-rhythm-015","result":"pass"},
+  {"check":"musical_records","stages":5,"progressions":5,"chord_events":40,"result":"pass"}
+]

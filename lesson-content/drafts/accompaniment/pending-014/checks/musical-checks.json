@@ -1,0 +1,22 @@
+[
+  {
+    "check": "change-isolation",
+    "stage": 2,
+    "assertion": "Only RH register changes in bars 5–8."
+  },
+  {
+    "check": "change-isolation",
+    "stage": 3,
+    "assertion": "Only RH density changes in bars 5–8; bars 1–4 match stage 1."
+  },
+  {
+    "check": "change-isolation",
+    "stage": 4,
+    "assertion": "Only final C shell returns to [64,71]; still two notes."
+  },
+  {
+    "check": "autonomy",
+    "stage": 5,
+    "assertion": "Recover at bar 7 [59,65] or bar 8 [64,71]; no other parameter changes."
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "stage-rhythm-015-01",
+    "lessonId": "lesson-rhythm-015",
+    "order": 1,
+    "title": "Frase de referencia",
+    "explanationMd": "Dos frases iguales; cada pareja comienza en offset 0 y 2/3, con duraciones 2/3 y 1/3; el resto queda libre.",
+    "task": "Toca los ocho compases a 80 BPM contando 1–2–3–4; conserva los 32 beats aunque la derecha calle.",
+    "changeFromPrevious": "Referencia: ocho parejas con duraciones explícitas 2/3 y 1/3, más silencios hasta la siguiente entrada.",
+    "successCriteria": [
+      "La izquierda conserva sus 16 ataques de blancas y el ciclo dura 32 beats.",
+      "Identifico cada entrada derecha, duración y silencio sin rellenarlo."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado y cuenta las negras en voz alta; las pausas derechas no detienen el pulso.",
+    "extendHint": "Toca de memoria a 80 BPM y compara la respiración elegida con la referencia sin aumentar la cantidad de notas."
+  },
+  {
+    "id": "stage-rhythm-015-02",
+    "lessonId": "lesson-rhythm-015",
+    "order": 2,
+    "title": "Mover la segunda frase",
+    "explanationMd": "La primera frase permanece idéntica. En compases 5–8 desplaza la pareja completa una negra: offsets 1 y 1+2/3.",
+    "task": "Toca los ocho compases a 80 BPM contando 1–2–3–4; conserva los 32 beats aunque la derecha calle.",
+    "changeFromPrevious": "Solo segunda frase +1 beat; mismos pitches y duraciones. Bajo y primera frase no cambian.",
+    "successCriteria": [
+      "La izquierda conserva sus 16 ataques de blancas y el ciclo dura 32 beats.",
+      "Identifico cada entrada derecha, duración y silencio sin rellenarlo."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado y cuenta las negras en voz alta; las pausas derechas no detienen el pulso.",
+    "extendHint": "Toca de memoria a 80 BPM y compara la respiración elegida con la referencia sin aumentar la cantidad de notas."
+  },
+  {
+    "id": "stage-rhythm-015-03",
+    "lessonId": "lesson-rhythm-015",
+    "order": 3,
+    "title": "Un silencio dentro de Am7",
+    "explanationMd": "Como 02, pero omite solo G4 (67) de Am7 en beat 21+2/3. C5 en 21 dura 2/3; luego hay aire hasta la pareja del compás 6.",
+    "task": "Toca los ocho compases a 80 BPM contando 1–2–3–4; conserva los 32 beats aunque la derecha calle.",
+    "changeFromPrevious": "Un único silencio añadido: se retira la segunda nota de Am7; se conserva su primera llegada y todo lo demás.",
+    "successCriteria": [
+      "La izquierda conserva sus 16 ataques de blancas y el ciclo dura 32 beats.",
+      "Identifico cada entrada derecha, duración y silencio sin rellenarlo."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado y cuenta las negras en voz alta; las pausas derechas no detienen el pulso.",
+    "extendHint": "Toca de memoria a 80 BPM y compara la respiración elegida con la referencia sin aumentar la cantidad de notas."
+  },
+  {
+    "id": "stage-rhythm-015-04",
+    "lessonId": "lesson-rhythm-015",
+    "order": 4,
+    "title": "Cerrar con una nota larga",
+    "explanationMd": "Conserva 03 y transforma solo el final: E4 entra en beat 29 y dura 2 beats hasta 31; elimina C5 en 29+2/3. Esta blanca larga no lleva swing forzado.",
+    "task": "Toca los ocho compases a 80 BPM contando 1–2–3–4; conserva los 32 beats aunque la derecha calle.",
+    "changeFromPrevious": "La pareja final se sustituye por E4 largo de 2 beats; conserva omisión en Am7 y los demás eventos.",
+    "successCriteria": [
+      "La izquierda conserva sus 16 ataques de blancas y el ciclo dura 32 beats.",
+      "Identifico cada entrada derecha, duración y silencio sin rellenarlo."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado y cuenta las negras en voz alta; las pausas derechas no detienen el pulso.",
+    "extendHint": "Toca de memoria a 80 BPM y compara la respiración elegida con la referencia sin aumentar la cantidad de notas."
+  },
+  {
+    "id": "stage-rhythm-015-05",
+    "lessonId": "lesson-rhythm-015",
+    "order": 5,
+    "title": "Autonomía: respirar antes de G7",
+    "explanationMd": "Como 04, salvo la pareja G7 del compás 7: pasa de 25/25+2/3 a 26/26+2/3. F4 en 26 conduce por semitono real a E4 en 29; el acorde Cmaj7 llega en 28, antes de la llegada melódica. No anticipes E4.",
+    "task": "Toca los ocho compases a 80 BPM contando 1–2–3–4; conserva los 32 beats aunque la derecha calle.",
+    "changeFromPrevious": "Autonomía: desplaza la pareja de G7 una negra más tarde; conserva omisión de Am7, cierre largo y bajo.",
+    "successCriteria": [
+      "La izquierda conserva sus 16 ataques de blancas y el ciclo dura 32 beats.",
+      "Identifico cada entrada derecha, duración y silencio sin rellenarlo."
+    ],
+    "simplifyHint": "Practica primero cada mano por separado y cuenta las negras en voz alta; las pausas derechas no detienen el pulso.",
+    "extendHint": "Toca de memoria a 80 BPM y compara la respiración elegida con la referencia sin aumentar la cantidad de notas."
+  }
+]

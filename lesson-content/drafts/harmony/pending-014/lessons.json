@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-harmony-014",
+    "primarySkillId": "skill-harmony-passing-chords",
+    "orderInCategory": 14,
+    "title": "Elegir un paso, no rellenar cada hueco",
+    "difficulty": 4,
+    "goal": "Integrar un único acorde de paso que conecte dos funciones sin borrar la cadencia de ocho compases.",
+    "introMd": "Sobre un retorno conocido, compara el enlace diatónico con una inserción de G/B o C#dim7 hacia su destino en do. Usa bajo y acordes próximos; elige un paso y su duración, y retíralo donde compita con la llegada principal.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-009",
+      "lesson-harmony-011",
+      "lesson-harmony-012"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

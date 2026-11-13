@@ -1,0 +1,157 @@
+[
+  {
+    "id": "lesson-harmony-001",
+    "primarySkillId": "skill-harmony-cadences",
+    "orderInCategory": 1,
+    "title": "Preparar y reconocer la llegada",
+    "difficulty": 1,
+    "goal": "Distinguir una llegada V–I de una sucesión sin preparación dominante.",
+    "introMd": "En cuatro compases, compara I–IV–I–I con I–IV–V–I, usando bajo y tríadas cercanas. Escucha el último enlace y elige dónde ubicar la preparación para que el reposo llegue al final.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-001"
+    ],
+    "targetMinutes": 15,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-harmony-002",
+    "primarySkillId": "skill-harmony-harmonic-rhythm",
+    "orderInCategory": 2,
+    "title": "Dos velocidades para los mismos acordes",
+    "difficulty": 1,
+    "goal": "Oír más dirección al concentrar dos cambios de acorde cerca de una llegada en vez de repartirlos uniformemente.",
+    "introMd": "En cuatro compases, compara I–IV–V–I con duraciones uniformes y con tónica prolongada seguida de IV y V más breves. Mantén el patrón de ataques y voicings sencillos; elige la distribución que cierre sin acelerar el pulso.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-001",
+      "lesson-rhythm-002"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-harmony-003",
+    "primarySkillId": "skill-harmony-secondary-dominants",
+    "orderInCategory": 3,
+    "title": "Preparar la dominante con su dominante",
+    "difficulty": 2,
+    "goal": "Escuchar V/V resolviendo a V y distinguirlo del ii diatónico que reemplaza.",
+    "introMd": "En cuatro compases de do, compara C–Dm–G–C con C–D7–G–C; la tercera fa sostenido conduce a sol. Usa bajo y acordes compactos, sin melodía adicional; decide si esa preparación más intensa conviene en la repetición.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-001",
+      "lesson-accompaniment-002"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop",
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-harmony-004",
+    "primarySkillId": "skill-harmony-passing-chords",
+    "orderInCategory": 4,
+    "title": "Un bajo de paso con acorde propio",
+    "difficulty": 2,
+    "goal": "Conectar I con vi mediante V en primera inversión oyendo el descenso del bajo.",
+    "introMd": "En cuatro compases de pop, compara C–Am con C–G/B–Am, asignando tiempo real al acorde de paso. La izquierda toca do–si–la y la derecha tríadas próximas; elige el lugar del paso sin confundir inversión con nueva tonalidad.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-002",
+      "lesson-accompaniment-001"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-harmony-005",
+    "primarySkillId": "skill-harmony-substitutions",
+    "orderInCategory": 5,
+    "title": "Una llegada que descansa menos",
+    "difficulty": 2,
+    "goal": "Comparar V–I y V–vi bajo una misma nota melódica compatible y reconocer el cierre evitado.",
+    "introMd": "En cuatro compases de do, conserva mi como nota de llegada al comparar C y Am después de G. Integra esa nota en la voz superior del acorde derecho sobre bajo izquierdo; elige un final abierto sin llamar reposo pleno a la cadencia evitada.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-001",
+      "lesson-accompaniment-006"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop",
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-harmony-006",
+    "primarySkillId": "skill-harmony-cadences",
+    "orderInCategory": 6,
+    "title": "Llegar a una tónica menor",
+    "difficulty": 2,
+    "goal": "Hacer reconocible iiø–V7–i mediante sensible ascendente y tercera menor de llegada.",
+    "introMd": "En cuatro compases de la menor, toca Bm7b5–E7–Am–Am con bajo y acordes derechos reducidos. Compara dominante sin sensible y con sol sostenido que resuelve a la; decide la duración del reposo sin cambiar la tónica.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-001",
+      "lesson-accompaniment-007"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-harmony-007",
+    "primarySkillId": "skill-harmony-harmonic-rhythm",
+    "orderInCategory": 7,
+    "title": "Reservar el cambio para el final de frase",
+    "difficulty": 2,
+    "goal": "Contrastar una frase de armonía sostenida con una respuesta de cambios más frecuentes sin cambiar el tempo.",
+    "introMd": "En ocho compases de balada, compara cambios regulares con cuatro compases de prolongación y cuatro de aproximación a V–I. Toca bajo y bloques sencillos; elige las duraciones de la respuesta, no nuevas síncopas de ejecución.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-002",
+      "lesson-harmony-005"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-harmony-008",
+    "primarySkillId": "skill-harmony-secondary-dominants",
+    "orderInCategory": 8,
+    "title": "Hacer de vi un destino momentáneo",
+    "difficulty": 3,
+    "goal": "Resolver V/vi hacia vi sin perder la referencia de la tónica principal.",
+    "introMd": "En cuatro compases de do, compara C–Em–Am–G con C–E7–Am–G; escucha sol sostenido hacia la y el retorno posterior. Usa bajo y shells compactos; decide si tonicizar vi aporta una respuesta más intensa, sin afirmar una modulación completa.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-003",
+      "lesson-harmony-006"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-harmony-009",
+    "primarySkillId": "skill-harmony-passing-chords",
+    "orderInCategory": 9,
+    "title": "El disminuido que conduce a ii",
+    "difficulty": 3,
+    "goal": "Insertar un disminuido de paso entre I y ii con bajo cromático y resolución audible.",
+    "introMd": "En cuatro compases, compara C–Dm–G7–C con C–C#dim7–Dm–G7–C repartiendo el tiempo disponible. La izquierda hace do–do sostenido–re; la derecha resuelve voces próximas. Elige la duración breve del paso, no una cadena de disminuidos sin destino.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-004",
+      "lesson-harmony-003",
+      "lesson-accompaniment-007"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

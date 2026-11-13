@@ -1,0 +1,77 @@
+[
+  {
+    "id": "stage-melody-012-01",
+    "lessonId": "lesson-melody-012",
+    "order": 1,
+    "title": "Ideas inconexas",
+    "explanationMd": "Ocho compases contrastantes: la línea cambia libremente en cada compás.",
+    "task": "Toca los ocho compases y compara cada cambio indicado con la etapa anterior.",
+    "changeFromPrevious": "Ocho compases contrastantes: la línea cambia libremente en cada compás.",
+    "successCriteria": [
+      "Puedo señalar la transformación exclusiva de la etapa 01 en sus compases y beats.",
+      "La línea permanece legible sobre el bajo; describo los ataques con timestamps."
+    ],
+    "simplifyHint": "Practica manos separadas, manteniendo las raíces izquierdas.",
+    "extendHint": "Elige otro momento de regreso y anota compás, beat y notas."
+  },
+  {
+    "id": "stage-melody-012-02",
+    "lessonId": "lesson-melody-012",
+    "order": 2,
+    "title": "Motivo E–G–A",
+    "explanationMd": "Repite E4–G4–A4 en los ocho compases.",
+    "task": "Toca los ocho compases y compara cada cambio indicado con la etapa anterior.",
+    "changeFromPrevious": "Repite E4–G4–A4 en los ocho compases.",
+    "successCriteria": [
+      "Puedo señalar la transformación exclusiva de la etapa 02 en sus compases y beats.",
+      "La línea permanece legible sobre el bajo; describo los ataques con timestamps."
+    ],
+    "simplifyHint": "Practica manos separadas, manteniendo las raíces izquierdas.",
+    "extendHint": "Elige otro momento de regreso y anota compás, beat y notas."
+  },
+  {
+    "id": "stage-melody-012-03",
+    "lessonId": "lesson-melody-012",
+    "order": 3,
+    "title": "Desplazamiento rítmico",
+    "explanationMd": "Conserva pitches; desplaza solo el ritmo en compases pares.",
+    "task": "Toca los ocho compases y compara cada cambio indicado con la etapa anterior.",
+    "changeFromPrevious": "Conserva pitches; desplaza solo el ritmo en compases pares.",
+    "successCriteria": [
+      "Puedo señalar la transformación exclusiva de la etapa 03 en sus compases y beats.",
+      "La línea permanece legible sobre el bajo; describo los ataques con timestamps."
+    ],
+    "simplifyHint": "Practica manos separadas, manteniendo las raíces izquierdas.",
+    "extendHint": "Elige otro momento de regreso y anota compás, beat y notas."
+  },
+  {
+    "id": "stage-melody-012-04",
+    "lessonId": "lesson-melody-012",
+    "order": 4,
+    "title": "Color sobre G",
+    "explanationMd": "Conserva el ritmo; en los compases 4 y 7 cambia solo la tercera nota a B4.",
+    "task": "Toca los ocho compases y compara cada cambio indicado con la etapa anterior.",
+    "changeFromPrevious": "Conserva el ritmo; en los compases 4 y 7 cambia solo la tercera nota a B4.",
+    "successCriteria": [
+      "Puedo señalar la transformación exclusiva de la etapa 04 en sus compases y beats.",
+      "La línea permanece legible sobre el bajo; describo los ataques con timestamps."
+    ],
+    "simplifyHint": "Practica manos separadas, manteniendo las raíces izquierdas.",
+    "extendHint": "Elige otro momento de regreso y anota compás, beat y notas."
+  },
+  {
+    "id": "stage-melody-012-05",
+    "lessonId": "lesson-melody-012",
+    "order": 5,
+    "title": "Regreso elegido",
+    "explanationMd": "Restaura E–G–A en el último compás como señal de regreso; elige otro momento propio para recuperarlo.",
+    "task": "Toca los ocho compases y compara cada cambio indicado con la etapa anterior.",
+    "changeFromPrevious": "Restaura E–G–A en el último compás como señal de regreso; elige otro momento propio para recuperarlo.",
+    "successCriteria": [
+      "Puedo señalar la transformación exclusiva de la etapa 05 en sus compases y beats.",
+      "La línea permanece legible sobre el bajo; describo los ataques con timestamps."
+    ],
+    "simplifyHint": "Practica manos separadas, manteniendo las raíces izquierdas.",
+    "extendHint": "Elige otro momento de regreso y anota compás, beat y notas."
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "stage-harmony-013-01",
+    "lessonId": "lesson-harmony-013",
+    "order": 1,
+    "title": "Referencia diatónica",
+    "explanationMd": "Referencia de ocho compases; establece armonía diatónica y voicings reducidos. Cada acorde dura un compás; bajo a 60 y voces derechas a 64, con ataques en cada inicio de compás. Los shells de Em7 y Dm7 conservan tercera y séptima sin quinta; Am conserva raíz y tercera, sin quinta. Cmaj7 usa tercera y séptima; el último C es tríada completa. Así se reconoce calidad mayor/menor sin fingir acordes completos en los shells. E7 cumple V/vi → vi y D7 cumple V/V → V: G# y F# no son diatónicos en do mayor, pero tonicizan destinos locales, no establecen una modulación.",
+    "task": "Toca ocho compases a 72 BPM, una armonía por compás.",
+    "changeFromPrevious": "Presentación de la base.",
+    "successCriteria": [
+      "El bajo sostiene una fundamental por compás a velocidad 60.",
+      "La derecha toca el voicing indicado a velocidad 64.",
+      "Identifico el destino armónico y la resolución de las notas alteradas.",
+      "G# y F# son cromáticas respecto a do mayor; son dominantes secundarias locales, no modulación estable."
+    ],
+    "simplifyHint": "Practica primero solo el bajo y luego las dos manos.",
+    "extendHint": "Canta las notas alteradas y sus resoluciones mientras mantienes el pulso."
+  },
+  {
+    "id": "stage-harmony-013-02",
+    "lessonId": "lesson-harmony-013",
+    "order": 2,
+    "title": "V/vi → vi",
+    "explanationMd": "Solo cambia el compás 2: Em7 pasa a E7 y G4 a G#4; en Am del compás 3, G#4 resuelve a A4 y D5 baja a C5. Cada acorde dura un compás; bajo a 60 y voces derechas a 64, con ataques en cada inicio de compás. Los shells de Em7 y Dm7 conservan tercera y séptima sin quinta; Am conserva raíz y tercera, sin quinta. Cmaj7 usa tercera y séptima; el último C es tríada completa. Así se reconoce calidad mayor/menor sin fingir acordes completos en los shells. E7 cumple V/vi → vi y D7 cumple V/V → V: G# y F# no son diatónicos en do mayor, pero tonicizan destinos locales, no establecen una modulación.",
+    "task": "Compara Em7 con E7; oye G# que resuelve a A y D que baja a C en Am.",
+    "changeFromPrevious": "Solo cambia el compás 2: Em7 pasa a E7 y G4 a G#4; en Am del compás 3, G#4 resuelve a A4 y D5 baja a C5.",
+    "successCriteria": [
+      "Solo cambia la tercera indicada; ataques, duración, velocidad y demás notas permanecen iguales.",
+      "Oigo la resolución al acorde de destino en el compás siguiente."
+    ],
+    "simplifyHint": "Practica primero solo el bajo y luego las dos manos.",
+    "extendHint": "Canta las notas alteradas y sus resoluciones mientras mantienes el pulso."
+  },
+  {
+    "id": "stage-harmony-013-03",
+    "lessonId": "lesson-harmony-013",
+    "order": 3,
+    "title": "V/V → V",
+    "explanationMd": "Se conserva íntegra la etapa 02; solo cambia el compás 5 a D7 y F4 a F#4. En G del compás 6, F#4 resuelve a G4 y C5 baja a B4. Cada acorde dura un compás; bajo a 60 y voces derechas a 64, con ataques en cada inicio de compás. Los shells de Em7 y Dm7 conservan tercera y séptima sin quinta; Am conserva raíz y tercera, sin quinta. Cmaj7 usa tercera y séptima; el último C es tríada completa. Así se reconoce calidad mayor/menor sin fingir acordes completos en los shells. E7 cumple V/vi → vi y D7 cumple V/V → V: G# y F# no son diatónicos en do mayor, pero tonicizan destinos locales, no establecen una modulación.",
+    "task": "Añade D7 en el compás 5; oye F# que resuelve a G y C que baja a B en G.",
+    "changeFromPrevious": "Se conserva íntegra la etapa 02; solo cambia el compás 5 a D7 y F4 a F#4. En G del compás 6, F#4 resuelve a G4 y C5 baja a B4.",
+    "successCriteria": [
+      "Solo cambia la tercera indicada; ataques, duración, velocidad y demás notas permanecen iguales.",
+      "Oigo la resolución al acorde de destino en el compás siguiente."
+    ],
+    "simplifyHint": "Practica primero solo el bajo y luego las dos manos.",
+    "extendHint": "Canta las notas alteradas y sus resoluciones mientras mantienes el pulso."
+  },
+  {
+    "id": "stage-harmony-013-04",
+    "lessonId": "lesson-harmony-013",
+    "order": 4,
+    "title": "Elegir una preparación",
+    "explanationMd": "Desde la etapa 03, solo se restaura Em7 y G4 en el compás 2. Se conserva D7 del compás 5; no se mantienen ambas dominantes. Cada acorde dura un compás; bajo a 60 y voces derechas a 64, con ataques en cada inicio de compás. Los shells de Em7 y Dm7 conservan tercera y séptima sin quinta; Am conserva raíz y tercera, sin quinta. Cmaj7 usa tercera y séptima; el último C es tríada completa. Así se reconoce calidad mayor/menor sin fingir acordes completos en los shells. E7 cumple V/vi → vi y D7 cumple V/V → V: G# y F# no son diatónicos en do mayor, pero tonicizan destinos locales, no establecen una modulación.",
+    "task": "Compara la preparación E7 sola con D7 sola; esta versión conserva D7 y restaura Em7.",
+    "changeFromPrevious": "Desde la etapa 03, solo se restaura Em7 y G4 en el compás 2. Se conserva D7 del compás 5; no se mantienen ambas dominantes.",
+    "successCriteria": [
+      "Solo cambia la tercera indicada; ataques, duración, velocidad y demás notas permanecen iguales.",
+      "Oigo la resolución al acorde de destino en el compás siguiente."
+    ],
+    "simplifyHint": "Practica primero solo el bajo y luego las dos manos.",
+    "extendHint": "Canta las notas alteradas y sus resoluciones mientras mantienes el pulso."
+  }
+]

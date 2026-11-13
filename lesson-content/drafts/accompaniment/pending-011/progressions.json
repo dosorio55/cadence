@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-accompaniment-011-01-primary",
+    "stageId": "stage-accompaniment-011-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Base: ciclo de ocho compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases en bloques: una raíz LH y un voicing RH por acorde, ambos sostenidos cuatro negras.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-011-02-primary",
+    "stageId": "stage-accompaniment-011-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ajustar el retorno",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases en bloques: una raíz LH y un voicing RH por acorde, ambos sostenidos cuatro negras.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-011-03-primary",
+    "stageId": "stage-accompaniment-011-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Reajustar Am",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases en bloques: una raíz LH y un voicing RH por acorde, ambos sostenidos cuatro negras.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-011-04-primary",
+    "stageId": "stage-accompaniment-011-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Segunda ruta completa",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases en bloques: una raíz LH y un voicing RH por acorde, ambos sostenidos cuatro negras.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-011-05-primary",
+    "stageId": "stage-accompaniment-011-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elegir y volver",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases en bloques: una raíz LH y un voicing RH por acorde, ambos sostenidos cuatro negras.",
+    "loopable": true
+  }
+]

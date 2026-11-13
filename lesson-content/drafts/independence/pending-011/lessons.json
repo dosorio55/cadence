@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-independence-011",
+    "primarySkillId": "skill-independence-bass-pulse",
+    "orderInCategory": 11,
+    "title": "Mantener el suelo cuando cambia la frase",
+    "difficulty": 3,
+    "goal": "Sostener ocho compases de bajo regular a través de entradas, silencios y finales distintos en la derecha.",
+    "introMd": "En pop, conserva una nota de bajo por pulso y dos frases derechas breves ya conocidas. Compara una frase repetida con otra de respiraciones distintas; diseña las pausas sin trasladarlas al bajo ni añadir walking.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-006",
+      "lesson-independence-010",
+      "lesson-melody-010"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "pop"
+    ]
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "id": "stage-independence-001-01",
+    "lessonId": "lesson-independence-001",
+    "order": 1,
+    "title": "Base: blancas y respuesta",
+    "explanationMd": "A: en cada compás, la izquierda toca la raíz en los tiempos 1 y 3 como blancas; la derecha ataca A al inicio y la sostiene dos pulsos. Oye los dos ataques juntos y luego el bajo solo.",
+    "task": "Toca cuatro compases: conserva las dos blancas LH mientras la nota RH suena durante los dos primeros pulsos.",
+    "changeFromPrevious": "Base A: dos blancas LH por compás; RH A empieza en el tiempo 1 y dura dos pulsos.",
+    "successCriteria": [
+      "La izquierda reataca en 3 y 1 del compás siguiente.",
+      "La derecha sostiene A dos pulsos y después deja el resto del compás en silencio."
+    ],
+    "simplifyHint": "Toca primero las ocho blancas LH en C3–A2–F2–G2 por compás; añade la nota RH escrita sin cambiar su duración ni llenar silencios.",
+    "extendHint": "Conserva cada blanca izquierda y decide una sola nota o silencio RH por compás; no adelantes ni recortes la izquierda."
+  },
+  {
+    "id": "stage-independence-001-02",
+    "lessonId": "lesson-independence-001",
+    "order": 2,
+    "title": "Mismo A, más aire",
+    "explanationMd": "Compara A de 01 y B aquí: mismos pitches y ataques iniciales; la única diferencia es que RH suelta A después de una negra en vez de dos. La izquierda no cambia.",
+    "task": "Mantén el conteo hasta terminar cada compás aunque la derecha haya soltado la nota.",
+    "changeFromPrevious": "Solo se acorta A de dos pulsos a uno; las blancas LH permanecen idénticas.",
+    "successCriteria": [
+      "Reconozco el mismo pitch A en ambas manos/etapas derechas.",
+      "El bajo completa sus dos blancas después de que termina la nota derecha."
+    ],
+    "simplifyHint": "Toca primero las ocho blancas LH en C3–A2–F2–G2 por compás; añade la nota RH escrita sin cambiar su duración ni llenar silencios.",
+    "extendHint": "Conserva cada blanca izquierda y decide una sola nota o silencio RH por compás; no adelantes ni recortes la izquierda."
+  },
+  {
+    "id": "stage-independence-001-03",
+    "lessonId": "lesson-independence-001",
+    "order": 3,
+    "title": "Callar compases pares",
+    "explanationMd": "A/B con 01: conserva las notas A de los compases 1 y 3, ahora de una negra; elimina por completo la derecha en 2 y 4. La izquierda sigue con sus blancas en los cuatro compases.",
+    "task": "No toques nada con la derecha en los compases 2 y 4; cuenta mientras continúa LH.",
+    "changeFromPrevious": "Se retira solamente la respuesta RH de los compases pares; A y el patrón LH no cambian.",
+    "successCriteria": [
+      "No hay ataques derechos en los compases 2 ni 4.",
+      "Las ocho blancas izquierdas siguen completas."
+    ],
+    "simplifyHint": "Toca primero las ocho blancas LH en C3–A2–F2–G2 por compás; añade la nota RH escrita sin cambiar su duración ni llenar silencios.",
+    "extendHint": "Conserva cada blanca izquierda y decide una sola nota o silencio RH por compás; no adelantes ni recortes la izquierda."
+  },
+  {
+    "id": "stage-independence-001-04",
+    "lessonId": "lesson-independence-001",
+    "order": 4,
+    "title": "Cambiar solo A por B",
+    "explanationMd": "Compara 03 y 04: en los compases 1 y 3 sustituye A por B (G4 en 1 y A3 en 3); conserva duración de una negra y los compases pares vacíos.",
+    "task": "Toca B solo en los compases impares y escucha su diferencia de registro; deja intacta la izquierda.",
+    "changeFromPrevious": "Solo cambian los pitches derechos de 1/3 a G4/A3; RH sigue ausente en 2/4 y LH no se mueve.",
+    "successCriteria": [
+      "B aparece únicamente en los compases 1 y 3.",
+      "Los compases pares siguen sin notas derechas; LH mantiene las blancas."
+    ],
+    "simplifyHint": "Toca primero las ocho blancas LH en C3–A2–F2–G2 por compás; añade la nota RH escrita sin cambiar su duración ni llenar silencios.",
+    "extendHint": "Conserva cada blanca izquierda y decide una sola nota o silencio RH por compás; no adelantes ni recortes la izquierda."
+  },
+  {
+    "id": "stage-independence-001-05",
+    "lessonId": "lesson-independence-001",
+    "order": 5,
+    "title": "Elegir dónde respirar",
+    "explanationMd": "Referencia: B entra en offsets 0 y 2 de cada compás impar (beats globales 0, 2, 8 y 10), una negra por respuesta; los compases 2 y 4 quedan vacíos a la derecha. Frente a 04, se añade una segunda respuesta en cada compás impar. Es una elección autónoma de fraseo, no un silencio que oculte reataques.",
+    "task": "Toca las dos respuestas B en cada compás impar y deja vacía la derecha en 2 y 4; confirma que LH conserva sus dos blancas. En otra vuelta, elige qué respuesta omitir.",
+    "changeFromPrevious": "Respecto de 04, añade en cada compás impar una segunda respuesta B en offset 2; no cambian pitches, duraciones ni blancas LH. La autonomía es decidir pausas explícitas sobre ese ejemplo.",
+    "successCriteria": [
+      "RH ataca B en globales 0, 2, 8 y 10, cada nota dura una negra; no hay RH en compases 2 y 4.",
+      "LH conserva sus dos blancas en los cuatro compases mientras RH toca o calla."
+    ],
+    "simplifyHint": "Toca primero las ocho blancas LH en C3–A2–F2–G2 por compás; añade la nota RH escrita sin cambiar su duración ni llenar silencios.",
+    "extendHint": "Conserva cada blanca izquierda y decide una sola nota o silencio RH por compás; no adelantes ni recortes la izquierda."
+  },
+  {
+    "id": "stage-independence-002-01",
+    "lessonId": "lesson-independence-002",
+    "order": 1,
+    "title": "Base simultánea: raíces y shells",
+    "explanationMd": "A: en los tiempos 1 y 3 coinciden raíz LH y shell RH (tercera y séptima). Cada nota LH dura dos pulsos; el shell responde con una negra.",
+    "task": "Ataca raíz y shell juntos en 1 y 3; deja que cada blanca LH continúe mientras la derecha suena breve.",
+    "changeFromPrevious": "Presentación A: dos ataques simultáneos por compás con raíz LH y shell S; la izquierda sostiene dos pulsos.",
+    "successCriteria": [
+      "Cada raíz LH se sostiene hasta el siguiente ataque del tiempo 3.",
+      "Cada shell RH contiene tercera y séptima del acorde correspondiente."
+    ],
+    "simplifyHint": "A 60 BPM toca solo raíces (y la quinta en 04/05) en beats 1 y 3; añade después el shell S en el ataque indicado, sin abreviar LH.",
+    "extendHint": "Conserva raíces/quintas y shells S; cambia únicamente el compás donde descansas la derecha, manteniendo el resto de ataques y duraciones."
+  },
+  {
+    "id": "stage-independence-002-02",
+    "lessonId": "lesson-independence-002",
+    "order": 2,
+    "title": "Alternar en 2 y 4",
+    "explanationMd": "B/A: conserva exactamente raíces, duraciones y shells de 01, pero desplaza los shells a los tiempos 2 y 4. Así solo cambia la coordinación de ataques; el bajo permanece sonando.",
+    "task": "Alterna sin levantar LH: raíz en 1, shell en 2, raíz en 3, shell en 4.",
+    "changeFromPrevious": "Los ataques RH pasan de 1/3 simultáneos a 2/4; alturas y duración de ambas manos se mantienen.",
+    "successCriteria": [
+      "Los ataques LH siguen en 1 y 3 y duran dos pulsos.",
+      "Los shells entran solo en 2 y 4 con tercera y séptima correctas."
+    ],
+    "simplifyHint": "A 60 BPM toca solo raíces (y la quinta en 04/05) en beats 1 y 3; añade después el shell S en el ataque indicado, sin abreviar LH.",
+    "extendHint": "Conserva raíces/quintas y shells S; cambia únicamente el compás donde descansas la derecha, manteniendo el resto de ataques y duraciones."
+  },
+  {
+    "id": "stage-independence-002-03",
+    "lessonId": "lesson-independence-002",
+    "order": 3,
+    "title": "Shells más breves, bajo igual",
+    "explanationMd": "Compara 02 y 03: mismos ataques, alturas y dos blancas LH; acorta cada shell derecho de una negra a media negra.",
+    "task": "Sostén ambas blancas izquierdas completas después de que se libere cada shell.",
+    "changeFromPrevious": "Solo cambia la duración RH, de una negra a media; LH y shells no cambian.",
+    "successCriteria": [
+      "La izquierda dura hasta el siguiente ataque, sin recortarse al soltar RH.",
+      "Cada respuesta derecha dura medio pulso y cae en el mismo sitio que en 02."
+    ],
+    "simplifyHint": "A 60 BPM toca solo raíces (y la quinta en 04/05) en beats 1 y 3; añade después el shell S en el ataque indicado, sin abreviar LH.",
+    "extendHint": "Conserva raíces/quintas y shells S; cambia únicamente el compás donde descansas la derecha, manteniendo el resto de ataques y duraciones."
+  },
+  {
+    "id": "stage-independence-002-04",
+    "lessonId": "lesson-independence-002",
+    "order": 4,
+    "title": "Quinta en la segunda blanca",
+    "explanationMd": "Compara 03 y 04: en el segundo ataque LH de cada compás cambia raíz por quinta; shells, alturas derechas, ataques y duraciones quedan iguales.",
+    "task": "Toca raíz en 1 y quinta en 3; mantén los shells breves en 2 y 4.",
+    "changeFromPrevious": "Solo cambia el pitch izquierdo en beat 3 a la quinta; la derecha conserva S y media negra.",
+    "successCriteria": [
+      "Cada segundo ataque LH es la quinta del acorde del compás.",
+      "Los shells siguen siendo tercera/séptima y el bajo no se levanta bajo ellos."
+    ],
+    "simplifyHint": "A 60 BPM toca solo raíces (y la quinta en 04/05) en beats 1 y 3; añade después el shell S en el ataque indicado, sin abreviar LH.",
+    "extendHint": "Conserva raíces/quintas y shells S; cambia únicamente el compás donde descansas la derecha, manteniendo el resto de ataques y duraciones."
+  },
+  {
+    "id": "stage-independence-002-05",
+    "lessonId": "lesson-independence-002",
+    "order": 5,
+    "title": "Elegir un descanso",
+    "explanationMd": "Referencia de autonomía: conserva exactamente 04, pero omite el shell derecho del compás 2, tiempo 4 (beat global 7). La izquierda no cambia. Puedes elegir otro único descanso en una repetición; el ejemplo no es respuesta única.",
+    "task": "Primero reproduce la referencia omitiendo solo ese shell; luego escoge un descanso equivalente sin cambiar las blancas ni las notas LH.",
+    "changeFromPrevious": "Se retira la obligación de responder en un lugar elegido: la referencia omite solo beat 7, y tú decides dónde respirar en otra vuelta.",
+    "successCriteria": [
+      "El patrón LH de raíces/quintas y sus duraciones coincide con 04.",
+      "Puedo señalar el shell omitido y mantener el pulso durante el hueco."
+    ],
+    "simplifyHint": "A 60 BPM toca solo raíces (y la quinta en 04/05) en beats 1 y 3; añade después el shell S en el ataque indicado, sin abreviar LH.",
+    "extendHint": "Conserva raíces/quintas y shells S; cambia únicamente el compás donde descansas la derecha, manteniendo el resto de ataques y duraciones."
+  },
+  {
+    "id": "stage-independence-003-01",
+    "lessonId": "lesson-independence-003",
+    "order": 1,
+    "title": "Una tónica, dos procesos",
+    "explanationMd": "Sobre Cmaj7 durante los cuatro compases, LH repite C3–G3–C3–G3 a negras; RH sostiene E4 cuatro pulsos desde el inicio de cada compás.",
+    "task": "Mantén el ostinato cuatro negras aunque RH siga sonando hasta el final del compás.",
+    "changeFromPrevious": "Base sobre un único Cmaj7: el bajo repite raíz–quinta y la derecha sostiene la tercera.",
+    "successCriteria": [
+      "LH ataca 48,55,48,55 en los cuatro tiempos de cada compás.",
+      "RH sostiene E4 durante cuatro pulsos; no se añade otro acorde."
+    ],
+    "simplifyHint": "A 60 BPM practica primero C3–G3–C3–G3 a negras; añade E4 o G4 en el inicio indicado y respeta la pausa.",
+    "extendHint": "Mantén Cmaj7 y las cuatro negras izquierdas; inventa una respuesta derecha corta con un silencio, sin alterar la célula."
+  },
+  {
+    "id": "stage-independence-003-02",
+    "lessonId": "lesson-independence-003",
+    "order": 2,
+    "title": "E4 breve, ostinato idéntico",
+    "explanationMd": "A/B: mismo Cmaj7, mismo E4 y mismos ataques izquierdos; acorta solamente E4 de cuatro pulsos a uno.",
+    "task": "Suelta E4 tras una negra y sigue con las cuatro notas izquierdas.",
+    "changeFromPrevious": "Solo cambia duración RH de cuatro pulsos a uno; ostinato no varía.",
+    "successCriteria": [
+      "E4 dura una negra en cada compás.",
+      "La izquierda completa raíz–quinta a negras sin seguir la liberación derecha."
+    ],
+    "simplifyHint": "A 60 BPM practica primero C3–G3–C3–G3 a negras; añade E4 o G4 en el inicio indicado y respeta la pausa.",
+    "extendHint": "Mantén Cmaj7 y las cuatro negras izquierdas; inventa una respuesta derecha corta con un silencio, sin alterar la célula."
+  },
+  {
+    "id": "stage-independence-003-03",
+    "lessonId": "lesson-independence-003",
+    "order": 3,
+    "title": "E4 larga y aire",
+    "explanationMd": "Compara con 02: conserva E4 y todos los ataques; ahora dura dos pulsos y deja los otros dos en silencio.",
+    "task": "Cuenta las cuatro negras LH mientras escuchas sostén y pausa arriba.",
+    "changeFromPrevious": "Solo aumenta duración RH de uno a dos pulsos; el resto del compás queda vacío.",
+    "successCriteria": [
+      "E4 se sostiene dos pulsos y no reataca durante la pausa.",
+      "La célula izquierda permanece idéntica debajo de la nota y del silencio."
+    ],
+    "simplifyHint": "A 60 BPM practica primero C3–G3–C3–G3 a negras; añade E4 o G4 en el inicio indicado y respeta la pausa.",
+    "extendHint": "Mantén Cmaj7 y las cuatro negras izquierdas; inventa una respuesta derecha corta con un silencio, sin alterar la célula."
+  },
+  {
+    "id": "stage-independence-003-04",
+    "lessonId": "lesson-independence-003",
+    "order": 4,
+    "title": "Cambiar E4 por G4",
+    "explanationMd": "Compara 03 y 04: cambia solo la nota derecha de E4 a G4; conserva dos pulsos y la pausa, con Cmaj7 y ostinato intactos.",
+    "task": "Toca G4 durante dos pulsos y escucha el color sobre la misma tónica.",
+    "changeFromPrevious": "Solo cambia RH 64→67; duración, silencio, armonía y bajo no cambian.",
+    "successCriteria": [
+      "G4 dura dos pulsos en cada compás.",
+      "La izquierda repite exactamente 48–55–48–55."
+    ],
+    "simplifyHint": "A 60 BPM practica primero C3–G3–C3–G3 a negras; añade E4 o G4 en el inicio indicado y respeta la pausa.",
+    "extendHint": "Mantén Cmaj7 y las cuatro negras izquierdas; inventa una respuesta derecha corta con un silencio, sin alterar la célula."
+  },
+  {
+    "id": "stage-independence-003-05",
+    "lessonId": "lesson-independence-003",
+    "order": 5,
+    "title": "Elegir la respuesta",
+    "explanationMd": "Referencia sobre el mismo Cmaj7: G4 al inicio durante dos pulsos y E4 en el cuarto tiempo durante una negra; la izquierda sigue igual. Puedes elegir otro silencio/nota en tus vueltas.",
+    "task": "Toca el ejemplo una vez y después cambia una decisión derecha sin alterar la célula izquierda.",
+    "changeFromPrevious": "Se ofrece una respuesta de referencia; la autonomía consiste en decidir nota o pausa arriba, no variar el ostinato.",
+    "successCriteria": [
+      "Todas las negras LH siguen en su sitio.",
+      "Puedo crear aire derecho sin saltarme ni desplazar el bajo."
+    ],
+    "simplifyHint": "A 60 BPM practica primero C3–G3–C3–G3 a negras; añade E4 o G4 en el inicio indicado y respeta la pausa.",
+    "extendHint": "Mantén Cmaj7 y las cuatro negras izquierdas; inventa una respuesta derecha corta con un silencio, sin alterar la célula."
+  },
+  {
+    "id": "stage-independence-004-01",
+    "lessonId": "lesson-independence-004",
+    "order": 1,
+    "title": "Raíz repetida sobre ii–V–I–I",
+    "explanationMd": "A: en cada compás de Dm7–G7–Cmaj7–Cmaj7, toca la raíz izquierda en las cuatro negras; la derecha sostiene el shell tercera/séptima durante el compás.",
+    "task": "Toca las cuatro raíces iguales por compás y mantén el shell derecho largo, sin agregar acordes.",
+    "changeFromPrevious": "Base A: raíces repetidas a negras bajo shell largo; la armonía y el proceso derecho quedan fijados.",
+    "successCriteria": [
+      "LH toca la raíz en los cuatro tiempos de cada compás.",
+      "RH sostiene tercera y séptima del acorde durante cuatro pulsos."
+    ],
+    "simplifyHint": "Practica el patrón izquierdo exacto de esta etapa a 60 BPM; después añade el shell derecho largo sin cambiar las alturas ni las cuatro negras.",
+    "extendHint": "Prueba sustituir solo la segunda raíz por la tercera del acorde; compara con la base de raíces repetidas."
+  },
+  {
+    "id": "stage-independence-004-02",
+    "lessonId": "lesson-independence-004",
+    "order": 2,
+    "title": "La tercera dirige el camino",
+    "explanationMd": "Compara A/01 y B/02: solo la segunda negra LH cambia de raíz a tercera; el resto sigue en raíz y RH conserva shell y duración.",
+    "task": "Marca la tercera en el tiempo 2 y vuelve a raíz en 3 y 4.",
+    "changeFromPrevious": "Solo cambia la altura de beat 2 a tercera; tiempo, shell largo y demás raíces no cambian.",
+    "successCriteria": [
+      "Cada segunda negra es la tercera del acorde de ese compás.",
+      "El shell derecho sigue sostenido hasta el siguiente compás."
+    ],
+    "simplifyHint": "Practica el patrón izquierdo exacto de esta etapa a 60 BPM; después añade el shell derecho largo sin cambiar las alturas ni las cuatro negras.",
+    "extendHint": "Conserva raíz y tercera; prueba una quinta en el tercer tiempo y vuelve a raíz en el cuarto."
+  },
+  {
+    "id": "stage-independence-004-03",
+    "lessonId": "lesson-independence-004",
+    "order": 3,
+    "title": "Añadir la quinta",
+    "explanationMd": "Compara 02/03: se mantiene raíz–tercera y ahora beat 3 pasa a quinta; beat 4 vuelve a raíz. La derecha no cambia. En el último Cmaj7, la quinta G2 queda debajo de la raíz para preparar el retorno sin un salto mayor de octava.",
+    "task": "Oye la secuencia raíz–tercera–quinta–raíz bajo el mismo shell.",
+    "changeFromPrevious": "Solo beat 3 cambia de raíz a quinta; se conserva todo lo demás de 02.",
+    "successCriteria": [
+      "Beat 2 es tercera y beat 3 quinta del acorde.",
+      "La derecha mantiene las mismas notas y duración que en 02."
+    ],
+    "simplifyHint": "Practica el patrón izquierdo exacto de esta etapa a 60 BPM; después añade el shell derecho largo sin cambiar las alturas ni las cuatro negras.",
+    "extendHint": "Prueba cambiar la cuarta raíz por un vecino diatónico de la raíz siguiente, sin añadir ataques."
+  },
+  {
+    "id": "stage-independence-004-04",
+    "lessonId": "lesson-independence-004",
+    "order": 4,
+    "title": "Preparar el próximo acorde",
+    "explanationMd": "Compara 03/04: sustituye únicamente la raíz de beat 4 por un paso diatónico cercano a la raíz siguiente: F→G, B→C, B→C y E→D al repetir. Sin cromatismos.",
+    "task": "Toca raíz–tercera–quinta y usa el cuarto tiempo para acercarte a la siguiente raíz.",
+    "changeFromPrevious": "Solo cambia la cuarta negra por aproximación diatónica; RH y las tres primeras notas siguen iguales.",
+    "successCriteria": [
+      "Cada beat 4 es vecino diatónico cómodo de la siguiente raíz.",
+      "El ciclo termina en E2, que conduce por tono a D2 al reiniciar."
+    ],
+    "simplifyHint": "Practica el patrón izquierdo exacto de esta etapa a 60 BPM; después añade el shell derecho largo sin cambiar las alturas ni las cuatro negras.",
+    "extendHint": "Conserva shell y raíz–tercera–quinta; cambia solo una aproximación diatónica del cuarto tiempo."
+  },
+  {
+    "id": "stage-independence-004-05",
+    "lessonId": "lesson-independence-004",
+    "order": 5,
+    "title": "Elegir el lado de llegada",
+    "explanationMd": "Referencia: la raíz, tercera y quinta permanecen; en beat 4 la línea desciende desde A2/D3/D3/E2 hacia la raíz siguiente. En otras vueltas elige el vecino diatónico inferior o superior.",
+    "task": "Toca la referencia y luego cambia una sola aproximación; no alteres el shell largo ni añadas cromatismo.",
+    "changeFromPrevious": "Se conserva 04 salvo los pitches de aproximación; autonomía limitada a elegir un vecino diatónico en beat 4.",
+    "successCriteria": [
+      "Raíz, tercera y quinta siguen en beats 1–3.",
+      "Solo varía el enfoque de beat 4; la derecha continúa con su shell sostenido."
+    ],
+    "simplifyHint": "Practica el patrón izquierdo exacto de esta etapa a 60 BPM; después añade el shell derecho largo sin cambiar las alturas ni las cuatro negras.",
+    "extendHint": "Conserva shell y raíz–tercera–quinta; cambia solo una aproximación diatónica del cuarto tiempo."
+  },
+  {
+    "id": "stage-independence-005-01",
+    "lessonId": "lesson-independence-005",
+    "order": 1,
+    "title": "Motivo breve y base en blancas",
+    "explanationMd": "A: la izquierda repite raíz y quinta como dos blancas por compás. La derecha toca dos notas acordales en tiempos 1 y 3, dejando aire en 2 y 4.",
+    "task": "Toca la base C–G, A–E, F–C, G–D en blancas y el motivo escrito; reconoce que sus ataques coinciden como referencia A para separarlos en la etapa siguiente.",
+    "changeFromPrevious": "Presentación de motivo de dos notas y pausas sobre una base izquierda regular.",
+    "successCriteria": [
+      "LH ataca raíz en 1 y quinta en 3, ambas con duración de blanca.",
+      "RH responde en offsets 0 y 2; quedan libres los tiempos 2 y 4."
+    ],
+    "simplifyHint": "Practica un compás aislado con las mismas entradas y duraciones de ambas manos; es práctica parcial. Después reincorpora los cuatro compases sin quitar la respuesta que se trabaja.",
+    "extendHint": "Conserva las blancas izquierdas y el motivo; cambia un solo ataque o silencio derecho, sin añadir bajo ni acordes nuevos."
+  },
+  {
+    "id": "stage-independence-005-02",
+    "lessonId": "lesson-independence-005",
+    "order": 2,
+    "title": "Desplazar la segunda respuesta",
+    "explanationMd": "Compara 01/02: conserva alturas, bajo y primera nota; mueve solo la segunda nota derecha del offset 2 al 3. La pausa aparece antes de esa respuesta final.",
+    "task": "Mantén las blancas izquierdas; toca la segunda nota del motivo en el tiempo 4.",
+    "changeFromPrevious": "Solo se desplaza la segunda respuesta RH de beat 3 a beat 4; pitches, duración y LH permanecen.",
+    "successCriteria": [
+      "La primera nota derecha sigue en el tiempo 1.",
+      "La segunda entra solo en tiempo 4; LH sigue en 1/3 con blancas."
+    ],
+    "simplifyHint": "Practica un compás aislado con las mismas entradas y duraciones de ambas manos; es práctica parcial. Después reincorpora los cuatro compases sin quitar la respuesta que se trabaja.",
+    "extendHint": "Conserva las blancas izquierdas y el motivo; cambia un solo ataque o silencio derecho, sin añadir bajo ni acordes nuevos."
+  },
+  {
+    "id": "stage-independence-005-03",
+    "lessonId": "lesson-independence-005",
+    "order": 3,
+    "title": "Sostener la primera nota",
+    "explanationMd": "Compara 02/03: la primera nota del motivo ahora dura dos pulsos; conserva su altura y la respuesta en tiempo 4. La izquierda no cambia.",
+    "task": "Sostén la primera nota hasta después del tiempo 2 y deja libre el espacio antes de la respuesta.",
+    "changeFromPrevious": "Solo se alarga la primera nota RH de una a dos negras; entradas de LH y segunda respuesta permanecen.",
+    "successCriteria": [
+      "La nota inicial dura dos pulsos y no se reataca.",
+      "La respuesta conserva su ataque en tiempo 4 y dura una negra."
+    ],
+    "simplifyHint": "Practica un compás aislado con las mismas entradas y duraciones de ambas manos; es práctica parcial. Después reincorpora los cuatro compases sin quitar la respuesta que se trabaja.",
+    "extendHint": "Conserva las blancas izquierdas y el motivo; cambia un solo ataque o silencio derecho, sin añadir bajo ni acordes nuevos."
+  },
+  {
+    "id": "stage-independence-005-04",
+    "lessonId": "lesson-independence-005",
+    "order": 4,
+    "title": "Cambiar el contorno",
+    "explanationMd": "Compara 03/04: conserva ritmo, pausas y blancas izquierdas; invierte el orden de las dos alturas acordales de cada compás.",
+    "task": "Escucha el contorno descendente y ascendente sobre el mismo bajo raíz–quinta.",
+    "changeFromPrevious": "Solo cambia el orden/altura de las dos notas derechas; duraciones y respiraciones se mantienen.",
+    "successCriteria": [
+      "Las alturas siguen perteneciendo al acorde de cada compás.",
+      "El motivo conserva sus ataques y la base izquierda sigue en blancas."
+    ],
+    "simplifyHint": "Practica un compás aislado con las mismas entradas y duraciones de ambas manos; es práctica parcial. Después reincorpora los cuatro compases sin quitar la respuesta que se trabaja.",
+    "extendHint": "Conserva las blancas izquierdas y el motivo; cambia un solo ataque o silencio derecho, sin añadir bajo ni acordes nuevos."
+  },
+  {
+    "id": "stage-independence-005-05",
+    "lessonId": "lesson-independence-005",
+    "order": 5,
+    "title": "Elegir una respiración",
+    "explanationMd": "Referencia: repite el motivo de 04 salvo que omite la respuesta del tiempo 4 en el compás 2. La izquierda no se detiene. En otra vuelta puedes elegir otro único compás para callar esa respuesta.",
+    "task": "Toca la referencia una vez; después elige en cuál compás dejar una respuesta fuera, sin cambiar las blancas LH.",
+    "changeFromPrevious": "Se retira una sola segunda respuesta RH para hacer audible una pausa; eliges su compás en la siguiente vuelta.",
+    "successCriteria": [
+      "La izquierda conserva raíz y quinta a blancas en los cuatro compases.",
+      "La pausa derecha elegida no acorta ni desplaza la base."
+    ],
+    "simplifyHint": "Practica un compás aislado con las mismas entradas y duraciones de ambas manos; es práctica parcial. Después reincorpora los cuatro compases sin quitar la respuesta que se trabaja.",
+    "extendHint": "Conserva las blancas izquierdas y el motivo; cambia un solo ataque o silencio derecho, sin añadir bajo ni acordes nuevos."
+  },
+  {
+    "id": "stage-independence-006-01",
+    "lessonId": "lesson-independence-006",
+    "order": 1,
+    "title": "Bajo repetido y entrada conjunta",
+    "explanationMd": "A: LH repite la raíz en cuatro negras por compás; RH ataca junto al primer bajo por media negra.",
+    "task": "Mantén cuatro ataques izquierdos iguales en cada compás; escucha el ataque derecho simultáneo inicial.",
+    "changeFromPrevious": "Base A: bajo repetido a negras y una nota derecha breve en el tiempo 1.",
+    "successCriteria": [
+      "LH ataca la raíz en beats 1, 2, 3 y 4.",
+      "La primera nota RH coincide con beat 1 y dura media negra."
+    ],
+    "simplifyHint": "A 60 BPM conserva las cuatro negras izquierdas y la nota derecha de media negra en tiempo 1, como en esta base.",
+    "extendHint": "Conserva las cuatro negras izquierdas; elige una nota derecha de acorde para 2& y sostenla hasta beat 4 sin reatacar."
+  },
+  {
+    "id": "stage-independence-006-02",
+    "lessonId": "lesson-independence-006",
+    "order": 2,
+    "title": "Entrar en 2 y",
+    "explanationMd": "Compara 01/02: misma altura/duración derecha y mismo bajo; desplaza la nota RH de beat 1 a 2& (offset 1.5).",
+    "task": "No muevas los cuatro ataques LH cuando la derecha entra entre beats 2 y 3.",
+    "changeFromPrevious": "Solo cambia el inicio RH de offset 0 a 1.5; el bajo repetido continúa idéntico.",
+    "successCriteria": [
+      "RH entra exactamente en 2& (1.5 negras desde el compás).",
+      "LH conserva sus cuatro negras en beats 1–4."
+    ],
+    "simplifyHint": "A 60 BPM conserva las cuatro negras izquierdas y la entrada derecha de media negra en 2&.",
+    "extendHint": "Conserva las cuatro negras izquierdas; elige una nota derecha de acorde para 2& y sostenla hasta beat 4 sin reatacar."
+  },
+  {
+    "id": "stage-independence-006-03",
+    "lessonId": "lesson-independence-006",
+    "order": 3,
+    "title": "Sostener sobre el bajo",
+    "explanationMd": "Compara 02/03: conserva altura y entrada RH en 2&; alarga la nota de media negra a dos negras, hasta offset 3.5 (4&). Así suena durante los ataques izquierdos en 3 y 4.",
+    "task": "Sostén la nota derecha mientras LH vuelve a atacar en beats 3 y 4; no imites esos ataques.",
+    "changeFromPrevious": "Solo cambia la duración RH de 0.5 a 2 negras; entrada en 2& y bajo a negras intactos.",
+    "successCriteria": [
+      "RH sostiene desde 2& hasta 4& sin reataque.",
+      "LH ataca en tiempos 3 y 4 mientras continúa la nota derecha."
+    ],
+    "simplifyHint": "Practica un compás con las cuatro negras izquierdas y la nota derecha de dos negras en el contratiempo indicado; después reincorpora los cuatro compases sin acortar el sostén.",
+    "extendHint": "Mantén las cuatro negras izquierdas y dos negras de sostén derecho; compara entradas en 1& o 2&, ambas dentro del compás, sin imitar el contratiempo con el bajo."
+  },
+  {
+    "id": "stage-independence-006-04",
+    "lessonId": "lesson-independence-006",
+    "order": 4,
+    "title": "Elegir otra nota del acorde",
+    "explanationMd": "Compara 03/04: deja intactos entrada, sostén y bajo; cambia solo la altura derecha a otra nota del acorde en cada compás.",
+    "task": "Toca la nueva nota derecha desde 2& mientras la izquierda repite su raíz.",
+    "changeFromPrevious": "Solo cambia el pitch RH; no se desplaza ni se acorta ninguna nota.",
+    "successCriteria": [
+      "La nota derecha pertenece al acorde indicado.",
+      "La izquierda mantiene cuatro ataques de raíz por compás."
+    ],
+    "simplifyHint": "Practica un compás con las cuatro negras izquierdas y la nota derecha de dos negras en el contratiempo indicado; después reincorpora los cuatro compases sin acortar el sostén.",
+    "extendHint": "Mantén las cuatro negras izquierdas y dos negras de sostén derecho; compara entradas en 1& o 2&, ambas dentro del compás, sin imitar el contratiempo con el bajo."
+  },
+  {
+    "id": "stage-independence-006-05",
+    "lessonId": "lesson-independence-006",
+    "order": 5,
+    "title": "Elegir otro contratiempo",
+    "explanationMd": "A es la etapa 04. B de referencia adelanta solo la entrada del compás 1 de 2& a 1& (offset 0.5); conserva sus dos negras y todas las notas de los otros compases. Elige después otro compás para comparar esos dos contratiempos.",
+    "task": "Toca la referencia y compara 1& frente a 2& en un compás elegido, conservando dos negras de duración derecha y las cuatro negras izquierdas.",
+    "changeFromPrevious": "Solo cambia el inicio derecho del primer compás, de offset 1.5 a0.5; las cuatro respuestas derechas y todo el bajo permanecen.",
+    "successCriteria": [
+      "La izquierda conserva las 16 negras sin copiar el contratiempo.",
+      "La entrada elegida, 1& o 2&, se sostiene dos negras y termina dentro del compás."
+    ],
+    "simplifyHint": "Practica un compás con las cuatro negras izquierdas y la nota derecha de dos negras en el contratiempo indicado; después reincorpora los cuatro compases sin acortar el sostén.",
+    "extendHint": "Mantén las cuatro negras izquierdas y dos negras de sostén derecho; compara entradas en 1& o 2&, ambas dentro del compás, sin imitar el contratiempo con el bajo."
+  },
+  {
+    "id": "stage-independence-007-01",
+    "lessonId": "lesson-independence-007",
+    "order": 1,
+    "title": "Separar los procesos",
+    "explanationMd": "Bolero en 4/4: LH raíz en offsets 0 y 2 (dos negras largas); RH shell de tercera y séptima en offsets 1, 1.5 y 3, breve. Practica primero las manos por separado.",
+    "task": "Toca el bajo en 1 y 3 y la respuesta derecha en 2, 2& y 4; escucha cada mano y luego combínalas.",
+    "changeFromPrevious": "Base: bajo y shells por separado.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-007-02",
+    "lessonId": "lesson-independence-007",
+    "order": 2,
+    "title": "Combinar sin perseguir",
+    "explanationMd": "Bolero en 4/4: LH raíz en offsets 0 y 2 (dos negras largas); RH shell de tercera y séptima en offsets 1, 1.5 y 3, breve. Combina ambas manos sin modificar sus ataques.",
+    "task": "Toca el bajo en 1 y 3 y la respuesta derecha en 2, 2& y 4; escucha cada mano y luego combínalas.",
+    "changeFromPrevious": "Combina las mismas dos partes.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-007-03",
+    "lessonId": "lesson-independence-007",
+    "order": 3,
+    "title": "Duraciones independientes",
+    "explanationMd": "Bolero en 4/4: LH raíz en offsets 0 y 2 (dos negras largas); RH shell de tercera y séptima en offsets 1, 1.5 y 3, breve. La única novedad es que el bajo dura 2 y cada shell 0.5.",
+    "task": "Toca el bajo en 1 y 3 y la respuesta derecha en 2, 2& y 4; escucha cada mano y luego combínalas.",
+    "changeFromPrevious": "Alarga solo LH a dos negras.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-007-04",
+    "lessonId": "lesson-independence-007",
+    "order": 4,
+    "title": "Cambiar la respuesta",
+    "explanationMd": "Bolero en 4/4: LH raíz en offsets 0 y 2 (dos negras largas); RH shell de tercera y séptima en offsets 1, 1.5 y 3, breve. Cambia el shell seleccionado, conservando el patrón bolero.",
+    "task": "Toca el bajo en 1 y 3 y la respuesta derecha en 2, 2& y 4; escucha cada mano y luego combínalas.",
+    "changeFromPrevious": "Varía únicamente la nota del shell.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-007-05",
+    "lessonId": "lesson-independence-007",
+    "order": 5,
+    "title": "Elegir una omisión",
+    "explanationMd": "Bolero en 4/4: LH raíz en offsets 0 y 2 (dos negras largas); RH shell de tercera y séptima en offsets 1, 1.5 y 3, breve. Referencia: omite solo el shell de offset 1.5 en un compás; luego elige una respuesta para omitir, sin tocar LH.",
+    "task": "Toca el bajo en 1 y 3 y la respuesta derecha en 2, 2& y 4; escucha cada mano y luego combínalas.",
+    "changeFromPrevious": "Omitir una sola respuesta RH es la decisión autónoma.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-008-01",
+    "lessonId": "lesson-independence-008",
+    "order": 1,
+    "title": "Raíz y quinta con huecos",
+    "explanationMd": "Vamp funk C7. LH ostinato de raíz y quinta en corcheas seleccionadas, con huecos: offsets 0, 0.5, 2 y 2.5, duración 0.25. RH sincopa en offsets 0.5 y 1.5, con nota sostenida a través del pulso real; no reactives la misma tecla. Practica manos separadas.",
+    "task": "Conserva el ostinato LH y deja que la nota RH cruce el pulso; no dupliques el ritmo en la izquierda.",
+    "changeFromPrevious": "Base de dos manos independientes.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-008-02",
+    "lessonId": "lesson-independence-008",
+    "order": 2,
+    "title": "La derecha entra entre corcheas",
+    "explanationMd": "Vamp funk C7. LH ostinato de raíz y quinta en corcheas seleccionadas, con huecos: offsets 0, 0.5, 2 y 2.5, duración 0.25. RH sincopa en offsets 0.5 y 1.5, con nota sostenida a través del pulso real; no reactives la misma tecla. Combina el patrón idéntico.",
+    "task": "Conserva el ostinato LH y deja que la nota RH cruce el pulso; no dupliques el ritmo en la izquierda.",
+    "changeFromPrevious": "Combinación de ostinato y síncopa.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-008-03",
+    "lessonId": "lesson-independence-008",
+    "order": 3,
+    "title": "Sostener la síncopa",
+    "explanationMd": "Vamp funk C7. LH ostinato de raíz y quinta en corcheas seleccionadas, con huecos: offsets 0, 0.5, 2 y 2.5, duración 0.25. RH sincopa en offsets 0.5 y 1.5, con nota sostenida a través del pulso real; no reactives la misma tecla. Novedad: prolonga RH hasta offset 2.25.",
+    "task": "Conserva el ostinato LH y deja que la nota RH cruce el pulso; no dupliques el ritmo en la izquierda.",
+    "changeFromPrevious": "La nota RH se liga a través del pulso.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-008-04",
+    "lessonId": "lesson-independence-008",
+    "order": 4,
+    "title": "Cambiar la nota sincopada",
+    "explanationMd": "Vamp funk C7. LH ostinato de raíz y quinta en corcheas seleccionadas, con huecos: offsets 0, 0.5, 2 y 2.5, duración 0.25. RH sincopa en offsets 0.5 y 1.5, con nota sostenida a través del pulso real; no reactives la misma tecla. Novedad: cambia solo la altura derecha.",
+    "task": "Conserva el ostinato LH y deja que la nota RH cruce el pulso; no dupliques el ritmo en la izquierda.",
+    "changeFromPrevious": "Solo cambia una altura derecha.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-008-05",
+    "lessonId": "lesson-independence-008",
+    "order": 5,
+    "title": "Elegir una pausa",
+    "explanationMd": "Vamp funk C7. LH ostinato de raíz y quinta en corcheas seleccionadas, con huecos: offsets 0, 0.5, 2 y 2.5, duración 0.25. RH sincopa en offsets 0.5 y 1.5, con nota sostenida a través del pulso real; no reactives la misma tecla. Referencia autónoma: omite una nota RH, elige cuál; no cambies ni densifiques LH.",
+    "task": "Conserva el ostinato LH y deja que la nota RH cruce el pulso; no dupliques el ritmo en la izquierda.",
+    "changeFromPrevious": "Omitir exactamente una respuesta RH.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-009-01",
+    "lessonId": "lesson-independence-009",
+    "order": 1,
+    "title": "Walking conocido, shell en uno",
+    "explanationMd": "Jazz ii–V–I–I. La línea LH es exactamente la línea de lesson-independence-004, stage 04, incluido cada pitch/ataque (raíz-tercera-quinta-aproximación). RH shell de tercera y séptima. Shell coincide en offset 0.",
+    "task": "Toca primero el walking LH solo; después añade el shell RH sin doblar ni imitar la línea.",
+    "changeFromPrevious": "Referencia de walking existente y shell en 1.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-009-02",
+    "lessonId": "lesson-independence-009",
+    "order": 2,
+    "title": "Shell después del bajo",
+    "explanationMd": "Jazz ii–V–I–I. La línea LH es exactamente la línea de lesson-independence-004, stage 04, incluido cada pitch/ataque (raíz-tercera-quinta-aproximación). RH shell de tercera y séptima. Novedad: mueve el shell del compás de offset 0 a 2, sin cambiar walking.",
+    "task": "Toca primero el walking LH solo; después añade el shell RH sin doblar ni imitar la línea.",
+    "changeFromPrevious": "Solo se desplaza el shell a beat 3.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-009-03",
+    "lessonId": "lesson-independence-009",
+    "order": 3,
+    "title": "Respuesta ternaria",
+    "explanationMd": "Jazz ii–V–I–I. La línea LH es exactamente la línea de lesson-independence-004, stage 04, incluido cada pitch/ataque (raíz-tercera-quinta-aproximación). RH shell de tercera y séptima. Novedad: añade respuesta en offset 3, duración 1/3 (ternario); conserva la respuesta offset 2.",
+    "task": "Toca primero el walking LH solo; después añade el shell RH sin doblar ni imitar la línea.",
+    "changeFromPrevious": "Añade una entrada ternaria en beat 4; no es corchea recta.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-009-04",
+    "lessonId": "lesson-independence-009",
+    "order": 4,
+    "title": "Una respuesta por compás",
+    "explanationMd": "Jazz ii–V–I–I. La línea LH es exactamente la línea de lesson-independence-004, stage 04, incluido cada pitch/ataque (raíz-tercera-quinta-aproximación). RH shell de tercera y séptima. Novedad: una sola respuesta RH por compás, en offset 2.",
+    "task": "Toca primero el walking LH solo; después añade el shell RH sin doblar ni imitar la línea.",
+    "changeFromPrevious": "Reduce RH a una respuesta por compás.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  },
+  {
+    "id": "stage-independence-009-05",
+    "lessonId": "lesson-independence-009",
+    "order": 5,
+    "title": "Elegir un compás",
+    "explanationMd": "Jazz ii–V–I–I. La línea LH es exactamente la línea de lesson-independence-004, stage 04, incluido cada pitch/ataque (raíz-tercera-quinta-aproximación). RH shell de tercera y séptima. Referencia: respuesta de offset 2 solo en compás 1; decide un único compás con respuesta.",
+    "task": "Toca primero el walking LH solo; después añade el shell RH sin doblar ni imitar la línea.",
+    "changeFromPrevious": "Elige qué compás recibe su única respuesta.",
+    "successCriteria": [
+      "Las entradas y duraciones LH permanecen completas y no siguen a RH.",
+      "La derecha conserva su patrón indicado; autonomía omite solo una respuesta cuando corresponde."
+    ],
+    "simplifyHint": "Practica el patrón LH exacto de esta etapa primero; añade las respuestas RH escritas sin borrar huecos, síncopa ni sostén.",
+    "extendHint": "Mantén el patrón LH y decide una sola respuesta o silencio RH; no cambies el pulso ni elimines el recurso estilístico."
+  }
+]

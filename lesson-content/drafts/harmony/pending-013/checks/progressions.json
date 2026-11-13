@@ -1,0 +1,794 @@
+[
+  {
+    "id": "prog-harmony-001-01-primary",
+    "stageId": "stage-harmony-001-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "A — I–IV–I–I, sin V–I",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia A: acordes de cuatro pulsos, pulso fijo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-001-02-primary",
+    "stageId": "stage-harmony-001-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "B — I–IV–V–I",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Comparación explícita A/B con la misma duración de cuatro pulsos por acorde.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-001-03-primary",
+    "stageId": "stage-harmony-001-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "B — sensible expuesta en V–I",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Mismo plan y duración de etapa 2; voicing de G contiene B y resuelve a C.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-001-04-primary",
+    "stageId": "stage-harmony-001-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia — cierre elegido",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia para aplicación autónoma; V–I en los compases 3–4 de la referencia B.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-002-01-primary",
+    "stageId": "stage-harmony-002-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "A — cuatro cambios regulares",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro acordes, un cambio por compás, patrón de bloque sostenido.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-002-02-primary",
+    "stageId": "stage-harmony-002-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "B — reposo inicial y acercamiento",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Comparación A/B: mismas funciones, distinta duración armónica, tempo idéntico.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-002-03-primary",
+    "stageId": "stage-harmony-002-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "C — prolonga IV antes de la dominante",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Nueva distribución 6+4+2+4; un solo ataque por acorde, sin cambio de tempo.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-002-04-primary",
+    "stageId": "stage-harmony-002-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia — curva de duraciones",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia para autonomía; no es una única distribución correcta.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-003-01-primary",
+    "stageId": "stage-harmony-003-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "A — ii–V–I diatónico",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia A en do mayor; bloque simple por acorde.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-003-02-primary",
+    "stageId": "stage-harmony-003-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "B — V/V–V7–I",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Comparación A/B: la única función nueva es D7 como V/V que resuelve a G7.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-003-03-primary",
+    "stageId": "stage-harmony-003-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "B — guías explícitas en V/V–V–I",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Mismo plan armónico y ritmo; voicings de séptima que hacen verificables las resoluciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-003-04-primary",
+    "stageId": "stage-harmony-003-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia A — elección de preparación",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo A de referencia; la opción B con V/V está en etapa 2.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-004-01-primary",
+    "stageId": "stage-harmony-004-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "A — I–vi directo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia A: C y Am duran ocho pulsos cada uno.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-004-02-primary",
+    "stageId": "stage-harmony-004-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "B — V6 con dos pulsos propios",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Comparación A/B: el único acorde nuevo es G/B, con dos pulsos antes de Am.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-004-03-primary",
+    "stageId": "stage-harmony-004-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "C — V6 prolongado",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Mismas funciones y bajo de etapa 2; G/B dura cuatro pulsos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-004-04-primary",
+    "stageId": "stage-harmony-004-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia — enlace por decidir",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia C6–G/B2–Am8; no es la única duración posible.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-005-01-primary",
+    "stageId": "stage-harmony-005-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "A — V7–I con E4",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia A de cuatro compases; la voz superior de la llegada es E4.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-005-02-primary",
+    "stageId": "stage-harmony-005-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "B — V7–vi bajo E4",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Comparación A/B: G7 llega a Am en vez de C; E4 permanece como nota superior.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-005-03-primary",
+    "stageId": "stage-harmony-005-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "B — vi6 con E4 común",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Mismo V–vi y nota superior de etapa 2; la llegada Am está en primera inversión.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-005-04-primary",
+    "stageId": "stage-harmony-005-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia — llegada abierta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo de referencia V7–vi con E4; la alternativa I está en etapa 1.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-006-01-primary",
+    "stageId": "stage-harmony-006-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "A — iiø7–v7–i",
+    "keyTonic": "A",
+    "keyMode": "minor",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia A en la menor; dominante menor con G natural, sin sensible elevada.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-006-02-primary",
+    "stageId": "stage-harmony-006-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "B — iiø7–V7–i con sensible",
+    "keyTonic": "A",
+    "keyMode": "minor",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Comparación A/B: G natural de Em7 se eleva a G# en E7 y resuelve a A.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-006-03-primary",
+    "stageId": "stage-harmony-006-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "B — guías superiores en V7–i",
+    "keyTonic": "A",
+    "keyMode": "minor",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Mismas funciones de etapa 2; la sensible y su destino quedan en la voz superior.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-006-04-primary",
+    "stageId": "stage-harmony-006-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia — prolonga i",
+    "keyTonic": "A",
+    "keyMode": "minor",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Ejemplo B de referencia; iiø7 4, V7 4 y Am sostenido 8 pulsos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-007-01-primary",
+    "stageId": "stage-harmony-007-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "A: cambios regulares",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Duraciones de acorde 8+8+8+8 negras; ataques solo en fronteras armónicas, voicings compactos explícitos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-007-02-primary",
+    "stageId": "stage-harmony-007-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "B: cuatro compases de prolongación",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Duraciones de acorde 16+4+4+8 negras; ataques solo en fronteras armónicas, voicings compactos explícitos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-007-03-primary",
+    "stageId": "stage-harmony-007-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Reservar más tiempo a V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Duraciones de acorde 16+2+6+8 negras; ataques solo en fronteras armónicas, voicings compactos explícitos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-007-04-primary",
+    "stageId": "stage-harmony-007-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elige el reparto de la respuesta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Duraciones de acorde 16+6+2+8 negras; ataques solo en fronteras armónicas, voicings compactos explícitos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-008-01-primary",
+    "stageId": "stage-harmony-008-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "A: Em diatónico hacia Am",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Duraciones de acorde 4+4+4+4 negras; ataques solo en fronteras armónicas, voicings compactos explícitos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-008-02-primary",
+    "stageId": "stage-harmony-008-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "B: E7 conduce a vi",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Duraciones de acorde 4+4+4+4 negras; ataques solo en fronteras armónicas, voicings compactos explícitos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-008-03-primary",
+    "stageId": "stage-harmony-008-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Sensible superior, mismo destino",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Duraciones de acorde 4+4+4+4 negras; ataques solo en fronteras armónicas, voicings compactos explícitos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-008-04-primary",
+    "stageId": "stage-harmony-008-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elige tonicizar o no",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Duraciones de acorde 4+4+4+4 negras; ataques solo en fronteras armónicas, voicings compactos explícitos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-009-01-primary",
+    "stageId": "stage-harmony-009-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "A: ruta directa a ii",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Duraciones de acorde 4+4+4+4 negras; ataques solo en fronteras armónicas, voicings compactos explícitos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-009-02-primary",
+    "stageId": "stage-harmony-009-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "B: C#dim7 con destino propio",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Duraciones de acorde 4+2+2+4+4 negras; ataques solo en fronteras armónicas, voicings compactos explícitos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-009-03-primary",
+    "stageId": "stage-harmony-009-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Otra conducción cercana",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Duraciones de acorde 4+2+2+4+4 negras; ataques solo en fronteras armónicas, voicings compactos explícitos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-009-04-primary",
+    "stageId": "stage-harmony-009-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elige una duración breve",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Duraciones de acorde 4+1+3+4+4 negras; ataques solo en fronteras armónicas, voicings compactos explícitos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-012-01-primary",
+    "stageId": "stage-harmony-012-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Un cambio por compás",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Secuencia idéntica Cmaj7/Am7/Dm7/G7/Cmaj7/Am7/G7/C; duraciones 4+4+4+4+4+4+4+4 negras. Un ataque simultáneo LH/RH por frontera, sostén hasta el siguiente cambio; dinámica fija.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-012-02-primary",
+    "stageId": "stage-harmony-012-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Reposo, aceleración y tónica final",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Secuencia idéntica Cmaj7/Am7/Dm7/G7/Cmaj7/Am7/G7/C; duraciones 8+4+4+2+2+2+2+8 negras. Un ataque simultáneo LH/RH por frontera, sostén hasta el siguiente cambio; dinámica fija.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-012-03-primary",
+    "stageId": "stage-harmony-012-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Concentra dos cambios en el compás seis",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Secuencia idéntica Cmaj7/Am7/Dm7/G7/Cmaj7/Am7/G7/C; duraciones 8+4+4+4+2+2+4+4 negras. Un ataque simultáneo LH/RH por frontera, sostén hasta el siguiente cambio; dinámica fija.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-012-04-primary",
+    "stageId": "stage-harmony-012-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: mueve la actividad a G–C",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Secuencia idéntica Cmaj7/Am7/Dm7/G7/Cmaj7/Am7/G7/C; duraciones 8+4+4+2+2+4+4+4 negras. Un ataque simultáneo LH/RH por frontera, sostén hasta el siguiente cambio; dinámica fija.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-013-01-primary",
+    "stageId": "stage-harmony-013-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia diatónica",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases, 32 negras; una armonía por compás. Voicings deliberadamente reducidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-013-02-primary",
+    "stageId": "stage-harmony-013-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Tonicizar vi",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases, 32 negras; una armonía por compás. Voicings deliberadamente reducidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-013-03-primary",
+    "stageId": "stage-harmony-013-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Dos destinos encadenados",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases, 32 negras; una armonía por compás. Voicings deliberadamente reducidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-013-04-primary",
+    "stageId": "stage-harmony-013-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Conservar solo V/V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases, 32 negras; una armonía por compás. Voicings deliberadamente reducidos.",
+    "loopable": true
+  }
+]

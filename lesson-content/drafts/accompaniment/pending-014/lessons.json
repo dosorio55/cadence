@@ -1,0 +1,21 @@
+[
+  {
+    "id": "lesson-accompaniment-014",
+    "primarySkillId": "skill-accompaniment-spacing",
+    "orderInCategory": 14,
+    "title": "Dar más espacio sin tocar más fuerte",
+    "difficulty": 4,
+    "goal": "Crear contraste entre dos frases variando registro y densidad de voicings sobre los mismos acordes.",
+    "introMd": "En ocho compases, conserva ritmo y dinámica para comparar disposición media compacta y más abierta entre manos. Mantén cada mano cómoda y evita duplicar graves; elige cómo recuperar el registro inicial en la llegada.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-009",
+      "lesson-accompaniment-011",
+      "lesson-accompaniment-012"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "jazz",
+      "balada"
+    ]
+  }
+]

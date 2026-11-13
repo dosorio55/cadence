@@ -1,0 +1,162 @@
+[
+  {
+    "id": "lesson-independence-001",
+    "primarySkillId": "skill-independence-bass-pulse",
+    "orderInCategory": 1,
+    "title": "El bajo sigue cuando la derecha calla",
+    "difficulty": 1,
+    "goal": "Mantener un bajo en blancas mientras la derecha alterna una nota larga y silencio.",
+    "introMd": "En cuatro compases de pop, usa fundamentales izquierdas y una nota derecha del acorde. Compara manos siempre juntas con entradas derechas independientes; elige un compás donde la derecha calle por completo sin interrumpir el bajo.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-001",
+      "lesson-melody-001"
+    ],
+    "targetMinutes": 15,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-independence-002",
+    "primarySkillId": "skill-independence-alternation",
+    "orderInCategory": 2,
+    "title": "Bajo y acorde se responden",
+    "difficulty": 1,
+    "goal": "Alternar bajo en uno y tres con acordes derechos en dos y cuatro sin cortar antes de tiempo el bajo.",
+    "introMd": "En cuatro compases de pop, compara todos los ataques simultáneos con la alternancia entre manos. Mantén el bajo hasta su siguiente ataque y los acordes breves; elige un enlace donde conservar la duración resulte más difícil.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-001",
+      "lesson-rhythm-003",
+      "lesson-accompaniment-001"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-independence-003",
+    "primarySkillId": "skill-independence-ostinatos",
+    "orderInCategory": 3,
+    "title": "Una izquierda que repite sin perseguir",
+    "difficulty": 1,
+    "goal": "Repetir raíz–quinta en la izquierda mientras la derecha sostiene notas de duraciones distintas.",
+    "introMd": "En cuatro compases sobre un acorde de pop, alterna dos notas izquierdas a negras dentro de una quinta y usa una nota larga derecha. Compara duraciones iguales con independientes; elige una pausa derecha sin detener la célula izquierda.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-001",
+      "lesson-rhythm-002"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-independence-004",
+    "primarySkillId": "skill-independence-walking",
+    "orderInCategory": 4,
+    "title": "Cuatro negras con dirección",
+    "difficulty": 2,
+    "goal": "Tocar un bajo a negras que llegue a la raíz siguiente mientras la derecha mantiene un shell largo.",
+    "introMd": "En cuatro compases de ii–V–I–I, la izquierda usa raíz, tercera, quinta y aproximación diatónica cómoda. Compara raíces repetidas con línea dirigida; elige la última nota del compás sin añadir cromatismos ni saltos grandes.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-002",
+      "lesson-accompaniment-007",
+      "lesson-harmony-001"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-independence-005",
+    "primarySkillId": "skill-independence-melody-over-pattern",
+    "orderInCategory": 5,
+    "title": "Cantar encima de una base sencilla",
+    "difficulty": 2,
+    "goal": "Tocar un motivo derecho con pausas sobre un bajo izquierdo regular sin igualar sus ritmos.",
+    "introMd": "En cuatro compases de balada, la izquierda toca raíz y quinta en blancas, la derecha un motivo breve conocido. Compara melodía pegada al bajo con frase independiente; elige dónde respira la melodía mientras la base continúa.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-003",
+      "lesson-melody-002"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-independence-006",
+    "primarySkillId": "skill-independence-bass-pulse",
+    "orderInCategory": 6,
+    "title": "Bajo a negras, frase a otro ritmo",
+    "difficulty": 2,
+    "goal": "Conservar negras izquierdas regulares cuando la derecha entra en contratiempo y se sostiene.",
+    "introMd": "En cuatro compases de pop, usa bajo de notas repetidas por acorde y una línea derecha mínima. Compara ataque conjunto con entrada derecha en 2&; elige un segundo contratiempo sin que el bajo lo imite.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-001",
+      "lesson-independence-005",
+      "lesson-rhythm-009"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-independence-007",
+    "primarySkillId": "skill-independence-alternation",
+    "orderInCategory": 7,
+    "title": "Coordinar la respuesta del bolero",
+    "difficulty": 2,
+    "goal": "Mantener el bajo en uno y tres mientras la derecha ejecuta la respuesta de bolero sin arrastrarlo al contratiempo.",
+    "introMd": "En cuatro compases, retoma acordes en dos, 2& y cuatro y bajo en uno y tres. Compara práctica por manos y combinación manteniendo duraciones diferentes; elige una omisión derecha sin cambiar ninguna entrada del bajo.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-002",
+      "lesson-independence-006",
+      "lesson-rhythm-008"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "bolero"
+    ]
+  },
+  {
+    "id": "lesson-independence-008",
+    "primarySkillId": "skill-independence-ostinatos",
+    "orderInCategory": 8,
+    "title": "El ostinato no copia la síncopa",
+    "difficulty": 2,
+    "goal": "Conservar una célula izquierda de corcheas seleccionadas mientras la derecha liga un contratiempo sobre el pulso.",
+    "introMd": "En cuatro compases de un vamp de funk, la izquierda repite raíz y quinta con huecos fijos y la derecha una nota sincopada. Compara ritmos acoplados con independientes; elige una pausa derecha sin densificar la izquierda ni exigir octavas rápidas.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-003",
+      "lesson-independence-006",
+      "lesson-rhythm-007",
+      "lesson-rhythm-009"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "funk"
+    ]
+  },
+  {
+    "id": "lesson-independence-009",
+    "primarySkillId": "skill-independence-walking",
+    "orderInCategory": 9,
+    "title": "Walking y un acorde que entra después",
+    "difficulty": 3,
+    "goal": "Sostener un walking a negras con un shell derecho breve que entra fuera del ataque del bajo.",
+    "introMd": "En cuatro compases de jazz, conserva el walking diatónico conocido y mueve un shell al contratiempo ternario. Compara shell en uno y desplazado; elige una sola respuesta derecha por compás y evita doblar la línea izquierda.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-004",
+      "lesson-independence-006",
+      "lesson-rhythm-010"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

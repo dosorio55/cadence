@@ -1,0 +1,21 @@
+[
+  {
+    "id": "lesson-melody-015",
+    "primarySkillId": "skill-melody-question-answer",
+    "orderInCategory": 15,
+    "title": "Improvisar una respuesta que se pueda cantar",
+    "difficulty": 5,
+    "goal": "Crear una frase de ocho compases con pregunta, respuesta y cierre reconocibles a partir de un motivo breve.",
+    "introMd": "Sobre ii–V–I y retorno conocidos, la izquierda sostiene acordes reducidos y la derecha desarrolla pocas notas. Compara una respuesta de referencia y otra propia; elige objetivos, una aproximación opcional y pausas, sin exigir velocidad ni agotar todos los recursos.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-010",
+      "lesson-melody-012",
+      "lesson-melody-013",
+      "lesson-melody-014"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

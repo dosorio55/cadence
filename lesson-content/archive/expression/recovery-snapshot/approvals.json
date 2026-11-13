@@ -1,0 +1,46 @@
+[
+  {
+    "category": "expression",
+    "batch": 1,
+    "verdict": "approved",
+    "review": "curriculum/reports/expression/batch-01-review.md",
+    "reviewSha256": "4ef8892af42be563b2bfd84ecb9aeeeffa8e4dd348acb8fbd5403056cd9c738e",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-expression-001",
+        "lesson-expression-002",
+        "lesson-expression-003"
+      ],
+      "sha256": "8aa050416a3e1bf56946fa48884b4efe04f2470e76ba60f5b7a6902de5595115",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 48,
+        "note-events": 234
+      }
+    }
+  },
+  {
+    "category": "expression",
+    "batch": 2,
+    "verdict": "approved",
+    "review": "curriculum/reports/expression/batch-02-review.md",
+    "reviewSha256": "736e5e8a68e970d9f0f1879f2d99c62cbaacc82571a573a0438406f75100db28",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-expression-004",
+        "lesson-expression-005",
+        "lesson-expression-006"
+      ],
+      "sha256": "404c59152e6dbfa5f2cd2e8220bcb025a353807f6b9dd451430763b64c70640a",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 64,
+        "note-events": 300
+      }
+    }
+  }
+]

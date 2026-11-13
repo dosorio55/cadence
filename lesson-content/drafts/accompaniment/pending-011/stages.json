@@ -1,0 +1,77 @@
+[
+  {
+    "id": "stage-accompaniment-011-01",
+    "lessonId": "lesson-accompaniment-011",
+    "order": 1,
+    "title": "Base: ciclo de ocho compases",
+    "explanationMd": "A: bloques derechos compactos de tres notas sobre raíces fijas en la izquierda. Observa el recorrido y el salto de G4 a C4 al repetir.",
+    "task": "Toca ocho bloques simultáneos, cuatro negras cada uno, con las raíces indicadas.",
+    "changeFromPrevious": "Presentación de la progresión cíclica y los bloques de referencia.",
+    "successCriteria": [
+      "Los voicings RH corresponden a la ruta 1 y sus cimas son C/D/C/A/C/E/D/G.",
+      "La izquierda conserva las ocho raíces y el loop cierra con una cima cómoda; no cambio armonía ni tempo."
+    ],
+    "simplifyHint": "Practica cada enlace entre dos compases, conservando las raíces y cuatro negras por bloque.",
+    "extendHint": "Repite el ciclo y comprueba especialmente la última cima al volver al compás 1."
+  },
+  {
+    "id": "stage-accompaniment-011-02",
+    "lessonId": "lesson-accompaniment-011",
+    "order": 2,
+    "title": "Ajustar el retorno",
+    "explanationMd": "Compara con 01: solo el último C pasa a [52,55,60]. C4 queda común al primer bloque y el retorno de D4 a C4 es por paso.",
+    "task": "Cambia únicamente el último bloque C a [52,55,60] y verifica la llegada a la primera cima C4.",
+    "changeFromPrevious": "Solo cambia el voicing RH del último C; LH, armonía y tiempos siguen fijos.",
+    "successCriteria": [
+      "Los voicings RH corresponden a la ruta 2 y sus cimas son C/D/C/A/C/E/D/C.",
+      "La izquierda conserva las ocho raíces y el loop cierra con una cima cómoda; no cambio armonía ni tempo."
+    ],
+    "simplifyHint": "Practica cada enlace entre dos compases, conservando las raíces y cuatro negras por bloque.",
+    "extendHint": "Repite el ciclo y comprueba especialmente la última cima al volver al compás 1."
+  },
+  {
+    "id": "stage-accompaniment-011-03",
+    "lessonId": "lesson-accompaniment-011",
+    "order": 3,
+    "title": "Reajustar Am",
+    "explanationMd": "Compara con 01: solo Am del compás 6 cambia a [52,57,60], con cima C4 en vez de E4; es un reajuste de la inversión anterior.",
+    "task": "Cambia únicamente Am del compás 6 a [52,57,60]; conserva las demás inversiones.",
+    "changeFromPrevious": "Solo cambia la inversión RH de Am en el compás 6 respecto de 01.",
+    "successCriteria": [
+      "Los voicings RH corresponden a la ruta 3 y sus cimas son C/D/C/A/C/C/D/G.",
+      "La izquierda conserva las ocho raíces y el loop cierra con una cima cómoda; no cambio armonía ni tempo."
+    ],
+    "simplifyHint": "Practica cada enlace entre dos compases, conservando las raíces y cuatro negras por bloque.",
+    "extendHint": "Repite el ciclo y comprueba especialmente la última cima al volver al compás 1."
+  },
+  {
+    "id": "stage-accompaniment-011-04",
+    "lessonId": "lesson-accompaniment-011",
+    "order": 4,
+    "title": "Segunda ruta completa",
+    "explanationMd": "Ruta B completa: cimas E/D/E/F/E/E/D/E. El recorrido usa pasos, unísonos y retorno E→E.",
+    "task": "Toca la segunda ruta completa sin mover las raíces ni alterar los ataques.",
+    "changeFromPrevious": "Nueva ruta completa de inversiones; raíces LH, armonía y duración siguen iguales.",
+    "successCriteria": [
+      "Los voicings RH corresponden a la ruta 4 y sus cimas son E/D/E/F/E/E/D/E.",
+      "La izquierda conserva las ocho raíces y el loop cierra con una cima cómoda; no cambio armonía ni tempo."
+    ],
+    "simplifyHint": "Practica cada enlace entre dos compases, conservando las raíces y cuatro negras por bloque.",
+    "extendHint": "Repite el ciclo y comprueba especialmente la última cima al volver al compás 1."
+  },
+  {
+    "id": "stage-accompaniment-011-05",
+    "lessonId": "lesson-accompaniment-011",
+    "order": 5,
+    "title": "Autonomía: elegir y volver",
+    "explanationMd": "Ruta C para autonomía: cimas C/D/E/F/E/E/D/C; elige una ruta propia con raíz izquierda fija y cima cómoda al cerrar el loop.",
+    "task": "Toca la ruta de referencia y diseña una ruta propia de inversiones, sin transponer ni añadir acordes.",
+    "changeFromPrevious": "Se propone una segunda ruta y se retira la solución prescrita para que el estudiante elija inversiones y cierre cómodo.",
+    "successCriteria": [
+      "Los voicings RH corresponden a la ruta 5 y sus cimas son C/D/E/F/E/E/D/C.",
+      "La izquierda conserva las ocho raíces y el loop cierra con una cima cómoda; no cambio armonía ni tempo."
+    ],
+    "simplifyHint": "Practica cada enlace entre dos compases, conservando las raíces y cuatro negras por bloque.",
+    "extendHint": "Repite el ciclo y comprueba especialmente la última cima al volver al compás 1."
+  }
+]

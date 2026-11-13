@@ -1,0 +1,72 @@
+[
+  {
+    "id": "stage-expression-015-01",
+    "lessonId": "lesson-expression-015",
+    "order": 1,
+    "title": "Entrada: bajo y espacio",
+    "explanationMd": "Compás 1 (0–4): solo LH, raíz 48 durante 4 beats; no hay nota RH. La melodía entra en compás 2.",
+    "task": "Toca las ocho raíces con LH; deja entero el compás 1 sin RH y cuenta la entrada de la idea en 4.",
+    "changeFromPrevious": "Nueva referencia de ejecución expresiva; la estructura y progresión de ocho compases permanecen.",
+    "successCriteria": [
+      "Forma exacta: compás 1 intro LH sola; compases 2–4 idea; 5–7 respuesta; 8 cierre."
+    ],
+    "simplifyHint": "Cuenta cuatro pulsos por compás y subdivide ternariamente la frase; practica LH sola y luego añade solo las notas RH escritas.",
+    "extendHint": "Sin añadir notas ni cambiar la forma, prueba un balance alternativo que preserve los ataques, las duraciones y el silencio final; explica qué mano calla en cada pausa."
+  },
+  {
+    "id": "stage-expression-015-02",
+    "lessonId": "lesson-expression-015",
+    "order": 2,
+    "title": "Idea: una línea contenida",
+    "explanationMd": "Compás 1 solo LH. La idea ocupa compases 2–4: RH 64@4, 67@6, 65@8, 69@10, 71@12, 65@14; cada nota dura 1 beat. RH plana a velocity 66; LH raíces a 55.",
+    "task": "Toca idea de tres compases con la RH a 62 y LH estable a 55. Escucha la línea sobre la armonía indicada, sin inventar acordes derechos.",
+    "changeFromPrevious": "Nueva referencia de ejecución expresiva; la estructura y progresión de ocho compases permanecen.",
+    "successCriteria": [
+      "Cada raíz LH entra en 0,4,8,12,16,20,24,28 y dura 4 beats; RH idea en beats 4,6,8,10,12,14, cada duración 1."
+    ],
+    "simplifyHint": "Cuenta cuatro pulsos por compás y subdivide ternariamente la frase; practica LH sola y luego añade solo las notas RH escritas.",
+    "extendHint": "Sin añadir notas ni cambiar la forma, prueba un balance alternativo que preserve los ataques, las duraciones y el silencio final; explica qué mano calla en cada pausa."
+  },
+  {
+    "id": "stage-expression-015-03",
+    "lessonId": "lesson-expression-015",
+    "order": 3,
+    "title": "Respuesta: más presencia",
+    "explanationMd": "La forma sigue 1 intro + 3 idea + 3 respuesta + 1 cierre. La RH responde en compases 5–7 (64@16, 67@18, 72@20, 76@22, 71@24, 74@26), velocity 78; idea 62. Cierre RH 72@28 velocity 68.",
+    "task": "Contrasta la respuesta a 78 con la idea a 62; mantén LH a 55. Decide si el contraste basta sin acelerar ni añadir notas.",
+    "changeFromPrevious": "Nueva referencia de ejecución expresiva; la estructura y progresión de ocho compases permanecen.",
+    "successCriteria": [
+      "La respuesta RH ocurre en 16,18,20,22,24,26, duración 1; intensidades 62/78 según frase; cierre 72@28 duración 4."
+    ],
+    "simplifyHint": "Cuenta cuatro pulsos por compás y subdivide ternariamente la frase; practica LH sola y luego añade solo las notas RH escritas.",
+    "extendHint": "Sin añadir notas ni cambiar la forma, prueba un balance alternativo que preserve los ataques, las duraciones y el silencio final; explica qué mano calla en cada pausa."
+  },
+  {
+    "id": "stage-expression-015-04",
+    "lessonId": "lesson-expression-015",
+    "order": 4,
+    "title": "Cierre que se detiene",
+    "explanationMd": "Solo RH 65@14 se omite: pausa de RH [13,16); LH sí ataca en 12 y 16, nunca espera. En compás 8 LH y RH duran 2 beats, luego silencio TOTAL [30,32). No loop.",
+    "task": "Ejecuta el silencio solo de RH [13,16), manteniendo LH; en el último compás ambas manos terminan en 30 y descansan juntas [30,32).",
+    "changeFromPrevious": "Nueva referencia de ejecución expresiva; la estructura y progresión de ocho compases permanecen.",
+    "successCriteria": [
+      "RH 65@14 ausente, RH calla [13,16) y LH no espera. Ambas manos del compás 8 duran 2 beats y hay silencio total [30,32); loopable=false."
+    ],
+    "simplifyHint": "Cuenta cuatro pulsos por compás y subdivide ternariamente la frase; practica LH sola y luego añade solo las notas RH escritas.",
+    "extendHint": "Sin añadir notas ni cambiar la forma, prueba un balance alternativo que preserve los ataques, las duraciones y el silencio final; explica qué mano calla en cada pausa."
+  },
+  {
+    "id": "stage-expression-015-05",
+    "lessonId": "lesson-expression-015",
+    "order": 5,
+    "title": "Elegir balance y respiración",
+    "explanationMd": "Autonomía: conserva forma, entrada LH sola y cierre/silencio de etapa 04. Solo suaviza final: RH 72@28 velocity 60 y LH raíz 48@28 velocity 40; resto de velocities como 02. Elige balance/respiración/final; no añadas recursos por obligación.",
+    "task": "Interpreta la forma completa con el final suavizado. Elige un balance, una respiración de RH y un cierre; respeta silencio total final y no fuerces adornos.",
+    "changeFromPrevious": "Nueva referencia de ejecución expresiva; la estructura y progresión de ocho compases permanecen.",
+    "successCriteria": [
+      "Solo cambia a velocidad RH 60 y LH 40 en @28 respecto a etapa 04; resto como etapa 02. Forma 1+3+3+1 y silencio total final se mantienen."
+    ],
+    "simplifyHint": "Cuenta cuatro pulsos por compás y subdivide ternariamente la frase; practica LH sola y luego añade solo las notas RH escritas.",
+    "extendHint": "Sin añadir notas ni cambiar la forma, prueba un balance alternativo que preserve los ataques, las duraciones y el silencio final; explica qué mano calla en cada pausa."
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ce-expression-012-01-01",
+    "progressionId": "prog-expression-012-01-primary",
+    "order": 1,
+    "symbol": "C",
+    "function": "I",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-01-02",
+    "progressionId": "prog-expression-012-01-primary",
+    "order": 2,
+    "symbol": "Am",
+    "function": "vi",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-01-03",
+    "progressionId": "prog-expression-012-01-primary",
+    "order": 3,
+    "symbol": "F",
+    "function": "IV",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-01-04",
+    "progressionId": "prog-expression-012-01-primary",
+    "order": 4,
+    "symbol": "G",
+    "function": "V",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-02-01",
+    "progressionId": "prog-expression-012-02-primary",
+    "order": 1,
+    "symbol": "C",
+    "function": "I",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-02-02",
+    "progressionId": "prog-expression-012-02-primary",
+    "order": 2,
+    "symbol": "Am",
+    "function": "vi",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-02-03",
+    "progressionId": "prog-expression-012-02-primary",
+    "order": 3,
+    "symbol": "F",
+    "function": "IV",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-02-04",
+    "progressionId": "prog-expression-012-02-primary",
+    "order": 4,
+    "symbol": "G",
+    "function": "V",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-03-01",
+    "progressionId": "prog-expression-012-03-primary",
+    "order": 1,
+    "symbol": "C",
+    "function": "I",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-03-02",
+    "progressionId": "prog-expression-012-03-primary",
+    "order": 2,
+    "symbol": "Am",
+    "function": "vi",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-03-03",
+    "progressionId": "prog-expression-012-03-primary",
+    "order": 3,
+    "symbol": "F",
+    "function": "IV",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-03-04",
+    "progressionId": "prog-expression-012-03-primary",
+    "order": 4,
+    "symbol": "G",
+    "function": "V",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-04-01",
+    "progressionId": "prog-expression-012-04-primary",
+    "order": 1,
+    "symbol": "C",
+    "function": "I",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-04-02",
+    "progressionId": "prog-expression-012-04-primary",
+    "order": 2,
+    "symbol": "Am",
+    "function": "vi",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-04-03",
+    "progressionId": "prog-expression-012-04-primary",
+    "order": 3,
+    "symbol": "F",
+    "function": "IV",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "ce-expression-012-04-04",
+    "progressionId": "prog-expression-012-04-primary",
+    "order": 4,
+    "symbol": "G",
+    "function": "V",
+    "startBeat": 12,
+    "durationBeats": 4
+  }
+]

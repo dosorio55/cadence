@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-independence-013",
+    "primarySkillId": "skill-independence-ostinatos",
+    "orderInCategory": 13,
+    "title": "Cambiar la frase sin perder el ostinato",
+    "difficulty": 4,
+    "goal": "Mantener una célula izquierda de funk durante dos frases derechas de distinta densidad y duración.",
+    "introMd": "En ocho compases de un vamp de uno o dos acordes, reutiliza el ostinato reducido y limita la derecha a tres notas. Compara frase repetida con respuesta variada; elige silencios y síncopas sin variar a la vez el patrón de bajo.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-008",
+      "lesson-independence-011",
+      "lesson-rhythm-012"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "funk"
+    ]
+  }
+]

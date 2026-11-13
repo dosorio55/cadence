@@ -1,0 +1,19 @@
+[
+  {
+    "id": "lesson-rhythm-011",
+    "primarySkillId": "skill-rhythm-pulse",
+    "orderInCategory": 11,
+    "title": "Densidad distinta, mismo reloj",
+    "difficulty": 3,
+    "goal": "Alternar dos compases densos y dos espaciados sin que el ciclo se acelere ni se frene.",
+    "introMd": "Construye ocho compases de pop con bajo sencillo y tríadas conocidas. Mantén iguales armonía y tempo al comparar una textura continua con bloques de densidad; organiza tu propio contraste y verifica la llegada del compás cinco.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-006",
+      "lesson-rhythm-007"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "pop"
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "chord-rhythm-004-01-primary-001",
+    "progressionId": "prog-rhythm-004-01-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "I",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-rhythm-004-01-primary-002",
+    "progressionId": "prog-rhythm-004-01-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-rhythm-004-01-primary-003",
+    "progressionId": "prog-rhythm-004-01-primary",
+    "order": 3,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-rhythm-004-01-primary-004",
+    "progressionId": "prog-rhythm-004-01-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-rhythm-004-02-primary-001",
+    "progressionId": "prog-rhythm-004-02-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "I",
+    "startBeat": 0,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-rhythm-004-02-primary-002",
+    "progressionId": "prog-rhythm-004-02-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 4,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-rhythm-004-02-primary-003",
+    "progressionId": "prog-rhythm-004-02-primary",
+    "order": 3,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 8,
+    "durationBeats": 3.5
+  },
+  {
+    "id": "chord-rhythm-004-02-primary-004",
+    "progressionId": "prog-rhythm-004-02-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 11.5,
+    "durationBeats": 4.5
+  },
+  {
+    "id": "chord-rhythm-004-03-primary-001",
+    "progressionId": "prog-rhythm-004-03-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "I",
+    "startBeat": 0,
+    "durationBeats": 3.5
+  },
+  {
+    "id": "chord-rhythm-004-03-primary-002",
+    "progressionId": "prog-rhythm-004-03-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 3.5,
+    "durationBeats": 4.5
+  },
+  {
+    "id": "chord-rhythm-004-03-primary-003",
+    "progressionId": "prog-rhythm-004-03-primary",
+    "order": 3,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 8,
+    "durationBeats": 3.5
+  },
+  {
+    "id": "chord-rhythm-004-03-primary-004",
+    "progressionId": "prog-rhythm-004-03-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 11.5,
+    "durationBeats": 4.5
+  },
+  {
+    "id": "chord-rhythm-004-04-primary-001",
+    "progressionId": "prog-rhythm-004-04-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "I",
+    "startBeat": 0,
+    "durationBeats": 3.5
+  },
+  {
+    "id": "chord-rhythm-004-04-primary-002",
+    "progressionId": "prog-rhythm-004-04-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 3.5,
+    "durationBeats": 4.5
+  },
+  {
+    "id": "chord-rhythm-004-04-primary-003",
+    "progressionId": "prog-rhythm-004-04-primary",
+    "order": 3,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 8,
+    "durationBeats": 3.5
+  },
+  {
+    "id": "chord-rhythm-004-04-primary-004",
+    "progressionId": "prog-rhythm-004-04-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 11.5,
+    "durationBeats": 4.5
+  },
+  {
+    "id": "chord-rhythm-004-05-primary-001",
+    "progressionId": "prog-rhythm-004-05-primary",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "I",
+    "startBeat": 0,
+    "durationBeats": 3.5
+  },
+  {
+    "id": "chord-rhythm-004-05-primary-002",
+    "progressionId": "prog-rhythm-004-05-primary",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 3.5,
+    "durationBeats": 4.5
+  },
+  {
+    "id": "chord-rhythm-004-05-primary-003",
+    "progressionId": "prog-rhythm-004-05-primary",
+    "order": 3,
+    "symbol": "Dm7",
+    "function": "ii7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-rhythm-004-05-primary-004",
+    "progressionId": "prog-rhythm-004-05-primary",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-rhythm-004-05-alternative-01-001",
+    "progressionId": "prog-rhythm-004-05-alternative-01",
+    "order": 1,
+    "symbol": "Cmaj7",
+    "function": "I",
+    "startBeat": 0,
+    "durationBeats": 3.5
+  },
+  {
+    "id": "chord-rhythm-004-05-alternative-01-002",
+    "progressionId": "prog-rhythm-004-05-alternative-01",
+    "order": 2,
+    "symbol": "Am7",
+    "function": "vi7",
+    "startBeat": 3.5,
+    "durationBeats": 4.5
+  },
+  {
+    "id": "chord-rhythm-004-05-alternative-01-003",
+    "progressionId": "prog-rhythm-004-05-alternative-01",
+    "order": 3,
+    "symbol": "Fmaj7",
+    "function": "IVmaj7",
+    "startBeat": 8,
+    "durationBeats": 4
+  },
+  {
+    "id": "chord-rhythm-004-05-alternative-01-004",
+    "progressionId": "prog-rhythm-004-05-alternative-01",
+    "order": 4,
+    "symbol": "G7",
+    "function": "V7",
+    "startBeat": 12,
+    "durationBeats": 4
+  }
+]

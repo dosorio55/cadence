@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-melody-014",
+    "primarySkillId": "skill-melody-approaches",
+    "orderInCategory": 14,
+    "title": "Rodear una nota y llegar a tiempo",
+    "difficulty": 4,
+    "goal": "Resolver un cerco de dos notas hacia una nota guía en el tiempo armónico previsto.",
+    "introMd": "En cuatro compases de jazz, usa vecina diatónica superior y semitono inferior antes del objetivo, con bajo y shell izquierdos espaciados. Compara aproximación simple y cerco; elige una sola llegada para evitar cromatismo continuo sin dirección.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-009",
+      "lesson-melody-011",
+      "lesson-melody-013"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

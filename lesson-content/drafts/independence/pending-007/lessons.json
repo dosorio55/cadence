@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-independence-007",
+    "primarySkillId": "skill-independence-alternation",
+    "orderInCategory": 7,
+    "title": "Coordinar la respuesta del bolero",
+    "difficulty": 2,
+    "goal": "Mantener el bajo en uno y tres mientras la derecha ejecuta la respuesta de bolero sin arrastrarlo al contratiempo.",
+    "introMd": "En cuatro compases, retoma acordes en dos, 2& y cuatro y bajo en uno y tres. Compara práctica por manos y combinación manteniendo duraciones diferentes; elige una omisión derecha sin cambiar ninguna entrada del bajo.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-002",
+      "lesson-independence-006",
+      "lesson-rhythm-008"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "bolero"
+    ]
+  }
+]

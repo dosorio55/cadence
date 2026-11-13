@@ -1,0 +1,681 @@
+[
+  {
+    "category": "rhythm",
+    "batch": 0,
+    "verdict": "approved",
+    "review": "lesson-content/audits/pilot-music-review.md",
+    "reviewSha256": "34d380a3c123e332783900493773c3f29855d8fecc9e78e42799a16870713c70",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-rhythm-004"
+      ],
+      "sha256": "b658d7a48e25868ae71e264231cf40fa761ed6a1d94324514922b60c2d0ca92e",
+      "counts": {
+        "lessons": 1,
+        "stages": 5,
+        "progressions": 6,
+        "chord-events": 24,
+        "note-events": 120
+      }
+    }
+  },
+  {
+    "category": "rhythm",
+    "batch": 1,
+    "verdict": "approved",
+    "review": "lesson-content/audits/rhythm/batch-01-review.md",
+    "reviewSha256": "067e03f849ab4e73d4e1e6c664172bd54fa8fe8da064e282ed5291d0156997c9",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-rhythm-001",
+        "lesson-rhythm-002",
+        "lesson-rhythm-003"
+      ],
+      "sha256": "f6e537fbc3ff1e8cd70928d645cc106a83b9f36cd364dce87a010aced15f9ec7",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 34,
+        "note-events": 551
+      }
+    }
+  },
+  {
+    "category": "expression",
+    "batch": 1,
+    "verdict": "approved",
+    "review": "lesson-content/audits/expression/batch-01-review.md",
+    "reviewSha256": "4ef8892af42be563b2bfd84ecb9aeeeffa8e4dd348acb8fbd5403056cd9c738e",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-expression-001",
+        "lesson-expression-002",
+        "lesson-expression-003"
+      ],
+      "sha256": "8aa050416a3e1bf56946fa48884b4efe04f2470e76ba60f5b7a6902de5595115",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 48,
+        "note-events": 234
+      }
+    }
+  },
+  {
+    "category": "melody",
+    "batch": 1,
+    "verdict": "approved",
+    "review": "lesson-content/audits/melody/batch-01-review.md",
+    "reviewSha256": "e3c50ffca693082d0d39e10f2968dcdcf914446d2ac90f53c46a45b16e2edca1",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-melody-001",
+        "lesson-melody-002",
+        "lesson-melody-003"
+      ],
+      "sha256": "869d7d5ce2622406a49c0804b52b6bb18e996b830ea1adf6cd1204cec10be3d1",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 48,
+        "note-events": 143
+      }
+    }
+  },
+  {
+    "category": "harmony",
+    "batch": 1,
+    "verdict": "approved",
+    "review": "lesson-content/audits/harmony/batch-01-review.md",
+    "reviewSha256": "1c035278fe909c5fb49a8fb88848941e2830bd30a6be6ff4358bac7fe0a9196f",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-harmony-001",
+        "lesson-harmony-002",
+        "lesson-harmony-003"
+      ],
+      "sha256": "d5d3949f19888790731167e312c89c0fb5c7177c293b887352c50ff9a1506446",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 48,
+        "note-events": 196
+      }
+    }
+  },
+  {
+    "category": "independence",
+    "batch": 1,
+    "verdict": "approved",
+    "review": "lesson-content/audits/independence/batch-01-review.md",
+    "reviewSha256": "1c36480c121fb903381e8f3039953df108b95f0a2bdb99bcb115a1af8bcf3ce6",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-independence-001",
+        "lesson-independence-002",
+        "lesson-independence-003"
+      ],
+      "sha256": "6e0ca990f5b66307085a37fe2673ff8d58aedb54fc6e959c6b37fee25c967002",
+      "counts": {
+        "lessons": 3,
+        "stages": 15,
+        "progressions": 15,
+        "chord-events": 45,
+        "note-events": 278
+      }
+    }
+  },
+  {
+    "category": "accompaniment",
+    "batch": 1,
+    "verdict": "approved",
+    "review": "lesson-content/audits/accompaniment/batch-01-review.md",
+    "reviewSha256": "b0911cdda42dc2dd72f2bd67a11bd5eeb84790c07ef1c13e95bb001ae83abd23",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-accompaniment-001",
+        "lesson-accompaniment-002",
+        "lesson-accompaniment-003"
+      ],
+      "sha256": "cdc5978227507c7c132c1f12822534e092bcb1c532cc5a653a63efa894b6c127",
+      "counts": {
+        "lessons": 3,
+        "stages": 15,
+        "progressions": 15,
+        "chord-events": 60,
+        "note-events": 228
+      }
+    }
+  },
+  {
+    "category": "expression",
+    "batch": 2,
+    "verdict": "approved",
+    "review": "lesson-content/audits/expression/batch-02-review.md",
+    "reviewSha256": "736e5e8a68e970d9f0f1879f2d99c62cbaacc82571a573a0438406f75100db28",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-expression-004",
+        "lesson-expression-005",
+        "lesson-expression-006"
+      ],
+      "sha256": "404c59152e6dbfa5f2cd2e8220bcb025a353807f6b9dd451430763b64c70640a",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 64,
+        "note-events": 300
+      }
+    }
+  },
+  {
+    "category": "melody",
+    "batch": 2,
+    "verdict": "approved",
+    "review": "lesson-content/audits/melody/batch-02-review.md",
+    "reviewSha256": "b4280f922865d1c4c613e3e31d30dc739eb2cb5aac0f5bfecc4b8b47d13dd4b2",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-melody-004",
+        "lesson-melody-005",
+        "lesson-melody-006"
+      ],
+      "sha256": "18c85356aca9bf04b528b9aae2b750dd6bc7e8c6e261aa68c6c603ec65bb33b4",
+      "counts": {
+        "lessons": 3,
+        "stages": 13,
+        "progressions": 13,
+        "chord-events": 52,
+        "note-events": 155
+      }
+    }
+  },
+  {
+    "category": "rhythm",
+    "batch": 2,
+    "verdict": "approved",
+    "review": "lesson-content/audits/rhythm/batch-02-review.md",
+    "reviewSha256": "cafca4f39c44b263be019d151fb26b5e8f31df1c8592361a0f65856c58773d71",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-rhythm-005",
+        "lesson-rhythm-006",
+        "lesson-rhythm-007"
+      ],
+      "sha256": "fe443ebbd588f0427080ee861a45b03be05024bfd235fa2a020ecd94108cd421",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 52,
+        "note-events": 744
+      }
+    }
+  },
+  {
+    "category": "accompaniment",
+    "batch": 2,
+    "verdict": "approved",
+    "review": "lesson-content/audits/accompaniment/batch-02-review.md",
+    "reviewSha256": "8ed9aaa784ca445af2ee3b07db71f8201da23cd9e3dbffcd0b4ace85b15dbf98",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-accompaniment-004",
+        "lesson-accompaniment-005",
+        "lesson-accompaniment-006"
+      ],
+      "sha256": "98e779aa78f26628f64134da0ae99f79c92778b142a432cd59c6ab97c420738a",
+      "counts": {
+        "lessons": 3,
+        "stages": 15,
+        "progressions": 15,
+        "chord-events": 80,
+        "note-events": 326
+      }
+    }
+  },
+  {
+    "category": "harmony",
+    "batch": 2,
+    "verdict": "approved",
+    "review": "lesson-content/audits/harmony/batch-02-review.md",
+    "reviewSha256": "31c797b5cda3aa172911be37046d7349929d5f84cc2fed6e6fb2fa5c9b992d70",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-harmony-004",
+        "lesson-harmony-005",
+        "lesson-harmony-006"
+      ],
+      "sha256": "7550259eecac62befd208b087ce1ad064d6161194792d8a9d008eded9e8733af",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 42,
+        "note-events": 172
+      }
+    }
+  },
+  {
+    "category": "independence",
+    "batch": 2,
+    "verdict": "approved",
+    "review": "lesson-content/audits/independence/batch-02-review.md",
+    "reviewSha256": "7f94a1a5d3b7bd9243b023c08a1e7ec54ea84125023cf756f1174c0333ba39da",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-independence-004",
+        "lesson-independence-005",
+        "lesson-independence-006"
+      ],
+      "sha256": "0c14722c64dfc62b163f88815478fecd6c1d2621a519fbfda227a16222f1c713",
+      "counts": {
+        "lessons": 3,
+        "stages": 15,
+        "progressions": 15,
+        "chord-events": 60,
+        "note-events": 299
+      }
+    }
+  },
+  {
+    "category": "melody",
+    "batch": 3,
+    "verdict": "approved",
+    "review": "lesson-content/audits/melody/batch-03-review.md",
+    "reviewSha256": "d295dbb1154c769ffc97fcd4f4321c8e95f3396f023008d0c989b018e28523ac",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-melody-007",
+        "lesson-melody-008",
+        "lesson-melody-009"
+      ],
+      "sha256": "6ddee10401ef890ed48d5f11bae21b63a4ee178eadd68877396ea030af38a171",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 48,
+        "note-events": 155
+      }
+    }
+  },
+  {
+    "category": "expression",
+    "batch": 3,
+    "verdict": "approved",
+    "review": "lesson-content/audits/expression/batch-03-review.md",
+    "reviewSha256": "602b33fc404b5f49ea6f215ca6f0ffdc2b0c96f034c85f6026cbc91a513e1e1d",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-expression-007",
+        "lesson-expression-008",
+        "lesson-expression-009"
+      ],
+      "sha256": "935863e3829942519f89aa9658ca460d8e2a0c6e456def25b037d234e8091c5d",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 48,
+        "note-events": 329
+      }
+    }
+  },
+  {
+    "category": "independence",
+    "batch": 3,
+    "verdict": "approved",
+    "review": "lesson-content/audits/independence/batch-03-review.md",
+    "reviewSha256": "08a08894acafd6b0e3a0c09c0b0706be0680e96eb401acf2fae83ac21372bd90",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-independence-007",
+        "lesson-independence-008",
+        "lesson-independence-009"
+      ],
+      "sha256": "aef11e0f499d24b1248badbd72122eb02f74ab63b58350cc7400b247da95c37b",
+      "counts": {
+        "lessons": 3,
+        "stages": 15,
+        "progressions": 15,
+        "chord-events": 45,
+        "note-events": 353
+      }
+    }
+  },
+  {
+    "category": "harmony",
+    "batch": 3,
+    "verdict": "approved",
+    "review": "lesson-content/audits/harmony/batch-03-review.md",
+    "reviewSha256": "6a04a87ad65e09038e89f256abcbd1112814f3852ea06d7cf1e0d6b22c4ac34c",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-harmony-007",
+        "lesson-harmony-008",
+        "lesson-harmony-009"
+      ],
+      "sha256": "88823b541734b2a9f6d7570ecd780c70ae36316b44a094c7ca7020051e5ca5b5",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 51,
+        "note-events": 209
+      }
+    }
+  },
+  {
+    "category": "accompaniment",
+    "batch": 3,
+    "verdict": "approved",
+    "review": "lesson-content/audits/accompaniment/batch-03-review.md",
+    "reviewSha256": "b63e2bf3cedbf854082b012e54d5753f2c0ccb96456ce31ad29c38e669124013",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-accompaniment-007",
+        "lesson-accompaniment-008",
+        "lesson-accompaniment-009"
+      ],
+      "sha256": "80b4dcfbeebe9453159b9dc792916409bcc692f073199ac4de020ad32fb0d658",
+      "counts": {
+        "lessons": 3,
+        "stages": 15,
+        "progressions": 15,
+        "chord-events": 60,
+        "note-events": 252
+      }
+    }
+  },
+  {
+    "category": "rhythm",
+    "batch": 3,
+    "verdict": "approved",
+    "review": "lesson-content/audits/rhythm/batch-03-review.md",
+    "reviewSha256": "bffd3c02338748e218a7dc9c51e1557d2ad796cd60abf19379f9fef4712c05bf",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-rhythm-008",
+        "lesson-rhythm-009",
+        "lesson-rhythm-010"
+      ],
+      "sha256": "e5ac0f912c9090d323a1c95d867373b2a83de0754e78d997c89d13da35e6a044",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 48,
+        "note-events": 296
+      }
+    }
+  },
+  {
+    "category": "melody",
+    "batch": 4,
+    "verdict": "approved",
+    "review": "lesson-content/audits/melody/batch-04-review.md",
+    "reviewSha256": "72ebe68334c48984271d5bf3770bf0260e72644e35a20f5ad093f1a90768f4fb",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-melody-010",
+        "lesson-melody-011",
+        "lesson-melody-012"
+      ],
+      "sha256": "8255883a80216b230697d13e9220c6a337fc799cafb6ca3ef8039cc54738a5f1",
+      "counts": {
+        "lessons": 3,
+        "stages": 13,
+        "progressions": 13,
+        "chord-events": 104,
+        "note-events": 391
+      }
+    }
+  },
+  {
+    "category": "expression",
+    "batch": 4,
+    "verdict": "approved",
+    "review": "lesson-content/audits/expression/batch-04-review.md",
+    "reviewSha256": "2fd844b649958048e846b55dc53318c5485472240fc1a9ca6855f188cedd8467",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-expression-010",
+        "lesson-expression-011",
+        "lesson-expression-012"
+      ],
+      "sha256": "9baad869691ed77396bb7701b67bb87952307c1de4c56c3e8ac10c6e28606a08",
+      "counts": {
+        "lessons": 3,
+        "stages": 14,
+        "progressions": 14,
+        "chord-events": 96,
+        "note-events": 347
+      }
+    }
+  },
+  {
+    "category": "independence",
+    "batch": 4,
+    "verdict": "approved",
+    "review": "lesson-content/audits/independence/batch-04-review.md",
+    "reviewSha256": "449296cf097ae9cbbfd45a3cf592337746866203c75240188e0c76b421d64403",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-independence-010",
+        "lesson-independence-011",
+        "lesson-independence-012"
+      ],
+      "sha256": "800dae7fc922b03665e6e11a553478be912d95a9327cf127b60af19f70d28857",
+      "counts": {
+        "lessons": 3,
+        "stages": 14,
+        "progressions": 14,
+        "chord-events": 96,
+        "note-events": 521
+      }
+    }
+  },
+  {
+    "category": "harmony",
+    "batch": 4,
+    "verdict": "approved",
+    "review": "lesson-content/audits/harmony/batch-04-review.md",
+    "reviewSha256": "fd6fcddb14e875526900abdccd0ef461fa8a84de102bb4b7724dfbf4aef8d1c8",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-harmony-010",
+        "lesson-harmony-011",
+        "lesson-harmony-012"
+      ],
+      "sha256": "33433246ec66697fd926a431d3a00a90a9d271cd8b9429c69e2a8e7a6db92902",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 80,
+        "note-events": 262
+      }
+    }
+  },
+  {
+    "category": "accompaniment",
+    "batch": 4,
+    "verdict": "approved",
+    "review": "lesson-content/audits/accompaniment/batch-04-review.md",
+    "reviewSha256": "a4497f8ecffcc93e07a13c3c38b0f1944cc5b634cc950ee2defb95d1e3228459",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-accompaniment-010",
+        "lesson-accompaniment-011",
+        "lesson-accompaniment-012"
+      ],
+      "sha256": "068027b9e5212b18b236a43af9893fb9ec09644298a4401b0f0dfaf123911010",
+      "counts": {
+        "lessons": 3,
+        "stages": 15,
+        "progressions": 15,
+        "chord-events": 80,
+        "note-events": 400
+      }
+    }
+  },
+  {
+    "category": "rhythm",
+    "batch": 4,
+    "verdict": "approved",
+    "review": "lesson-content/audits/rhythm/batch-04-review.md",
+    "reviewSha256": "28b17736546a20b5965b66617a39b6b083cd45e8ee3be1dfd79763f32ad4efc5",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-rhythm-011",
+        "lesson-rhythm-012",
+        "lesson-rhythm-013"
+      ],
+      "sha256": "882814635221b2a44b8c3468e5c5c3bc979ae5a0e1595c8ad4de74247f277371",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 73,
+        "note-events": 780
+      }
+    }
+  },
+  {
+    "category": "melody",
+    "batch": 5,
+    "verdict": "approved",
+    "review": "lesson-content/audits/melody/batch-05-review.md",
+    "reviewSha256": "34609cebf8ec8b8d3e0a8af2870b7f1a44adccee1aab2df73353a4ab9a766de8",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-melody-013",
+        "lesson-melody-014",
+        "lesson-melody-015"
+      ],
+      "sha256": "c6daf590f78f2124d334332624969fe44e001f201f4bb92b6e42a8f4dc405722",
+      "counts": {
+        "lessons": 3,
+        "stages": 14,
+        "progressions": 14,
+        "chord-events": 96,
+        "note-events": 360
+      }
+    }
+  },
+  {
+    "category": "expression",
+    "batch": 5,
+    "verdict": "approved",
+    "review": "lesson-content/audits/expression/batch-05-review.md",
+    "reviewSha256": "c3b34f3c399685119d1083fd5b0bd73479de9342baf28627680fad1aad72ebcd",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-expression-013",
+        "lesson-expression-014",
+        "lesson-expression-015"
+      ],
+      "sha256": "88d64ba0e0a9420b94bd80b444120136f3e97383afc8a38d2c07b3a90395ae70",
+      "counts": {
+        "lessons": 3,
+        "stages": 14,
+        "progressions": 14,
+        "chord-events": 112,
+        "note-events": 485
+      }
+    }
+  },
+  {
+    "category": "independence",
+    "batch": 5,
+    "verdict": "approved",
+    "review": "lesson-content/audits/independence/batch-05-review.md",
+    "reviewSha256": "aa56b800c6a323bf3967c26b237bcd74f44ca5e89f685bac4e742d0a6b33f9da",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-independence-013",
+        "lesson-independence-014",
+        "lesson-independence-015"
+      ],
+      "sha256": "2b74ef485e836947baac98c7487bb92ef92b5387f299603fb4fbdf55bac01c32",
+      "counts": {
+        "lessons": 3,
+        "stages": 15,
+        "progressions": 15,
+        "chord-events": 90,
+        "note-events": 589
+      }
+    }
+  },
+  {
+    "category": "harmony",
+    "batch": 5,
+    "verdict": "approved",
+    "review": "lesson-content/audits/harmony/batch-05-review.md",
+    "reviewSha256": "f149da4a826702e71bd2b6dbbd17ea68d558cf4ca8943779fd66840e804ab272",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-harmony-013",
+        "lesson-harmony-014",
+        "lesson-harmony-015"
+      ],
+      "sha256": "1900a048734da2200417d8bad337e570b45714189e683b02007a7158050b7bfd",
+      "counts": {
+        "lessons": 3,
+        "stages": 12,
+        "progressions": 12,
+        "chord-events": 99,
+        "note-events": 327
+      }
+    }
+  },
+  {
+    "category": "accompaniment",
+    "batch": 5,
+    "verdict": "approved",
+    "review": "lesson-content/audits/accompaniment/batch-05-review.md",
+    "reviewSha256": "b0eb5bc522fee9974dec7fcbd3d86c8d396a88e822b09ffac789f811c24f8d35",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-accompaniment-013",
+        "lesson-accompaniment-014",
+        "lesson-accompaniment-015"
+      ],
+      "sha256": "58de7b6f3ed12e2c5d88b429b17c9c8990a3d8b7cb7994e49abad42360ef8f4b",
+      "counts": {
+        "lessons": 3,
+        "stages": 15,
+        "progressions": 16,
+        "chord-events": 128,
+        "note-events": 843
+      }
+    }
+  },
+  {
+    "category": "rhythm",
+    "batch": 5,
+    "verdict": "approved",
+    "review": "lesson-content/audits/rhythm/batch-05-review.md",
+    "reviewSha256": "d55bd2eb828c4112698ac512c87f834948d74d11320084d19ef88b9fe6b4a4e1",
+    "fingerprint": {
+      "lessonIds": [
+        "lesson-rhythm-014",
+        "lesson-rhythm-015"
+      ],
+      "sha256": "c4f18d3deea189c2b7001a7717945a0a9d08bb5010f54e9c395a4c668d232595",
+      "counts": {
+        "lessons": 2,
+        "stages": 10,
+        "progressions": 10,
+        "chord-events": 80,
+        "note-events": 371
+      }
+    }
+  }
+]

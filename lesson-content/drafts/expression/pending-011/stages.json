@@ -1,0 +1,67 @@
+[
+  {
+    "id": "stage-expression-011-01",
+    "lessonId": "lesson-expression-011",
+    "order": 1,
+    "title": "Mismo arreglo, mismo plano",
+    "explanationMd": "Base: velocity RH 66 y LH 55 en las dos frases.",
+    "task": "Toca las dos frases sin cambiar su balance. Escucha que ambas manos mantienen los mismos ataques y duraciones.",
+    "changeFromPrevious": "Base: velocity RH 66 y LH 55 en las dos frases.",
+    "successCriteria": [
+      "RH conserva las 16 notas a velocity 66; LH conserva velocity 55.",
+      "Las cinco etapas conservan idénticos pitch, startBeat y durationBeats para cada nota; solo cambia velocity."
+    ]
+  },
+  {
+    "id": "stage-expression-011-02",
+    "lessonId": "lesson-expression-011",
+    "order": 2,
+    "title": "Primera frase contenida",
+    "explanationMd": "Frente a 01, solo cambia velocity RH: 62 en los compases 1–4 y 76 en 5–8.",
+    "task": "Repite exactamente las notas. Haz que la primera frase quede contenida y que la segunda responda con mayor intensidad.",
+    "changeFromPrevious": "Frente a 01, solo cambia velocity RH: 62 en los compases 1–4 y 76 en 5–8.",
+    "successCriteria": [
+      "Las primeras ocho notas RH tienen velocity 62 y las últimas ocho 76; LH sigue en 55.",
+      "Las cinco etapas conservan idénticos pitch, startBeat y durationBeats para cada nota; solo cambia velocity."
+    ]
+  },
+  {
+    "id": "stage-expression-011-03",
+    "lessonId": "lesson-expression-011",
+    "order": 3,
+    "title": "Dirigir la respuesta a una cumbre",
+    "explanationMd": "Frente a 02, solo cambia velocity RH en la segunda frase, por orden de ataque: 70, 74, 78, 80, 88, 78, 70, 64.",
+    "task": "Mantén la primera frase contenida y dirige la respuesta hacia una única cumbre en el compás 6; después retira intensidad.",
+    "changeFromPrevious": "Frente a 02, solo cambia velocity RH en la segunda frase, por orden de ataque: 70, 74, 78, 80, 88, 78, 70, 64.",
+    "successCriteria": [
+      "La única máxima velocity es 88 en el ataque 20; tras ella cada nota vuelve a bajar. Primera frase 62 y LH 55.",
+      "Las cinco etapas conservan idénticos pitch, startBeat y durationBeats para cada nota; solo cambia velocity."
+    ]
+  },
+  {
+    "id": "stage-expression-011-04",
+    "lessonId": "lesson-expression-011",
+    "order": 4,
+    "title": "Apartar el acompañamiento",
+    "explanationMd": "Frente a 03, solo cambia velocity LH en compases 5–8 de 55 a 45; la RH no cambia.",
+    "task": "Conserva la dirección de la melodía. Baja únicamente el acompañamiento de la respuesta para que no compita con la RH.",
+    "changeFromPrevious": "Frente a 03, solo cambia velocity LH en compases 5–8 de 55 a 45; la RH no cambia.",
+    "successCriteria": [
+      "LH usa 45 en la segunda frase y 55 en la primera; todos los valores RH son idénticos a 03.",
+      "Las cinco etapas conservan idénticos pitch, startBeat y durationBeats para cada nota; solo cambia velocity."
+    ]
+  },
+  {
+    "id": "stage-expression-011-05",
+    "lessonId": "lesson-expression-011",
+    "order": 5,
+    "title": "Elegir una cumbre y volver",
+    "explanationMd": "Autonomía: cambia solo las velocities RH de la segunda frase para elegir una cumbre única en el ataque 20: 70, 74, 88, 80, 76, 72, 68, 62.",
+    "task": "Elige un solo punto culminante en la segunda frase y haz que la intensidad descienda después; conserva LH en segundo plano.",
+    "changeFromPrevious": "Autonomía: cambia solo las velocities RH de la segunda frase para elegir una cumbre única en el ataque 20: 70, 74, 88, 80, 76, 72, 68, 62.",
+    "successCriteria": [
+      "Solo el ataque 20 alcanza 88; la RH vuelve a bajar después y permanece por encima de LH, que sigue en 45 durante la respuesta.",
+      "Las cinco etapas conservan idénticos pitch, startBeat y durationBeats para cada nota; solo cambia velocity."
+    ]
+  }
+]

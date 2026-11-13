@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$"
+      },
+      "primarySkillId": {
+        "type": "string",
+        "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$"
+      },
+      "orderInCategory": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "title": {
+        "type": "string",
+        "minLength": 1
+      },
+      "difficulty": {
+        "type": "integer",
+        "minimum": 1,
+        "maximum": 5
+      },
+      "goal": {
+        "type": "string",
+        "minLength": 1
+      },
+      "introMd": {
+        "type": "string",
+        "minLength": 1
+      },
+      "prerequisiteLessonIds": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$"
+        },
+        "uniqueItems": true
+      },
+      "targetMinutes": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "styleTags": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        },
+        "minItems": 1,
+        "uniqueItems": true
+      }
+    },
+    "required": [
+      "id",
+      "primarySkillId",
+      "orderInCategory",
+      "title",
+      "difficulty",
+      "goal",
+      "introMd",
+      "prerequisiteLessonIds",
+      "targetMinutes",
+      "styleTags"
+    ],
+    "additionalProperties": false
+  }
+}

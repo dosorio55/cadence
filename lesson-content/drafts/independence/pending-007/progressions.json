@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-independence-007-01-primary",
+    "stageId": "stage-independence-007-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Práctica parcial LH",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases en 4/4. Practica solo la izquierda: raíces en offsets 0 y 2, duración 0.5 beats cada una. No hay eventos RH en esta etapa; es práctica parcial de LH, no una ejecución completa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-007-02-primary",
+    "stageId": "stage-independence-007-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Coordinar ambas manos",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases en 4/4. Añade shells RH en offsets 1, 1.5 y 3, duración 0.5 beats. La LH conserva exactamente ataques y duración de la etapa 01; coordina dos procesos independientes.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-007-03-primary",
+    "stageId": "stage-independence-007-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Prolongar el bajo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases en 4/4. La LH conserva offsets 0 y 2 y alarga cada nota a 2 beats. La RH mantiene ataques, alturas y duración 0.5 de la etapa 02.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-007-04-primary",
+    "stageId": "stage-independence-007-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Acortar respuesta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases en 4/4. La LH conserva offsets 0 y 2 y duración 2 beats. La RH conserva los ataques y shells de la etapa 03, pero cada shell dura 0.25 beats.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-007-05-primary",
+    "stageId": "stage-independence-007-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir una omisión",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bolero",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases en 4/4. Todo es idéntico a la etapa 04 excepto que RH omite el shell de offset global 5.5, en el segundo compás. Luego elige otra única omisión RH; no cambies la LH ni ningún otro ataque.",
+    "loopable": true
+  }
+]

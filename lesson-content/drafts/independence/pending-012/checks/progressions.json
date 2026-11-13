@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-independence-012-01-primary",
+    "stageId": "stage-independence-012-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Raíz y quinta, sin desmontar la célula",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases I–vi–ii–V repetidos dos veces. LH: raíz en offset 0 y quinta en 2, duración 2, durante los ocho compases. La célula derecha de bossa alterna patrón impar 0/1.5/3 y par 1/2.5, con las duraciones y la única omisión especificadas por etapa. Reducción pianística compartida, no orquestación completa; no exige tercera mano ni pedal.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-012-02-primary",
+    "stageId": "stage-independence-012-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Añadir la célula de bossa",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases I–vi–ii–V repetidos dos veces. LH: raíz en offset 0 y quinta en 2, duración 2, durante los ocho compases. La célula derecha de bossa alterna patrón impar 0/1.5/3 y par 1/2.5, con las duraciones y la única omisión especificadas por etapa. Reducción pianística compartida, no orquestación completa; no exige tercera mano ni pedal.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-012-03-primary",
+    "stageId": "stage-independence-012-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Despejar los shells",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases I–vi–ii–V repetidos dos veces. LH: raíz en offset 0 y quinta en 2, duración 2, durante los ocho compases. La célula derecha de bossa alterna patrón impar 0/1.5/3 y par 1/2.5, con las duraciones y la única omisión especificadas por etapa. Reducción pianística compartida, no orquestación completa; no exige tercera mano ni pedal.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-012-04-primary",
+    "stageId": "stage-independence-012-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Quitar un shell al final",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases I–vi–ii–V repetidos dos veces. LH: raíz en offset 0 y quinta en 2, duración 2, durante los ocho compases. La célula derecha de bossa alterna patrón impar 0/1.5/3 y par 1/2.5, con las duraciones y la única omisión especificadas por etapa. Reducción pianística compartida, no orquestación completa; no exige tercera mano ni pedal.",
+    "loopable": true
+  },
+  {
+    "id": "prog-independence-012-05-primary",
+    "stageId": "stage-independence-012-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elegir un hueco",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases I–vi–ii–V repetidos dos veces. LH: raíz en offset 0 y quinta en 2, duración 2, durante los ocho compases. La célula derecha de bossa alterna patrón impar 0/1.5/3 y par 1/2.5, con las duraciones y la única omisión especificadas por etapa. Reducción pianística compartida, no orquestación completa; no exige tercera mano ni pedal.",
+    "loopable": true
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-expression-014-01-primary",
+    "stageId": "stage-expression-014-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Frase de ocho compases 01",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de Cmaj7–Am7–Fmaj7–G7–Cmaj7–Am7–G7–Cmaj7; bloques LH raíz-tercera-séptima y línea RH de nueve eventos.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-014-02-primary",
+    "stageId": "stage-expression-014-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Frase de ocho compases 02",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de Cmaj7–Am7–Fmaj7–G7–Cmaj7–Am7–G7–Cmaj7; bloques LH raíz-tercera-séptima y línea RH de nueve eventos.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-014-03-primary",
+    "stageId": "stage-expression-014-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Frase de ocho compases 03",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de Cmaj7–Am7–Fmaj7–G7–Cmaj7–Am7–G7–Cmaj7; bloques LH raíz-tercera-séptima y línea RH de nueve eventos.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-014-04-primary",
+    "stageId": "stage-expression-014-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Frase de ocho compases 04",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de Cmaj7–Am7–Fmaj7–G7–Cmaj7–Am7–G7–Cmaj7; bloques LH raíz-tercera-séptima y línea RH de nueve eventos.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-014-05-primary",
+    "stageId": "stage-expression-014-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Frase de ocho compases 05",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases de Cmaj7–Am7–Fmaj7–G7–Cmaj7–Am7–G7–Cmaj7; bloques LH raíz-tercera-séptima y línea RH de nueve eventos.",
+    "loopable": false
+  }
+]

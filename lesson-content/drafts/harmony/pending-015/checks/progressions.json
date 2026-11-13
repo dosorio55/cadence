@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-harmony-015-01-primary",
+    "stageId": "stage-harmony-015-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia diatónica",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "32 negras, 8 compases de 4/4; cuatro negras por acorde. Voicings y dinámica fijos. LH se limita al bajo prescrito; RH, a los bloques prescritos. Solo cambia la ubicación autorizada de la sustitución Db7.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-015-02-primary",
+    "stageId": "stage-harmony-015-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Db7 en compás 6",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "32 negras, 8 compases de 4/4; cuatro negras por acorde. Voicings y dinámica fijos. LH se limita al bajo prescrito; RH, a los bloques prescritos. Solo cambia la ubicación autorizada de la sustitución Db7.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-015-03-primary",
+    "stageId": "stage-harmony-015-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Db7 en compás 2",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "32 negras, 8 compases de 4/4; cuatro negras por acorde. Voicings y dinámica fijos. LH se limita al bajo prescrito; RH, a los bloques prescritos. Solo cambia la ubicación autorizada de la sustitución Db7.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-015-04-primary",
+    "stageId": "stage-harmony-015-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elige compás 2 o 6",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "32 negras, 8 compases de 4/4; cuatro negras por acorde. Voicings y dinámica fijos. LH se limita al bajo prescrito; RH, a los bloques prescritos. Solo cambia la ubicación autorizada de la sustitución Db7.",
+    "loopable": true
+  }
+]

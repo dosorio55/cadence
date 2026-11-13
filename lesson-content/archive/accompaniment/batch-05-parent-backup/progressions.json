@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "prog-accompaniment-001-01-primary",
+    "stageId": "stage-accompaniment-001-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Base: tríadas en raíz",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "C–G–Am–F; raíces izquierdas y posiciones derechas compuestas para esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-001-02-primary",
+    "stageId": "stage-accompaniment-001-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Invertir V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "C–G–Am–F; raíces izquierdas y posiciones derechas compuestas para esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-001-03-primary",
+    "stageId": "stage-accompaniment-001-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Acercar Am",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "C–G–Am–F; raíces izquierdas y posiciones derechas compuestas para esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-001-04-primary",
+    "stageId": "stage-accompaniment-001-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Enlazar F",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "C–G–Am–F; raíces izquierdas y posiciones derechas compuestas para esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-001-05-primary",
+    "stageId": "stage-accompaniment-001-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elegir inversión",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "C–G–Am–F; raíces izquierdas y posiciones derechas compuestas para esta etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-002-01-primary",
+    "stageId": "stage-accompaniment-002-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia: acordes completos",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Dm7–G7–Cmaj7–Cmaj7 en do mayor; bajo de raíces y realización de bloque o shell según la etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-002-02-primary",
+    "stageId": "stage-accompaniment-002-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Reducir a shells",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Dm7–G7–Cmaj7–Cmaj7 en do mayor; bajo de raíces y realización de bloque o shell según la etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-002-03-primary",
+    "stageId": "stage-accompaniment-002-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cambiar la octava de la séptima de V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Dm7–G7–Cmaj7–Cmaj7 en do mayor; bajo de raíces y realización de bloque o shell según la etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-002-04-primary",
+    "stageId": "stage-accompaniment-002-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Mover el shell de ii una octava",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Dm7–G7–Cmaj7–Cmaj7 en do mayor; bajo de raíces y realización de bloque o shell según la etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-002-05-primary",
+    "stageId": "stage-accompaniment-002-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elegir la octava",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Dm7–G7–Cmaj7–Cmaj7 en do mayor; bajo de raíces y realización de bloque o shell según la etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-003-01-primary",
+    "stageId": "stage-accompaniment-003-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Base: tríadas en bloque",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "C–Am–F–G en do mayor; raíces izquierdas y bloques o ataques derechos regulares según la etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-003-02-primary",
+    "stageId": "stage-accompaniment-003-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Desplegar tres notas",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "C–Am–F–G en do mayor; raíces izquierdas y bloques o ataques derechos regulares según la etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-003-03-primary",
+    "stageId": "stage-accompaniment-003-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Acortar la cima y responder",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "C–Am–F–G en do mayor; raíces izquierdas y bloques o ataques derechos regulares según la etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-003-04-primary",
+    "stageId": "stage-accompaniment-003-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Dejar aire antes de la cima",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "C–Am–F–G en do mayor; raíces izquierdas y bloques o ataques derechos regulares según la etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-003-05-primary",
+    "stageId": "stage-accompaniment-003-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: decidir el espacio",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "C–Am–F–G en do mayor; raíces izquierdas y bloques o ataques derechos regulares según la etapa.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-004-01-primary",
+    "stageId": "stage-accompaniment-004-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Base: dos voces en posición baja",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-004-02-primary",
+    "stageId": "stage-accompaniment-004-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Desplazar las díadas una octava",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-004-03-primary",
+    "stageId": "stage-accompaniment-004-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Añadir la quinta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-004-04-primary",
+    "stageId": "stage-accompaniment-004-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retirar la quinta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-004-05-primary",
+    "stageId": "stage-accompaniment-004-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elegir dos o tres voces",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-005-01-primary",
+    "stageId": "stage-accompaniment-005-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "A: guía monofónica y bajo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-005-02-primary",
+    "stageId": "stage-accompaniment-005-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Añadir shells en beats 2 y 3",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-005-03-primary",
+    "stageId": "stage-accompaniment-005-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retirar el ataque de beat 2",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-005-04-primary",
+    "stageId": "stage-accompaniment-005-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Desplazar shell de 3 a 2",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-005-05-primary",
+    "stageId": "stage-accompaniment-005-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elegir un hueco",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-006-01-primary",
+    "stageId": "stage-accompaniment-006-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "A: tríadas en posición fundamental",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-006-02-primary",
+    "stageId": "stage-accompaniment-006-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cambiar solo la inversión de G",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-006-03-primary",
+    "stageId": "stage-accompaniment-006-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Conducir la cima por pasos y unísonos",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-006-04-primary",
+    "stageId": "stage-accompaniment-006-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Otra ruta de inversiones",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-006-05-primary",
+    "stageId": "stage-accompaniment-006-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: ocho bloques y retorno",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 80,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Progresión y realización pianística detalladas para esta etapa; los eventos especifican todas las alturas y duraciones.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-007-01-primary",
+    "stageId": "stage-accompaniment-007-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "A: shells separados",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-007-02-primary",
+    "stageId": "stage-accompaniment-007-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Acercar ii a V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-007-03-primary",
+    "stageId": "stage-accompaniment-007-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Llegada de la sensible",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-007-04-primary",
+    "stageId": "stage-accompaniment-007-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Otra posición de la séptima tónica",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-007-05-primary",
+    "stageId": "stage-accompaniment-007-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elige la posición de I",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-008-01-primary",
+    "stageId": "stage-accompaniment-008-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Arpegio de tres notas iguales",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-008-02-primary",
+    "stageId": "stage-accompaniment-008-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Sostener mientras se arpegia",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-008-03-primary",
+    "stageId": "stage-accompaniment-008-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Dos planos en la derecha",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-008-04-primary",
+    "stageId": "stage-accompaniment-008-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Menos relleno en un compás",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-008-05-primary",
+    "stageId": "stage-accompaniment-008-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elige el compás que respira",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-009-01-primary",
+    "stageId": "stage-accompaniment-009-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Shells sin novena",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-009-02-primary",
+    "stageId": "stage-accompaniment-009-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Novena de ii y V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-009-03-primary",
+    "stageId": "stage-accompaniment-009-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Color también en I",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-009-04-primary",
+    "stageId": "stage-accompaniment-009-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Volver al shell en V",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-009-05-primary",
+    "stageId": "stage-accompaniment-009-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir dónde dejar el color",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases; todas las notas, duraciones y voces descritas en esta etapa están realizadas explícitamente.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-010-01-primary",
+    "stageId": "stage-accompaniment-010-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Voicings densos",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Reducción de bossa de dos compases repetida: bajo en 1 y 3; acordes breves en la célula derecha 1/2&/4 y 2/3&. No representa por sí sola todo el género.",
+    "loopable": false
+  },
+  {
+    "id": "prog-accompaniment-010-02-primary",
+    "stageId": "stage-accompaniment-010-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Reducir a shells",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Reducción de bossa de dos compases repetida: bajo en 1 y 3; acordes breves en la célula derecha 1/2&/4 y 2/3&. No representa por sí sola todo el género.",
+    "loopable": false
+  },
+  {
+    "id": "prog-accompaniment-010-03-primary",
+    "stageId": "stage-accompaniment-010-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Una novena en Dm9",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Reducción de bossa de dos compases repetida: bajo en 1 y 3; acordes breves en la célula derecha 1/2&/4 y 2/3&. No representa por sí sola todo el género.",
+    "loopable": false
+  },
+  {
+    "id": "prog-accompaniment-010-04-primary",
+    "stageId": "stage-accompaniment-010-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Color puntual en G9",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Reducción de bossa de dos compases repetida: bajo en 1 y 3; acordes breves en la célula derecha 1/2&/4 y 2/3&. No representa por sí sola todo el género.",
+    "loopable": false
+  },
+  {
+    "id": "prog-accompaniment-010-05-primary",
+    "stageId": "stage-accompaniment-010-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir un color",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Reducción de bossa de dos compases repetida: bajo en 1 y 3; acordes breves en la célula derecha 1/2&/4 y 2/3&. No representa por sí sola todo el género.",
+    "loopable": false
+  },
+  {
+    "id": "prog-accompaniment-011-01-primary",
+    "stageId": "stage-accompaniment-011-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Base: ciclo de ocho compases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases en bloques: una raíz LH y un voicing RH por acorde, ambos sostenidos cuatro negras.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-011-02-primary",
+    "stageId": "stage-accompaniment-011-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Ajustar el retorno",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases en bloques: una raíz LH y un voicing RH por acorde, ambos sostenidos cuatro negras.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-011-03-primary",
+    "stageId": "stage-accompaniment-011-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Reajustar Am",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases en bloques: una raíz LH y un voicing RH por acorde, ambos sostenidos cuatro negras.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-011-04-primary",
+    "stageId": "stage-accompaniment-011-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Segunda ruta completa",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases en bloques: una raíz LH y un voicing RH por acorde, ambos sostenidos cuatro negras.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-011-05-primary",
+    "stageId": "stage-accompaniment-011-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elegir y volver",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 60,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases en bloques: una raíz LH y un voicing RH por acorde, ambos sostenidos cuatro negras.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-012-01-primary",
+    "stageId": "stage-accompaniment-012-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Referencia mayor",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Referencia mayor: cuatro acordes de un compás; raíz izquierda y bloque derecho sostenidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-012-02-primary",
+    "stageId": "stage-accompaniment-012-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Enlace menor completo",
+    "keyTonic": "A",
+    "keyMode": "minor",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Enlace menor completo: cuatro acordes de un compás; raíz izquierda y bloque derecho sostenidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-012-03-primary",
+    "stageId": "stage-accompaniment-012-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Solo iiø invertido",
+    "keyTonic": "A",
+    "keyMode": "minor",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Solo iiø invertido: cuatro acordes de un compás; raíz izquierda y bloque derecho sostenidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-012-04-primary",
+    "stageId": "stage-accompaniment-012-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Séptima natural de i7",
+    "keyTonic": "A",
+    "keyMode": "minor",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Séptima natural de i7: cuatro acordes de un compás; raíz izquierda y bloque derecho sostenidos.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-012-05-primary",
+    "stageId": "stage-accompaniment-012-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: elige posición de iiø",
+    "keyTonic": "A",
+    "keyMode": "minor",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Autonomía: elige posición de iiø: cuatro acordes de un compás; raíz izquierda y bloque derecho sostenidos.",
+    "loopable": true
+  }
+]

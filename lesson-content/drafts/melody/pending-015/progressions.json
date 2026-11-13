@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-melody-015-01-primary",
+    "stageId": "stage-melody-015-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Oír pregunta y respuesta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases ii–V–I con retorno; bloques LH sostenidos, RH espaciada y sin walking. Beats en negras.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-015-02-primary",
+    "stageId": "stage-melody-015-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cambiar el contorno de la respuesta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases ii–V–I con retorno; bloques LH sostenidos, RH espaciada y sin walking. Beats en negras.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-015-03-primary",
+    "stageId": "stage-melody-015-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Probar una aproximación opcional",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases ii–V–I con retorno; bloques LH sostenidos, RH espaciada y sin walking. Beats en negras.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-015-04-primary",
+    "stageId": "stage-melody-015-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Dejar espacio para la frase",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases ii–V–I con retorno; bloques LH sostenidos, RH espaciada y sin walking. Beats en negras.",
+    "loopable": false
+  },
+  {
+    "id": "prog-melody-015-05-primary",
+    "stageId": "stage-melody-015-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir objetivos antes de adornar",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Ocho compases ii–V–I con retorno; bloques LH sostenidos, RH espaciada y sin walking. Beats en negras.",
+    "loopable": false
+  }
+]

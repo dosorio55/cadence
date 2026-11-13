@@ -1,0 +1,1652 @@
+[
+  {
+    "id": "note-expression-014-01-lh-01-1",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-01-2",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 52,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-01-3",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 59,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-02-1",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-02-2",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 48,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-02-3",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 55,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-03-1",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-03-2",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 45,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-03-3",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 52,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-04-1",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-04-2",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 47,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-04-3",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 53,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-05-1",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 48,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-05-2",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 52,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-05-3",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 59,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-06-1",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 45,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-06-2",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 48,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-06-3",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 55,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-07-1",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 43,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-07-2",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 47,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-07-3",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 53,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-08-1",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 48,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-08-2",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 52,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-lh-08-3",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 59,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-01-rh-01",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 2,
+    "velocity": 70,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-01-rh-02",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 67,
+    "startBeat": 4,
+    "durationBeats": 2,
+    "velocity": 70,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-01-rh-03",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 65,
+    "startBeat": 8,
+    "durationBeats": 2,
+    "velocity": 70,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-01-rh-04",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 65,
+    "startBeat": 12,
+    "durationBeats": 2,
+    "velocity": 70,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-01-rh-05",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 64,
+    "startBeat": 16,
+    "durationBeats": 2,
+    "velocity": 70,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-01-rh-06",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 72,
+    "startBeat": 20,
+    "durationBeats": 2,
+    "velocity": 70,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-01-rh-07",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 72,
+    "startBeat": 24,
+    "durationBeats": 1,
+    "velocity": 70,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-01-rh-08",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 71,
+    "startBeat": 25,
+    "durationBeats": 3,
+    "velocity": 70,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-01-rh-09",
+    "progressionId": "prog-expression-014-01-primary",
+    "midi": 72,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 70,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-02-lh-01-1",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-01-2",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 52,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-01-3",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 59,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-02-1",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-02-2",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 48,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-02-3",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 55,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-03-1",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-03-2",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 45,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-03-3",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 52,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-04-1",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-04-2",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 47,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-04-3",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 53,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-05-1",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 48,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-05-2",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 52,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-05-3",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 59,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-06-1",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 45,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-06-2",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 48,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-06-3",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 55,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-07-1",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 43,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-07-2",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 47,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-07-3",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 53,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-08-1",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 48,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-08-2",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 52,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-lh-08-3",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 59,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-02-rh-01",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 2,
+    "velocity": 62,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-02-rh-02",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 67,
+    "startBeat": 4,
+    "durationBeats": 2,
+    "velocity": 64,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-02-rh-03",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 65,
+    "startBeat": 8,
+    "durationBeats": 2,
+    "velocity": 64,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-02-rh-04",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 65,
+    "startBeat": 12,
+    "durationBeats": 2,
+    "velocity": 66,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-02-rh-05",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 64,
+    "startBeat": 16,
+    "durationBeats": 2,
+    "velocity": 66,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-02-rh-06",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 72,
+    "startBeat": 20,
+    "durationBeats": 2,
+    "velocity": 70,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-02-rh-07",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 72,
+    "startBeat": 24,
+    "durationBeats": 1,
+    "velocity": 90,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-02-rh-08",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 71,
+    "startBeat": 25,
+    "durationBeats": 3,
+    "velocity": 72,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-02-rh-09",
+    "progressionId": "prog-expression-014-02-primary",
+    "midi": 72,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 60,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-03-lh-01-1",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-01-2",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 52,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-01-3",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 59,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-02-1",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-02-2",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 48,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-02-3",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 55,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-03-1",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-03-2",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 45,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-03-3",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 52,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-04-1",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-04-2",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 47,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-04-3",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 53,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-05-1",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 48,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-05-2",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 52,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-05-3",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 59,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-06-1",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 45,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-06-2",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 48,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-06-3",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 55,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-07-1",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 43,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-07-2",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 47,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-07-3",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 53,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-08-1",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 48,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-08-2",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 52,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-lh-08-3",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 59,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-03-rh-01",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 2,
+    "velocity": 62,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-03-rh-02",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 67,
+    "startBeat": 4,
+    "durationBeats": 2,
+    "velocity": 64,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-03-rh-03",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 65,
+    "startBeat": 8,
+    "durationBeats": 2,
+    "velocity": 64,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-03-rh-04",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 65,
+    "startBeat": 12,
+    "durationBeats": 2,
+    "velocity": 66,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-03-rh-05",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 64,
+    "startBeat": 16,
+    "durationBeats": 2,
+    "velocity": 66,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-03-rh-06",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 72,
+    "startBeat": 20,
+    "durationBeats": 2,
+    "velocity": 70,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-03-rh-07",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 72,
+    "startBeat": 24,
+    "durationBeats": 1.5,
+    "velocity": 90,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-03-rh-08",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 71,
+    "startBeat": 25.5,
+    "durationBeats": 2.5,
+    "velocity": 72,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-03-rh-09",
+    "progressionId": "prog-expression-014-03-primary",
+    "midi": 72,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 60,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-04-lh-01-1",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-01-2",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 52,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-01-3",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 59,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-02-1",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-02-2",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 48,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-02-3",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 55,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-03-1",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-03-2",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 45,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-03-3",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 52,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-04-1",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-04-2",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 47,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-04-3",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 53,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-05-1",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 48,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 45,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-05-2",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 52,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 45,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-05-3",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 59,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 45,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-06-1",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 45,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 45,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-06-2",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 48,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 45,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-06-3",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 55,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 45,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-07-1",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 43,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 45,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-07-2",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 47,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 45,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-07-3",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 53,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 45,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-08-1",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 48,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 45,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-08-2",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 52,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 45,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-lh-08-3",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 59,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 45,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-04-rh-01",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 2,
+    "velocity": 62,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-04-rh-02",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 67,
+    "startBeat": 4,
+    "durationBeats": 2,
+    "velocity": 64,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-04-rh-03",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 65,
+    "startBeat": 8,
+    "durationBeats": 2,
+    "velocity": 64,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-04-rh-04",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 65,
+    "startBeat": 12,
+    "durationBeats": 2,
+    "velocity": 66,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-04-rh-05",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 64,
+    "startBeat": 16,
+    "durationBeats": 2,
+    "velocity": 66,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-04-rh-06",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 72,
+    "startBeat": 20,
+    "durationBeats": 2,
+    "velocity": 70,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-04-rh-07",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 72,
+    "startBeat": 24,
+    "durationBeats": 1,
+    "velocity": 90,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-04-rh-08",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 71,
+    "startBeat": 25,
+    "durationBeats": 3,
+    "velocity": 72,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-04-rh-09",
+    "progressionId": "prog-expression-014-04-primary",
+    "midi": 72,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 60,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-05-lh-01-1",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 48,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-01-2",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 52,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-01-3",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 59,
+    "startBeat": 0,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-02-1",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 45,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-02-2",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 48,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-02-3",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 55,
+    "startBeat": 4,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-03-1",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 41,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-03-2",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 45,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-03-3",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 52,
+    "startBeat": 8,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-04-1",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 43,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-04-2",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 47,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-04-3",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 53,
+    "startBeat": 12,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-05-1",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 48,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-05-2",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 52,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-05-3",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 59,
+    "startBeat": 16,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-06-1",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 45,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-06-2",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 48,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-06-3",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 55,
+    "startBeat": 20,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-07-1",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 43,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-07-2",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 47,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-07-3",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 53,
+    "startBeat": 24,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-08-1",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 48,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-08-2",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 52,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-lh-08-3",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 59,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 55,
+    "role": "harmony",
+    "hand": "left"
+  },
+  {
+    "id": "note-expression-014-05-rh-01",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 64,
+    "startBeat": 0,
+    "durationBeats": 2,
+    "velocity": 62,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-05-rh-02",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 67,
+    "startBeat": 4,
+    "durationBeats": 2,
+    "velocity": 64,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-05-rh-03",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 65,
+    "startBeat": 8,
+    "durationBeats": 2,
+    "velocity": 66,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-05-rh-04",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 65,
+    "startBeat": 12,
+    "durationBeats": 2,
+    "velocity": 90,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-05-rh-05",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 64,
+    "startBeat": 16,
+    "durationBeats": 2,
+    "velocity": 60,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-05-rh-06",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 72,
+    "startBeat": 20,
+    "durationBeats": 2,
+    "velocity": 68,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-05-rh-07",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 72,
+    "startBeat": 24,
+    "durationBeats": 1,
+    "velocity": 76,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-05-rh-08",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 71,
+    "startBeat": 25,
+    "durationBeats": 3,
+    "velocity": 68,
+    "role": "melody",
+    "hand": "right"
+  },
+  {
+    "id": "note-expression-014-05-rh-09",
+    "progressionId": "prog-expression-014-05-primary",
+    "midi": 72,
+    "startBeat": 28,
+    "durationBeats": 4,
+    "velocity": 60,
+    "role": "melody",
+    "hand": "right"
+  }
+]

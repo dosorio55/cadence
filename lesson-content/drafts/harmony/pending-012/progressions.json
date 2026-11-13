@@ -1,0 +1,74 @@
+[
+  {
+    "id": "prog-harmony-012-01-primary",
+    "stageId": "stage-harmony-012-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Un cambio por compás",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Secuencia idéntica Cmaj7/Am7/Dm7/G7/Cmaj7/Am7/G7/C; duraciones 4+4+4+4+4+4+4+4 negras. Un ataque simultáneo LH/RH por frontera, sostén hasta el siguiente cambio; dinámica fija.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-012-02-primary",
+    "stageId": "stage-harmony-012-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Reposo, aceleración y tónica final",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Secuencia idéntica Cmaj7/Am7/Dm7/G7/Cmaj7/Am7/G7/C; duraciones 8+4+4+2+2+2+2+8 negras. Un ataque simultáneo LH/RH por frontera, sostén hasta el siguiente cambio; dinámica fija.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-012-03-primary",
+    "stageId": "stage-harmony-012-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Concentra dos cambios en el compás seis",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Secuencia idéntica Cmaj7/Am7/Dm7/G7/Cmaj7/Am7/G7/C; duraciones 8+4+4+4+2+2+4+4 negras. Un ataque simultáneo LH/RH por frontera, sostén hasta el siguiente cambio; dinámica fija.",
+    "loopable": true
+  },
+  {
+    "id": "prog-harmony-012-04-primary",
+    "stageId": "stage-harmony-012-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: mueve la actividad a G–C",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "jazz",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Secuencia idéntica Cmaj7/Am7/Dm7/G7/Cmaj7/Am7/G7/C; duraciones 8+4+4+2+2+4+4+4 negras. Un ataque simultáneo LH/RH por frontera, sostén hasta el siguiente cambio; dinámica fija.",
+    "loopable": true
+  }
+]

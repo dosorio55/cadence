@@ -1,0 +1,82 @@
+[
+  {
+    "id": "stage-accompaniment-010-01",
+    "lessonId": "lesson-accompaniment-010",
+    "order": 1,
+    "title": "Voicings densos",
+    "explanationMd": "Base A: célula fija de dos compases de bossa, repetida dos veces. La derecha presenta voicings densos de cuatro notas.",
+    "task": "Toca los cuatro compases con la mano izquierda en raíz y quinta en los tiempos 1 y 3; conserva exactamente los ataques de la célula derecha.",
+    "changeFromPrevious": "Base A: célula fija de dos compases de bossa, repetida dos veces. La derecha presenta voicings densos de cuatro notas.",
+    "successCriteria": [
+      "Mantengo sin cambios los ataques derechos: compases 1 y 3 en 1, 2&, 4; compases 2 y 4 en 2, 3&.",
+      "Toco en la izquierda raíz y quinta en los tiempos 1 y 3, cada nota durante dos pulsos.",
+      "Conservo tercera y séptima en cada voicing; no agrego una melodía ni cambio el ritmo."
+    ],
+    "simplifyHint": "Practica primero la izquierda; luego toca solo el shell derecho en sus ataques escritos, sin cambiar sus silencios.",
+    "extendHint": "Elige dónde conservar shells y dónde usar la novena permitida, comparando densidad y color sin desplazar ningún ataque."
+  },
+  {
+    "id": "stage-accompaniment-010-02",
+    "lessonId": "lesson-accompaniment-010",
+    "order": 2,
+    "title": "Reducir a shells",
+    "explanationMd": "Frente a A (01), solo cambia la densidad derecha: shells con tercera y séptima; bajo y célula rítmica permanecen idénticos.",
+    "task": "Toca los cuatro compases con la mano izquierda en raíz y quinta en los tiempos 1 y 3; conserva exactamente los ataques de la célula derecha.",
+    "changeFromPrevious": "Frente a A (01), solo cambia la densidad derecha: shells con tercera y séptima; bajo y célula rítmica permanecen idénticos.",
+    "successCriteria": [
+      "Mantengo sin cambios los ataques derechos: compases 1 y 3 en 1, 2&, 4; compases 2 y 4 en 2, 3&.",
+      "Toco en la izquierda raíz y quinta en los tiempos 1 y 3, cada nota durante dos pulsos.",
+      "Conservo tercera y séptima en cada voicing; no agrego una melodía ni cambio el ritmo."
+    ],
+    "simplifyHint": "Practica primero la izquierda; luego toca solo el shell derecho en sus ataques escritos, sin cambiar sus silencios.",
+    "extendHint": "Elige dónde conservar shells y dónde usar la novena permitida, comparando densidad y color sin desplazar ningún ataque."
+  },
+  {
+    "id": "stage-accompaniment-010-03",
+    "lessonId": "lesson-accompaniment-010",
+    "order": 3,
+    "title": "Una novena en Dm9",
+    "explanationMd": "Frente a A (02), solo Dm7 recibe E4 como novena y pasa a Dm9; los otros shells, el bajo y todos los ataques siguen iguales.",
+    "task": "Toca los cuatro compases con la mano izquierda en raíz y quinta en los tiempos 1 y 3; conserva exactamente los ataques de la célula derecha.",
+    "changeFromPrevious": "Frente a A (02), solo Dm7 recibe E4 como novena y pasa a Dm9; los otros shells, el bajo y todos los ataques siguen iguales.",
+    "successCriteria": [
+      "Mantengo sin cambios los ataques derechos: compases 1 y 3 en 1, 2&, 4; compases 2 y 4 en 2, 3&.",
+      "Toco en la izquierda raíz y quinta en los tiempos 1 y 3, cada nota durante dos pulsos.",
+      "Conservo tercera y séptima en cada voicing; no agrego una melodía ni cambio el ritmo."
+    ],
+    "simplifyHint": "Practica primero la izquierda; luego toca solo el shell derecho en sus ataques escritos, sin cambiar sus silencios.",
+    "extendHint": "Elige dónde conservar shells y dónde usar la novena permitida, comparando densidad y color sin desplazar ningún ataque."
+  },
+  {
+    "id": "stage-accompaniment-010-04",
+    "lessonId": "lesson-accompaniment-010",
+    "order": 4,
+    "title": "Color puntual en G9",
+    "explanationMd": "Reinicio A (02): se retira E4 de Dm y vuelve Dm7 shell simple. Novedad única: G7 recibe A4 como novena y pasa a G9.",
+    "task": "Toca los cuatro compases con la mano izquierda en raíz y quinta en los tiempos 1 y 3; conserva exactamente los ataques de la célula derecha.",
+    "changeFromPrevious": "Reinicio A (02): se retira E4 de Dm y vuelve Dm7 shell simple. Novedad única: G7 recibe A4 como novena y pasa a G9.",
+    "successCriteria": [
+      "Mantengo sin cambios los ataques derechos: compases 1 y 3 en 1, 2&, 4; compases 2 y 4 en 2, 3&.",
+      "Toco en la izquierda raíz y quinta en los tiempos 1 y 3, cada nota durante dos pulsos.",
+      "Conservo tercera y séptima en cada voicing; no agrego una melodía ni cambio el ritmo."
+    ],
+    "simplifyHint": "Practica primero la izquierda; luego toca solo el shell derecho en sus ataques escritos, sin cambiar sus silencios.",
+    "extendHint": "Elige dónde conservar shells y dónde usar la novena permitida, comparando densidad y color sin desplazar ningún ataque."
+  },
+  {
+    "id": "stage-accompaniment-010-05",
+    "lessonId": "lesson-accompaniment-010",
+    "order": 5,
+    "title": "Elegir un color",
+    "explanationMd": "Reinicio A (02): se quita la novena de G y Dm sigue simple. Novedad: Cmaj7 recibe D5 como novena, Cmaj9. Elige densidad/color, sin alterar la célula ni añadir melodía.",
+    "task": "Toca los cuatro compases con la mano izquierda en raíz y quinta en los tiempos 1 y 3; conserva exactamente los ataques de la célula derecha.",
+    "changeFromPrevious": "Reinicio A (02): se quita la novena de G y Dm sigue simple. Novedad: Cmaj7 recibe D5 como novena, Cmaj9. Elige densidad/color, sin alterar la célula ni añadir melodía.",
+    "successCriteria": [
+      "Mantengo sin cambios los ataques derechos: compases 1 y 3 en 1, 2&, 4; compases 2 y 4 en 2, 3&.",
+      "Toco en la izquierda raíz y quinta en los tiempos 1 y 3, cada nota durante dos pulsos.",
+      "Conservo tercera y séptima en cada voicing; no agrego una melodía ni cambio el ritmo."
+    ],
+    "simplifyHint": "Practica primero la izquierda; luego toca solo el shell derecho en sus ataques escritos, sin cambiar sus silencios.",
+    "extendHint": "Elige dónde conservar shells y dónde usar la novena permitida, comparando densidad y color sin desplazar ningún ataque."
+  }
+]

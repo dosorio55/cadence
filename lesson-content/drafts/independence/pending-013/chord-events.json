@@ -1,0 +1,92 @@
+[
+  {
+    "id": "chord-independence-013-01-01",
+    "progressionId": "prog-independence-013-01-primary",
+    "order": 1,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-013-01-05",
+    "progressionId": "prog-independence-013-01-primary",
+    "order": 2,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 16,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-013-02-01",
+    "progressionId": "prog-independence-013-02-primary",
+    "order": 1,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-013-02-05",
+    "progressionId": "prog-independence-013-02-primary",
+    "order": 2,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 16,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-013-03-01",
+    "progressionId": "prog-independence-013-03-primary",
+    "order": 1,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-013-03-05",
+    "progressionId": "prog-independence-013-03-primary",
+    "order": 2,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 16,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-013-04-01",
+    "progressionId": "prog-independence-013-04-primary",
+    "order": 1,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-013-04-05",
+    "progressionId": "prog-independence-013-04-primary",
+    "order": 2,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 16,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-013-05-01",
+    "progressionId": "prog-independence-013-05-primary",
+    "order": 1,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-013-05-05",
+    "progressionId": "prog-independence-013-05-primary",
+    "order": 2,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 16,
+    "durationBeats": 16
+  }
+]

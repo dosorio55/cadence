@@ -1,0 +1,576 @@
+[
+  {
+    "id": "stage-rhythm-004-01",
+    "lessonId": "lesson-rhythm-004",
+    "order": 1,
+    "title": "Base: cambios en el uno",
+    "explanationMd": "**A (prog-rhythm-004-01-primary):** base regular, I–vi–ii–V entra en cada uno. Escucha la estabilidad de los cuatro compases; aún no hay B anticipada.",
+    "task": "Toca una raíz izquierda y un acorde derecho al inicio de cada compás.",
+    "changeFromPrevious": "Presentación de la base",
+    "successCriteria": [
+      "Puedo contar cuatro negras por compás; cada acorde entra en el uno."
+    ],
+    "simplifyHint": "Practica primero solo bajo y cuenta en voz alta.",
+    "extendHint": "Repite la transformación manteniendo el pulso sin metrónomo."
+  },
+  {
+    "id": "stage-rhythm-004-02",
+    "lessonId": "lesson-rhythm-004",
+    "order": 2,
+    "title": "Una anticipación conjunta",
+    "explanationMd": "Compara **A (etapa 01)** con **B (prog-rhythm-004-02-primary)**: B adelanta V junto con el bajo de beat 12 a 11.5 (4& del compás 3); en beat 12 no hay reataque.",
+    "task": "En el compás 3, adelanta el bajo y el acorde de V a 4&; no vuelvas a atacarlos en el uno del compás 4.",
+    "changeFromPrevious": "El acorde V pasa de beat 12 a 11.5 con bajo y acorde juntos; se elimina el ataque previsto en 12.",
+    "successCriteria": [
+      "Oigo V en 4&; sostengo el pulso y no repito V en el uno siguiente."
+    ],
+    "simplifyHint": "Practica primero solo bajo y cuenta en voz alta.",
+    "extendHint": "Repite la transformación manteniendo el pulso sin metrónomo."
+  },
+  {
+    "id": "stage-rhythm-004-03",
+    "lessonId": "lesson-rhythm-004",
+    "order": 3,
+    "title": "Combina otra llegada",
+    "explanationMd": "Compara **A (etapa 02)** con **B (prog-rhythm-004-03-primary)**: B conserva V en 11.5 y añade vi en 3.5 (4& del compás 1), bajo y acorde juntos.",
+    "task": "Conserva la llegada anterior y anticipa también el acorde vi a 4& del compás 1; no alteres la llegada ya aprendida.",
+    "changeFromPrevious": "Se añade una llegada de vi en beat 3.5, conservando V anticipado en 11.5.",
+    "successCriteria": [
+      "Distingo las dos llegadas y ambas manos cambian juntas."
+    ],
+    "simplifyHint": "Practica primero solo bajo y cuenta en voz alta.",
+    "extendHint": "Repite la transformación manteniendo el pulso sin metrónomo."
+  },
+  {
+    "id": "stage-rhythm-004-04",
+    "lessonId": "lesson-rhythm-004",
+    "order": 4,
+    "title": "Varía la articulación",
+    "explanationMd": "Compara **A (etapa 03)** con **B (prog-rhythm-004-04-primary)**: entradas y mapa armónico no cambian; solo el acorde derecho se acorta a 1.5 beats, mientras el bajo sostiene.",
+    "task": "Mantén las dos anticipaciones; acorta los acordes derechos y conserva el bajo sostenido hasta el siguiente cambio.",
+    "changeFromPrevious": "Solo cambia duración de notas derechas: articulación breve, mismas entradas armónicas.",
+    "successCriteria": [
+      "La anticipación y el pulso siguen claros aunque el acorde derecho sea breve."
+    ],
+    "simplifyHint": "Practica primero solo bajo y cuenta en voz alta.",
+    "extendHint": "Repite la transformación manteniendo el pulso sin metrónomo."
+  },
+  {
+    "id": "stage-rhythm-004-05",
+    "lessonId": "lesson-rhythm-004",
+    "order": 5,
+    "title": "Autonomía: elige una llegada",
+    "explanationMd": "Compara **A (base de etapa 01)** con **B (prog-rhythm-004-05-primary)**: vuelve el acompañamiento sostenido y V regular en beat 12; vi sigue anticipado en 3.5. Elige qué única llegada adelantar.",
+    "task": "Usa la base como referencia, elige una sola frontera para anticipar y explica por qué; esta referencia anticipa vi.",
+    "changeFromPrevious": "Se reinicia a la base sostenida: V vuelve de beat 11.5 a 12 y los bloques derechos vuelven a durar el cambio armónico completo. Se retira la pauta para que el estudiante decida una anticipación; el ejemplo de referencia adelanta vi a 3.5.",
+    "successCriteria": [
+      "Puedo proponer otra frontera y mantener bajo/acorde juntos, sin reataque en el uno."
+    ],
+    "simplifyHint": "Practica primero solo bajo y cuenta en voz alta.",
+    "extendHint": "Repite la transformación manteniendo el pulso sin metrónomo."
+  },
+  {
+    "id": "stage-rhythm-001-01",
+    "lessonId": "lesson-rhythm-001",
+    "order": 1,
+    "title": "Pulso en cuatro compases",
+    "explanationMd": "A: ataca el bajo en cada negra; derecha: tríada larga al inicio del compás. Cuenta cuatro negras sin acelerar.",
+    "task": "Toca los cuatro compases a 80 BPM. Mantén el bajo en negras y realiza los cambios indicados sin acelerar.",
+    "changeFromPrevious": "Presentación: cuatro compases I–V–vi–IV con bajo a negras y tríadas largas.",
+    "successCriteria": [
+      "Mantengo cuatro negras regulares por compás y no acorto la tríada derecha."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero cada mano por separado.",
+    "extendHint": "Repite cuatro vueltas seguidas manteniendo el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-001-02",
+    "lessonId": "lesson-rhythm-001",
+    "order": 2,
+    "title": "Pulso compartido",
+    "explanationMd": "Compara con etapa 01: el bajo sigue a negras y la derecha reataca la tríada en los tiempos musicales uno y tres, desplazamientos locales 0 y 2 (blancas).",
+    "task": "Toca los cuatro compases a 80 BPM. Mantén el bajo en negras y realiza los cambios indicados sin acelerar.",
+    "changeFromPrevious": "Se añaden reataques derechos en beat 2 local de cada compás; el bajo mantiene sus cuatro negras.",
+    "successCriteria": [
+      "El bajo conserva cuatro ataques regulares aunque la derecha rearticule en blancas."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero cada mano por separado.",
+    "extendHint": "Repite cuatro vueltas seguidas manteniendo el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-001-03",
+    "lessonId": "lesson-rhythm-001",
+    "order": 3,
+    "title": "Respirar arriba",
+    "explanationMd": "A = base sostenida de la etapa 01: bajo a negras y tríada larga al inicio de cada compás. B = esta etapa: reinicia esa base y retira solo la tríada del compás 3; cuenta sus cuatro pulsos mientras el bajo continúa.",
+    "task": "Toca los cuatro compases a 80 BPM. Mantén el bajo en negras y realiza los cambios indicados sin acelerar.",
+    "changeFromPrevious": "Se vuelve explícitamente a la base sostenida de la etapa 01; sobre ella se omite solo la tríada derecha del compás 3. El bajo continúa a negras y el ciclo conserva sus 16 pulsos.",
+    "successCriteria": [
+      "La derecha calla el compás elegido y reentra en el uno sin mover el pulso."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero cada mano por separado.",
+    "extendHint": "Repite cuatro vueltas seguidas manteniendo el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-001-04",
+    "lessonId": "lesson-rhythm-001",
+    "order": 4,
+    "title": "Elegir dónde respirar",
+    "explanationMd": "A referencia: etapa 01. Diseña una vuelta con una tríada derecha menos, en cualquier compás; la izquierda sigue a negras durante los cuatro compases.",
+    "task": "Toca los cuatro compases a 80 BPM. Mantén el bajo en negras y realiza los cambios indicados sin acelerar.",
+    "changeFromPrevious": "Autonomía: la referencia mantiene I–V–vi–IV y bajo estable; el estudiante elige el compás de silencio derecho.",
+    "successCriteria": [
+      "Puedo elegir un compás para respirar arriba y completar cuatro compases sin acortar el ciclo."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero cada mano por separado.",
+    "extendHint": "Repite cuatro vueltas seguidas manteniendo el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-002-01",
+    "lessonId": "lesson-rhythm-002",
+    "order": 1,
+    "title": "Oír la rejilla con negras",
+    "explanationMd": "Durante dos compases por acorde, toca bajo en blancas y una tríada derecha en negras. Cuenta también las subdivisiones entre ataques.",
+    "task": "Toca cuatro compases a 80 BPM. Bajo en blancas; completa la tarea rítmica derecha contando la subdivisión.",
+    "changeFromPrevious": "Base: C dos compases y G dos; derecha en negras, izquierda en blancas para establecer la cuadrícula.",
+    "successCriteria": [
+      "Sostengo blancas izquierdas y cuento las subdivisiones regulares entre negras derechas."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero cada mano por separado.",
+    "extendHint": "Repite cuatro vueltas seguidas manteniendo el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-002-02",
+    "lessonId": "lesson-rhythm-002",
+    "order": 2,
+    "title": "Corcheas continuas",
+    "explanationMd": "Compara con etapa 01: la derecha toca dos ataques por negra durante los cuatro compases; izquierda sigue en blancas.",
+    "task": "Toca cuatro compases a 80 BPM. Bajo en blancas; completa la tarea rítmica derecha contando la subdivisión.",
+    "changeFromPrevious": "Solo cambia la subdivisión derecha: de negras a corcheas continuas sobre la misma armonía y bajo.",
+    "successCriteria": [
+      "Las corcheas mantienen distancia regular y el bajo no cambia de patrón."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero cada mano por separado.",
+    "extendHint": "Repite cuatro vueltas seguidas manteniendo el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-002-03",
+    "lessonId": "lesson-rhythm-002",
+    "order": 3,
+    "title": "Dejar dos huecos",
+    "explanationMd": "Compara A (corcheas continuas, etapa 02) con B: omite dos corcheas derechas en cada compás, sin desplazar las restantes.",
+    "task": "Toca cuatro compases a 80 BPM. Bajo en blancas; completa la tarea rítmica derecha contando la subdivisión.",
+    "changeFromPrevious": "Se eliminan ataques derechos en beat 1& y 3&; la rejilla continúa por debajo de los silencios.",
+    "successCriteria": [
+      "Puedo contar cada hueco y las notas restantes no se adelantan ni se retrasan."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero cada mano por separado.",
+    "extendHint": "Repite cuatro vueltas seguidas manteniendo el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-002-04",
+    "lessonId": "lesson-rhythm-002",
+    "order": 4,
+    "title": "Elegir silencios",
+    "explanationMd": "A = etapa 02, corcheas continuas. B = esta referencia (etapa 04), con huecos en los tiempos musicales dos y cuatro de cada compás (desplazamientos locales 1 y 3). En tu vuelta puedes elegir otras dos corcheas; conserva el bajo en blancas y la rejilla.",
+    "task": "Toca cuatro compases a 80 BPM. Bajo en blancas; completa la tarea rítmica derecha contando la subdivisión.",
+    "changeFromPrevious": "A es la corchea continua de la etapa 02; B ilustra huecos en tiempos musicales dos/cuatro (offsets locales 1/3). Es una elección de referencia, no las posiciones obligatorias del estudiante.",
+    "successCriteria": [
+      "Mantengo la subdivisión imaginada durante dos silencios elegidos y vuelvo a entrar a tiempo."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero cada mano por separado.",
+    "extendHint": "Repite cuatro vueltas seguidas manteniendo el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-003-01",
+    "lessonId": "lesson-rhythm-003",
+    "order": 1,
+    "title": "Tónica estable: acorde en uno",
+    "explanationMd": "A = tónica C sostenida durante los cuatro compases, bajo en los tiempos musicales uno/tres y tríada corta en uno. Esta base deja el mismo bajo y armonía que B de la etapa 02 para aislar el cambio de colocación a dos/cuatro.",
+    "task": "Toca cuatro compases a 80 BPM. Bajo en uno y tres; ubica los acordes derechos en los tiempos señalados.",
+    "changeFromPrevious": "Presentación de la base de contraste: un único ChordEvent C/I cubre 0–16; bajo C3 local 0/2 en cada compás y RH C mayor local 0, duración 0.5.",
+    "successCriteria": [
+      "Identifico el pulso de bajo en uno/tres y la tríada breve en uno sin cambiar la tónica."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero cada mano por separado.",
+    "extendHint": "Repite cuatro vueltas seguidas manteniendo el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-003-02",
+    "lessonId": "lesson-rhythm-003",
+    "order": 2,
+    "title": "Backbeat en dos y cuatro",
+    "explanationMd": "Compara A de etapa 01 con B: desplaza ataques derechos de cada uno a beats 1 y 3; conserva bajo en uno y tres.",
+    "task": "Toca cuatro compases a 80 BPM. Bajo en uno y tres; ubica los acordes derechos en los tiempos señalados.",
+    "changeFromPrevious": "Los ataques derechos pasan a beats 1 y 3 locales (tiempos 2 y 4); una tónica sostenida a través del ciclo aísla el patrón.",
+    "successCriteria": [
+      "Oigo el acorde en dos y cuatro de cada compás y el bajo permanece en uno/tres."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero cada mano por separado.",
+    "extendHint": "Repite cuatro vueltas seguidas manteniendo el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-003-03",
+    "lessonId": "lesson-rhythm-003",
+    "order": 3,
+    "title": "Sostener el patrón al cambiar acorde",
+    "explanationMd": "Mantén el backbeat en beats 1 y 3 locales en los cuatro compases; la armonía cambia en cada uno, el patrón no.",
+    "task": "Toca cuatro compases a 80 BPM. Bajo en uno y tres; ubica los acordes derechos en los tiempos señalados.",
+    "changeFromPrevious": "Se pasa de la tónica sostenida de la etapa 02 a I–V–vi–IV; el backbeat dos/cuatro no se mueve.",
+    "successCriteria": [
+      "Cada cambio armónico ocurre con bajo en uno; los acordes siguen en dos/cuatro."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero cada mano por separado.",
+    "extendHint": "Repite cuatro vueltas seguidas manteniendo el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-003-04",
+    "lessonId": "lesson-rhythm-003",
+    "order": 4,
+    "title": "Elegir un descanso",
+    "explanationMd": "A referencia: etapa 03. Elige un único compás donde omitir el acorde de cuatro; conserva el de dos y todos los bajos uno/tres.",
+    "task": "Toca cuatro compases a 80 BPM. Bajo en uno y tres; ubica los acordes derechos en los tiempos señalados.",
+    "changeFromPrevious": "Autonomía: retirar el ataque del cuatro en un compás elegido convierte el patrón fijo en una decisión de frase sin borrar el backbeat.",
+    "successCriteria": [
+      "Puedo señalar el compás de descanso y volver a dos/cuatro sin perder el pulso."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero cada mano por separado.",
+    "extendHint": "Repite cuatro vueltas seguidas manteniendo el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-005-01",
+    "lessonId": "lesson-rhythm-005",
+    "order": 1,
+    "title": "Corcheas rectas",
+    "explanationMd": "A = esta referencia: sobre ii–V–I–I, la derecha repite cada nota dos veces en corcheas rectas (offsets locales 0 y 0.5 por negra). La izquierda toca raíces en blancas. Cuenta la negra sin alterar el pulso.",
+    "task": "Toca 4 compases a 100 BPM con el material de esta etapa; cuenta los pulsos y respeta los silencios indicados.",
+    "changeFromPrevious": "Base: frase de ataques parejos en subdivisión binaria, bajo en blancas y cuatro compases ii–V–I–I.",
+    "successCriteria": [
+      "Cuento la negra estable y distingo dos ataques iguales dentro de cada pulso."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero la mano izquierda, luego la derecha.",
+    "extendHint": "Repite el ciclo manteniendo el mismo pulso y variando solo el lugar del silencio o desplazamiento."
+  },
+  {
+    "id": "stage-rhythm-005-02",
+    "lessonId": "lesson-rhythm-005",
+    "order": 2,
+    "title": "Referencia ternaria",
+    "explanationMd": "Compara A (etapa 01, offsets 0/0.5) con B: conserva cada pulso, nota y bajo, pero coloca el segundo ataque a 2/3 de negra. La pareja dura 2/3 + 1/3; es una referencia de swing, no una proporción obligatoria para todo tempo o frase.",
+    "task": "Toca 4 compases a 100 BPM con el material de esta etapa; cuenta los pulsos y respeta los silencios indicados.",
+    "changeFromPrevious": "En cada negra, el segundo ataque pasa de offset 0.5 a 2/3; las notas y el bajo en blancas se mantienen.",
+    "successCriteria": [
+      "Mantengo el pulso y puedo comparar recto frente a largo-corto sin acelerar."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero la mano izquierda, luego la derecha.",
+    "extendHint": "Repite el ciclo manteniendo el mismo pulso y variando solo el lugar del silencio o desplazamiento."
+  },
+  {
+    "id": "stage-rhythm-005-03",
+    "lessonId": "lesson-rhythm-005",
+    "order": 3,
+    "title": "Swing con un espacio",
+    "explanationMd": "Compara A (etapa 02, ternario continuo) con B: conserva el swing y deja en silencio el ataque corto del último pulso del compás 4 (beat global 15 + 2/3). No rellenes ese hueco.",
+    "task": "Toca 4 compases a 100 BPM con el material de esta etapa; cuenta los pulsos y respeta los silencios indicados.",
+    "changeFromPrevious": "Se elimina un ataque corto en beat 15 + 2/3; los otros ataques ternarios, la armonía y las blancas del bajo siguen iguales.",
+    "successCriteria": [
+      "Sostengo la subdivisión ternaria imaginada durante el silencio final y cierro en el compás previsto."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero la mano izquierda, luego la derecha.",
+    "extendHint": "Repite el ciclo manteniendo el mismo pulso y variando solo el lugar del silencio o desplazamiento."
+  },
+  {
+    "id": "stage-rhythm-005-04",
+    "lessonId": "lesson-rhythm-005",
+    "order": 4,
+    "title": "Elegir una pausa",
+    "explanationMd": "A referencia = etapa 02 continua. B de referencia omite la nota larga del beat global 5 del compás 2 y conserva su ataque corto en 5 + 2/3. Elige otro lugar para respirar; la proporción ternaria es una posibilidad, no una regla universal.",
+    "task": "Toca 4 compases a 100 BPM con el material de esta etapa; cuenta los pulsos y respeta los silencios indicados.",
+    "changeFromPrevious": "Se conserva la referencia ternaria de etapa 02 y se deja un hueco propio: en este ejemplo se omite el ataque largo de beat 5; la izquierda sigue en blancas.",
+    "successCriteria": [
+      "Puedo elegir una pausa sin perder la negra, la colocación ternaria ni la llegada final."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero la mano izquierda, luego la derecha.",
+    "extendHint": "Repite el ciclo manteniendo el mismo pulso y variando solo el lugar del silencio o desplazamiento."
+  },
+  {
+    "id": "stage-rhythm-006-01",
+    "lessonId": "lesson-rhythm-006",
+    "order": 1,
+    "title": "Vuelta completa de ocho compases",
+    "explanationMd": "A = referencia completa I–V–vi–IV repetida dos veces. La izquierda marca negras y la derecha toca un bloque corto en los tiempos musicales uno y tres de cada compás. Cuenta ocho compases sin cambiar el patrón.",
+    "task": "Toca 8 compases a 80 BPM con el material de esta etapa; cuenta los pulsos y respeta los silencios indicados.",
+    "changeFromPrevious": "Presentación de la vuelta completa: bajo en cada negra y acordes derechos en offsets locales 0 y 2 durante ocho compases.",
+    "successCriteria": [
+      "Mantengo ocho compases y puedo contar el pulso durante todos los ataques de ambas manos."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero la mano izquierda, luego la derecha.",
+    "extendHint": "Repite el ciclo manteniendo el mismo pulso y variando solo el lugar del silencio o desplazamiento."
+  },
+  {
+    "id": "stage-rhythm-006-02",
+    "lessonId": "lesson-rhythm-006",
+    "order": 2,
+    "title": "Callar la derecha un compás",
+    "explanationMd": "Compara A (etapa 01) con B: conserva armonía y bajo, pero retira todos los bloques derechos del compás 4 (beats globales 12–16). El bajo sigue marcando negras; reentra la derecha en el compás 5, beat 16.",
+    "task": "Toca 8 compases a 80 BPM con el material de esta etapa; cuenta los pulsos y respeta los silencios indicados.",
+    "changeFromPrevious": "Se suprimen solo los ataques derechos del compás 4; bajo, tempo, armonía y las demás entradas permanecen iguales.",
+    "successCriteria": [
+      "La izquierda mantiene el ciclo durante el compás sin derecha y ambas manos retoman su patrón en el compás 5."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero la mano izquierda, luego la derecha.",
+    "extendHint": "Repite el ciclo manteniendo el mismo pulso y variando solo el lugar del silencio o desplazamiento."
+  },
+  {
+    "id": "stage-rhythm-006-03",
+    "lessonId": "lesson-rhythm-006",
+    "order": 3,
+    "title": "Retirar parte del bajo y volver juntos",
+    "explanationMd": "Compara con etapa 02: conserva el silencio derecho del compás 4 y además omite el bajo en los tiempos musicales dos y tres del compás 6 (beats globales 21 y 22). Tras el último bajo del compás, ambas manos reentran juntas en el compás 7, beat 24.",
+    "task": "Toca 8 compases a 80 BPM con el material de esta etapa; cuenta los pulsos y respeta los silencios indicados.",
+    "changeFromPrevious": "Se añaden dos silencios de bajo en el compás 6, beats globales 21/22; la derecha sigue en silencio en el compás 4. Reentrada conjunta en beat 24.",
+    "successCriteria": [
+      "Cuento los dos ataques de bajo ausentes y reentro con ambas manos juntas en beat 24, sin acortar el loop."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero la mano izquierda, luego la derecha.",
+    "extendHint": "Repite el ciclo manteniendo el mismo pulso y variando solo el lugar del silencio o desplazamiento."
+  },
+  {
+    "id": "stage-rhythm-006-04",
+    "lessonId": "lesson-rhythm-006",
+    "order": 4,
+    "title": "Decidir dónde dejar aire",
+    "explanationMd": "A = referencia completa de etapa 01; B = esta referencia, que traslada el silencio derecho del compás 4 al compás 2 y conserva los dos huecos de bajo del compás 6. Elige tu propio compás de aire para la derecha y uno o dos ataques de bajo que retirar; deja una reentrada común clara.",
+    "task": "Toca 8 compases a 80 BPM con el material de esta etapa; cuenta los pulsos y respeta los silencios indicados.",
+    "changeFromPrevious": "Autonomía: se mueve el compás de silencio derecho de 4 a 2; se mantienen los dos ataques de bajo ausentes en compás 6. La referencia reentra en compás 3 y en compás 7 tras cada hueco.",
+    "successCriteria": [
+      "Puedo elegir silencios para ambas manos, conservar los ocho compases e identificar una reentrada conjunta después de cada pausa."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero la mano izquierda, luego la derecha.",
+    "extendHint": "Repite el ciclo manteniendo el mismo pulso y variando solo el lugar del silencio o desplazamiento."
+  },
+  {
+    "id": "stage-rhythm-007-01",
+    "lessonId": "lesson-rhythm-007",
+    "order": 1,
+    "title": "Corcheas seleccionadas con huecos",
+    "explanationMd": "A = base de C7: cuatro stabs derechos por compás en corcheas seleccionadas, offsets locales 0, 0.5, 2 y 2.5 (tiempos musicales 1, 1&, 3 y 3&). Bajo y voicing permanecen iguales; hay huecos entre las parejas.",
+    "task": "Toca 4 compases a 90 BPM con el material de esta etapa; cuenta los pulsos y respeta los silencios indicados.",
+    "changeFromPrevious": "Base comparativa: se seleccionan cuatro ataques derechos de corchea por compás (offsets 0/0.5 y 2/2.5), con el mismo C7, voicing y bajo que las etapas siguientes.",
+    "successCriteria": [
+      "Reconozco las dos parejas de corcheas y cuento los huecos sin añadir ataques."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero la mano izquierda, luego la derecha.",
+    "extendHint": "Repite el ciclo manteniendo el mismo pulso y variando solo el lugar del silencio o desplazamiento."
+  },
+  {
+    "id": "stage-rhythm-007-02",
+    "lessonId": "lesson-rhythm-007",
+    "order": 2,
+    "title": "Agrupar semicorcheas con huecos",
+    "explanationMd": "A = etapa 01, offsets derechos 0, 0.5, 2 y 2.5. B = esta etapa, offsets 0, 0.25, 2 y 2.25: solo se adelantan 0.25 beat los segundos ataques de cada pareja. Conserva cuatro ataques por compás, voicing C7 y bajo.",
+    "task": "Toca 4 compases a 90 BPM con el material de esta etapa; cuenta los pulsos y respeta los silencios indicados.",
+    "changeFromPrevious": "Con el mismo número de ataques, las posiciones 0.5 y 2.5 pasan a 0.25 y 2.25; bajo, alturas, duración 0.25 y armonía no cambian.",
+    "successCriteria": [
+      "Toco las dos parejas de semicorcheas con cuatro ataques por compás y sin rellenar los huecos."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero la mano izquierda, luego la derecha.",
+    "extendHint": "Repite el ciclo manteniendo el mismo pulso y variando solo el lugar del silencio o desplazamiento."
+  },
+  {
+    "id": "stage-rhythm-007-03",
+    "lessonId": "lesson-rhythm-007",
+    "order": 3,
+    "title": "Desplazar un ataque",
+    "explanationMd": "A = etapa 02, offsets locales derechos 0, 0.25, 2 y 2.25. B = esta etapa: solo el ataque en 2.25 pasa a 2.5; 0, 0.25 y 2, además del bajo y voicing, quedan idénticos.",
+    "task": "Toca 4 compases a 90 BPM con el material de esta etapa; cuenta los pulsos y respeta los silencios indicados.",
+    "changeFromPrevious": "Se mueve un único bloque de la derecha 0.25 beat: offset 2.25→2.5 en cada compás. Los otros tres ataques, bajo, voicing y cuatro ataques totales permanecen iguales.",
+    "successCriteria": [
+      "Oigo el desplazamiento de un ataque de 2.25 a 2.5 sin mover los otros ni sumar notas."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero la mano izquierda, luego la derecha.",
+    "extendHint": "Repite el ciclo manteniendo el mismo pulso y variando solo el lugar del silencio o desplazamiento."
+  },
+  {
+    "id": "stage-rhythm-007-04",
+    "lessonId": "lesson-rhythm-007",
+    "order": 4,
+    "title": "Elegir otro ataque",
+    "explanationMd": "A = etapa 02, no la etapa 03: restablece primero sus offsets 0, 0.25, 2 y 2.25. B de referencia = 0, 0.5, 2 y 2.25: elige mover solo el ataque 0.25→0.5. Puedes elegir otro ataque único; no combines desplazamientos.",
+    "task": "Toca 4 compases a 90 BPM con el material de esta etapa; cuenta los pulsos y respeta los silencios indicados.",
+    "changeFromPrevious": "Se reinicia explícitamente desde A=etapa 02. Frente a esa A, B mueve solo un ataque 0.25→0.5; offsets 0, 2 y 2.25 quedan iguales. No conserva el cambio de 03 ni desplaza ambas parejas.",
+    "successCriteria": [
+      "Elijo un único ataque distinto para desplazar 0.25 beat y mantengo los otros tres, el voicing y la densidad."
+    ],
+    "simplifyHint": "Baja el tempo y practica primero la mano izquierda, luego la derecha.",
+    "extendHint": "Repite el ciclo manteniendo el mismo pulso y variando solo el lugar del silencio o desplazamiento."
+  },
+  {
+    "id": "stage-rhythm-008-01",
+    "lessonId": "lesson-rhythm-008",
+    "order": 1,
+    "title": "A: backbeat",
+    "explanationMd": "A: en cada compás, bajo izquierdo en 0 y 2; derecha toca acordes breves en 1 y 3. Compara el pulso sin cambiar la armonía I–vi–ii–V.",
+    "task": "Toca cuatro compases a 80 BPM siguiendo el mapa y los silencios descritos.",
+    "changeFromPrevious": "Referencia backbeat en 1 y 3.",
+    "successCriteria": [
+      "Reconozco dos y cuatro sobre bajo estable."
+    ],
+    "simplifyHint": "Practica primero el bajo contando en voz alta; después añade la derecha a tempo lento.",
+    "extendHint": "Crea una segunda vuelta cambiando solo el lugar de la pausa o la entrada, y explica cómo conservas el pulso."
+  },
+  {
+    "id": "stage-rhythm-008-02",
+    "lessonId": "lesson-rhythm-008",
+    "order": 2,
+    "title": "B: bolero reducido",
+    "explanationMd": "B: conserva el bajo en offsets 0 y 2; la derecha responde en 1, 1.5 y 3. Es una reducción pianística: no pretende sustituir la percusión del bolero.",
+    "task": "Toca cuatro compases a 80 BPM siguiendo el mapa y los silencios descritos.",
+    "changeFromPrevious": "La derecha añade respuesta en 1.5 y mantiene 1 y 3; bajo intacto en 0/2.",
+    "successCriteria": [
+      "Distingo la respuesta de bolero del backbeat."
+    ],
+    "simplifyHint": "Practica primero el bajo contando en voz alta; después añade la derecha a tempo lento.",
+    "extendHint": "Crea una segunda vuelta cambiando solo el lugar de la pausa o la entrada, y explica cómo conservas el pulso."
+  },
+  {
+    "id": "stage-rhythm-008-03",
+    "lessonId": "lesson-rhythm-008",
+    "order": 3,
+    "title": "Comparar acentos",
+    "explanationMd": "Alterna A (etapa 1) y B (etapa 2) sin variar armonía ni tempo. Señala qué ataques de la derecha rodean el pulso y cuáles caen en él.",
+    "task": "Toca cuatro compases a 80 BPM siguiendo el mapa y los silencios descritos.",
+    "changeFromPrevious": "Contraste de colocación; ninguna mano cambia de célula.",
+    "successCriteria": [
+      "Puedo alternar ambos mapas sin mover el bajo."
+    ],
+    "simplifyHint": "Practica primero el bajo contando en voz alta; después añade la derecha a tempo lento.",
+    "extendHint": "Crea una segunda vuelta cambiando solo el lugar de la pausa o la entrada, y explica cómo conservas el pulso."
+  },
+  {
+    "id": "stage-rhythm-008-04",
+    "lessonId": "lesson-rhythm-008",
+    "order": 4,
+    "title": "Silencio con célula",
+    "explanationMd": "Sobre B, omite solo el ataque derecho de offset 3 del último compás; conserva los de 1 y 1.5, y el bajo de 0 y 2. Después elige otro hueco sin borrar la célula completa.",
+    "task": "Toca cuatro compases a 80 BPM siguiendo el mapa y los silencios descritos.",
+    "changeFromPrevious": "Un silencio final localizado, sin borrar la célula rítmica ni la vuelta armónica.",
+    "successCriteria": [
+      "Elijo una pausa y la célula sigue reconocible."
+    ],
+    "simplifyHint": "Practica primero el bajo contando en voz alta; después añade la derecha a tempo lento.",
+    "extendHint": "Crea una segunda vuelta cambiando solo el lugar de la pausa o la entrada, y explica cómo conservas el pulso."
+  },
+  {
+    "id": "stage-rhythm-009-01",
+    "lessonId": "lesson-rhythm-009",
+    "order": 1,
+    "title": "Base estable",
+    "explanationMd": "I–vi–ii–V, un acorde por compás; izquierda en 0 y 2. Derecha ataca en 0 y sostiene brevemente.",
+    "task": "Toca cuatro compases a 80 BPM siguiendo el mapa y los silencios descritos.",
+    "changeFromPrevious": "Referencia de armonía y bajo sin desplazamiento derecho.",
+    "successCriteria": [
+      "Mantengo cuatro compases y ubico el cambio armónico en cada inicio."
+    ],
+    "simplifyHint": "Practica primero el bajo contando en voz alta; después añade la derecha a tempo lento.",
+    "extendHint": "Crea una segunda vuelta cambiando solo el lugar de la pausa o la entrada, y explica cómo conservas el pulso."
+  },
+  {
+    "id": "stage-rhythm-009-02",
+    "lessonId": "lesson-rhythm-009",
+    "order": 2,
+    "title": "Entrar en 2&",
+    "explanationMd": "Sin cambiar armonía ni bajo, la derecha entra en 1.5 (2&) y sostiene 1 beat: cruza offset 2. No reataques en 2; el acorde siguiente no llega antes de su frontera en 4.",
+    "task": "Toca cuatro compases a 80 BPM siguiendo el mapa y los silencios descritos.",
+    "changeFromPrevious": "El ataque derecho pasa a 1.5 y dura 1; cruza 2 ligado, mientras bajo sigue 0/2.",
+    "successCriteria": [
+      "Sostengo el sonido a través de 2 sin nuevo ataque."
+    ],
+    "simplifyHint": "Practica primero el bajo contando en voz alta; después añade la derecha a tempo lento.",
+    "extendHint": "Crea una segunda vuelta cambiando solo el lugar de la pausa o la entrada, y explica cómo conservas el pulso."
+  },
+  {
+    "id": "stage-rhythm-009-03",
+    "lessonId": "lesson-rhythm-009",
+    "order": 3,
+    "title": "Oír cruce y frontera",
+    "explanationMd": "Compara etapa 1 con etapa 2: identifica que la nota cruza el pulso 2, pero la armonía cambia solo en el siguiente compás. Conserva ataque único y duración completa.",
+    "task": "Toca cuatro compases a 80 BPM siguiendo el mapa y los silencios descritos.",
+    "changeFromPrevious": "La duración de la nota enlazada hace audible el cruce; armonía y bajo siguen en su mapa.",
+    "successCriteria": [
+      "No confundo síncopa sostenida con anticipación armónica."
+    ],
+    "simplifyHint": "Practica primero el bajo contando en voz alta; después añade la derecha a tempo lento.",
+    "extendHint": "Crea una segunda vuelta cambiando solo el lugar de la pausa o la entrada, y explica cómo conservas el pulso."
+  },
+  {
+    "id": "stage-rhythm-009-04",
+    "lessonId": "lesson-rhythm-009",
+    "order": 4,
+    "title": "Elegir síncopa",
+    "explanationMd": "Mantén un acorde por compás y bajo en 0/2. Elige qué compás lleva la entrada derecha en 1.5 por duración 1; deja al menos un compás de referencia sin síncopa.",
+    "task": "Toca cuatro compases a 80 BPM siguiendo el mapa y los silencios descritos.",
+    "changeFromPrevious": "Autonomía: se selecciona el compás sincopado, no se mueve la frontera del acorde.",
+    "successCriteria": [
+      "Diseño una síncopa que cruza 2 sin reatacar ni anticipar."
+    ],
+    "simplifyHint": "Practica primero el bajo contando en voz alta; después añade la derecha a tempo lento.",
+    "extendHint": "Crea una segunda vuelta cambiando solo el lugar de la pausa o la entrada, y explica cómo conservas el pulso."
+  },
+  {
+    "id": "stage-rhythm-010-01",
+    "lessonId": "lesson-rhythm-010",
+    "order": 1,
+    "title": "Blancas de bajo",
+    "explanationMd": "Cuatro compases: D, G, C, C; izquierda toca cada raíz en offset 0 y la sostiene 2 beats (blancas). Derecha espera; escucha el espacio real entre bajos.",
+    "task": "Toca cuatro compases a 80 BPM siguiendo el mapa y los silencios descritos.",
+    "changeFromPrevious": "Base armónica D–G–C–C con bajo en blancas.",
+    "successCriteria": [
+      "Sostengo cada blanca y cuento los cuatro compases."
+    ],
+    "simplifyHint": "Practica primero el bajo contando en voz alta; después añade la derecha a tempo lento.",
+    "extendHint": "Crea una segunda vuelta cambiando solo el lugar de la pausa o la entrada, y explica cómo conservas el pulso."
+  },
+  {
+    "id": "stage-rhythm-010-02",
+    "lessonId": "lesson-rhythm-010",
+    "order": 2,
+    "title": "Línea F hacia E",
+    "explanationMd": "Sobre D–G–C–C, derecha toca F y resuelve por semitono a E; entradas en 0 y 1 respectivamente, cada nota breve. No añadas acordes a la línea.",
+    "task": "Toca cuatro compases a 80 BPM siguiendo el mapa y los silencios descritos.",
+    "changeFromPrevious": "Se incorpora línea compatible F→E sobre la misma base de blancas.",
+    "successCriteria": [
+      "Oigo F resolver a E sin interferir con las raíces."
+    ],
+    "simplifyHint": "Practica primero el bajo contando en voz alta; después añade la derecha a tempo lento.",
+    "extendHint": "Crea una segunda vuelta cambiando solo el lugar de la pausa o la entrada, y explica cómo conservas el pulso."
+  },
+  {
+    "id": "stage-rhythm-010-03",
+    "lessonId": "lesson-rhythm-010",
+    "order": 3,
+    "title": "Entrada en último tercio",
+    "explanationMd": "Compara entrada derecha a tierra con la entrada en offset 2/3 de negra (último tercio); toca F, resuelve a E en el siguiente punto indicado y deja silencio posterior. No uses 0.5.",
+    "task": "Toca cuatro compases a 80 BPM siguiendo el mapa y los silencios descritos.",
+    "changeFromPrevious": "La entrada desplazada está en 2/3, no en la corchea recta 0.5; base armónica no se mueve.",
+    "successCriteria": [
+      "Coloco la entrada en 2/3 y respeto la pausa."
+    ],
+    "simplifyHint": "Practica primero el bajo contando en voz alta; después añade la derecha a tempo lento.",
+    "extendHint": "Crea una segunda vuelta cambiando solo el lugar de la pausa o la entrada, y explica cómo conservas el pulso."
+  },
+  {
+    "id": "stage-rhythm-010-04",
+    "lessonId": "lesson-rhythm-010",
+    "order": 4,
+    "title": "Frase propia con pausa",
+    "explanationMd": "Conserva D/G/C/C y blancas LH; crea una línea breve que use F→E compatible, entra en el último tercio (2/3, nunca 0.5) y deja una pausa real antes de continuar.",
+    "task": "Toca cuatro compases a 80 BPM siguiendo el mapa y los silencios descritos.",
+    "changeFromPrevious": "Autonomía en longitud y lugar de la frase, con entrada tardía y silencio exigidos.",
+    "successCriteria": [
+      "Puedo sostener bajo, resolver F→E y dejar espacio sin rellenarlo."
+    ],
+    "simplifyHint": "Practica primero el bajo contando en voz alta; después añade la derecha a tempo lento.",
+    "extendHint": "Crea una segunda vuelta cambiando solo el lugar de la pausa o la entrada, y explica cómo conservas el pulso."
+  }
+]

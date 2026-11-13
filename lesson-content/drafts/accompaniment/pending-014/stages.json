@@ -1,0 +1,97 @@
+[
+  {
+    "id": "stage-accompaniment-014-01",
+    "lessonId": "lesson-accompaniment-014",
+    "order": 1,
+    "title": "Bloque compacto",
+    "explanationMd": "Establece la referencia: ocho compases, raíz izquierda y bloque de cuatro notas en la derecha. Cada acorde ocupa un compás completo.",
+    "task": "Toca los ocho acordes a cuatro negras por compás, sin cambiar el registro compacto ni la intensidad indicada.",
+    "changeFromPrevious": "Referencia compacta en registro medio; establece el patrón común antes de abrir el registro.",
+    "successCriteria": [
+      "Ocho compases de 4/4 a 72 BPM cubren 32 negras sin huecos ni solapamientos.",
+      "Cada acorde y cada ataque de ambas manos comienza en el inicio del compás y dura cuatro negras.",
+      "Las raíces izquierdas son 48, 45, 50, 43, 48, 45, 43, 48; velocidad 60 en todos los ataques.",
+      "Las velocidades derechas son 64 en todos los ataques; esto fija valores MIDI, no afirma medición acústica de igual volumen.",
+      "Cada mano conserva posiciones cómodas; no hay notas graves dobladas ni movimiento de la izquierda ni melodía añadida.",
+      "La derecha usa los cuatro bloques compactos especificados, con alcance máximo de 11 semitonos."
+    ],
+    "simplifyHint": "Practica primero las ocho raíces a cuatro pulsos cada una y añade la derecha sin cambiar las entradas.",
+    "extendHint": "Compara las dos frases y explica qué parámetro cambió en esta etapa y cuáles permanecieron fijos."
+  },
+  {
+    "id": "stage-accompaniment-014-02",
+    "lessonId": "lesson-accompaniment-014",
+    "order": 2,
+    "title": "Segunda frase en registro alto",
+    "explanationMd": "Solo cambia el registro de la derecha en los compases 5–8: sube exactamente una octava. La izquierda, las cuatro notas por bloque, la duración y las velocidades permanecen iguales; la nota más alta es B5 (83), dentro del piano.",
+    "task": "Repite los primeros cuatro compases compactos y toca los cuatro siguientes una octava más arriba.",
+    "changeFromPrevious": "Solo cambia el registro RH de la segunda frase: mismas cuatro notas, densidad, ataques, duraciones y velocidades.",
+    "successCriteria": [
+      "Ocho compases de 4/4 a 72 BPM cubren 32 negras sin huecos ni solapamientos.",
+      "Cada acorde y cada ataque de ambas manos comienza en el inicio del compás y dura cuatro negras.",
+      "Las raíces izquierdas son 48, 45, 50, 43, 48, 45, 43, 48; velocidad 60 en todos los ataques.",
+      "Las velocidades derechas son 64 en todos los ataques; esto fija valores MIDI, no afirma medición acústica de igual volumen.",
+      "Cada mano conserva posiciones cómodas; no hay notas graves dobladas ni movimiento de la izquierda ni melodía añadida.",
+      "Barras 5–8 elevan exactamente una octava los cuatro bloques; B5 (83) es la altura máxima."
+    ],
+    "simplifyHint": "Practica primero las ocho raíces a cuatro pulsos cada una y añade la derecha sin cambiar las entradas.",
+    "extendHint": "Compara las dos frases y explica qué parámetro cambió en esta etapa y cuáles permanecieron fijos."
+  },
+  {
+    "id": "stage-accompaniment-014-03",
+    "lessonId": "lesson-accompaniment-014",
+    "order": 3,
+    "title": "Abrir con notas guía",
+    "explanationMd": "Ahora la densidad cambia en la segunda frase: en Cmaj7, Am7, G7 y Cmaj7 usa solo las guías indicadas en el registro alto. Los primeros cuatro compases conservan exactamente los bloques compactos de la etapa 1. Esta fase introduce densidad, no un registro nuevo.",
+    "task": "Toca compactos los compases 1–4; en 5–8 usa dos notas por acorde, sin alterar bajo, pulso ni velocidades.",
+    "changeFromPrevious": "Reduce solo la densidad de la segunda frase: cuatro bloques de dos guías; conserva el registro ya presentado.",
+    "successCriteria": [
+      "Ocho compases de 4/4 a 72 BPM cubren 32 negras sin huecos ni solapamientos.",
+      "Cada acorde y cada ataque de ambas manos comienza en el inicio del compás y dura cuatro negras.",
+      "Las raíces izquierdas son 48, 45, 50, 43, 48, 45, 43, 48; velocidad 60 en todos los ataques.",
+      "Las velocidades derechas son 64 en todos los ataques; esto fija valores MIDI, no afirma medición acústica de igual volumen.",
+      "Cada mano conserva posiciones cómodas; no hay notas graves dobladas ni movimiento de la izquierda ni melodía añadida.",
+      "Barras 1–4 coinciden con la etapa 1; barras 5–8 usan exactamente dos notas guía altas por acorde."
+    ],
+    "simplifyHint": "Practica primero las ocho raíces a cuatro pulsos cada una y añade la derecha sin cambiar las entradas.",
+    "extendHint": "Compara las dos frases y explica qué parámetro cambió en esta etapa y cuáles permanecieron fijos."
+  },
+  {
+    "id": "stage-accompaniment-014-04",
+    "lessonId": "lesson-accompaniment-014",
+    "order": 4,
+    "title": "Recuperar en la última llegada",
+    "explanationMd": "En la barra 8, el shell de C vuelve al registro inicial [64,71]. Conserva dos notas: no restaures raíz ni quinta. Los compases 5–7 mantienen los shells altos.",
+    "task": "Sostén el shell alto hasta G7; baja únicamente el shell final de C a [64,71].",
+    "changeFromPrevious": "Solo cambia el registro del shell final; la densidad sigue en dos y no se añaden raíz ni quinta.",
+    "successCriteria": [
+      "Ocho compases de 4/4 a 72 BPM cubren 32 negras sin huecos ni solapamientos.",
+      "Cada acorde y cada ataque de ambas manos comienza en el inicio del compás y dura cuatro negras.",
+      "Las raíces izquierdas son 48, 45, 50, 43, 48, 45, 43, 48; velocidad 60 en todos los ataques.",
+      "Las velocidades derechas son 64 en todos los ataques; esto fija valores MIDI, no afirma medición acústica de igual volumen.",
+      "Cada mano conserva posiciones cómodas; no hay notas graves dobladas ni movimiento de la izquierda ni melodía añadida.",
+      "El shell final de C es [64,71], sin raíz ni quinta, y conserva dos notas."
+    ],
+    "simplifyHint": "Practica primero las ocho raíces a cuatro pulsos cada una y añade la derecha sin cambiar las entradas.",
+    "extendHint": "Compara las dos frases y explica qué parámetro cambió en esta etapa y cuáles permanecieron fijos."
+  },
+  {
+    "id": "stage-accompaniment-014-05",
+    "lessonId": "lesson-accompaniment-014",
+    "order": 5,
+    "title": "Autonomía: decide dónde volver",
+    "explanationMd": "Elige recuperar el shell en G7 de la barra 7 o mantenerlo alto hasta la barra 8. Si recuperas en 7, usa [59,65] para G7; C final permanece [64,71]. Mantén siempre dos notas en esa frase, sin variar intensidad, armonía o ritmo.",
+    "task": "Toca toda la progresión y decide si recuperas en G7 o en C; deja intactos los demás parámetros.",
+    "changeFromPrevious": "Autonomía acotada al momento de recuperar registro en la segunda frase; la armonía, densidad, ritmo y velocidades no cambian.",
+    "successCriteria": [
+      "Ocho compases de 4/4 a 72 BPM cubren 32 negras sin huecos ni solapamientos.",
+      "Cada acorde y cada ataque de ambas manos comienza en el inicio del compás y dura cuatro negras.",
+      "Las raíces izquierdas son 48, 45, 50, 43, 48, 45, 43, 48; velocidad 60 en todos los ataques.",
+      "Las velocidades derechas son 64 en todos los ataques; esto fija valores MIDI, no afirma medición acústica de igual volumen.",
+      "Cada mano conserva posiciones cómodas; no hay notas graves dobladas ni movimiento de la izquierda ni melodía añadida.",
+      "Elige recuperación en barra 7 [59,65] o en barra 8 [64,71]; G7/C final queda siempre dentro de siete semitonos."
+    ],
+    "simplifyHint": "Practica primero las ocho raíces a cuatro pulsos cada una y añade la derecha sin cambiar las entradas.",
+    "extendHint": "Compara las dos frases y explica qué parámetro cambió en esta etapa y cuáles permanecieron fijos."
+  }
+]

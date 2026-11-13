@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-accompaniment-013-01-primary",
+    "stageId": "stage-accompaniment-013-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Arpegio continuo",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Arpegio continuo: C–G–Am–F–C–Am–G–C; raíz LH invariable y arpegio RH con voz superior integrada.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-013-02-primary",
+    "stageId": "stage-accompaniment-013-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Aire al final",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Aire al final: C–G–Am–F–C–Am–G–C; raíz LH invariable y arpegio RH con voz superior integrada.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-013-03-primary",
+    "stageId": "stage-accompaniment-013-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Más espacio antes de la cima",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Más espacio antes de la cima: C–G–Am–F–C–Am–G–C; raíz LH invariable y arpegio RH con voz superior integrada.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-013-04-primary",
+    "stageId": "stage-accompaniment-013-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Sostener la cima",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Sostener la cima: C–G–Am–F–C–Am–G–C; raíz LH invariable y arpegio RH con voz superior integrada.",
+    "loopable": true
+  },
+  {
+    "id": "prog-accompaniment-013-05-primary",
+    "stageId": "stage-accompaniment-013-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: desplaza el despeje",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Autonomía: desplaza el despeje: C–G–Am–F–C–Am–G–C; raíz LH invariable y arpegio RH con voz superior integrada.",
+    "loopable": true
+  }
+]

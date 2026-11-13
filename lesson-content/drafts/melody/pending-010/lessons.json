@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-melody-010",
+    "primarySkillId": "skill-melody-question-answer",
+    "orderInCategory": 10,
+    "title": "Una respuesta que transforma la pregunta",
+    "difficulty": 3,
+    "goal": "Contestar una frase conservando su motivo pero cambiando dirección y nota final.",
+    "introMd": "En ocho compases de pop, el bajo marca acordes largos mientras la derecha plantea cuatro compases y responde otros cuatro. Compara repetición literal con respuesta emparentada; decide qué rasgo conservar y dónde cerrar sin perder la respiración.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-005",
+      "lesson-melody-007",
+      "lesson-melody-008"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "pop"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "progression-harmony-010-01",
+    "stageId": "stage-harmony-010-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Escuchar el IV mayor",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases F–C–F–C, todos los acordes duran cuatro negras; raíces Fa2 (41) y Do3 (48), acordes derechos de tres notas con Do5 (72) como cima. Los compases menores se especifican por etapa.",
+    "loopable": false
+  },
+  {
+    "id": "progression-harmony-010-02",
+    "stageId": "stage-harmony-010-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Prestar iv en la segunda repetición",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases F–C–F–C, todos los acordes duran cuatro negras; raíces Fa2 (41) y Do3 (48), acordes derechos de tres notas con Do5 (72) como cima. Los compases menores se especifican por etapa.",
+    "loopable": false
+  },
+  {
+    "id": "progression-harmony-010-03",
+    "stageId": "stage-harmony-010-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Extender iv a la primera aparición",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases F–C–F–C, todos los acordes duran cuatro negras; raíces Fa2 (41) y Do3 (48), acordes derechos de tres notas con Do5 (72) como cima. Los compases menores se especifican por etapa.",
+    "loopable": false
+  },
+  {
+    "id": "progression-harmony-010-04",
+    "stageId": "stage-harmony-010-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir dónde prestar iv",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Cuatro compases F–C–F–C, todos los acordes duran cuatro negras; raíces Fa2 (41) y Do3 (48), acordes derechos de tres notas con Do5 (72) como cima. Los compases menores se especifican por etapa.",
+    "loopable": false
+  }
+]

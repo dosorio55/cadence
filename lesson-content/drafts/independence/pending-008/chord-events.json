@@ -1,0 +1,47 @@
+[
+  {
+    "id": "chord-independence-008-01-001",
+    "progressionId": "prog-independence-008-01-primary",
+    "order": 1,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-008-02-001",
+    "progressionId": "prog-independence-008-02-primary",
+    "order": 1,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-008-03-001",
+    "progressionId": "prog-independence-008-03-primary",
+    "order": 1,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-008-04-001",
+    "progressionId": "prog-independence-008-04-primary",
+    "order": 1,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 0,
+    "durationBeats": 16
+  },
+  {
+    "id": "chord-independence-008-05-001",
+    "progressionId": "prog-independence-008-05-primary",
+    "order": 1,
+    "symbol": "C7",
+    "function": "I7",
+    "startBeat": 0,
+    "durationBeats": 16
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-melody-013-01-primary",
+    "stageId": "stage-melody-013-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Melodía desnuda",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Arreglo reducido: raíces izquierdas y melodía derecha; la secuencia de símbolos explicita armonía parcial, no voicings completos. Pausa melódica local [2,4) en cada compás.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-013-02-primary",
+    "stageId": "stage-melody-013-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Bordadura en la primera llegada",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Arreglo reducido: raíces izquierdas y melodía derecha; la secuencia de símbolos explicita armonía parcial, no voicings completos. Pausa melódica local [2,4) en cada compás.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-013-03-primary",
+    "stageId": "stage-melody-013-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Paso hacia D4",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Arreglo reducido: raíces izquierdas y melodía derecha; la secuencia de símbolos explicita armonía parcial, no voicings completos. Pausa melódica local [2,4) en cada compás.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-013-04-primary",
+    "stageId": "stage-melody-013-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Retirar la bordadura",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Arreglo reducido: raíces izquierdas y melodía derecha; la secuencia de símbolos explicita armonía parcial, no voicings completos. Pausa melódica local [2,4) en cada compás.",
+    "loopable": true
+  },
+  {
+    "id": "prog-melody-013-05-primary",
+    "stageId": "stage-melody-013-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía: retirar el paso",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Arreglo reducido: raíces izquierdas y melodía derecha; la secuencia de símbolos explicita armonía parcial, no voicings completos. Pausa melódica local [2,4) en cada compás.",
+    "loopable": true
+  }
+]

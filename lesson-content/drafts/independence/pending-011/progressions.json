@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-independence-011-01-primary",
+    "stageId": "stage-independence-011-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Pulso y frase literal",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Progresión Cmaj7, Am7, Fmaj7, G7, Cmaj7, Am7, G7, Cmaj7; raíces LH [48, 45, 41, 43, 48, 45, 43, 48], cuatro negras por barra velocity 65; Base: RH ataca en offsets 0 y 2, duración 1.",
+    "loopable": false
+  },
+  {
+    "id": "prog-independence-011-02-primary",
+    "stageId": "stage-independence-011-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Desplazar la respuesta",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Progresión Cmaj7, Am7, Fmaj7, G7, Cmaj7, Am7, G7, Cmaj7; raíces LH [48, 45, 41, 43, 48, 45, 43, 48], cuatro negras por barra velocity 65; Solo el segundo ataque de cada par pasa de offset 2 a 3; primeros cuatro compases idénticos.",
+    "loopable": false
+  },
+  {
+    "id": "prog-independence-011-03-primary",
+    "stageId": "stage-independence-011-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Una respuesta omitida",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Progresión Cmaj7, Am7, Fmaj7, G7, Cmaj7, Am7, G7, Cmaj7; raíces LH [48, 45, 41, 43, 48, 45, 43, 48], cuatro negras por barra velocity 65; Se omite RH global 22 (compás 6); resto idéntico a etapa 02.",
+    "loopable": false
+  },
+  {
+    "id": "prog-independence-011-04-primary",
+    "stageId": "stage-independence-011-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Sostener D4",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Progresión Cmaj7, Am7, Fmaj7, G7, Cmaj7, Am7, G7, Cmaj7; raíces LH [48, 45, 41, 43, 48, 45, 43, 48], cuatro negras por barra velocity 65; RH global 23 (D4) dura 2 en vez de 1; RH 27 y las 32 LH no cambian.",
+    "loopable": false
+  },
+  {
+    "id": "prog-independence-011-05-primary",
+    "stageId": "stage-independence-011-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir un compás de aire",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "pop",
+    "bpm": 72,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Progresión Cmaj7, Am7, Fmaj7, G7, Cmaj7, Am7, G7, Cmaj7; raíces LH [48, 45, 41, 43, 48, 45, 43, 48], cuatro negras por barra velocity 65; Conserva 04, restaura RH 23 y omite RH 19 (compás 5): una sola respuesta omitida.",
+    "loopable": false
+  }
+]

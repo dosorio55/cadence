@@ -1,0 +1,82 @@
+[
+  {
+    "id": "stage-independence-011-01",
+    "lessonId": "lesson-independence-011",
+    "order": 1,
+    "title": "Pulso y frase literal",
+    "explanationMd": "Ocho compases: Cmaj7–Am7–Fmaj7–G7–Cmaj7–Am7–G7–Cmaj7. Base: RH ataca en offsets 0 y 2, duración 1. Los silencios y el sostén no alteran las fronteras ni el cierre de frase.",
+    "task": "Toca las raíces LH con cuatro negras por barra y aplica en RH: Base: RH ataca en offsets 0 y 2, duración 1.",
+    "changeFromPrevious": "Base: RH ataca en offsets 0 y 2, duración 1.",
+    "successCriteria": [
+      "Base: RH ataca en offsets 0 y 2, duración 1.",
+      "LH mantiene exactamente 32 ataques, cuatro por barra, raíz repetida y velocity 65; no imita onsets ni pausas RH.",
+      "Completa los ocho compases y deja que la frase cierre en el compás 8, incluso durante silencios o notas sostenidas."
+    ],
+    "simplifyHint": "Practica primero ocho compases completos de cuatro negras LH por barra; añade RH contando sus offsets y duraciones sin mover el bajo.",
+    "extendHint": "Conserva las notas y transformación indicadas: Base: RH ataca en offsets 0 y 2, duración 1. Cuenta el cierre de ocho compases sin rellenar silencios."
+  },
+  {
+    "id": "stage-independence-011-02",
+    "lessonId": "lesson-independence-011",
+    "order": 2,
+    "title": "Desplazar la respuesta",
+    "explanationMd": "Ocho compases: Cmaj7–Am7–Fmaj7–G7–Cmaj7–Am7–G7–Cmaj7. Solo el segundo ataque de cada par pasa de offset 2 a 3; primeros cuatro compases idénticos. Los silencios y el sostén no alteran las fronteras ni el cierre de frase.",
+    "task": "Toca las raíces LH con cuatro negras por barra y aplica en RH: Solo el segundo ataque de cada par pasa de offset 2 a 3; primeros cuatro compases idénticos.",
+    "changeFromPrevious": "Solo el segundo ataque de cada par pasa de offset 2 a 3; primeros cuatro compases idénticos.",
+    "successCriteria": [
+      "Solo el segundo ataque de cada par pasa de offset 2 a 3; primeros cuatro compases idénticos.",
+      "LH mantiene exactamente 32 ataques, cuatro por barra, raíz repetida y velocity 65; no imita onsets ni pausas RH.",
+      "Completa los ocho compases y deja que la frase cierre en el compás 8, incluso durante silencios o notas sostenidas."
+    ],
+    "simplifyHint": "Practica primero ocho compases completos de cuatro negras LH por barra; añade RH contando sus offsets y duraciones sin mover el bajo.",
+    "extendHint": "Conserva las notas y transformación indicadas: Solo el segundo ataque de cada par pasa de offset 2 a 3; primeros cuatro compases idénticos. Cuenta el cierre de ocho compases sin rellenar silencios."
+  },
+  {
+    "id": "stage-independence-011-03",
+    "lessonId": "lesson-independence-011",
+    "order": 3,
+    "title": "Una respuesta omitida",
+    "explanationMd": "Ocho compases: Cmaj7–Am7–Fmaj7–G7–Cmaj7–Am7–G7–Cmaj7. Se omite RH global 22 (compás 6); resto idéntico a etapa 02. Los silencios y el sostén no alteran las fronteras ni el cierre de frase.",
+    "task": "Toca las raíces LH con cuatro negras por barra y aplica en RH: Se omite RH global 22 (compás 6); resto idéntico a etapa 02.",
+    "changeFromPrevious": "Se omite RH global 22 (compás 6); resto idéntico a etapa 02.",
+    "successCriteria": [
+      "Se omite RH global 22 (compás 6); resto idéntico a etapa 02.",
+      "LH mantiene exactamente 32 ataques, cuatro por barra, raíz repetida y velocity 65; no imita onsets ni pausas RH.",
+      "Completa los ocho compases y deja que la frase cierre en el compás 8, incluso durante silencios o notas sostenidas."
+    ],
+    "simplifyHint": "Practica primero ocho compases completos de cuatro negras LH por barra; añade RH contando sus offsets y duraciones sin mover el bajo.",
+    "extendHint": "Conserva las notas y transformación indicadas: Se omite RH global 22 (compás 6); resto idéntico a etapa 02. Cuenta el cierre de ocho compases sin rellenar silencios."
+  },
+  {
+    "id": "stage-independence-011-04",
+    "lessonId": "lesson-independence-011",
+    "order": 4,
+    "title": "Sostener D4",
+    "explanationMd": "Ocho compases: Cmaj7–Am7–Fmaj7–G7–Cmaj7–Am7–G7–Cmaj7. RH global 23 (D4) dura 2 en vez de 1; RH 27 y las 32 LH no cambian. Los silencios y el sostén no alteran las fronteras ni el cierre de frase.",
+    "task": "Toca las raíces LH con cuatro negras por barra y aplica en RH: RH global 23 (D4) dura 2 en vez de 1; RH 27 y las 32 LH no cambian.",
+    "changeFromPrevious": "RH global 23 (D4) dura 2 en vez de 1; RH 27 y las 32 LH no cambian.",
+    "successCriteria": [
+      "RH global 23 (D4) dura 2 en vez de 1; RH 27 y las 32 LH no cambian.",
+      "LH mantiene exactamente 32 ataques, cuatro por barra, raíz repetida y velocity 65; no imita onsets ni pausas RH.",
+      "Completa los ocho compases y deja que la frase cierre en el compás 8, incluso durante silencios o notas sostenidas."
+    ],
+    "simplifyHint": "Practica primero ocho compases completos de cuatro negras LH por barra; añade RH contando sus offsets y duraciones sin mover el bajo.",
+    "extendHint": "Conserva las notas y transformación indicadas: RH global 23 (D4) dura 2 en vez de 1; RH 27 y las 32 LH no cambian. Cuenta el cierre de ocho compases sin rellenar silencios."
+  },
+  {
+    "id": "stage-independence-011-05",
+    "lessonId": "lesson-independence-011",
+    "order": 5,
+    "title": "Elegir un compás de aire",
+    "explanationMd": "Ocho compases: Cmaj7–Am7–Fmaj7–G7–Cmaj7–Am7–G7–Cmaj7. Conserva 04, restaura RH 23 y omite RH 19 (compás 5): una sola respuesta omitida. Los silencios y el sostén no alteran las fronteras ni el cierre de frase.",
+    "task": "Toca las raíces LH con cuatro negras por barra y aplica en RH: Conserva 04, restaura RH 23 y omite RH 19 (compás 5): una sola respuesta omitida.",
+    "changeFromPrevious": "Conserva 04, restaura RH 23 y omite RH 19 (compás 5): una sola respuesta omitida.",
+    "successCriteria": [
+      "Conserva 04, restaura RH 23 y omite RH 19 (compás 5): una sola respuesta omitida.",
+      "LH mantiene exactamente 32 ataques, cuatro por barra, raíz repetida y velocity 65; no imita onsets ni pausas RH.",
+      "Completa los ocho compases y deja que la frase cierre en el compás 8, incluso durante silencios o notas sostenidas."
+    ],
+    "simplifyHint": "Practica primero ocho compases completos de cuatro negras LH por barra; añade RH contando sus offsets y duraciones sin mover el bajo.",
+    "extendHint": "Conserva las notas y transformación indicadas: Conserva 04, restaura RH 23 y omite RH 19 (compás 5): una sola respuesta omitida. Cuenta el cierre de ocho compases sin rellenar silencios."
+  }
+]

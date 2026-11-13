@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-expression-015-01-primary",
+    "stageId": "stage-expression-015-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Entrada y forma",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Balada de ocho compases a 68 BPM, con subdivisión ternaria expresiva en 4/4. LH toca una raíz por compás durante 4 beats; RH lleva una línea melódica, no voicings completos. La armonía está indicada explícitamente por los símbolos de acorde; la realización es parcial.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-015-02-primary",
+    "stageId": "stage-expression-015-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Contraste de frases",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Balada de ocho compases a 68 BPM, con subdivisión ternaria expresiva en 4/4. LH toca una raíz por compás durante 4 beats; RH lleva una línea melódica, no voicings completos. La armonía está indicada explícitamente por los símbolos de acorde; la realización es parcial.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-015-03-primary",
+    "stageId": "stage-expression-015-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Respirar en la idea",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Balada de ocho compases a 68 BPM, con subdivisión ternaria expresiva en 4/4. LH toca una raíz por compás durante 4 beats; RH lleva una línea melódica, no voicings completos. La armonía está indicada explícitamente por los símbolos de acorde; la realización es parcial.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-015-04-primary",
+    "stageId": "stage-expression-015-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Cerrar y callar",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Balada de ocho compases a 68 BPM, con subdivisión ternaria expresiva en 4/4. LH toca una raíz por compás durante 4 beats; RH lleva una línea melódica, no voicings completos. La armonía está indicada explícitamente por los símbolos de acorde; la realización es parcial.",
+    "loopable": false
+  },
+  {
+    "id": "prog-expression-015-05-primary",
+    "stageId": "stage-expression-015-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Autonomía expresiva",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "balada",
+    "bpm": 68,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 8,
+    "description": "Balada de ocho compases a 68 BPM, con subdivisión ternaria expresiva en 4/4. LH toca una raíz por compás durante 4 beats; RH lleva una línea melódica, no voicings completos. La armonía está indicada explícitamente por los símbolos de acorde; la realización es parcial.",
+    "loopable": false
+  }
+]

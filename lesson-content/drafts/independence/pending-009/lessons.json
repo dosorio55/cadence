@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-independence-009",
+    "primarySkillId": "skill-independence-walking",
+    "orderInCategory": 9,
+    "title": "Walking y un acorde que entra después",
+    "difficulty": 3,
+    "goal": "Sostener un walking a negras con un shell derecho breve que entra fuera del ataque del bajo.",
+    "introMd": "En cuatro compases de jazz, conserva el walking diatónico conocido y mueve un shell al contratiempo ternario. Compara shell en uno y desplazado; elige una sola respuesta derecha por compás y evita doblar la línea izquierda.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-004",
+      "lesson-independence-006",
+      "lesson-rhythm-010"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

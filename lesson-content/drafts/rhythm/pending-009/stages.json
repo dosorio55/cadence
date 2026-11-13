@@ -1,0 +1,58 @@
+[
+  {
+    "id": "stage-rhythm-009-01",
+    "lessonId": "lesson-rhythm-009",
+    "order": 1,
+    "title": "Bloque en cada compás",
+    "explanationMd": "La izquierda toca la raíz de cada acorde en el primer tiempo; la derecha toca su tríada como bloque en el mismo ataque. Mantén ambas manos durante dos pulsos y cuenta el resto del compás.",
+    "task": "Toca una vez por compás con ambas manos juntas: izquierda dos pulsos, derecha un pulso.",
+    "changeFromPrevious": "Referencia inicial: cuatro compases C–Am–Dm–G (I–vi–ii–V), con raíz y bloque simultáneos al comienzo de cada compás.",
+    "successCriteria": [
+      "Puedo mantener cuatro compases y reconocer I–vi–ii–V sin añadir ataques."
+    ],
+    "simplifyHint": "Practica primero la izquierda sola; después añade la derecha en la ubicación indicada.",
+    "extendHint": "Repite los cuatro compases manteniendo las duraciones exactas y el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-009-02",
+    "lessonId": "lesson-rhythm-009",
+    "order": 2,
+    "title": "La derecha entra después",
+    "explanationMd": "Compara A (etapa 01) con B: la izquierda conserva sus raíces al inicio de cada compás; solo la tríada derecha entra en el segundo pulso, offset local 1.5, y dura un pulso.",
+    "task": "Cuenta el primer pulso, entra con la tríada en 1.5 y sostén un pulso mientras el bajo continúa.",
+    "changeFromPrevious": "Se retrasa únicamente el bloque derecho a 1.5; raíces, acordes y duraciones de la izquierda no cambian.",
+    "successCriteria": [
+      "La raíz sigue en el inicio del compás y la derecha entra después, sin desplazarla."
+    ],
+    "simplifyHint": "Practica primero la izquierda sola; después añade la derecha en la ubicación indicada.",
+    "extendHint": "Repite los cuatro compases manteniendo las duraciones exactas y el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-009-03",
+    "lessonId": "lesson-rhythm-009",
+    "order": 3,
+    "title": "Sostener el bloque sobre el pulso",
+    "explanationMd": "Compara A (etapa 02) con B: cada tríada empieza en 1.5 y dura dos pulsos, de 1.5 a 3.5. El bajo sigue empezando en cero y dura dos; las voces derechas atraviesan el tiempo fuerte local 2 sin reataque.",
+    "task": "Toca el bajo en cero y deja que la tríada, entrada en 1.5, atraviese el pulso 2 hasta 3.5.",
+    "changeFromPrevious": "Solo se alarga la tríada desplazada: dura dos pulsos y cruza el pulso local 2; no se añade un nuevo ataque.",
+    "successCriteria": [
+      "Sostengo la tríada a través del pulso sin volver a atacarla."
+    ],
+    "simplifyHint": "Practica primero la izquierda sola; después añade la derecha en la ubicación indicada.",
+    "extendHint": "Repite los cuatro compases manteniendo las duraciones exactas y el pulso interno."
+  },
+  {
+    "id": "stage-rhythm-009-04",
+    "lessonId": "lesson-rhythm-009",
+    "order": 4,
+    "title": "Autonomía: elegir otra entrada",
+    "explanationMd": "Compara A (etapa 01) con B (esta referencia): en el primer compás la derecha entra en 0.5 y dura dos pulsos; atraviesa el pulso fuerte 2 hasta 2.5. En los otros tres compases mantiene entrada en 1.5 y duración de dos. La izquierda no cambia. Elige otra ubicación para el primer bloque, sin anticipar el acorde nuevo.",
+    "task": "Toca la base izquierda en cada inicio. En la derecha, prueba una ubicación distinta dentro del primer compás; no la adelantes al acorde siguiente y conserva el patrón de los otros tres.",
+    "changeFromPrevious": "Autonomía: el ejemplo desplaza solo la primera tríada a 0.5; las otras conservan 1.5. No se modifica armonía, bajo, registro ni material de alturas.",
+    "successCriteria": [
+      "Elijo otra entrada para el primer bloque sin cambiar las notas ni anticipar el acorde siguiente."
+    ],
+    "simplifyHint": "Practica primero la izquierda sola; después añade la derecha en la ubicación indicada.",
+    "extendHint": "Repite los cuatro compases manteniendo las duraciones exactas y el pulso interno."
+  }
+]

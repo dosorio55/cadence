@@ -1,0 +1,92 @@
+[
+  {
+    "id": "stage-accompaniment-015-01",
+    "lessonId": "lesson-accompaniment-015",
+    "order": 1,
+    "title": "Oír la frase antes de tocar",
+    "explanationMd": "Escucha primero la guía sola, sin bajo ni acordes; luego cambia a comping. No es una tercera mano.",
+    "task": "Escucha la alternativa guía antes del ejemplo de comping; nunca superpongas ambos.",
+    "changeFromPrevious": "Presentación: guía melódica separada y comping de referencia.",
+    "successCriteria": [
+      "Identifico la guía como escucha previa, no como parte simultánea.",
+      "La izquierda repite raíz–quinta sin variar; la derecha conserva la célula.",
+      "Las notas derechas quedan debajo de la guía y sobre el bajo.",
+      "El bajo no se detiene durante las dos pausas derechas.",
+      "Uso como máximo un G9 y puedo justificar la elección."
+    ],
+    "simplifyHint": "Practica primero la izquierda sola y después añade dos notas derechas.",
+    "extendHint": "Elige si el último compás cierra o invita a repetir, sin sumar otro color."
+  },
+  {
+    "id": "stage-accompaniment-015-02",
+    "lessonId": "lesson-accompaniment-015",
+    "order": 2,
+    "title": "Acompañar con bloques completos",
+    "explanationMd": "Mantén el bajo raíz–quinta mientras la derecha usa acordes completos en la célula conocida.",
+    "task": "Toca los ataques de la célula en cada compás con voicings completos.",
+    "changeFromPrevious": "Solo se reduce la densidad derecha.",
+    "successCriteria": [
+      "Identifico la guía como escucha previa, no como parte simultánea.",
+      "La izquierda repite raíz–quinta sin variar; la derecha conserva la célula.",
+      "Las notas derechas quedan debajo de la guía y sobre el bajo.",
+      "El bajo no se detiene durante las dos pausas derechas.",
+      "Uso como máximo un G9 y puedo justificar la elección."
+    ],
+    "simplifyHint": "Practica primero la izquierda sola y después añade dos notas derechas.",
+    "extendHint": "Elige si el último compás cierra o invita a repetir, sin sumar otro color."
+  },
+  {
+    "id": "stage-accompaniment-015-03",
+    "lessonId": "lesson-accompaniment-015",
+    "order": 3,
+    "title": "Bajar los shells bajo la melodía",
+    "explanationMd": "Solo cambia el registro: todos los shells quedan por debajo de la guía; el bajo sigue igual.",
+    "task": "Compara el registro con la guía y conserva el mismo patrón izquierdo.",
+    "changeFromPrevious": "Solo baja el registro derecho.",
+    "successCriteria": [
+      "Identifico la guía como escucha previa, no como parte simultánea.",
+      "La izquierda repite raíz–quinta sin variar; la derecha conserva la célula.",
+      "Las notas derechas quedan debajo de la guía y sobre el bajo.",
+      "El bajo no se detiene durante las dos pausas derechas.",
+      "Uso como máximo un G9 y puedo justificar la elección."
+    ],
+    "simplifyHint": "Practica primero la izquierda sola y después añade dos notas derechas.",
+    "extendHint": "Elige si el último compás cierra o invita a repetir, sin sumar otro color."
+  },
+  {
+    "id": "stage-accompaniment-015-04",
+    "lessonId": "lesson-accompaniment-015",
+    "order": 4,
+    "title": "Dejar dos respiraciones",
+    "explanationMd": "Omite únicamente dos ataques derechos; el bajo permanece activo durante esas pausas.",
+    "task": "Cuenta los ataques omitidos sin detener la izquierda.",
+    "changeFromPrevious": "Solo se omiten los ataques de 1.5 y 17.5.",
+    "successCriteria": [
+      "Identifico la guía como escucha previa, no como parte simultánea.",
+      "La izquierda repite raíz–quinta sin variar; la derecha conserva la célula.",
+      "Las notas derechas quedan debajo de la guía y sobre el bajo.",
+      "El bajo no se detiene durante las dos pausas derechas.",
+      "Uso como máximo un G9 y puedo justificar la elección."
+    ],
+    "simplifyHint": "Practica primero la izquierda sola y después añade dos notas derechas.",
+    "extendHint": "Elige si el último compás cierra o invita a repetir, sin sumar otro color."
+  },
+  {
+    "id": "stage-accompaniment-015-05",
+    "lessonId": "lesson-accompaniment-015",
+    "order": 5,
+    "title": "Elegir un solo color",
+    "explanationMd": "Conserva shells y huecos, y elige un único G7 para colorear como G9.",
+    "task": "Escoge G9 en compás 4 o 7, no en ambos; prueba la llegada a C.",
+    "changeFromPrevious": "Solo se añade A3 como novena en un G7 elegido.",
+    "successCriteria": [
+      "Identifico la guía como escucha previa, no como parte simultánea.",
+      "La izquierda repite raíz–quinta sin variar; la derecha conserva la célula.",
+      "Las notas derechas quedan debajo de la guía y sobre el bajo.",
+      "El bajo no se detiene durante las dos pausas derechas.",
+      "Uso como máximo un G9 y puedo justificar la elección."
+    ],
+    "simplifyHint": "Practica primero la izquierda sola y después añade dos notas derechas.",
+    "extendHint": "Elige si el último compás cierra o invita a repetir, sin sumar otro color."
+  }
+]

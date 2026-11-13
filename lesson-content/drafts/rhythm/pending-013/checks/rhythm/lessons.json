@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-rhythm-013",
+    "primarySkillId": "skill-rhythm-style-patterns",
+    "orderInCategory": 13,
+    "title": "Una célula de son dentro de la clave",
+    "difficulty": 4,
+    "goal": "Repetir un guajeo reducido de dos compases sin invertir su relación con una clave de son 2–3.",
+    "introMd": "En ocho compases, fija la orientación 2–3: referencia en dos y tres; después uno, 2& y cuatro. Compara dos colocaciones de un guajeo derecho reducido sobre bajo simple; elige una variación que conserve la orientación. La referencia de clave se estudia aparte, no exige una tercera mano.",
+    "prerequisiteLessonIds": [
+      "lesson-rhythm-008",
+      "lesson-rhythm-009",
+      "lesson-rhythm-012"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "son"
+    ]
+  }
+]

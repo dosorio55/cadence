@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-accompaniment-012",
+    "primarySkillId": "skill-accompaniment-shells",
+    "orderInCategory": 12,
+    "title": "Reconocer el enlace menor con pocas notas",
+    "difficulty": 3,
+    "goal": "Hacer audible iiø–V7–i con shells que reflejen la quinta disminuida y la resolución a menor.",
+    "introMd": "En cuatro compases de jazz, añade la quinta disminuida al iiø sobre bajo fundamental y conserva shells en V e i. Compara con el enlace mayor; elige la posición que permita oír la tercera menor de llegada sin introducir tensiones alteradas nuevas.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-007",
+      "lesson-accompaniment-009",
+      "lesson-harmony-006"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]

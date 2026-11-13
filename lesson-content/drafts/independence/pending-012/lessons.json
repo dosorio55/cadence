@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson-independence-012",
+    "primarySkillId": "skill-independence-alternation",
+    "orderInCategory": 12,
+    "title": "Bajo raíz–quinta y acordes de bossa",
+    "difficulty": 3,
+    "goal": "Sostener la alternancia de bajo en uno y tres con una célula sincopada derecha de dos compases sin sincronizar ambas manos.",
+    "introMd": "En ocho compases de bossa, conserva la célula dada y los shells conocidos; la izquierda no imita las anticipaciones derechas. Compara versión por manos y combinada, y elige una respuesta derecha más escasa manteniendo intacta la base.",
+    "prerequisiteLessonIds": [
+      "lesson-independence-007",
+      "lesson-independence-008",
+      "lesson-accompaniment-010"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "bossa"
+    ]
+  }
+]

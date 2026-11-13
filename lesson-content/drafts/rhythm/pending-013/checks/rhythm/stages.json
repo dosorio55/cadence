@@ -1,0 +1,58 @@
+[
+  {
+    "id": "stage-rhythm-013-01",
+    "lessonId": "lesson-rhythm-013",
+    "order": 1,
+    "title": "Clave sola: orientación 2–3",
+    "explanationMd": "La clave es una referencia aparte, no parte del guajeo. En cada par de compases, lado 2: ataques en los tiempos 2 y 3 (offsets locales 1 y 2); lado 3: tiempos 1, 2& y 4 (offsets 0, 1.5 y 3). Repite cuatro pares sin invertir.",
+    "task": "Toca solo la referencia de clave a dos manos libres; cuenta ocho compases y conserva siempre el lado 2 antes del lado 3.",
+    "changeFromPrevious": "Referencia de son reducida: una sola C5 por golpe, sin mano izquierda ni acordes completos; cuatro pares 2–3 a 88 BPM.",
+    "successCriteria": [
+      "Puedo mantener los ocho compases y nombrar correctamente los dos lados sin invertirlos."
+    ],
+    "simplifyHint": "Cuenta en voz alta los ocho compases; practica por separado la referencia de clave o las dos manos del guajeo, nunca superpuestas.",
+    "extendHint": "Repite a 88 BPM y verifica que el ciclo de dos compases conserva su orientación en las cuatro vueltas."
+  },
+  {
+    "id": "stage-rhythm-013-02",
+    "lessonId": "lesson-rhythm-013",
+    "order": 2,
+    "title": "Guajeo A sobre bajo simple",
+    "explanationMd": "La referencia de clave se estudió aparte; no la superpongas a este guajeo. Durante ocho compases alterna C–F–G–C dos veces. La izquierda toca una raíz al inicio y la sostiene cuatro negras. La derecha arpegia una nota por ataque, con el voicing indicado.",
+    "task": "Compara el ciclo de dos compases lado 2/lado 3 cuatro veces; toca solo bajo y arpegio, sin añadir la clave.",
+    "changeFromPrevious": "Primera realización del guajeo A: mano derecha monofónica, cuatro ataques en lado 2 y cinco en lado 3; bajo izquierdo una raíz por compás.",
+    "successCriteria": [
+      "Mantengo las raíces en los inicios de compás y diferencio los dos compases del guajeo sin una tercera parte."
+    ],
+    "simplifyHint": "Cuenta en voz alta los ocho compases; practica por separado la referencia de clave o las dos manos del guajeo, nunca superpuestas.",
+    "extendHint": "Repite a 88 BPM y verifica que el ciclo de dos compases conserva su orientación en las cuatro vueltas."
+  },
+  {
+    "id": "stage-rhythm-013-03",
+    "lessonId": "lesson-rhythm-013",
+    "order": 3,
+    "title": "Desplazar un ataque débil",
+    "explanationMd": "Compara con A02: solo en los cuatro compases impares, el ataque débil originalmente en offset 1.5 pasa a 0.5; conserva su pitch y velocity 64. Los ataques de ancla en offsets 1 y 2 y todo el lado 3 quedan intactos.",
+    "task": "Toca el patrón modificado en los compases impares y compara las anclas con A02; no muevas ningún otro ataque.",
+    "changeFromPrevious": "Una sola alteración rastreable de A02: offset 1.5→0.5 en cada compás impar, manteniendo alturas, dinámica y lado 3.",
+    "successCriteria": [
+      "Oigo el cambio débil y conservo las anclas y la orientación 2–3."
+    ],
+    "simplifyHint": "Cuenta en voz alta los ocho compases; practica por separado la referencia de clave o las dos manos del guajeo, nunca superpuestas.",
+    "extendHint": "Repite a 88 BPM y verifica que el ciclo de dos compases conserva su orientación en las cuatro vueltas."
+  },
+  {
+    "id": "stage-rhythm-013-04",
+    "lessonId": "lesson-rhythm-013",
+    "order": 4,
+    "title": "Autonomía: reiniciar A y variar",
+    "explanationMd": "Reinicia desde A02. Repite el cambio débil de 1.5→0.5 solo en el compás 3 (global 9.5→8.5); todos los demás compases vuelven a A. Además, elige otra variación débil, aquí compás 7: 2→2.5. No cambies anclas, pitches ni el orden 2–3.",
+    "task": "Toca el patrón A en ocho compases, cambia el ataque débil señalado en el compás 3 y prueba la segunda variación débil en el 7; no inviertas el ciclo.",
+    "changeFromPrevious": "Autonomía sobre A02: una instancia del cambio débil en el compás 3 y otra variación débil en el 7; las anclas 2–3 y las notas/dinámicas restantes permanecen.",
+    "successCriteria": [
+      "Elijo variaciones débiles sin alterar las anclas ni convertir el ciclo 2–3 en 3–2."
+    ],
+    "simplifyHint": "Cuenta en voz alta los ocho compases; practica por separado la referencia de clave o las dos manos del guajeo, nunca superpuestas.",
+    "extendHint": "Repite a 88 BPM y verifica que el ciclo de dos compases conserva su orientación en las cuatro vueltas."
+  }
+]

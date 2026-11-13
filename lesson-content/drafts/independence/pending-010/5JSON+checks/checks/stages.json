@@ -1,0 +1,58 @@
+[
+  {
+    "id": "stage-independence-010-01",
+    "lessonId": "lesson-independence-010",
+    "order": 1,
+    "title": "Base y frase inicial",
+    "explanationMd": "En cuatro compases de Cmaj7–G7–Cmaj7–Am7, RH toca E4 en 0, B4 en 6, C5 en 8 y C5 en 12. B4, séptima de Cmaj7, resuelve a C5 en la frontera 8; LH raíz–quinta conserva sus propios ataques.",
+    "task": "Toca E4 desde 0 durante 2 negras, B4 desde 6 durante 2 y C5 desde 8 durante 2 y desde 12 durante 2. Mantén LH raíz–quinta en beats 0 y 2 de cada compás, aunque RH tenga otros inicios.",
+    "changeFromPrevious": "Patrón base: ataques LH raíz–quinta y línea RH de referencia.",
+    "successCriteria": [
+      "Se establece la frase E4–B4–C5–C5; LH toca raíz–quinta en 0 y 2 de cada compás."
+    ],
+    "simplifyHint": "Practica LH sola: raíz y quinta en beats 0 y 2 de cada compás; añade después los ataques y duraciones RH escritos para esta etapa.",
+    "extendHint": "Mantén fijos los eventos LH y compón una frase RH que cumpla la misma ligadura y resolución sin añadir ataques en la frontera 8."
+  },
+  {
+    "id": "stage-independence-010-02",
+    "lessonId": "lesson-independence-010",
+    "order": 2,
+    "title": "Ligadura sobre el cambio",
+    "explanationMd": "La frase conserva E4 y la primera entrada B4; B4 dura hasta 9, atravesando el cambio de bajo en 8 sin reataque. C5 entra en 9 y termina en 10.",
+    "task": "Toca E4 en 0 por 2 negras y B4 en 6 por 3; sostén B4 a través del ataque LH de 8 sin volver a tocarlo. Ataca C5 en 9 por 1 negra. LH no espera.",
+    "changeFromPrevious": "B4 se prolonga a través de la frontera LH de 8 y resuelve después.",
+    "successCriteria": [
+      "B4 se ataca una sola vez en 6 y se sostiene hasta 9; C5 se ataca en 9. No hay ataque RH en 8."
+    ],
+    "simplifyHint": "Practica LH sola: raíz y quinta en beats 0 y 2 de cada compás; añade después los ataques y duraciones RH escritos para esta etapa.",
+    "extendHint": "Mantén fijos los eventos LH y compón una frase RH que cumpla la misma ligadura y resolución sin añadir ataques en la frontera 8."
+  },
+  {
+    "id": "stage-independence-010-03",
+    "lessonId": "lesson-independence-010",
+    "order": 3,
+    "title": "Resolución fraccionaria",
+    "explanationMd": "B4 dura 3.5 negras desde 6 hasta 9.5; C5 entra en 9.5 y dura 0.5 hasta 10. LH mantiene inalterados sus ataques.",
+    "task": "Desde 6, sostén B4 durante 3.5 negras, sin reataque en la frontera LH de 8. Ataca C5 exactamente en 9.5 y suéltalo en 10; mantén LH en 0 y 2.",
+    "changeFromPrevious": "La resolución se desplaza a 9.5 sin alterar la base.",
+    "successCriteria": [
+      "B4 comienza en 6 y termina en 9.5; C5 comienza en 9.5 y termina en 10, mientras LH no modifica su patrón."
+    ],
+    "simplifyHint": "Practica LH sola: raíz y quinta en beats 0 y 2 de cada compás; añade después los ataques y duraciones RH escritos para esta etapa.",
+    "extendHint": "Mantén fijos los eventos LH y compón una frase RH que cumpla la misma ligadura y resolución sin añadir ataques en la frontera 8."
+  },
+  {
+    "id": "stage-independence-010-04",
+    "lessonId": "lesson-independence-010",
+    "order": 4,
+    "title": "Resolución autónoma",
+    "explanationMd": "Elige una única duración de resolución que haga compatible la ligadura de B4 a través de 8 y la entrada de C5; la armonía de llegada Am7 admite C5 como tercera. LH continúa sin esperar.",
+    "task": "En la respuesta final, elige una duración compatible para B4 y su resolución a C5: B4 entra en 6 y cruza 8 sin reataque; C5 debe entrar después de 8 y antes de 10 y sostenerse hasta 10. No detengas ni retrases los ataques LH.",
+    "changeFromPrevious": "Decisión autónoma de duración compatible; LH no espera.",
+    "successCriteria": [
+      "Presento una duración concreta para B4 que cruza 8 sin reataque y una entrada posterior de C5 antes de 10; LH conserva exactamente sus ataques, alturas y duraciones."
+    ],
+    "simplifyHint": "Practica LH sola: raíz y quinta en beats 0 y 2 de cada compás; añade después los ataques y duraciones RH escritos para esta etapa.",
+    "extendHint": "Mantén fijos los eventos LH y compón una frase RH que cumpla la misma ligadura y resolución sin añadir ataques en la frontera 8."
+  }
+]

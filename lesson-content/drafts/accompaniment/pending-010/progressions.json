@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prog-accompaniment-010-01-primary",
+    "stageId": "stage-accompaniment-010-01",
+    "kind": "primary",
+    "order": 1,
+    "title": "Voicings densos",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Reducción de bossa de dos compases repetida: bajo en 1 y 3; acordes breves en la célula derecha 1/2&/4 y 2/3&. No representa por sí sola todo el género.",
+    "loopable": false
+  },
+  {
+    "id": "prog-accompaniment-010-02-primary",
+    "stageId": "stage-accompaniment-010-02",
+    "kind": "primary",
+    "order": 1,
+    "title": "Reducir a shells",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Reducción de bossa de dos compases repetida: bajo en 1 y 3; acordes breves en la célula derecha 1/2&/4 y 2/3&. No representa por sí sola todo el género.",
+    "loopable": false
+  },
+  {
+    "id": "prog-accompaniment-010-03-primary",
+    "stageId": "stage-accompaniment-010-03",
+    "kind": "primary",
+    "order": 1,
+    "title": "Una novena en Dm9",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Reducción de bossa de dos compases repetida: bajo en 1 y 3; acordes breves en la célula derecha 1/2&/4 y 2/3&. No representa por sí sola todo el género.",
+    "loopable": false
+  },
+  {
+    "id": "prog-accompaniment-010-04-primary",
+    "stageId": "stage-accompaniment-010-04",
+    "kind": "primary",
+    "order": 1,
+    "title": "Color puntual en G9",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Reducción de bossa de dos compases repetida: bajo en 1 y 3; acordes breves en la célula derecha 1/2&/4 y 2/3&. No representa por sí sola todo el género.",
+    "loopable": false
+  },
+  {
+    "id": "prog-accompaniment-010-05-primary",
+    "stageId": "stage-accompaniment-010-05",
+    "kind": "primary",
+    "order": 1,
+    "title": "Elegir un color",
+    "keyTonic": "C",
+    "keyMode": "major",
+    "style": "bossa",
+    "bpm": 100,
+    "timeSignature": {
+      "numerator": 4,
+      "denominator": 4
+    },
+    "totalBars": 4,
+    "description": "Reducción de bossa de dos compases repetida: bajo en 1 y 3; acordes breves en la célula derecha 1/2&/4 y 2/3&. No representa por sí sola todo el género.",
+    "loopable": false
+  }
+]

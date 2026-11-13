@@ -1,0 +1,742 @@
+[
+  {
+    "id": "stage-expression-001-01",
+    "lessonId": "lesson-expression-001",
+    "order": 1,
+    "title": "Base: dos planos",
+    "explanationMd": "Usa la misma velocity MIDI en ambas manos como referencia; la sonoridad real depende también del instrumento.",
+    "task": "Toca ambas manos con velocity 68 en la referencia, sin asumir que eso garantiza igual volumen acústico.",
+    "changeFromPrevious": "Presentación de la base",
+    "successCriteria": [
+      "Conservo el pulso y los inicios escritos.",
+      "Puedo describir el cambio audible sin atribuirlo a más notas."
+    ],
+    "simplifyHint": "Toca primero con velocity 68 en ambas manos y escucha el punto de partida.",
+    "extendHint": "Cambia después solo una mano; no infieras igualdad acústica del valor MIDI."
+  },
+  {
+    "id": "stage-expression-001-02",
+    "lessonId": "lesson-expression-001",
+    "order": 2,
+    "title": "Bajo en segundo plano",
+    "explanationMd": "Compara con la referencia: la melodía conserva velocity 68 y solo el bajo baja a 50.",
+    "task": "Repite y comprueba que el bajo siga claro bajo la melodía.",
+    "changeFromPrevious": "Solo cambia la velocity izquierda de 68 a 50; notas, ataques, duraciones y derecha quedan intactos.",
+    "successCriteria": [
+      "Conservo el pulso y los inicios escritos.",
+      "Puedo describir el cambio audible sin atribuirlo a más notas."
+    ],
+    "simplifyHint": "Prueba LH 50 y RH 68; si el bajo desaparece, sube su intención sin alcanzar la melodía.",
+    "extendHint": "Reduce y aumenta solo el contraste entre manos conservando alturas y ataques."
+  },
+  {
+    "id": "stage-expression-001-03",
+    "lessonId": "lesson-expression-001",
+    "order": 3,
+    "title": "Melodía al frente",
+    "explanationMd": "Ahora la melodía destaca; el bajo conserva el nivel suave anterior.",
+    "task": "Mantén la voz principal cantable sin endurecer cada nota.",
+    "changeFromPrevious": "Solo cambia la velocity derecha de 68 a 82; el bajo permanece en 50 y las notas no cambian.",
+    "successCriteria": [
+      "Conservo el pulso y los inicios escritos.",
+      "Puedo describir el cambio audible sin atribuirlo a más notas."
+    ],
+    "simplifyHint": "Mantén LH 50 y compara RH 68 con 82 sin endurecer el pulso.",
+    "extendHint": "Escoge una velocity intermedia para la melodía, dejando fijo el bajo."
+  },
+  {
+    "id": "stage-expression-001-04",
+    "lessonId": "lesson-expression-001",
+    "order": 4,
+    "title": "Balance elegido",
+    "explanationMd": "Referencia interpretativa: escucha la etapa 3 y ajusta el contraste a tu frase; no es la única solución.",
+    "task": "El bajo se oye y la melodía guía la frase.",
+    "changeFromPrevious": "Solo baja la velocity derecha de 82 a 74; se retira la pauta fija para que el estudiante elija su balance.",
+    "successCriteria": [
+      "Conservo el pulso y los inicios escritos.",
+      "Puedo describir el cambio audible sin atribuirlo a más notas."
+    ],
+    "simplifyHint": "Compara RH 82 y 74 sobre LH 50; elige cuál deja respirar la frase.",
+    "extendHint": "Diseña otro balance entre manos y conserva todas las notas."
+  },
+  {
+    "id": "stage-expression-002-01",
+    "lessonId": "lesson-expression-002",
+    "order": 1,
+    "title": "Ataques de referencia",
+    "explanationMd": "Escucha cada ataque separado por una duración igual; estos inicios son la referencia.",
+    "task": "Toca cada nota hasta el siguiente ataque sin mover los inicios.",
+    "changeFromPrevious": "Presentación de la base",
+    "successCriteria": [
+      "Conservo el pulso y los inicios escritos.",
+      "Puedo describir el cambio audible sin atribuirlo a más notas."
+    ],
+    "simplifyHint": "Cuenta cada inicio de la derecha y termina la nota justo antes del siguiente ataque.",
+    "extendHint": "Prueba duraciones distintas sin mover ninguno de los inicios."
+  },
+  {
+    "id": "stage-expression-002-02",
+    "lessonId": "lesson-expression-002",
+    "order": 2,
+    "title": "Ligado",
+    "explanationMd": "Compara con la referencia: cada nota se solapa 0.25 beats con la siguiente; la última dura 1 beat para cerrar el loop.",
+    "task": "Las notas se conectan sin añadir ataques.",
+    "changeFromPrevious": "Las duraciones derechas pasan de 1 a 1.25 beats (solapamiento de 0.25); la última dura 1 para cerrar en 16. Ataques, alturas y velocities no cambian.",
+    "successCriteria": [
+      "Conservo el pulso y los inicios escritos.",
+      "Puedo describir el cambio audible sin atribuirlo a más notas."
+    ],
+    "simplifyHint": "Usa duración 1.25: cada nota se solapa 0.25 beats con la siguiente; la última dura 1 beat para cerrar en 16.",
+    "extendHint": "Escucha el solapamiento breve y conserva los ataques y alturas escritos."
+  },
+  {
+    "id": "stage-expression-002-03",
+    "lessonId": "lesson-expression-002",
+    "order": 3,
+    "title": "Separado",
+    "explanationMd": "Compara con la etapa 1: los mismos ataques y alturas ahora terminan antes.",
+    "task": "Se oye separación sin acento más fuerte.",
+    "changeFromPrevious": "Duraciones derechas breves sustituyen al ligado; no cambia la velocidad.",
+    "successCriteria": [
+      "Conservo el pulso y los inicios escritos.",
+      "Puedo describir el cambio audible sin atribuirlo a más notas."
+    ],
+    "simplifyHint": "Acorta la derecha a 0.5 beats y deja intactos sus ataques y el bajo.",
+    "extendHint": "Gradúa la separación cambiando solo duración, nunca el inicio."
+  },
+  {
+    "id": "stage-expression-002-04",
+    "lessonId": "lesson-expression-002",
+    "order": 4,
+    "title": "Elige el toque",
+    "explanationMd": "Referencia no única: decide dónde conviene ligar o separar sin alterar la frase escrita.",
+    "task": "Los ataques y alturas permanecen; el toque sirve a la frase.",
+    "changeFromPrevious": "Se retira la articulación uniforme y se elige duración nota a nota; reinicios no ocultan la elección.",
+    "successCriteria": [
+      "Conservo el pulso y los inicios escritos.",
+      "Puedo describir el cambio audible sin atribuirlo a más notas."
+    ],
+    "simplifyHint": "Alterna duraciones 0.5 y 1; verifica cada ataque contra la referencia.",
+    "extendHint": "Elige dónde ligar o separar nota a nota con las mismas alturas e inicios."
+  },
+  {
+    "id": "stage-expression-003-01",
+    "lessonId": "lesson-expression-003",
+    "order": 1,
+    "title": "Frase con relleno",
+    "explanationMd": "La derecha responde después de cada motivo; escucha cuánto ocupa el espacio.",
+    "task": "Toca la melodía de referencia y el bajo regular; cuenta los huecos entre respuestas.",
+    "changeFromPrevious": "Presentación de la base",
+    "successCriteria": [
+      "Conservo el pulso y los inicios escritos.",
+      "Puedo describir el cambio audible sin atribuirlo a más notas."
+    ],
+    "simplifyHint": "Cuenta los pulsos entre las respuestas; identifica la llegada fija de beat 12.",
+    "extendHint": "Marca otros rellenos que podrías retirar sin cambiar el bajo."
+  },
+  {
+    "id": "stage-expression-003-02",
+    "lessonId": "lesson-expression-003",
+    "order": 2,
+    "title": "Retira una respuesta",
+    "explanationMd": "Compara con la etapa 1: se retira solo la nota de beat 3; las respuestas de 7 y 11 permanecen.",
+    "task": "Deja sonar el final del motivo sin completar el hueco.",
+    "changeFromPrevious": "Se quita únicamente la nota derecha de beat 3; se conservan las demás notas y el bajo.",
+    "successCriteria": [
+      "Conservo el pulso y los inicios escritos.",
+      "Puedo describir el cambio audible sin atribuirlo a más notas."
+    ],
+    "simplifyHint": "Retira solo la nota de beat 3; conserva las respuestas de beats 7 y 11 y cuenta hasta 12.",
+    "extendHint": "Prueba retirar solo ese relleno, sosteniendo el pulso hasta la nota que entra en 12."
+  },
+  {
+    "id": "stage-expression-003-03",
+    "lessonId": "lesson-expression-003",
+    "order": 3,
+    "title": "Respira antes de volver",
+    "explanationMd": "Compara con la etapa 2: se retira únicamente la nota de beat 11; la respuesta de 7 y la entrada de beat 12 permanecen.",
+    "task": "Cuenta el pulso durante el silencio y entra a tiempo.",
+    "changeFromPrevious": "Se quita solo la nota derecha de beat 11, creando el hueco [11,12) antes de la reentrada puntual en 12.",
+    "successCriteria": [
+      "Conservo el pulso y los inicios escritos.",
+      "Puedo describir el cambio audible sin atribuirlo a más notas."
+    ],
+    "simplifyHint": "Respecto a la etapa 2, calla solo la nota de beat 11; mantén la respuesta en 7 y reentra en 12.",
+    "extendHint": "Cuenta el hueco de beat 11 a 12 y toca la entrada 12 exactamente a tiempo."
+  },
+  {
+    "id": "stage-expression-003-04",
+    "lessonId": "lesson-expression-003",
+    "order": 4,
+    "title": "Diseña el espacio",
+    "explanationMd": "Referencia autónoma, no respuesta única: el ejemplo calla beat 7; puedes restaurarlo o retirar otros rellenos, conservando la entrada 12.",
+    "task": "El silencio tiene intención y la reentrada coincide con el pulso.",
+    "changeFromPrevious": "El ejemplo libre retira la respuesta de beat 7 respecto a la etapa 3; también puedes restaurarla o elegir otros rellenos, manteniendo la entrada 12 a tiempo.",
+    "successCriteria": [
+      "Conservo el pulso y los inicios escritos.",
+      "Puedo describir el cambio audible sin atribuirlo a más notas."
+    ],
+    "simplifyHint": "Referencia abierta: el ejemplo retira el relleno de beat 7; puedes restaurarlo o retirar otros rellenos, pero conserva la entrada 12 a tiempo.",
+    "extendHint": "Elige libremente qué rellenos vuelven o se callan; cuenta el hueco hasta la entrada fija de beat 12."
+  },
+  {
+    "id": "stage-expression-004-01",
+    "lessonId": "lesson-expression-004",
+    "order": 1,
+    "title": "Base estable",
+    "explanationMd": "Compara la base uniforme con las etapas siguientes: la voz superior G4 se mantiene y V aún no recibe énfasis.",
+    "task": "Toca cada bloque sin acelerar; identifica V en beat 8 y el regreso a I en 12.",
+    "changeFromPrevious": "Presentación: Cmaj7–Am7–G7–Cmaj7, con notas derechas de 2 beats y bajo sostenido.",
+    "successCriteria": [
+      "Oigo la tensión de V y la llegada a I sin cambiar el pulso.",
+      "Puedo señalar qué velocity o duración cambió respecto a la etapa anterior."
+    ],
+    "simplifyHint": "Practica la llegada a V en beat 8 y a I en 12 con el mismo toque.",
+    "extendHint": "Elige si el bajo permanece claro mientras las voces derechas suenan parejas."
+  },
+  {
+    "id": "stage-expression-004-02",
+    "lessonId": "lesson-expression-004",
+    "order": 2,
+    "title": "Dirige hacia V y suelta en I",
+    "explanationMd": "Compara con la etapa 1: solo cambia la velocity derecha; V en beat 8 sube y la tónica de beat 12 baja.",
+    "task": "Mantén el bajo regular y escucha la tensión en V seguida del reposo en I.",
+    "changeFromPrevious": "La derecha pasa de velocity 66 a 80 en V y a 58 en I final; ataques, alturas y duraciones no cambian.",
+    "successCriteria": [
+      "Oigo la tensión de V y la llegada a I sin cambiar el pulso.",
+      "Puedo señalar qué velocity o duración cambió respecto a la etapa anterior."
+    ],
+    "simplifyHint": "Repite solo los bloques derechos de V e I con velocities 80 y 58.",
+    "extendHint": "Ajusta el contraste entre V e I sin mover el pulso ni la voz superior G4."
+  },
+  {
+    "id": "stage-expression-004-03",
+    "lessonId": "lesson-expression-004",
+    "order": 3,
+    "title": "Sostén V, libera I",
+    "explanationMd": "Compara con la etapa 2: V dura 3.5 beats y la derecha de I final solo 1.5; los ataques siguen en 8 y 12.",
+    "task": "Deja crecer V sin cruzar el siguiente compás y libera I antes de terminar su primer pulso y medio.",
+    "changeFromPrevious": "Solo cambian duraciones derechas: las notas de V pasan de 2 a 3.5 beats y las de I final de 2 a 1.5.",
+    "successCriteria": [
+      "Oigo la tensión de V y la llegada a I sin cambiar el pulso.",
+      "Puedo señalar qué velocity o duración cambió respecto a la etapa anterior."
+    ],
+    "simplifyHint": "Cuenta hasta 11.5 para soltar V y hasta 13.5 para soltar I; no muevas sus inicios.",
+    "extendHint": "Prueba cuánto sostener V y cuánto despejar I sin alterar ataques ni armonía."
+  },
+  {
+    "id": "stage-expression-004-04",
+    "lessonId": "lesson-expression-004",
+    "order": 4,
+    "title": "Elige cuánto contraste",
+    "explanationMd": "Referencia no única: el ejemplo suaviza la diferencia dinámica de la etapa 3; conserva sus duraciones y decide tu propio matiz.",
+    "task": "Escucha la versión de referencia y elige una tensión menor o mayor manteniendo la resolución.",
+    "changeFromPrevious": "Solo cambia la velocity derecha en V (80→74) y en I final (58→62); el mapa de duraciones y todos los ataques se conservan.",
+    "successCriteria": [
+      "Oigo la tensión de V y la llegada a I sin cambiar el pulso.",
+      "Puedo señalar qué velocity o duración cambió respecto a la etapa anterior."
+    ],
+    "simplifyHint": "Compara 74/62 con la etapa 3; ajusta solo estas dos intensidades.",
+    "extendHint": "Propón un balance dinámico propio entre V e I y conserva la llegada en beat 12."
+  },
+  {
+    "id": "stage-expression-005-01",
+    "lessonId": "lesson-expression-005",
+    "order": 1,
+    "title": "Dos compases y entrada",
+    "explanationMd": "Referencia: bajo y un acorde al inicio de cada compás introductorio; la frase entra en beat 8, sin anacrusa externa.",
+    "task": "Cuenta los dos compases de introducción y entra con la melodía exactamente en beat 8.",
+    "changeFromPrevious": "Presentación de la forma: introducción en beats 0–7 y frase de seis compases desde beat 8.",
+    "successCriteria": [
+      "La introducción empieza en beat 0 y la frase entra en beat 8.",
+      "Puedo identificar la señal de pulso y llegada en los eventos escritos."
+    ],
+    "simplifyHint": "Practica el bajo y el acorde de beats 0 y 4; espera hasta beat 8 para la melodía.",
+    "extendHint": "Mantén el motivo y decide cómo dejar clara la llegada de beat 8."
+  },
+  {
+    "id": "stage-expression-005-02",
+    "lessonId": "lesson-expression-005",
+    "order": 2,
+    "title": "Marca el pulso dentro de la intro",
+    "explanationMd": "Compara con la etapa 1: se añaden acordes en beats 2 y 6, que hacen explícita la subdivisión antes de la frase.",
+    "task": "Toca la señal introductoria y cuenta cuatro negras hasta que empiece la frase.",
+    "changeFromPrevious": "Solo se añaden dos ataques de acorde al patrón introductorio, en beats 2 y 6; el motivo y su entrada en 8 no cambian.",
+    "successCriteria": [
+      "La introducción empieza en beat 0 y la frase entra en beat 8.",
+      "Puedo identificar la señal de pulso y llegada en los eventos escritos."
+    ],
+    "simplifyHint": "Toca los acordes de beats 0, 2, 4 y 6; no anticipes la entrada de beat 8.",
+    "extendHint": "Conserva los ataques de la frase y compara qué tan claramente se oye el pulso de la intro."
+  },
+  {
+    "id": "stage-expression-005-03",
+    "lessonId": "lesson-expression-005",
+    "order": 3,
+    "title": "Abre aire antes de entrar",
+    "explanationMd": "Compara con la etapa 2: el acorde de beat 6 dura 0.75 beats y deja silencio hasta la frase en beat 8.",
+    "task": "Suelta el último acorde introductorio en beat 6.75 y conserva el silencio antes de beat 8.",
+    "changeFromPrevious": "Solo cambia la duración del acorde de beat 6: 1.5→0.75 beats; los demás ataques de la intro y la frase siguen iguales.",
+    "successCriteria": [
+      "La introducción empieza en beat 0 y la frase entra en beat 8.",
+      "Puedo identificar la señal de pulso y llegada en los eventos escritos."
+    ],
+    "simplifyHint": "Cuenta el hueco desde 6.75 hasta la entrada fija en 8, sin tocar rellenos.",
+    "extendHint": "Prueba otra duración para el acorde de beat 6, siempre dejando libre el inicio en 8."
+  },
+  {
+    "id": "stage-expression-005-04",
+    "lessonId": "lesson-expression-005",
+    "order": 4,
+    "title": "Elige la señal de entrada",
+    "explanationMd": "Referencia no única: esta versión conserva el acorde de beat 6 y omite el de beat 2; puedes elegir otra señal, siempre dentro de los beats 0–7.",
+    "task": "Compara la señal única en beat 6 con la etapa 3; la introducción comienza en 0 y la melodía en 8.",
+    "changeFromPrevious": "El ejemplo retira solo el ataque de acorde en beat 2 respecto a la etapa 3; deja el acorde de beat 6 como señal y la frase entra en 8.",
+    "successCriteria": [
+      "La introducción empieza en beat 0 y la frase entra en beat 8.",
+      "Puedo identificar la señal de pulso y llegada en los eventos escritos."
+    ],
+    "simplifyHint": "Aísla el acorde de beat 6 solo como práctica parcial. Después reincorpora el bajo y los acordes de beats 0 y 4, recorre la introducción completa [0,8) con la señal de beat 6 y entra con la frase en beat 8.",
+    "extendHint": "Diseña una señal propia con inicio no anterior a beat 0 y mantiene la entrada en beat 8."
+  },
+  {
+    "id": "stage-expression-006-01",
+    "lessonId": "lesson-expression-006",
+    "order": 1,
+    "title": "Acento aislado",
+    "explanationMd": "El ejemplo está plano salvo una nota de melodía derecha en beat 8, que recibe un acento aislado; bajo y tercera izquierdos conservan su nivel.",
+    "task": "Toca sin acelerar y escucha el acento breve de la melodía en beat 8 sobre la izquierda estable.",
+    "changeFromPrevious": "Presentación de cuatro compases: misma melodía y acompañamiento; solo la nota derecha de beat 8 recibe más velocity.",
+    "successCriteria": [
+      "La melodía conserva alturas y ataques y el pulso no se acelera.",
+      "Puedo ubicar la cumbre y describir el cambio de velocity respecto a la etapa previa."
+    ],
+    "simplifyHint": "Compara el ataque de beat 8 con los demás sin cambiar notas ni pulso.",
+    "extendHint": "Identifica qué tendría que cambiar para convertir ese acento aislado en un arco."
+  },
+  {
+    "id": "stage-expression-006-02",
+    "lessonId": "lesson-expression-006",
+    "order": 2,
+    "title": "Crece hacia la cumbre",
+    "explanationMd": "Compara con la etapa 1: el acento aislado se reemplaza por un aumento gradual desde el primer compás hasta la cumbre del tercero; ambos planos suben juntos.",
+    "task": "Escucha el crecimiento desde beat 0 hasta beat 8 y sostén el mismo tempo.",
+    "changeFromPrevious": "Solo cambia velocity: izquierda 50/56/62/62 y derecha 58/64/70/70 por compás. Pitches, ataques y duraciones quedan idénticos.",
+    "successCriteria": [
+      "La melodía conserva alturas y ataques y el pulso no se acelera.",
+      "Puedo ubicar la cumbre y describir el cambio de velocity respecto a la etapa previa."
+    ],
+    "simplifyHint": "Sigue los cuatro niveles de velocity por compás; las dos manos mantienen una diferencia fija de 8.",
+    "extendHint": "Ajusta la pendiente del crecimiento sin convertirla en acentos aislados."
+  },
+  {
+    "id": "stage-expression-006-03",
+    "lessonId": "lesson-expression-006",
+    "order": 3,
+    "title": "Relaja después de la cumbre",
+    "explanationMd": "Compara con la etapa 2: en el cuarto compás ambas manos bajan al nivel inicial; la cumbre del tercero permanece.",
+    "task": "Deja que el cuarto compás retroceda después de la cumbre sin frenar el pulso.",
+    "changeFromPrevious": "Solo cambia velocity en el último compás, de 62/70 a 50/58; notas, ataques y duraciones no cambian.",
+    "successCriteria": [
+      "La melodía conserva alturas y ataques y el pulso no se acelera.",
+      "Puedo ubicar la cumbre y describir el cambio de velocity respecto a la etapa previa."
+    ],
+    "simplifyHint": "Compara los niveles de beats 8 y 12 y conserva el contraste entre manos.",
+    "extendHint": "Prueba una bajada más gradual al final sin alterar los ataques."
+  },
+  {
+    "id": "stage-expression-006-04",
+    "lessonId": "lesson-expression-006",
+    "order": 4,
+    "title": "Elige la intensidad del pico",
+    "explanationMd": "Referencia no única: esta versión eleva juntas ambas manos solo en el tercer compás; conserva el nivel bajo del cuarto.",
+    "task": "Compara la cumbre de referencia con una más marcada y decide cuál sirve a la frase.",
+    "changeFromPrevious": "Solo aumenta 6 puntos de velocity en ambas manos durante el tercer compás (62/70→68/76); el resto del arco y las notas quedan iguales.",
+    "successCriteria": [
+      "La melodía conserva alturas y ataques y el pulso no se acelera.",
+      "Puedo ubicar la cumbre y describir el cambio de velocity respecto a la etapa previa."
+    ],
+    "simplifyHint": "Ajusta juntas las velocities del tercer compás y deja intacta la bajada del cuarto.",
+    "extendHint": "Crea otra intensidad de cumbre manteniendo la diferencia de 8 entre manos y el mismo tempo."
+  },
+  {
+    "id": "stage-expression-007-01",
+    "lessonId": "lesson-expression-007",
+    "order": 1,
+    "title": "Pulso compartido",
+    "explanationMd": "Referencia de bolero en cuatro compases: LH en 1 y 3; RH responde en 2, 2& y 4.",
+    "task": "Toca LH en tiempos1/3 yRH en2/2&/4, con todas las notas de media negra; cuenta la célula reducida de bolero sin desplazar sus ataques.",
+    "changeFromPrevious": "Presentación: LH beats 0 y 2; RH beats 1, 1.5 y 3 en cada compás. Todas las notas duran 0.5 beats.",
+    "successCriteria": [
+      "LH ataca en 0/2 y RH en 1/1.5/3 en cada compás; todas las notas duran 0.5 beats.",
+      "Mantengo alturas y velocities constantes y puedo explicar la diferencia de ataques."
+    ],
+    "simplifyHint": "Cuenta 1-2-3-4; la derecha entra en 2, 2& y 4.",
+    "extendHint": "Conserva ataques y compara el toque parejo de ambas manos."
+  },
+  {
+    "id": "stage-expression-007-02",
+    "lessonId": "lesson-expression-007",
+    "order": 2,
+    "title": "Respuesta breve",
+    "explanationMd": "Los ataques y alturas coinciden con la etapa 1; ahora solo la LH sostiene dos beats y la RH dura medio beat.",
+    "task": "Mantén las notas izquierdas durante dos beats y suelta cada respuesta derecha tras medio beat.",
+    "changeFromPrevious": "Solo cambia duración LH: 0.5→2 beats. RH permanece en 0.5; alturas, ataques y velocities quedan idénticos.",
+    "successCriteria": [
+      "Cada nota LH dura 2 beats y RH 0.5; los ataques no se mueven.",
+      "Conservo pitches y velocities y oigo la diferencia real de duración entre manos."
+    ],
+    "simplifyHint": "Cuenta dos beats para cada nota LH y medio beat para RH.",
+    "extendHint": "Compara ambas duraciones manteniendo los mismos ataques."
+  },
+  {
+    "id": "stage-expression-007-03",
+    "lessonId": "lesson-expression-007",
+    "order": 3,
+    "title": "Respuestas muy breves",
+    "explanationMd": "La RH se separa aún más: dura un cuarto de beat; la LH mantiene sus dos beats.",
+    "task": "Sostén LH dos beats y suelta RH tras un cuarto de beat, sin cambiar ataques.",
+    "changeFromPrevious": "Solo RH cambia 0.5→0.25 beats. LH queda en 2; pitches, ataques y velocities son idénticos.",
+    "successCriteria": [
+      "RH dura 0.25 beats y LH 2; ningún ataque se desplaza.",
+      "Las alturas y velocities permanecen constantes."
+    ],
+    "simplifyHint": "Suelta cada respuesta RH tras un cuarto de pulso; sostén LH dos beats.",
+    "extendHint": "Compara 0.25 de RH con LH 2 sin variar las demás notas."
+  },
+  {
+    "id": "stage-expression-007-04",
+    "lessonId": "lesson-expression-007",
+    "order": 4,
+    "title": "Elige el rebote",
+    "explanationMd": "Referencia abierta: LH dura 2 beats; puedes elegir para cada respuesta RH entre 0.25 y 0.5, sin mover ataques.",
+    "task": "Elige duraciones RH de 0.25 o 0.5 y conserva LH en 2; mantén alturas, velocities y ataques.",
+    "changeFromPrevious": "El ejemplo fija RH en 0.5 beats frente a 0.25 en etapa 3; LH sigue en 2 y todos los ataques y alturas quedan idénticos. La elección puede variar RH entre 0.25 y 0.5.",
+    "successCriteria": [
+      "Conservo los ataques y pitches; LH dura 2 y elijo RH 0.25 o 0.5.",
+      "Cada voz conserva su velocity entre etapas: LH58 y RH66; no se compensa la separación con más fuerza."
+    ],
+    "simplifyHint": "Practica RH a 0.5, luego a 0.25; no muevas ningún inicio.",
+    "extendHint": "Elige entre 0.25 y 0.5 para cada respuesta sin mover ataques."
+  },
+  {
+    "id": "stage-expression-008-01",
+    "lessonId": "lesson-expression-008",
+    "order": 1,
+    "title": "Pausa total",
+    "explanationMd": "En cuatro compases, el segundo compás completo [4,8) queda en silencio: no toca ninguna mano. Los compases 1, 3 y 4 conservan la frase y el acompañamiento.",
+    "task": "Toca los compases 1, 3 y 4; cuenta en silencio todo el segundo compás, sin dejar notas sostenidas.",
+    "changeFromPrevious": "Presentación: se retiran únicamente todos los ataques LH y RH con inicio en [4,8); los demás eventos permanecen idénticos.",
+    "successCriteria": [
+      "Ninguna nota de ninguna mano suena durante [4,8); los compases 1, 3 y 4 no cambian.",
+      "Cuento cuatro compases y mantengo el pulso durante el silencio total."
+    ],
+    "simplifyHint": "Cuenta 1-2-3-4 durante [4,8) sin tocar ni sostener ninguna nota.",
+    "extendHint": "Sostén el pulso interno durante el compás entero de silencio."
+  },
+  {
+    "id": "stage-expression-008-02",
+    "lessonId": "lesson-expression-008",
+    "order": 2,
+    "title": "La base vuelve primero",
+    "explanationMd": "Frente a la pausa total de la etapa 1, en [4,8) vuelve solo la LH en beats 4 y 6; la RH sigue en silencio.",
+    "task": "Durante el segundo compás toca solo LH en1/3 con duración1.75; RH conserva el compás entero de silencio. Los otros tres compases quedan iguales a01.",
+    "changeFromPrevious": "Se añaden únicamente dos notas LH en beats 4 y 6 respecto a la pausa total de etapa 1; RH permanece ausente en [4,8).",
+    "successCriteria": [
+      "En [4,8) solo ataca LH en beats 4 y 6; RH no toca y los otros compases son idénticos a etapa 1.",
+      "Mantengo el pulso durante los espacios entre esos dos ataques."
+    ],
+    "simplifyHint": "Aísla LH en beats 4 y 6; no agregues RH durante el segundo compás.",
+    "extendHint": "Contrasta la pausa total de etapa 1 con la base LH sola de esta etapa."
+  },
+  {
+    "id": "stage-expression-008-03",
+    "lessonId": "lesson-expression-008",
+    "order": 3,
+    "title": "Prepara la respuesta",
+    "explanationMd": "El silencio RH sigue en[4,8), pero LH continúa en4/6. Ahora solo destaca la reentrada derecha en8.",
+    "task": "Conserva la base durante el compás sin melodía y destaca la reentrada RH en8.",
+    "changeFromPrevious": "Solo la velocity de RH en beat 8 aumenta de 64 a 76; alturas, ataques, duraciones y LH quedan iguales.",
+    "successCriteria": [
+      "LH conserva los ocho ataques de la base, incluidos4/6 durante el silencio RH.",
+      "RH reentra en8; solo esa nota cambia develocity64a76."
+    ],
+    "simplifyHint": "Practica la base del segundo compás y la reentrada RH en8, luego reintegra los cuatro compases.",
+    "extendHint": "Compara reentrada en8 con las notas de0y12 sin cambiar la base izquierda."
+  },
+  {
+    "id": "stage-expression-008-04",
+    "lessonId": "lesson-expression-008",
+    "order": 4,
+    "title": "Diseña tu respiración",
+    "explanationMd": "La referencia deja RH en silencio en[4,8) y mantiene LH en4/6. La reentrada en8 llevavelocity68; elige después otro compás de respiración, sin apagar la base.",
+    "task": "Elige un compás sin RH, conserva las ocho entradas de LH y fija la reentrada derecha a tiempo.",
+    "changeFromPrevious": "La referencia solo baja la reentrada de76a68; la decisión autónoma es elegir el compás de silencio RH manteniendo LH continua.",
+    "successCriteria": [
+      "La pausa es solo derecha; la base conserva sus ocho ataques.",
+      "Elijo un compás de respiración y una reentrada a pulso, sin acortar el ciclo."
+    ],
+    "simplifyHint": "Usa la referencia: RH calla en[4,8), LH toca4y6 y la frase vuelve en8.",
+    "extendHint": "Elige otro compás para el silencio derecho y verifica que la base no cambia."
+  },
+  {
+    "id": "stage-expression-009-01",
+    "lessonId": "lesson-expression-009",
+    "order": 1,
+    "title": "Prepara el retardo",
+    "explanationMd": "C5 se prepara sobre Am7 desde beat 4 y queda sostenido cuando G7 entra en 8; la tensión aún no resuelve antes de Cmaj7 en 12.",
+    "task": "Prepara C5 en beat 4 sobre Am7, sosténlo a través de G7 desde 8 y escucha Cmaj7 al llegar a 12.",
+    "changeFromPrevious": "Presentación: C5 entra en beat 4, dura 8 beats hasta 12 y queda suspendido sobre G7 en [8,12).",
+    "successCriteria": [
+      "C5 empieza en 4, dura 8 y atraviesa G7 desde 8 hasta su llegada a Cmaj7 en 12.",
+      "F4 es la séptima de G7; la voz superior C5 todavía no resuelve a su tercera B4 antes de I."
+    ],
+    "simplifyHint": "Prepara C5 en 4; siente el cambio armónico a G7 en 8 sin reatacar C5.",
+    "extendHint": "Compara la suspensión que sigue sin resolver hasta I en 12."
+  },
+  {
+    "id": "stage-expression-009-02",
+    "lessonId": "lesson-expression-009",
+    "order": 2,
+    "title": "Introduce la resolución 4–3",
+    "explanationMd": "C5 se prepara en beat 4 sobre Am7, se sostiene al entrar G7 en 8 y resuelve a B4 en 9, antes de Cmaj7 en 12.",
+    "task": "Toca C5 desde 4, sostenlo sobre G7 desde 8, y cambia a B4 en 9 hasta la llegada de Cmaj7 en 12.",
+    "changeFromPrevious": "Solo se divide la voz superior: C5 dura 5 beats (4–9) y B4 entra en 9 durante 3 beats; demás eventos no cambian.",
+    "successCriteria": [
+      "C5 inicia en 4 y sostiene sobre G7 desde 8; B4 inicia en 9 y termina en 12.",
+      "Oigo la resolución 4–3 antes de Cmaj7; G7 conserva F4."
+    ],
+    "simplifyHint": "Cuenta C5 en 4, G7 en 8, B4 en 9 y Cmaj7 en 12.",
+    "extendHint": "Practica C5 preparado en 4 y su resolución a B4 en 9 sobre G7."
+  },
+  {
+    "id": "stage-expression-009-03",
+    "lessonId": "lesson-expression-009",
+    "order": 3,
+    "title": "Balancea el retardo",
+    "explanationMd": "La resolución preparada C5→B4 permanece; destaca ambas notas de la voz superior frente al acompañamiento.",
+    "task": "Mantén C5 desde 4, sostenlo sobre G7 desde 8 y destaca su resolución a B4 en 9.",
+    "changeFromPrevious": "Solo suben velocity C5 y B4 de 68 a 78; C5 (4–9), B4 (9–12) y las demás notas no cambian.",
+    "successCriteria": [
+      "C5 preparada en 4 cruza G7 desde 8; B4 entra en 9 y termina en 12.",
+      "Solo C5/B4 llevan velocity 78; otras notas conservan su velocity."
+    ],
+    "simplifyHint": "Compara la voz C5→B4 con el voicing durante la llegada a G7.",
+    "extendHint": "Balancea la voz superior sin cambiar sus ataques ni los del acompañamiento."
+  },
+  {
+    "id": "stage-expression-009-04",
+    "lessonId": "lesson-expression-009",
+    "order": 4,
+    "title": "Elige cuánto retener",
+    "explanationMd": "La referencia prolonga C5 desde beat 4 hasta 9.5 sobre G7 y resuelve a B4 hasta beat 12; velocities permanecen en 78.",
+    "task": "Prepara C5 en 4, sosténlo sobre G7 desde 8 y elige la resolución a B4 en 9.5, antes de Cmaj7 en 12.",
+    "changeFromPrevious": "Solo se retrasa la resolución: C5 dura 5.5 beats (4–9.5) y B4 entra en 9.5 durante 2.5 beats. Velocities siguen en 78.",
+    "successCriteria": [
+      "C5 empieza en 4 y cruza G7 en 8; B4 empieza en 9.5 y termina justo en 12.",
+      "Velocities C5/B4 son 78; Cmaj7 ataca en 12 sin solapamiento de B4."
+    ],
+    "simplifyHint": "Compara B4 en 9.5 con la entrada en 9 de etapa 3; conserva el final en 12.",
+    "extendHint": "Elige cuánto sostener C5 sobre G7; deja B4 concluir justo en 12 sin resetear velocities."
+  },
+  {
+    "id": "stage-expression-010-01",
+    "lessonId": "lesson-expression-010",
+    "order": 1,
+    "title": "Retorno A: la dominante invita otra vuelta",
+    "explanationMd": "La forma A mantiene ocho compases I–vi–ii–V dos veces. El G7 final queda articulado durante cuatro beats; su función V7 invita a volver a C al reiniciar el loop.",
+    "task": "Toca las ocho raíces y shells en bloques de cuatro beats. Al final deja que G7 impulse mentalmente el regreso a C, sin fingir que el MIDI contiene una repetición adicional.",
+    "changeFromPrevious": "Referencia A: Cmaj7–Am7–Dm7–G7, repetido dos veces. Cada bajo y shell ataca al inicio de su compás y dura 4 beats; LH velocity 60, RH 68.",
+    "successCriteria": [
+      "Identifico el G7 final como V7 que invita al C inicial.",
+      "Distingo retorno en dominante y cierre en tónica sin acortar los ocho compases."
+    ],
+    "simplifyHint": "Si ayuda, cuenta 1–2–3–4 en cada bloque y reinicia en C después del G7.",
+    "extendHint": "Describe cómo cambia el sentido si el último G7 vuelve al C inicial."
+  },
+  {
+    "id": "stage-expression-010-02",
+    "lessonId": "lesson-expression-010",
+    "order": 2,
+    "title": "Cierre B: dominante y tónica final",
+    "explanationMd": "Los primeros seis compases son idénticos a A. El compás7 usa G7 y el8 C mayor en triada: V7–I cierra sobre tónica, sin pedir otra vuelta.",
+    "task": "Toca la forma B y articula el G7 del compás 7 seguido por C en el 8; termina en la tónica sin reiniciar.",
+    "changeFromPrevious": "Solo cambia la forma de los dos últimos compases respecto a A: Dm7 en 7 y G7 en 8 pasan a G7 en 7 y C en 8. Los primeros seis compases, ataques, duraciones y velocities permanecen iguales.",
+    "successCriteria": [
+      "Los primeros seis compases coinciden con A y G7–C suena V7–I.",
+      "Distingo retorno en dominante y cierre en tónica sin acortar los ocho compases."
+    ],
+    "simplifyHint": "Aísla los compases 7–8, cuenta cuatro beats por acorde y luego reintegra los seis primeros.",
+    "extendHint": "Compara el final C con el G7 de A: nombra cuál invita a continuar y cuál cierra."
+  },
+  {
+    "id": "stage-expression-010-03",
+    "lessonId": "lesson-expression-010",
+    "order": 3,
+    "title": "Cierre B reducido: acorde y silencio",
+    "explanationMd": "Conserva la cadencia B y el inicio idéntico; en el último compás, ambas manos atacan C en beat 28 y lo sostienen 2 beats. Los beats 30–32 son silencio real, sin notas nuevas.",
+    "task": "Toca la cadencia y libera ambas manos en beat30; cuenta los dos pulsos del intervalo[30,32) hasta terminar el octavo compás.",
+    "changeFromPrevious": "Solo cambia la articulación del último C de B: LH y RH duran 2 beats desde 28 hasta 30; no se añaden notas y quedan dos beats de silencio.",
+    "successCriteria": [
+      "El último C ocupa [28,30) y ninguna nota suena en [30,32).",
+      "Distingo retorno en dominante y cierre en tónica sin acortar los ocho compases."
+    ],
+    "simplifyHint": "Practica solo la salida: ataca en 28, suelta en 30 y cuenta dos beats sin tocar.",
+    "extendHint": "Verifica que el silencio no acorte los ocho compases ni agregue un acorde."
+  },
+  {
+    "id": "stage-expression-010-04",
+    "lessonId": "lesson-expression-010",
+    "order": 4,
+    "title": "Retorno articulado: bass invita, shell se retira",
+    "explanationMd": "La armonía vuelve a A. En el último G7, la izquierda sostiene la raíz durante cuatro beats y la derecha toca el shell solo medio beat. El bajo conserva la invitación a C aunque el shell se retire pronto.",
+    "task": "Reinicia en A; en el G7 final toca RH [59,65] por 0.5 beat y sostén LH 43 hasta el reinicio esperado en C. No confundas la articulación derecha breve con un final.",
+    "changeFromPrevious": "Solo cambia la articulación RH del último G7 respecto a A01: [59,65] dura 0.5 beat; LH 43 permanece cuatro beats. El mapa A y la invitación V7→I se conservan.",
+    "successCriteria": [
+      "En beat 28 RH ataca el shell G7 y lo suelta en 28.5; LH 43 continúa hasta beat 32.",
+      "Distingo retorno en dominante y cierre en tónica sin acortar los ocho compases."
+    ],
+    "simplifyHint": "Cuenta el último compás mientras levantas RH después de medio beat y mantienes la raíz LH.",
+    "extendHint": "Compara cuánto sostiene el bajo y cuánto el shell; decide si el retorno aún se percibe."
+  },
+  {
+    "id": "stage-expression-010-05",
+    "lessonId": "lesson-expression-010",
+    "order": 5,
+    "title": "Elige: volver a A o cerrar en B",
+    "explanationMd": "La referencia reproduce B02 pero acorta el C final a un beat: LH raíz 48 y RH [60,64,67] atacan en 28; beats 29–32 quedan en silencio. Es un ejemplo de cierre conocido, no una única respuesta. Decide entre volver a A04 (G7 invita C) o terminar como B03; conserva literalmente los primeros seis compases.",
+    "task": "Elige y explica: reinicia la forma A04 después del G7, o recorre la cadencia B y termina. Para el cierre de referencia, suelta ambas manos tras un beat y cuenta los tres beats de silencio restantes.",
+    "changeFromPrevious": "Se retira la obligación de una sola secuencia: referencia B02 con C de un beat y silencio de tres; autonomía permite A04 loopable o cierre B03. Los primeros seis compases nunca cambian.",
+    "successCriteria": [
+      "Puedo elegir entre el G7 que vuelve a C en A04 y el C final de B; el silencio ocupa [29,32) en la referencia.",
+      "Distingo retorno en dominante y cierre en tónica sin acortar los ocho compases."
+    ],
+    "simplifyHint": "Usa primero B02 como referencia y luego prueba A04; mantén ocho compases completos en ambos casos.",
+    "extendHint": "Crea otra decisión de retorno/cierre solo con estas armonías conocidas; no añadas acordes ni cambies los seis primeros compases."
+  },
+  {
+    "id": "stage-expression-011-01",
+    "lessonId": "lesson-expression-011",
+    "order": 1,
+    "title": "Mismo arreglo, mismo plano",
+    "explanationMd": "Base: velocity RH 66 y LH 55 en las dos frases.",
+    "task": "Toca las dos frases sin cambiar su balance. Escucha que ambas manos mantienen los mismos ataques y duraciones.",
+    "changeFromPrevious": "Base: velocity RH 66 y LH 55 en las dos frases.",
+    "successCriteria": [
+      "RH conserva las 16 notas a velocity 66; LH conserva velocity 55.",
+      "Las cinco etapas conservan idénticos pitch, startBeat y durationBeats para cada nota; solo cambia velocity."
+    ]
+  },
+  {
+    "id": "stage-expression-011-02",
+    "lessonId": "lesson-expression-011",
+    "order": 2,
+    "title": "Primera frase contenida",
+    "explanationMd": "Frente a 01, solo cambia velocity RH: 62 en los compases 1–4 y 76 en 5–8.",
+    "task": "Repite exactamente las notas. Haz que la primera frase quede contenida y que la segunda responda con mayor intensidad.",
+    "changeFromPrevious": "Frente a 01, solo cambia velocity RH: 62 en los compases 1–4 y 76 en 5–8.",
+    "successCriteria": [
+      "Las primeras ocho notas RH tienen velocity 62 y las últimas ocho 76; LH sigue en 55.",
+      "Las cinco etapas conservan idénticos pitch, startBeat y durationBeats para cada nota; solo cambia velocity."
+    ]
+  },
+  {
+    "id": "stage-expression-011-03",
+    "lessonId": "lesson-expression-011",
+    "order": 3,
+    "title": "Dirigir la respuesta a una cumbre",
+    "explanationMd": "Frente a 02, solo cambia velocity RH en la segunda frase, por orden de ataque: 70, 74, 78, 80, 88, 78, 70, 64.",
+    "task": "Dirige la respuesta a su única cumbre en beat24, tiempo1 del compás7, y retira intensidad después.",
+    "changeFromPrevious": "Frente a 02, solo cambia velocity RH en la segunda frase, por orden de ataque: 70, 74, 78, 80, 88, 78, 70, 64.",
+    "successCriteria": [
+      "Solo la nota en beat24 alcanza88; después desciende78/70/64. Primera frase62 y LH55.",
+      "Las cinco etapas conservan idénticos pitch, startBeat y durationBeats para cada nota; solo cambia velocity."
+    ]
+  },
+  {
+    "id": "stage-expression-011-04",
+    "lessonId": "lesson-expression-011",
+    "order": 4,
+    "title": "Apartar el acompañamiento",
+    "explanationMd": "Frente a 03, solo cambia velocity LH en compases 5–8 de 55 a 45; la RH no cambia.",
+    "task": "Conserva la dirección de la melodía. Baja únicamente el acompañamiento de la respuesta para que no compita con la RH.",
+    "changeFromPrevious": "Frente a 03, solo cambia velocity LH en compases 5–8 de 55 a 45; la RH no cambia.",
+    "successCriteria": [
+      "LH usa 45 en la segunda frase y 55 en la primera; todos los valores RH son idénticos a 03.",
+      "Las cinco etapas conservan idénticos pitch, startBeat y durationBeats para cada nota; solo cambia velocity."
+    ]
+  },
+  {
+    "id": "stage-expression-011-05",
+    "lessonId": "lesson-expression-011",
+    "order": 5,
+    "title": "Elegir una cumbre y volver",
+    "explanationMd": "Autonomía: cambia solo las velocities RH de la segunda frase para elegir una cumbre única en el ataque 20: 70, 74, 88, 80, 76, 72, 68, 62.",
+    "task": "Elige un solo punto culminante en la segunda frase y haz que la intensidad descienda después; conserva LH en segundo plano.",
+    "changeFromPrevious": "Autonomía: cambia solo las velocities RH de la segunda frase para elegir una cumbre única en el ataque 20: 70, 74, 88, 80, 76, 72, 68, 62.",
+    "successCriteria": [
+      "Solo el ataque 20 alcanza 88; la RH vuelve a bajar después y permanece por encima de LH, que sigue en 45 durante la respuesta.",
+      "Las cinco etapas conservan idénticos pitch, startBeat y durationBeats para cada nota; solo cambia velocity."
+    ]
+  },
+  {
+    "id": "stage-expression-012-01",
+    "lessonId": "lesson-expression-012",
+    "order": 1,
+    "title": "Articulación pareja",
+    "explanationMd": "LH alterna dos notas cómodas de cada acorde, raíz en0 y tercera en2. RH toca la melodía conocida en0/2; todas las notas de ambas manos duran0.5. Los ataques están separados por dos negras, no son notas de duración2.",
+    "task": "Toca los cuatro compases sin cambiar ataques, alturas ni velocidades; compara únicamente las duraciones indicadas.",
+    "changeFromPrevious": "Ambas manos separan sus ataques por dos pulsos y cada nota dura 0.5.",
+    "successCriteria": [
+      "Las duraciones LH/RH son (0.5, 0.5); entradas0/2 y alturas permanecen.",
+      "La articulación de cada mano se realiza sin pedal obligatorio."
+    ],
+    "simplifyHint": "Practica cada mano por separado y cuenta cuatro pulsos por compás.",
+    "extendHint": "Canta una melodía conocida en el mismo registro, sin añadir notas ni una tercera parte."
+  },
+  {
+    "id": "stage-expression-012-02",
+    "lessonId": "lesson-expression-012",
+    "order": 2,
+    "title": "Izquierda breve",
+    "explanationMd": "Solo la izquierda acorta cada nota a 0.25; la derecha mantiene 0.5.",
+    "task": "Toca los cuatro compases sin cambiar ataques, alturas ni velocidades; compara únicamente las duraciones indicadas.",
+    "changeFromPrevious": "Solo cambia la duración izquierda de0.5a0.25; la melodía sigue0.5, con alturas, entradas y velocities idénticas.",
+    "successCriteria": [
+      "Las duraciones LH/RH son (0.25, 0.5); entradas0/2 y alturas permanecen.",
+      "La articulación de cada mano se realiza sin pedal obligatorio."
+    ],
+    "simplifyHint": "Practica cada mano por separado y cuenta cuatro pulsos por compás.",
+    "extendHint": "Canta una melodía conocida en el mismo registro, sin añadir notas ni una tercera parte."
+  },
+  {
+    "id": "stage-expression-012-03",
+    "lessonId": "lesson-expression-012",
+    "order": 3,
+    "title": "Melodía ligada",
+    "explanationMd": "La derecha sostiene cada nota durante dos pulsos, hasta el ataque siguiente; sin pedal.",
+    "task": "Toca los cuatro compases sin cambiar ataques, alturas ni velocidades; compara únicamente las duraciones indicadas.",
+    "changeFromPrevious": "Solo cambia la duración de la derecha respecto a la etapa 02; conserva todas las demás notas, ataques, velocidades y duraciones izquierdas.",
+    "successCriteria": [
+      "Las duraciones LH/RH son (0.25, 2); entradas0/2 y alturas permanecen.",
+      "La articulación de cada mano se realiza sin pedal obligatorio."
+    ],
+    "simplifyHint": "Practica cada mano por separado y cuenta cuatro pulsos por compás.",
+    "extendHint": "Canta una melodía conocida en el mismo registro, sin añadir notas ni una tercera parte."
+  },
+  {
+    "id": "stage-expression-012-04",
+    "lessonId": "lesson-expression-012",
+    "order": 4,
+    "title": "Elige la conexión derecha",
+    "explanationMd": "La derecha sostiene 1.75 pulsos y deja 0.25 de separación antes del ataque siguiente; la izquierda conserva 0.25.",
+    "task": "Compara derecha ligada de2negras con la referencia1.75 y su respiro0.25; elige un grado de conexión sin alargar la izquierda de0.25.",
+    "changeFromPrevious": "Solo cambia la duración de la derecha respecto a la etapa 03; conserva todas las demás notas, ataques, velocidades y duraciones izquierdas.",
+    "successCriteria": [
+      "LH conserva0.25 mientras elijo RH1.75o2, sin cambiar alturas ni entradas.",
+      "Puedo ligar con dedos sin depender del pedal ni imitar la otra mano."
+    ],
+    "simplifyHint": "Practica cada mano por separado y cuenta cuatro pulsos por compás.",
+    "extendHint": "Canta una melodía conocida en el mismo registro, sin añadir notas ni una tercera parte."
+  }
+]

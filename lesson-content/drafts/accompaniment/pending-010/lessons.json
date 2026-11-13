@@ -1,0 +1,21 @@
+[
+  {
+    "id": "lesson-accompaniment-010",
+    "primarySkillId": "skill-accompaniment-comping",
+    "orderInCategory": 10,
+    "title": "Un voicing ligero para la bossa",
+    "difficulty": 3,
+    "goal": "Mantener la célula dada de bossa nova con bajo raíz–quinta y acordes medios breves de pocas voces.",
+    "introMd": "En cuatro compases, usa una reducción de bossa de dos compases ya escrita: bajo en uno y tres, acordes con contratiempos y silencios. Compara voicings densos con shells y novena opcional; elige la disposición, no inventes el patrón ni añadas melodía simultánea.",
+    "prerequisiteLessonIds": [
+      "lesson-accompaniment-005",
+      "lesson-accompaniment-007",
+      "lesson-accompaniment-009",
+      "lesson-rhythm-009"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "bossa"
+    ]
+  }
+]

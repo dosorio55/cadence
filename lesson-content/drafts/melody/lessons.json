@@ -1,0 +1,267 @@
+[
+  {
+    "id": "lesson-melody-001",
+    "primarySkillId": "skill-melody-target-notes",
+    "orderInCategory": 1,
+    "title": "Llegar a una nota que pertenece",
+    "difficulty": 1,
+    "goal": "Hacer oír cada cambio de acorde con una nota objetivo clara en la melodía.",
+    "introMd": "En cuatro compases de pop, la izquierda sostiene fundamental y quinta cómodas y la derecha elige una nota del acorde al llegar. Compara una nota repetida indiferente a los cambios con objetivos acordales; elige las llegadas sin añadir escalas completas.",
+    "prerequisiteLessonIds": [
+      "lesson-harmony-001",
+      "lesson-rhythm-002"
+    ],
+    "targetMinutes": 15,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-melody-002",
+    "primarySkillId": "skill-melody-motifs",
+    "orderInCategory": 2,
+    "title": "Tres notas que se recuerdan",
+    "difficulty": 1,
+    "goal": "Repetir un motivo breve conservando su ritmo y una forma melódica reconocible.",
+    "introMd": "En cuatro compases sobre I y vi, usa bajo largo izquierdo y un motivo derecho de tres notas con pausa. Compara repetición exacta y una sola nota cambiada para encajar; elige la transformación sin sustituir el motivo por una escala.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-001"
+    ],
+    "targetMinutes": 15,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-melody-003",
+    "primarySkillId": "skill-melody-passing-tones",
+    "orderInCategory": 3,
+    "title": "Un paso entre dos apoyos",
+    "difficulty": 1,
+    "goal": "Conectar dos notas del acorde con una nota de paso en parte débil y resolverla por grado conjunto.",
+    "introMd": "En cuatro compases de balada, conserva objetivos en tiempos fuertes y bajo izquierdo sencillo. Compara salto directo con conexión diatónica breve; elige un paso que no cambie el destino ni convierta toda nota ajena al acorde en un error.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-001",
+      "lesson-rhythm-002"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-melody-004",
+    "primarySkillId": "skill-melody-approaches",
+    "orderInCategory": 4,
+    "title": "Preparar la llegada desde al lado",
+    "difficulty": 2,
+    "goal": "Resolver una vecina diatónica hacia una nota objetivo en el ataque previsto.",
+    "introMd": "En cuatro compases de ii–V–I–I, el bajo izquierdo marca cada acorde y la derecha llega a una nota guía desde su vecina superior. Compara llegada directa y preparada; elige un objetivo distinto conservando la resolución y un registro cantable.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-001",
+      "lesson-melody-003",
+      "lesson-harmony-001"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-melody-005",
+    "primarySkillId": "skill-melody-question-answer",
+    "orderInCategory": 5,
+    "title": "Preguntar y responder con aire",
+    "difficulty": 2,
+    "goal": "Tocar una pregunta de dos compases y una respuesta de dos que cierre con una nota estable.",
+    "introMd": "Usa cuatro compases de pop con bajo largo y una línea de pocas notas. Compara cuatro compases sin respirar con dos frases relacionadas; elige el final de la respuesta y conserva una pausa real entre ambas.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-002",
+      "lesson-melody-003"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-melody-006",
+    "primarySkillId": "skill-melody-target-notes",
+    "orderInCategory": 6,
+    "title": "Las terceras cuentan el cambio",
+    "difficulty": 2,
+    "goal": "Guiar una línea hacia las terceras de los acordes para hacer audible la calidad mayor o menor.",
+    "introMd": "En cuatro compases con acordes mayores y menores, conserva bajo sencillo y busca terceras cercanas en la derecha. Compara objetivos elegidos al azar con llegadas a terceras; elige la ruta con menos saltos sin rellenar cada pulso.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-001",
+      "lesson-accompaniment-007"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "jazz",
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-melody-007",
+    "primarySkillId": "skill-melody-motifs",
+    "orderInCategory": 7,
+    "title": "Cambiar el ritmo y conservar la idea",
+    "difficulty": 2,
+    "goal": "Reconocer el mismo motivo después de alargar una nota y desplazar su pausa.",
+    "introMd": "En cuatro compases de pop, conserva alturas y bajo mientras comparas el motivo original con una variación rítmica pequeña. Elige una segunda variación con el mismo contorno; no cambies a la vez armonía, registro y todas las duraciones.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-002",
+      "lesson-melody-005",
+      "lesson-rhythm-004"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-melody-008",
+    "primarySkillId": "skill-melody-passing-tones",
+    "orderInCategory": 8,
+    "title": "Salir y volver con una bordadura",
+    "difficulty": 2,
+    "goal": "Prolongar una nota estructural con una bordadura que regrese claramente al punto de partida.",
+    "introMd": "En cuatro compases de balada, usa una nota objetivo sostenida y bajo espaciado. Compara sostenerla con salir por grado conjunto y volver; elige bordadura superior o inferior sin confundirla con el paso entre dos destinos distintos.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-003",
+      "lesson-melody-006"
+    ],
+    "targetMinutes": 20,
+    "styleTags": [
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-melody-009",
+    "primarySkillId": "skill-melody-approaches",
+    "orderInCategory": 9,
+    "title": "Un semitono que pide resolver",
+    "difficulty": 3,
+    "goal": "Resolver una aproximación cromática inferior a una nota guía sin dejarla como tensión accidental.",
+    "introMd": "En cuatro compases de ii–V–I–I, coloca la aproximación derecha en parte débil antes de la llegada; la izquierda toca raíces largas. Compara vecina diatónica y cromática, y elige una sola llegada donde el semitono se escuche con claridad.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-004",
+      "lesson-melody-006",
+      "lesson-harmony-006"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-melody-010",
+    "primarySkillId": "skill-melody-question-answer",
+    "orderInCategory": 10,
+    "title": "Una respuesta que transforma la pregunta",
+    "difficulty": 3,
+    "goal": "Contestar una frase conservando su motivo pero cambiando dirección y nota final.",
+    "introMd": "En ocho compases de pop, el bajo marca acordes largos mientras la derecha plantea cuatro compases y responde otros cuatro. Compara repetición literal con respuesta emparentada; decide qué rasgo conservar y dónde cerrar sin perder la respiración.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-005",
+      "lesson-melody-007",
+      "lesson-melody-008"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-melody-011",
+    "primarySkillId": "skill-melody-target-notes",
+    "orderInCategory": 11,
+    "title": "Planear las llegadas antes del recorrido",
+    "difficulty": 3,
+    "goal": "Hacer reconocible una cadencia de ocho compases eligiendo primero notas objetivo y luego conexiones breves.",
+    "introMd": "Usa bajo y shells izquierdos cómodos, sin walking, bajo una línea derecha espaciada de jazz. Compara objetivos solos y su conexión; elige las llegadas de una segunda frase antes de improvisar el recorrido.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-006",
+      "lesson-melody-008",
+      "lesson-harmony-011"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-melody-012",
+    "primarySkillId": "skill-melody-motifs",
+    "orderInCategory": 12,
+    "title": "Desarrollar un motivo, no abandonarlo",
+    "difficulty": 3,
+    "goal": "Sostener ocho compases con un motivo y dos transformaciones reconocibles sin convertirlo en una secuencia de escalas.",
+    "introMd": "En pop, conserva bajo sencillo y alterna motivo, variación rítmica y adaptación de una altura al acorde. Compara ideas inconexas con desarrollo emparentado; decide cuándo recuperar el motivo original como señal de regreso.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-007",
+      "lesson-melody-010",
+      "lesson-melody-011"
+    ],
+    "targetMinutes": 25,
+    "styleTags": [
+      "pop"
+    ]
+  },
+  {
+    "id": "lesson-melody-013",
+    "primarySkillId": "skill-melody-passing-tones",
+    "orderInCategory": 13,
+    "title": "Ornamentar solo donde la frase lo pide",
+    "difficulty": 4,
+    "goal": "Añadir pasos y bordaduras en puntos elegidos conservando las notas estructurales y los silencios de una frase.",
+    "introMd": "En ocho compases de balada, compara una melodía desnuda y otra con dos conexiones ornamentales sobre el mismo bajo. Elige qué adorno retirar para que el punto culminante siga claro; más notas no equivalen a mejor frase.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-008",
+      "lesson-melody-011",
+      "lesson-melody-012"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "balada"
+    ]
+  },
+  {
+    "id": "lesson-melody-014",
+    "primarySkillId": "skill-melody-approaches",
+    "orderInCategory": 14,
+    "title": "Rodear una nota y llegar a tiempo",
+    "difficulty": 4,
+    "goal": "Resolver un cerco de dos notas hacia una nota guía en el tiempo armónico previsto.",
+    "introMd": "En cuatro compases de jazz, usa vecina diatónica superior y semitono inferior antes del objetivo, con bajo y shell izquierdos espaciados. Compara aproximación simple y cerco; elige una sola llegada para evitar cromatismo continuo sin dirección.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-009",
+      "lesson-melody-011",
+      "lesson-melody-013"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "jazz"
+    ]
+  },
+  {
+    "id": "lesson-melody-015",
+    "primarySkillId": "skill-melody-question-answer",
+    "orderInCategory": 15,
+    "title": "Improvisar una respuesta que se pueda cantar",
+    "difficulty": 5,
+    "goal": "Crear una frase de ocho compases con pregunta, respuesta y cierre reconocibles a partir de un motivo breve.",
+    "introMd": "Sobre ii–V–I y retorno conocidos, la izquierda sostiene acordes reducidos y la derecha desarrolla pocas notas. Compara una respuesta de referencia y otra propia; elige objetivos, una aproximación opcional y pausas, sin exigir velocidad ni agotar todos los recursos.",
+    "prerequisiteLessonIds": [
+      "lesson-melody-010",
+      "lesson-melody-012",
+      "lesson-melody-013",
+      "lesson-melody-014"
+    ],
+    "targetMinutes": 30,
+    "styleTags": [
+      "jazz"
+    ]
+  }
+]
