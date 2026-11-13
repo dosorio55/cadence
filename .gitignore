@@ -11,3 +11,7 @@ out
 !lesson-content/examples/curriculum.sqlite
 lesson-content/.venv/
 __pycache__/
+python/.venv/
+python/build/
+python/dist/
+python/*.egg-info/

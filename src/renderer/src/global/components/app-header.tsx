@@ -19,7 +19,12 @@ export function AppHeader() {
             </span>
           </span>
         </Link>
-        <ThemeToggle />
+        <div className="flex items-center gap-4">
+          <Link to="/analyze" className="text-body text-muted-foreground hover:text-foreground">
+            Analizar acordes
+          </Link>
+          <ThemeToggle />
+        </div>
       </div>
     </header>
   )

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cadence-chord-worker"
+version = "0.1.0"
+description = "Persistent local lv-chordia JSON-lines worker"
+requires-python = ">=3.11"
+dependencies = [
+    "lv-chordia @ git+https://github.com/openmirlab/lv-chordia.git@d8ab9ac99bce081bb79065d717f96e2c3b2099c8",
+]
+
+[project.optional-dependencies]
+build = ["pyinstaller>=6.16,<7"]
+
+[project.scripts]
+chord-worker = "worker:main"
+
+[tool.setuptools]
+py-modules = ["worker"]

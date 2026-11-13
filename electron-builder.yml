@@ -12,6 +12,12 @@ files:
   - '!lesson-content/**'
   - '!{tests,scripts,drizzle}/**'
   - '!drizzle.config.ts'
+  - '!python/**'
+extraResources:
+  - from: python/dist/chord-worker
+    to: chord-worker
+    filter:
+      - '**/*'
 asarUnpack:
   - resources/**
 win:

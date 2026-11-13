@@ -6,3 +6,6 @@ tsconfig.json
 tsconfig.*.json
 
 lesson-content/
+python/.venv/
+python/build/
+python/dist/

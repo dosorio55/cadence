@@ -1,6 +1,7 @@
 import { useCallback } from 'react'
 import { HashRouter, Route, Routes, useParams, useSearchParams } from 'react-router-dom'
 import Home from './app/page'
+import AnalyzePage from './app/analyze/page'
 import LessonPage from './app/lessons/[lessonId]/page'
 import LessonLoading from './app/lessons/[lessonId]/loading'
 import LessonNotFound from './app/lessons/[lessonId]/not-found'
@@ -76,6 +77,7 @@ export default function App() {
       <AppHeader />
       <Routes>
         <Route path="/" element={<HomeRoute />} />
+        <Route path="/analyze" element={<AnalyzePage />} />
         <Route path="/lessons/:lessonId" element={<LessonRoute />} />
         <Route path="*" element={<LessonNotFound />} />
       </Routes>
