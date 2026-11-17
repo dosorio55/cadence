@@ -36,7 +36,7 @@ export default function AnalyzePage() {
       <p role="status" className="mt-3 text-caption text-muted-foreground">
         {busy
           ? 'La primera vez se cargan los modelos. El análisis puede tardar varios minutos; permanece en esta pantalla.'
-          : 'Los resultados se muestran en segundos y no modifican las lecciones.'}
+          : 'Los tiempos se expresan en segundos. Los resultados no modifican las lecciones.'}
       </p>
       {error && (
         <p

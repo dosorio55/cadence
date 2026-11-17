@@ -6,12 +6,24 @@ import type { Progression, Stage } from '../types'
 export function LessonExample({
   stage,
   progression,
-  stageHref
+  stageHref,
+  tempo = progression.bpm,
+  currentBeat
 }: {
   stage: Stage
   progression: Progression
   stageHref: string
+  tempo?: number
+  currentBeat?: number
 }) {
+  const currentChord =
+    currentBeat === undefined
+      ? undefined
+      : progression.chords.find(
+          (chord) =>
+            currentBeat >= chord.startBeat && currentBeat < chord.startBeat + chord.durationBeats
+        )
+
   return (
     <section aria-labelledby="example-heading" className="space-y-4">
       <div className="flex flex-wrap items-center justify-between gap-3">
@@ -26,7 +38,7 @@ export function LessonExample({
               : progression.keyMode === 'minor'
                 ? 'menor'
                 : progression.keyMode}{' '}
-            · ♩ = {progression.bpm} · {progression.timeSignature.numerator}/
+            · ♩ = {tempo} · {progression.timeSignature.numerator}/
             {progression.timeSignature.denominator} · {progression.totalBars} compases
           </p>
         </div>
@@ -48,8 +60,15 @@ export function LessonExample({
       </div>
       <ol aria-label="Secuencia armónica" className="flex gap-2 overflow-x-auto pb-2">
         {progression.chords.map((chord) => (
-          <li key={chord.id} className="min-w-32 flex-1">
-            <Card size="sm" className="h-full">
+          <li
+            key={chord.id}
+            className="min-w-32 flex-1"
+            aria-current={currentChord?.id === chord.id ? 'true' : undefined}
+          >
+            <Card
+              size="sm"
+              className={`h-full ${currentChord?.id === chord.id ? 'ring-2 ring-primary' : ''}`}
+            >
               <CardContent>
                 <div className="flex items-baseline justify-between gap-4">
                   <p className="font-mono text-title font-semibold">{chord.symbol}</p>

@@ -1,0 +1,19 @@
+Salamander Grand Piano
+Original recordings by Alexander Holm, sampled from a Yamaha C5.
+Licensed under Creative Commons Attribution 3.0 Unported (CC BY 3.0):
+https://creativecommons.org/licenses/by/3.0/
+The full legal code is provided in LICENSE.txt. Original collection notices
+are preserved verbatim in README, including the credit to Markus Fiedler
+for a retuned version.
+
+MP3 distribution source:
+https://github.com/Tonejs/audio/tree/869b6f8d9cddb47d966238c012041480b1ce517a/salamander
+Original collection information:
+https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html#SalamanderGrandPiano
+
+Cadence bundles the 30 MP3 files from this pinned source without changing
+their bytes. Playback pitch-shifts samples to cover intervening notes and
+scales their volume with the lesson's MIDI velocities. This reduced set does
+not provide the original collection's sixteen recorded velocity layers.
+The MP3 converter is not identified in the source notices. No endorsement
+by the original author, retuning author, or Tone.js is implied.

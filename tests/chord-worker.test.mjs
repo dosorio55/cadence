@@ -64,6 +64,18 @@ test('analysis deadline terminates the worker and allows a fresh process', async
   }
 })
 
+test('closing the application during startup rejects the request and terminates Python', async () => {
+  const worker = createWorker({ args: ['-e', 'setInterval(() => {}, 1000)'] })
+  const analysis = worker.analyze('/audio.wav')
+  const closed = once(worker.child, 'close')
+
+  worker.dispose()
+
+  await assert.rejects(analysis, /detuvo/)
+  await closed
+  assert.equal(worker.child, undefined)
+})
+
 test('startup failure and startup deadline reject without hanging', async () => {
   const missing = createWorker({ executable: '/cadence-missing-python' })
   const stalled = createWorker({

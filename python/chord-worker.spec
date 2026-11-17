@@ -1,10 +1,11 @@
 from hashlib import sha256
+from importlib.metadata import distributions
 from importlib.util import find_spec
 from pathlib import Path
 import sys
 import tomllib
 
-from PyInstaller.utils.hooks import collect_all, collect_data_files
+from PyInstaller.utils.hooks import collect_all, collect_data_files, copy_metadata
 
 root = Path(SPECPATH)
 package = Path(find_spec("lv_chordia").origin).parent
@@ -14,7 +15,14 @@ weights = Path(sys.prefix) / "share" / "lv-chordia" / "weights"
 if not weights.is_dir():
     weights = package.parent / "weights"
 
-datas = collect_data_files("lv_chordia")
+datas = collect_data_files("lv_chordia") + copy_metadata("cadence-chord-worker", recursive=True)
+
+# Recursive metadata collection omits CUDA toolkit dependencies behind extras markers.
+for distribution in distributions():
+    name = distribution.metadata["Name"]
+    if name.lower().startswith("nvidia-"):
+        datas += copy_metadata(name)
+
 for entry in entries:
     checkpoint = weights / entry["name"]
     if not checkpoint.is_file():

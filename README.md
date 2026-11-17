@@ -25,7 +25,15 @@ pnpm start
 - `src/main/curriculum*.ts`: read-only approved JSON loaders, bundled into the main process. Only library metadata or the requested lesson crosses the typed preload bridge (`src/shared/api.ts`). The renderer has no filesystem, SQL or generic IPC API.
 - `lesson-content/`: complete source delivery, including approved JSON, JSON Schemas, drafts, archives, tools, audit evidence, MIDI and the reference SQLite artifact. Copied without changing file bytes; Python environments/caches are not copied. See its README for authoring/validation commands. Historical audit paths and wording are preserved.
 
-All 90 lessons, 400 stages and 402 progressions are available. Audio, piano-roll/keyboard rendering, MIDI input and saved self-assessment were not implemented in the source app and remain placeholders/session-only. Theme preference remains local to the desktop app; existing browser theme settings are not imported.
+All 90 lessons, 400 stages and 402 progressions are available. Each selected stage now has piano playback, a synchronized falling-note roll and highlighted keyboard/chord cards. MIDI input remains unimplemented and self-assessment remains session-only. Theme preference remains local to the desktop app; existing browser theme settings are not imported.
+
+## Lesson playback
+
+Press **Reproducir** to hear the selected stage's actual note events through Tone.js and locally bundled Salamander Grand Piano samples. No MIDI-file parsing, external synthesizer or internet connection is required. Play/pause/stop, complete-example looping, tempo (40–180 quarter notes/minute), metronome toggle, separate click volume and a visual beat indicator share one audio clock. The metronome clicks the denominator's note value and accents the first pulse in each bar; for example, 6/8 has six eighth-note clicks while BPM stays in quarter notes.
+
+Changing tempo stops and resets playback. Pause/resume rearticulates held notes for their remaining duration. Changing stages/examples, navigating away, hiding the app or an audio-context interruption silences the current run. Loops include trailing rests through the full notated duration, rather than ending at the last note-off. These controls do not grade the student's playing or save completion.
+
+The 30 MP3 samples occupy approximately 2 MB and are copied unchanged from Tone.js's audio collection at revision `869b6f8d9cddb47d966238c012041480b1ce517a`. Original recordings: Alexander Holm, **CC BY 3.0**, not Tone.js's software license. Source notices, attribution and the full license ship under `src/renderer/public/audio/salamander/` and are copied to the production renderer. Credits are also visible below the player. This compact set pitch-shifts intermediate notes and scales velocity; it is not the original multi-velocity-layer library.
 
 ## Local chord recognition
 
@@ -45,7 +53,7 @@ pnpm dev
 
 On Windows use `py -3 -m venv python/.venv` and `python/.venv/Scripts/python.exe` for the install command. The library is installed from a pinned Git revision; `../lv-chordia` is neither moved nor modified and is not needed at application runtime. Model weights are included by that package. Installation requires internet; subsequent local analysis does not.
 
-The default Torch installation can download several GB of CUDA libraries on Linux. GPU/CPU auto-detection remains unchanged. See [`python/README.md`](python/README.md) for an intentionally CPU-only environment or a local editable-library install.
+The default Torch installation can download several GB of CUDA libraries on Linux. The verified Linux CUDA build occupies approximately 5.1 GiB before installer compression; this is the runtime plus dependencies, not just the model weights. GPU/CPU auto-detection remains unchanged. See [`python/README.md`](python/README.md) for an intentionally CPU-only environment or a local editable-library install.
 
 ### Distribute without requiring users to install Python
 
@@ -82,4 +90,4 @@ The SQLite native module must target Electron's ABI, not the system Node ABI. `p
 
 ## Manual checks
 
-Run `pnpm dev`: open a lesson, switch stages and alternative examples, reload a stage URL, toggle both sidebars and switch light/dark themes. Also open **Analizar acordes**, cancel the picker, then analyze an audio file: chord times and estimates should appear, with errors shown for unreadable audio. Close the app after analysis and confirm no chord worker remains. These visual checks and installer/platform checks are separate from the automated data, SQLite, IPC, worker and theme tests.
+Run `pnpm dev`: open a lesson and press **Reproducir**; verify piano sound, roll/key/chord alignment, pause/resume, full-example repeat and the metronome accent/volume. Change tempo and confirm playback resets; change stage/example or leave the page and confirm no notes remain sounding. Reload a stage URL, toggle both sidebars and switch light/dark themes. Also open **Analizar acordes**, cancel the picker, then analyze an audio file: chord times and estimates should appear, with errors shown for unreadable audio. Close the app after analysis and confirm no chord worker remains. These visual checks and installer/platform checks are separate from the automated data, SQLite, IPC, worker and theme tests.
