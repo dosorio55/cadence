@@ -7,9 +7,8 @@ import {
   AccordionTrigger
 } from '@/components/ui/accordion'
 import { selectExample } from '@/lib/curriculum'
-import { LessonExample } from './components/lesson-example'
+import { LessonPlayer } from './components/player/lesson-player'
 import { LessonText } from './components/lesson-text'
-import { MusicPlaceholders } from './components/music-placeholders'
 import { PracticeWorkspace } from './components/practice-workspace'
 import { SelfAssessment } from './components/self-assessment'
 import { StageInstructions } from './components/stage-instructions'
@@ -138,8 +137,12 @@ export default function LessonPage({
       >
         <StageInstructions stage={stage} totalStages={lesson.stages.length} />
         <div className="flex flex-1 flex-col gap-4 p-4 sm:p-6">
-          <LessonExample stage={stage} progression={progression} stageHref={stageHref(stage.id)} />
-          <MusicPlaceholders />
+          <LessonPlayer
+            key={progression.id}
+            stage={stage}
+            progression={progression}
+            stageHref={stageHref(stage.id)}
+          />
         </div>
       </PracticeWorkspace>
       <StageNavigation

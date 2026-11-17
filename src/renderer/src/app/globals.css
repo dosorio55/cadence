@@ -8,6 +8,9 @@
   --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
   --font-geist-sans: 'Geist Sans';
   --font-geist-mono: 'Geist Mono';
+  --piano-white: #fafbf7;
+  --piano-black: #1c2023;
+  --piano-key-label: #454d50;
   color-scheme: light;
   --surface: #ffffff;
   --surface-raised: #edf1ed;
@@ -46,6 +49,9 @@
 }
 
 :root[data-theme='dark'] {
+  --piano-white: #f0f2ed;
+  --piano-black: #141719;
+  --piano-key-label: #454d50;
   color-scheme: dark;
 
   --background: #141719;

@@ -15,7 +15,7 @@ Windows). Copy the **whole directory**, including `_internal`, to Electron's
 `resources/chord-worker`; no Python installation is needed at runtime.
 
 The Git dependency is pinned to `d8ab9ac99bce081bb79065d717f96e2c3b2099c8` in
-`https://github.com/openmirlab/lv-chordia.git` (confirmed reachable). Pip may download
+`https://github.com/openmirlab/lv-chordia.git`. Pip may download
 large Torch/CUDA dependencies. For an intentionally CPU-only build, install a
 compatible `torch>=2.13.0` CPU wheel from the official PyTorch CPU index **before**
 installing this project. Default `LVChordiaSession()` device selection is unchanged;
@@ -26,7 +26,7 @@ with these commands (verify the sibling checkout is at the pinned revision first
 
 ```sh
 git -C ../../lv-chordia rev-parse HEAD
-.venv/bin/python -m pip install -e ../../lv-chordia 'pyinstaller>=6.16,<7'
+.venv/bin/python -m pip install -e ../../lv-chordia 'pyinstaller>=6.16,<7' 'audioop-lts; python_version >= "3.13"'
 .venv/bin/python -m pip install --no-deps -e .
 ```
 
@@ -37,7 +37,9 @@ editable installs fall back to the source checkout's `weights`. The spec bundles
 weights at `share/lv-chordia/weights`, package data (including `checkpoints.toml` and
 chord dictionaries), and runtime dependencies. A frozen-only runtime hook makes
 `sys.prefix` point to PyInstaller's content directory so the unmodified library's
-shared-data resolver finds those weights.
+shared-data resolver finds those weights. Installed distribution metadata and
+license files are retained, including the library's MIT notice and NVIDIA runtime
+attributions. Python ≥3.13 installs `audioop-lts` for pydub compatibility.
 
 ## Protocol and checks
 
@@ -57,15 +59,15 @@ From `apps/cadence-electron`, run the dependency-free fake-session tests:
 python3 -m unittest discover -s tests/python -v
 ```
 
-Real inference smoke (absolute fixture path shown for this checkout; substitute your
-own audio):
+Real inference smoke, from `apps/cadence-electron/python`:
 
 ```sh
-printf '%s\n' '{"id":1,"path":"/home/alejandro/Projects/Development/Personal/music/piano-lab/apps/lv-chordia/tests/fixtures/yellow.wav"}' | .venv/bin/python -u worker.py
-printf '%s\n' '{"id":1,"path":"/home/alejandro/Projects/Development/Personal/music/piano-lab/apps/lv-chordia/tests/fixtures/yellow.wav"}' | dist/chord-worker/chord-worker
+fixture="$(.venv/bin/python -c 'from pathlib import Path; print(Path("../../lv-chordia/tests/fixtures/yellow.wav").resolve())')"
+request="$(.venv/bin/python -c 'import json,sys; print(json.dumps({"id":1,"path":sys.argv[1]}))' "$fixture")"
+printf '%s\n' "$request" | .venv/bin/python -u worker.py
+printf '%s\n' "$request" | dist/chord-worker/chord-worker
 ```
 
 Both should emit ready, then chords, and exit on EOF; model diagnostics belong only
-to stderr. These real-inference/frozen checks require the installed dependencies;
-the implementation environment had Python 3.14 but no Torch, librosa or PyInstaller,
-so no large dependency download or real inference/build was attempted.
+to stderr. The response's `chords` must equal the array in
+`../../lv-chordia/tests/fixtures/expected_chords_yellow.json`.
